@@ -1,0 +1,144 @@
+{% extends 'core/base.html' %}
+{% load static %}
+
+{% block title %}Resultados de Lotería{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{% static 'core/css/results.css' %}">
+{% endblock %}
+
+{% block content %}
+
+<div class="results-header-section">
+    <div class="container">
+        <h2><i class="fa-solid fa-square-poll-vertical"></i> Resultados de Lotería</h2>
+        <p>Consulta los números ganadores al instante</p>
+
+        <div class="lottery-type-selector" style="margin-top: 15px; margin-bottom: 10px;">
+            <input type="radio" name="resultType" id="typeTriples" value="triple" checked>
+            <label for="typeTriples" class="type-btn"><i class="fa-solid fa-dice"></i> Triples</label>
+            
+            <input type="radio" name="resultType" id="typeAnimals" value="animal">
+            <label for="typeAnimals" class="type-btn"><i class="fa-solid fa-paw"></i> Animalitos</label>
+        </div>
+        
+        <div class="filter-bar">        
+            <div class="filter-group date-group">
+                <i class="fa-regular fa-calendar input-icon"></i>
+                <input type="date" id="dateFilter" class="filter-input" value="{{ current_date }}">
+            </div>
+
+            <div class="filter-group select-group">
+                <i class="fa-solid fa-list-ul input-icon"></i>
+                
+                <select id="selectTriples" class="filter-input">
+                    <option value="all">Todas las Loterías</option>
+                    <option value="triple zulia">Triple Zulia</option>
+                    <option value="triple caracas">Triple Caracas</option>
+                    <option value="triple chance">Triple Chance</option>
+                    <option value="triple tachira">Triple Táchira</option>
+                    <option value="triple zamorano">Triple Zamorano</option>
+                    <option value="triple caliente">Triple Caliente</option>
+                </select>
+
+                <select id="selectAnimals" class="filter-input" style="display: none;">
+                    <option value="all">Todas las Loterías</option>
+                    <option value="lotto activo">Lotto Activo</option>
+                    <option value="granjita">La Granjita</option>
+                    <option value="selva plus">Selva Plus</option>
+                    <option value="guacharito">Guacharito</option>
+                    <option value="guacharo">El Guacharo</option> <option value="lotto chaima">Lotto Chaima</option>
+                    <option value="lotto rey">Lotto Rey</option>
+                    <option value="condor">Cóndor</option>
+                </select>
+            </div>
+
+            <div class="filter-group search-group">
+                <i class="fa-solid fa-magnifying-glass input-icon"></i>
+                <input type="text" id="searchFilter" class="filter-input" placeholder="Buscar (Ej: Zulia, Activo, Toro...)">
+            </div>
+
+            <button class="btn-refresh" id="btnRefresh" title="Actualizar Resultados">
+                <i class="fa-solid fa-rotate"></i>
+            </button>
+        </div>
+    </div>
+</div>
+
+<div class="container" style="padding-top: 20px; padding-bottom: 60px;">
+    
+    <div class="all-results-grid" id="resultsContainer">
+         
+        {% for result in results %}
+        <div class="result-card" data-name="{{ result.lottery|lower }} {{ result.result_value|lower }}">
+            
+            <div class="lottery-badge {{ result.css_class }}">
+                {{ result.lottery|upper }}
+            </div>
+            
+            <div class="draw-info">
+                <span class="draw-time-badge"><i class="fa-regular fa-clock"></i> {{ result.draw_time }}</span>
+                <span class="draw-date">{{ date_label }}</span>
+            </div>
+            
+            {% if result.is_animal %}
+                <div class="animal-result">
+                    <span class="iconify animal-icon" data-icon="{{ result.icon }}"></span>
+                    <span class="animal-name">{{ result.result_value }}</span>
+                </div>
+            {% else %}
+                <div class="winning-number">
+                    {{ result.result_value }}
+                </div>
+            {% endif %}
+
+        </div>
+        
+        {% empty %}
+            <div style="grid-column: 1 / -1; text-align: center; padding: 40px; color: #666;">
+                <i class="fa-solid fa-hourglass-half" style="font-size: 3rem; margin-bottom: 15px; color: #ccc;"></i>
+                <p>Aún no se han cargado resultados para el día de hoy.</p>
+                <p style="font-size: 0.9rem;">Los sorteos comienzan a las 8:00 AM.</p>
+            </div>
+        {% endfor %}
+
+        <div id="noResults" style="display: none; grid-column: 1 / -1; text-align: center; padding: 40px; color: #666;">
+            <i class="fa-regular fa-face-frown-open" style="font-size: 3rem; margin-bottom: 15px; color: #ccc;"></i>
+            <p>No se encontraron sorteos con ese nombre.</p>
+        </div>
+
+    </div>
+    </div> <div class="share-section">
+        <p>¿Te sirvió la suerte? <br> <strong>¡Recomienda esta información y comparte!</strong></p>
+        
+        <div class="share-icons-container">
+            <a href="https://api.whatsapp.com/send?text=Revisa%20los%20resultados%20de%20lotería%20al%20instante%20aquí" target="_blank" class="share-btn whatsapp" title="Compartir en WhatsApp">
+                <i class="fa-brands fa-whatsapp"></i>
+            </a>
+            <a href="https://t.me/share/url?url=https://tupagina.com&text=Resultados%20de%20Lotería" target="_blank" class="share-btn telegram" title="Compartir en Telegram">
+                <i class="fa-brands fa-telegram"></i>
+            </a>
+            <a href="mailto:?subject=Resultados de Lotería&body=Mira los resultados del día aquí." class="share-btn email" title="Enviar por Correo">
+                <i class="fa-solid fa-envelope"></i>
+            </a>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://tupagina.com/resultados" target="_blank" class="share-btn facebook" title="Compartir en Facebook">
+                <i class="fa-brands fa-facebook-f"></i>
+            </a>
+            <a href="https://twitter.com/intent/tweet?text=Mira%20los%20resultados%20de%20hoy&url=https://tupagina.com/resultados" target="_blank" class="share-btn x-twitter" title="Postear en X">
+                <i class="fa-brands fa-x-twitter"></i>
+            </a>
+        </div>
+    </div>
+
+</div>
+
+<a href="#" id="scrollTopBtn" class="floating-map-btn">
+    <i class="fa-solid fa-arrow-up"></i>
+</a>
+
+{% endblock %}
+
+{% block scripts %}
+    <script src="https://code.iconify.design/3/3.1.0/iconify.min.js"></script>
+    <script src="{% static 'core/js/results.js' %}"></script>
+{% endblock %}

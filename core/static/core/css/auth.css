@@ -1,0 +1,343 @@
+.auth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh; 
+    padding: 20px;
+}
+
+.auth-card {
+    background-color: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 400px; 
+    text-align: center;
+    border-top: 5px solid var(--accent-gold); 
+}
+
+.auth-header {
+    margin-bottom: 30px;
+}
+
+.auth-header h2 {
+    color: var(--primary);
+    margin-top: 10px;
+    font-size: 1.8rem;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 8px;
+    color: var(--text-main);
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.input-group {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.input-icon {
+    position: absolute;
+    left: 15px;
+    color: var(--primary);
+    font-size: 1.1rem;
+    z-index: 10;
+}
+
+.form-input {
+    width: 100%;
+    padding: 12px 15px 12px 45px; 
+    border: 2px solid #eee;
+    border-radius: 50px;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    outline: none;
+    font-family: inherit;
+}
+
+.form-input:focus {
+    border-color: var(--accent-gold);
+    box-shadow: 0 0 0 4px rgba(242, 159, 5, 0.1);
+}
+
+.form-row { 
+    display: flex; 
+    gap: 15px; 
+}
+
+.form-row .form-group { 
+    flex: 1; 
+}
+
+.errorlist { 
+    color: var(--alert); 
+    font-size: 0.8rem; 
+    list-style: none; 
+    margin-top: 5px; 
+}
+
+.toggle-password {
+    position: absolute;
+    right: 15px;
+    cursor: pointer;
+    color: #aaa;
+    transition: color 0.3s;
+}
+
+.toggle-password:hover {
+    color: var(--primary);
+}
+
+.auth-links {
+    margin-top: 20px;
+    font-size: 0.9rem;
+}
+
+.auth-links a {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.auth-links a:hover {
+    text-decoration: underline;
+    color: var(--accent-orange);
+}
+
+.btn-block {
+    width: 100%; 
+    display: block;
+    font-size: 1.1rem;
+}
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6); 
+    z-index: 2000;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.modal-overlay.active {
+    display: flex;
+    opacity: 1;
+}
+
+.modal-content {
+    background-color: white;
+    width: 100%;
+    max-width: 600px;
+    border-radius: 12px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+    display: flex;
+    flex-direction: column;
+    max-height: 85vh;
+    transform: translateY(20px);
+    transition: transform 0.3s ease;
+}
+
+.modal-overlay.active .modal-content {
+    transform: translateY(0);
+}
+
+.modal-header {
+    padding: 20px;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.modal-header h3 {
+    margin: 0;
+    color: var(--primary);
+    font-size: 1.2rem;
+}
+
+.close-modal {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #999;
+    cursor: pointer;
+    line-height: 1;
+}
+
+.close-modal:hover { color: var(--alert); }
+
+.modal-body {
+    padding: 20px;
+    overflow-y: auto;
+    font-size: 0.95rem;
+    color: var(--text-main);
+    line-height: 1.6;
+}
+
+.modal-body h4 {
+    color: var(--primary-dark);
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.modal-body ul {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.modal-footer {
+    padding: 15px 20px;
+    border-top: 1px solid #eee;
+    text-align: right;
+    background-color: var(--bg-light);
+    border-radius: 0 0 12px 12px;
+}
+
+.modal-body p, 
+.modal-body li {
+    text-align: justify;
+}
+
+.btn-secondary {
+    background-color: #e0e0e0;
+    color: #333;
+    margin-right: 10px; 
+}
+.btn-secondary:hover {
+    background-color: #d5d5d5;
+}
+
+.success-animation {
+    margin-bottom: 20px;
+}
+
+.success-animation i {
+    font-size: 5rem;           
+    color: #2ecc71;           
+    animation: bounce 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275); 
+}
+
+.form-actions-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+    margin-top: -10px; 
+    font-size: 0.9rem;
+}
+
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    color: var(--text-main);
+}
+
+.checkbox-container input[type="checkbox"] {
+    accent-color: var(--primary); 
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+.checkbox-container label {
+    cursor: pointer;
+    user-select: none;
+    font-weight: 500;
+}
+
+.forgot-link {
+    color: var(--text-light);
+    text-decoration: none;
+    font-size: 0.85rem;
+    transition: color 0.2s;
+}
+
+.forgot-link:hover {
+    color: var(--primary);
+    text-decoration: underline;
+}
+
+@keyframes bounce {
+    0% { transform: scale(0); opacity: 0; }
+    60% { transform: scale(1.2); }
+    100% { transform: scale(1); opacity: 1; }
+}
+
+/* --- RESPONSIVIDAD --- */
+/* TABLETS  */
+@media (min-width: 481px) and (max-width: 900px) {
+    .auth-card {
+        max-width: 450px; 
+        padding: 40px 30px;
+    }
+
+    .modal-content {
+        max-width: 85%; 
+        margin: auto;
+    }
+}
+
+/* MOVIL */
+@media (max-width: 480px) {
+    .auth-container {
+        padding: 10px;
+        align-items: flex-start;
+        padding-top: 40px;
+    }
+    
+    .auth-card {
+        padding: 30px 20px;
+        box-shadow: none;
+        border: 1px solid #eee;
+    }
+
+    .form-actions-row {       
+        gap: 15px;
+        align-items: flex-start;
+    }
+
+    .form-row { 
+        flex-direction: column; 
+        gap: 0; 
+    }
+
+    .form-input {
+        font-size: 16px !important; 
+        padding: 12px 15px 12px 40px;
+    }
+
+    .form-actions-row {       
+        flex-direction: column; 
+        gap: 15px;
+        align-items: center; 
+        margin-bottom: 20px;
+    }
+
+    .modal-content {
+        width: 95% !important;
+        max-width: 95% !important;
+        margin: auto;
+    }
+
+    .forgot-link, .checkbox-container {
+        padding: 5px; 
+    }
+}

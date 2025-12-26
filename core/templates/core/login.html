@@ -1,0 +1,70 @@
+{% extends 'core/base.html' %}
+{% load static %}
+
+{% block title %}Iniciar Sesión{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{% static 'core/css/auth.css' %}">
+{% endblock %}
+
+{% block content %}
+<div class="auth-container">
+    <div class="auth-card">
+        
+        <div class="auth-header">
+            <h2>Bienvenido</h2>
+            <p style="color: #666; font-size: 0.9rem;">Ingresa a tu cuenta para jugar</p>
+        </div>
+
+        <form method="POST" action=""> 
+            {% csrf_token %} 
+            
+            {% if form.non_field_errors %}
+                <div style="color: var(--alert); font-size: 0.9rem; margin-bottom: 15px; text-align: center;">
+                    <i class="fa-solid fa-circle-exclamation"></i> {{ form.non_field_errors.0 }}
+                </div>
+            {% endif %}
+
+            <div class="form-group">
+                <label for="id_username" class="form-label">Usuario</label>
+                <div class="input-group">
+                    <i class="fa-solid fa-user input-icon"></i>
+                    {{ form.username }} </div>
+            </div>
+
+            <div class="form-group">
+                <label for="id_password" class="form-label">Contraseña</label>
+                <div class="input-group">
+                    <i class="fa-solid fa-lock input-icon"></i>
+                    {{ form.password }} <i class="fa-solid fa-eye toggle-password" id="togglePassword"></i>
+                </div>
+            </div>
+
+            <div class="form-actions-row">
+                <div class="checkbox-container">
+                    {{ form.remember_me }}
+                    <label for="id_remember_me">Recordarme</label>
+                </div>
+
+                <a href="{% url 'forgot_password' %}" class="forgot-link">
+                    ¿Olvidaste tu contraseña?
+                </a>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-block">
+                <i class="fa-solid fa-right-to-bracket"></i> Ingresar
+            </button>
+        </form>
+
+        <div class="auth-links">
+            <p>¿Aún no tienes cuenta? <br>
+            <a href="{% url 'register' %}">Regístrate aquí</a></p>
+        </div>
+
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+    <script src="{% static 'core/js/auth.js' %}"></script>
+{% endblock %}

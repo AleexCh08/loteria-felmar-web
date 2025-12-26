@@ -1,0 +1,12 @@
+{% extends "admin/change_list.html" %}
+
+{% block object-tools-items %}
+    <li>
+        {# Botón que llama a nuestra función run_scraper #}
+        <a href="run-scraper/" class="btn btn-high" style="background-color: #2ecc71; color: white; border: none;">
+            Escanear Resultados Web
+        </a>
+    </li>
+    {# Mantenemos los botones originales (como "Añadir Result") #}
+    {{ block.super }}
+{% endblock %}

@@ -1,0 +1,311 @@
+.results-header-section {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    color: white;
+    padding: 30px 0 50px 0; 
+    text-align: center;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.results-header-section h2 { margin-bottom: 5px; }
+.results-header-section p { opacity: 0.8; font-size: 0.95rem; }
+
+.filter-bar {
+    background: #e0e7ff;
+    border: 2px solid rgba(242, 159, 5, 0.2);
+    max-width: 800px;
+    margin: 25px auto -75px auto; 
+    padding: 10px;
+    border-radius: 50px;
+    box-shadow: 0 10px 25px rgba(39, 49, 133, 0.15);
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    position: relative;
+    z-index: 10;
+}
+
+.filter-group {
+    position: relative;
+    flex: 1;
+}
+
+.filter-input {
+    width: 100%;
+    padding: 12px 15px 12px 45px; 
+    border: 1px solid #e0e6ed;
+    border-radius: 30px;
+    background: #f8fafc; 
+    font-size: 0.95rem;
+    color: var(--primary-dark);
+    font-weight: 500;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+.filter-input:focus {
+    background: white;
+    border-color: var(--accent-gold);
+    box-shadow: 0 0 0 4px rgba(242, 159, 5, 0.15);
+}
+
+.input-icon {
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--primary);
+    transition: color 0.3s;
+}
+
+input[type="date"] {
+    cursor: pointer;
+}
+
+.btn-refresh {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: var(--accent-gold);
+    color: var(--primary-dark);
+    border: none;
+    cursor: pointer;
+    font-size: 1.1rem;
+    transition: transform 0.3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.btn-refresh:hover { transform: rotate(180deg); }
+
+.all-results-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 20px; 
+}
+
+.all-results-grid .result-card {
+    width: 100%; 
+    margin: 0;
+    text-align: center;
+}
+
+.all-results-grid .lottery-badge {
+    display: inline-block; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;       
+    padding: 6px 18px;          
+    border-radius: 18px;           
+    font-weight: 800;                       
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2); 
+    text-transform: uppercase;    
+    color: white; 
+}
+
+.guacharito { background: linear-gradient(to right, #795548, #8d6e63); }
+.guacharo { background: linear-gradient(to right, #3e2723, #5d4037); }
+.lotto-chaima { background: linear-gradient(to right, #009688, #26a69a); }
+.lotto-rey { background: linear-gradient(to right, #fbc02d, #fdd835); color: #333; }
+.condor { background: linear-gradient(to right, #1565c0, #1e88e5); }
+
+.lottery-type-selector { display: flex; justify-content: center; gap: 10px; }
+.lottery-type-selector input { display: none; } 
+
+.type-btn {
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255,255,255,0.4);
+    padding: 8px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.3s;
+}
+
+.lottery-type-selector input:checked + .type-btn {
+    background: var(--accent-gold);
+    color: var(--primary-dark);
+    border-color: var(--accent-gold);
+    font-weight: bold;
+    transform: scale(1.05);
+}
+
+.draw-time-badge {
+    background-color: var(--accent-gold);
+    color: var(--primary-dark);
+    padding: 2px 8px;
+    border-radius: 50px; 
+    font-weight: 700;
+    font-size: 0.85rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+    display: inline-block;
+}
+
+.draw-info {
+    display: flex;           
+    justify-content: center; 
+    align-items: center;     
+    gap: 8px;                
+}
+
+.share-section {
+    padding-top: 10px;
+    border-top: 1px dashed #ddd; 
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.share-section p {
+    color: var(--text-light);
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+.share-section strong {
+    color: var(--primary);
+    font-size: 1.1rem;
+}
+
+.share-icons-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.share-btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    color: var(--primary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    text-decoration: none;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.share-btn:hover {
+    transform: translateY(-5px) scale(1.05);
+    color: white;
+}
+
+.share-btn.whatsapp:hover {
+    background-color: #25D366; 
+    box-shadow: 0 5px 15px rgba(37, 211, 102, 0.4);
+}
+
+.share-btn.telegram:hover {
+    background-color: #0088cc; 
+    box-shadow: 0 5px 15px rgba(0, 136, 204, 0.4);
+}
+
+.share-btn.email:hover {
+    background-color: var(--accent-gold); 
+    box-shadow: 0 5px 15px rgba(242, 159, 5, 0.4);
+}
+
+.share-btn.facebook:hover {
+    background-color: #1877F2; 
+    box-shadow: 0 5px 15px rgba(24, 119, 242, 0.4);
+}
+
+.share-btn.x-twitter:hover {
+    background-color: #000000; 
+    color: white; 
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+}
+
+/* RESPONSIVIDAD */
+/* TABLETS */
+@media (min-width: 481px) and (max-width: 900px) {
+    .filter-bar {
+        max-width: 90%; 
+        margin-top: 10px; 
+        margin-bottom: 30px; 
+        flex-wrap: wrap; 
+    }
+    
+    .results-header-section {
+        padding-bottom: 20px; 
+    }
+
+    .all-results-grid {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 15px;
+    }
+}
+
+/* MOVIL */
+@media (max-width: 480px) {
+    .filter-bar {
+        flex-direction: column; 
+        border-radius: 20px;
+        margin-top: 20px;
+        padding: 15px;
+    }
+    
+    .filter-group { width: 100%; }
+    
+    .btn-refresh {
+        width: 100%; 
+        border-radius: 10px;
+        margin-top: 5px;
+    }
+    
+    .results-header-section {
+        padding-bottom: 20px;
+        margin-bottom: 60px; 
+    }
+
+    .all-results-grid {
+        gap: 10px; 
+        grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); 
+    }
+
+    .all-results-grid .result-card {
+        padding: 12px 8px; 
+    }
+
+    .all-results-grid .lottery-badge {
+        font-size: 0.7rem;
+        padding: 5px 12px;
+        margin-bottom: 5px;
+    }
+
+    .all-results-grid .draw-info {
+        font-size: 0.7rem;
+        margin-bottom: 5px;
+        padding-bottom: 5px;
+    }
+
+    .all-results-grid .winning-number {
+        font-size: 1.6rem;
+        margin: 5px 0;
+    }
+    
+    .all-results-grid .winning-number span {
+        font-size: 0.9rem; 
+        padding: 1px 5px;
+    }
+
+    .all-results-grid .animal-name {
+        font-size: 0.9rem;
+    }
+    
+    .all-results-grid span.iconify {
+        width: 36px !important;
+        height: 36px !important;
+    }
+
+    .filter-input {
+        font-size: 16px !important; 
+        padding: 10px 12px 10px 40px; 
+    }
+}

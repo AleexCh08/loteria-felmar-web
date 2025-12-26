@@ -1,0 +1,666 @@
+{% extends 'core/base.html' %}
+{% load static %}
+
+{% block title %}Mi Panel{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{% static 'core/css/dashboard.css' %}">
+    <link rel="stylesheet" href="{% static 'core/css/auth.css' %}"> {% endblock %}
+
+{% block content %}
+<div class="container" style="padding-top: 30px;">
+
+    <div class="dashboard-header">
+        <div class="user-welcome">
+            <h2>Hola, {{ user.first_name|default:"Jugador" }}</h2>
+            <p>Bienvenido a tu panel de control.</p>
+        </div>
+        
+        <div class="balance-card">
+            <div class="balance-label">Saldo Disponible</div>
+            <div class="balance-amount">Bs. {{ user.profile.balance|default:"0,00" }}</div> 
+        </div>
+    </div>
+
+    <div class="actions-grid">
+        <a href="#" class="action-card"> <i class="fa-solid fa-ticket action-icon"></i>
+            <div class="action-title">Nuevo Ticket</div>
+        </a>
+
+        <a href="#" class="action-card" id="btnRecharge">
+            <i class="fa-solid fa-wallet action-icon" style="color: var(--accent-gold);"></i>
+            <div class="action-title">Recargar Saldo</div>
+        </a>
+
+        <a href="#" class="action-card" id="btnHistory">
+            <i class="fa-solid fa-clock-rotate-left action-icon" style="color: #27ae60;"></i>
+            <div class="action-title">Mis Jugadas</div>
+        </a>
+        
+        <a href="#" class="action-card" id="btnProfileInfo">
+            <i class="fa-solid fa-user-gear action-icon" style="color: var(--text-light);"></i>
+            <div class="action-title">Mi Perfil</div>
+        </a>
+
+        <a href="{% url 'login' %}" class="action-card" id="btnLogout">
+            <i class="fa-solid fa-right-from-bracket action-icon" style="color: var(--alert);"></i>
+            <div class="action-title">Cerrar Sesión</div>
+        </a>
+    </div>
+
+    <div class="section-container" id="historial">
+        <div class="section-title">
+            <i class="fa-solid fa-list-ul"></i> Últimos Movimientos
+        </div>
+
+        <div class="table-responsive">
+            <table class="history-table">
+                <thead>
+                    <tr>
+                        <th>Fecha</th>
+                        <th>Ticket ID / Ref</th>
+                        <th>Descripción</th>
+                        <th>Monto</th>
+                        <th>Estado</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for mov in movements %}
+                    <tr>
+                        <td>{{ mov.created_at|date:"d/m/Y" }}</td>
+                        
+                        <td>
+                            {% if mov.lottery %} <span class="ticket-id">#FEL-{{ mov.id }}</span>
+                            {% else %} <span class="ticket-id" style="background:#e3fcef; color:#0d5e3d; border: 1px solid #badbcc;">
+                                    <i class="fa-solid fa-money-bill-transfer"></i> 
+                                    {% if mov.reference %}REF-{{ mov.reference|slice:":6" }}{% else %}Recarga{% endif %}
+                                </span>
+                            {% endif %}
+                        </td>
+                        
+                        <td>
+                            {% if mov.lottery %}
+                                Apuesta {% if mov.bet_type == 'single' %}Individual{% else %}{{ mov.bet_type|capfirst }}{% endif %} {{ mov.lottery }}
+                            {% else %}
+                                Recarga: 
+                                {% if mov.payment_method == 'pago_movil' %}Pago Móvil
+                                {% else %}Transferencia{% endif %}
+                            {% endif %}
+                        </td>
+                        
+                        <td>
+                            {% if mov.lottery %}
+                                <span style="color: var(--alert); font-weight: bold;">- Bs. {{ mov.amount }}</span>
+                            {% else %}
+                                <span style="color: #27ae60; font-weight: bold;">+ Bs. {{ mov.amount }}</span>
+                            {% endif %}
+                        </td>
+                        
+                        <td>
+                            {% if mov.status == 'pendiente' %}
+                                <span class="status-badge status-pending">Pendiente</span>
+                            
+                            {% elif mov.status == 'ganador' %}
+                                <span class="status-badge status-won">Ganador</span>
+
+                            {% elif mov.status == 'aprobado' %}
+                                <span class="status-badge status-won">Aprobado</span>
+                            
+                            {% else %}
+                                <span class="status-badge status-lost">
+                                    {% if mov.lottery %}No Ganador{% else %}Rechazado{% endif %}
+                                </span>
+                            {% endif %}
+                        </td>
+                    </tr>
+                    {% empty %}
+                    <tr>
+                        <td colspan="5" style="text-align: center; color: #999; padding: 20px;">
+                            No hay movimientos recientes.
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        
+        <div style="text-align: center; margin-top: 15px;">
+            <a href="#" id="btnViewAllHistory" class="btn btn-outline" style="font-size: 0.8rem; color: var(--primary); border-color: var(--primary);">
+                Ver Todo el Historial
+            </a>
+        </div>
+    </div>
+
+    <div class="section-container" id="perfil">
+        <div class="section-title">
+            <i class="fa-solid fa-lock"></i> Seguridad y Datos
+        </div>
+        
+        <p style="margin-bottom: 20px; font-size: 0.9rem; color: #666;">
+            Solo puedes modificar tu correo y contraseña. Datos sensibles como Cédula o Nombre no son editables por seguridad.
+        </p>
+
+        <form method="POST" action="" class="profile-form" id="profileForm">
+            {% csrf_token %}
+            <input type="hidden" name="action" value="update_profile">
+            
+            {% if profile_form.errors %}
+                <div style="color: var(--alert); font-size: 0.9rem; margin-bottom: 10px;">
+                    Corrija los errores indicados abajo.
+                </div>
+            {% endif %}
+
+            <div class="form-group">
+                <label class="form-label">Correo Electrónico</label>
+                <div class="input-group">
+                    <i class="fa-solid fa-envelope input-icon"></i>
+                    {{ profile_form.email }}
+                </div>
+                {{ profile_form.email.errors }}
+            </div>
+
+            <div class="form-group">
+                <label class="form-label">Nueva Contraseña (Opcional)</label>
+                <div class="input-group">
+                    <i class="fa-solid fa-key input-icon"></i>
+                    {{ profile_form.new_password }}
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">
+                <i class="fa-solid fa-floppy-disk"></i> Guardar Cambios
+            </button>
+        </form>
+    </div>
+
+</div>
+
+<div id="profileModal" class="modal-overlay">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h3><i class="fa-solid fa-address-card"></i> Mis Datos</h3>
+            <span class="close-modal" data-target="profileModal">&times;</span>
+        </div>
+        <div class="modal-body">
+            <div class="profile-details-grid">
+                <div class="detail-item">
+                    <span class="label">Usuario</span>
+                    <span class="value">@{{ user.username }}</span>
+                </div>
+                <div class="detail-item">
+                    <span class="label">Nombre Completo</span>
+                    <span class="value">{{ user.first_name }} {{ user.last_name }}</span>
+                </div>
+                <div class="detail-item">
+                    <span class="label">Cédula</span>
+                    <span class="value">V-{{ user.profile.ci|default:"12.345.678" }}</span> </div>
+                <div class="detail-item">
+                    <span class="label">Correo</span>
+                    <span class="value">{{ user.email }}</span>
+                </div>
+                <div class="detail-item">
+                    <span class="label">Edad</span>
+                    <span class="value">{{ user.profile.age }} Años</span> </div>
+                </div>
+            <div style="margin-top: 20px; text-align: center; font-size: 0.8rem; color: #999;">
+                <i class="fa-solid fa-lock"></i> Datos protegidos. Para correcciones contacta a soporte.
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="rechargeModal" class="modal-overlay">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h3><i class="fa-solid fa-money-bill-transfer"></i> Datos de Pago</h3>
+            <span class="close-modal" data-target="rechargeModal">&times;</span>
+        </div>
+        <div class="modal-body">
+            
+            <div class="payment-tabs">
+                <button class="tab-btn active" onclick="switchTab('pagoMovil')">Pago Móvil</button>
+                <button class="tab-btn" onclick="switchTab('transferencia')">Transferencia</button>
+            </div>
+
+            <div id="pagoMovil" class="payment-info active">
+                <div class="bank-card p-movil">
+                    <div class="bank-logo">PAGO MÓVIL</div>
+                    <p><strong>Banco:</strong> Banesco (0134)</p>
+                    <p><strong>Teléfono:</strong> 0414-123-4567</p>
+                    <p><strong>Cédula:</strong> V-12.345.678</p>
+                </div>
+            </div>
+
+            <div id="transferencia" class="payment-info" style="display: none;">
+                <div class="bank-card transfer">
+                    <div class="bank-logo">BANESCO</div>
+                    <p><strong>Titular:</strong> Inversiones Felmar C.A.</p>
+                    <p><strong>Cuenta:</strong> 0134-1111-22-3333444455</p>
+                    <p><strong>RIF:</strong> J-310748314</p>
+                    <p><strong>Tipo:</strong> Corriente</p>
+                </div>
+                <p class="instruction">Las transferencias interbancarias pueden tardar hasta 24h.</p>
+            </div>
+
+            <hr style="border: 0; border-top: 1px dashed #ddd; margin: 20px 0;">
+
+            <h4 style="color: var(--primary); font-size: 1rem; margin-bottom: 15px;">
+                <i class="fa-solid fa-pen-to-square"></i> Reportar Pago Realizado
+            </h4>
+
+            <form action="" method="POST" id="rechargeForm">
+                {% csrf_token %}
+                <input type="hidden" name="payment_method" id="paymentMethodInput" value="pago_movil">
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label class="form-label" style="font-size: 0.85rem;">Referencia (últimos 4 o 6 dígitos)</label>
+                        <div class="input-group">
+                            <i class="fa-solid fa-hashtag input-icon"></i>
+                            <input type="text" name="reference" class="form-input" placeholder="Ej: 123456" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" style="font-size: 0.85rem;">Monto (Bs)</label>
+                        <div class="input-group">
+                            <i class="fa-solid fa-coins input-icon"></i>
+                            <input type="number" name="amount" class="form-input" placeholder="0.00" step="0.01" required>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label" style="font-size: 0.85rem;">Fecha del Pago</label>
+                    <div class="input-group">
+                        <i class="fa-solid fa-calendar input-icon"></i>
+                        <input type="date" name="payment_date" class="form-input" required>
+                    </div>
+                </div>
+
+                <button type="submit" class="btn btn-primary btn-block">
+                    <i class="fa-solid fa-check"></i> Registrar Pago
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div id="successActionModal" class="modal-overlay">
+    <div class="modal-content" style="max-width: 400px; text-align: center;">
+        <div class="modal-body" style="padding: 40px 30px;">
+            <div class="success-animation">
+                <i class="fa-solid fa-circle-check"></i>
+            </div>
+            
+            <h3 id="successTitle" style="color: var(--primary); font-size: 1.5rem; margin-bottom: 10px;">¡Listo!</h3>
+            <p id="successMessage" style="text-align: center; color: #666; margin-bottom: 25px;">
+                Acción realizada correctamente.
+            </p>
+            
+            <button type="button" class="btn btn-primary btn-block" onclick="closeSuccessModal()">
+                Entendido
+            </button>
+        </div>
+    </div>
+</div>
+
+<div id="ticketModal" class="modal-overlay">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h3><i class="fa-solid fa-ticket"></i> Nuevo Ticket</h3>
+            <span class="close-modal" data-target="ticketModal">&times;</span>
+        </div>
+        
+        <div class="modal-body">
+            
+            <form id="ticketForm" method="POST">
+                {% csrf_token %}
+
+                <div style="background-color: #fcfcfc; padding: 10px; border-radius: 12px; border: 1px solid #f0f0f0; margin-bottom: 20px;">
+                    
+                    <label class="form-label" style="font-size: 0.8rem; color: #888; margin-bottom: 10px; display: block;">
+                        1. Configuración del Sorteo
+                    </label>
+
+                    <div class="segmented-control" style="margin-bottom: 15px;">
+                        <input type="radio" name="game_type" value="triples" id="modeTriples" checked onchange="toggleGameMode('triples')">
+                        <label for="modeTriples"><i class="fa-solid fa-hashtag"></i> Triples</label>
+                        
+                        <input type="radio" name="game_type" value="animalitos" id="modeAnimalitos" onchange="toggleGameMode('animalitos')">
+                        <label for="modeAnimalitos"><i class="fa-solid fa-paw"></i> Animalitos</label>
+                    </div>
+
+                    <div id="lotteriesTriples" class="lottery-grid">
+                        <div class="lottery-chip" onclick="selectLottery(this, 'Zulia')">Zulia</div>
+                        <div class="lottery-chip" onclick="selectLottery(this, 'Caracas')">Caracas</div>
+                        <div class="lottery-chip" onclick="selectLottery(this, 'Chance')">Chance</div>
+                        <div class="lottery-chip" onclick="selectLottery(this, 'Táchira')">Táchira</div>
+                        <div class="lottery-chip" onclick="selectLottery(this, 'Zamorano')">Zamorano</div>
+                        <div class="lottery-chip" onclick="selectLottery(this, 'Caliente')">Caliente</div>
+                    </div>
+
+                    <div id="lotteriesAnimals" class="lottery-grid" style="display: none;">
+                        <div class="lottery-chip" onclick="selectLottery(this, 'Lotto Activo')">Lotto Activo</div>
+                        <div class="lottery-chip" onclick="selectLottery(this, 'La Granjita')">La Granjita</div>
+                        <div class="lottery-chip" onclick="selectLottery(this, 'Selva Plus')">Selva Plus</div>
+                        <div class="lottery-chip" onclick="selectLottery(this, 'Guacharito')">Guacharito</div>
+                        <div class="lottery-chip" onclick="selectLottery(this, 'El Guácharo')">El Guácharo</div>
+                        <div class="lottery-chip" onclick="selectLottery(this, 'Lotto Chaima')">Lotto Chaima</div>
+                        <div class="lottery-chip" onclick="selectLottery(this, 'Lotto Rey')">Lotto Rey</div>
+                        <div class="lottery-chip" onclick="selectLottery(this, 'Cóndor')">Cóndor</div>
+                    </div>
+                    <input type="hidden" name="selected_lottery" id="selectedLotteryInput" required>
+
+                    <div class="input-group" style="margin-top: 15px;">
+                        <i class="fa-regular fa-clock input-icon" style="color: var(--primary);"></i>
+                        <select name="draw_time" class="form-input" required style="font-weight: 500;">
+                            <option value="" disabled selected>Hora del sorteo...</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div style="background-color: #fff; padding: 10px; border-radius: 12px; border: 1px solid #eef2f7; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+                    
+                    <label class="form-label" style="font-size: 0.8rem; color: #888; margin-bottom: 10px; display: block;">
+                        2. Detalles de la Jugada
+                    </label>
+
+                    <div id="triplesOptions" style="margin-bottom: 15px;">
+                        <div class="options-row" style="margin-bottom: 10px;">
+                            <input type="radio" name="bet_type" id="typeTriple" value="triple" checked hidden>
+                            <label for="typeTriple" class="option-chip">Triple</label>
+                            <input type="radio" name="bet_type" id="typeTerminal" value="terminal" hidden>
+                            <label for="typeTerminal" class="option-chip">Terminal</label>
+                            <input type="radio" name="bet_type" id="typePermuta" value="permuta" hidden>
+                            <label for="typePermuta" class="option-chip">Permuta</label>
+                        </div>
+                        <div class="options-row">
+                            <input type="checkbox" name="letters" id="letA" value="A" hidden>
+                            <label for="letA" class="option-chip circle">A</label>
+                            <input type="checkbox" name="letters" id="letB" value="B" hidden>
+                            <label for="letB" class="option-chip circle">B</label>
+                            <input type="checkbox" name="letters" id="letC" value="C" hidden>
+                            <label for="letC" class="option-chip circle">C</label>
+                        </div>
+                    </div>
+
+                    <div id="animalsOptions" style="display: none; margin-bottom: 15px;">
+                        <div class="options-row">
+                            <input type="radio" name="animal_mode" id="modeSingle" value="single" checked hidden onchange="toggleAnimalInputs('single')">
+                            <label for="modeSingle" class="option-chip">Individual</label>
+                            <input type="radio" name="animal_mode" id="modeTripleta" value="tripleta" hidden onchange="toggleAnimalInputs('tripleta')">
+                            <label for="modeTripleta" class="option-chip">Tripleta</label>
+                        </div>
+                    </div>
+
+                    <div class="form-row" style="gap: 10px; align-items: flex-start;">
+                        
+                        <div style="flex: 2;">
+                            <label class="form-label" id="playLabel" style="font-size: 0.75rem;">Número</label>
+                            
+                            <div class="input-group" id="groupTriple">
+                                <i class="fa-solid fa-hashtag input-icon" id="playIcon"></i>
+                                <input type="number" id="inputTriple" class="form-input" min="000" max="999" placeholder="123" style="font-size: 1.2rem; font-weight: bold; letter-spacing: 2px;">
+                            </div>
+
+                            <div id="animalInputsContainer" style="display: none;">
+                                <div class="input-group" style="margin-bottom: 8px;">
+                                    <i class="fa-solid fa-paw input-icon"></i>
+                                    <select id="animal1" name="animal_1" class="form-input" style="font-weight: 600;">
+                                        <option value="" disabled selected>Elegir...</option>
+                                    </select>
+                                </div>
+                                <div class="input-group" id="groupAnimal2" style="display: none; margin-bottom: 8px;">
+                                    <i class="fa-solid fa-paw input-icon"></i>
+                                    <select id="animal2" name="animal_2" class="form-input" disabled>
+                                        <option value="" disabled selected>2do...</option>
+                                    </select>
+                                </div>
+                                <div class="input-group" id="groupAnimal3" style="display: none;">
+                                    <i class="fa-solid fa-paw input-icon"></i>
+                                    <select id="animal3" name="animal_3" class="form-input" disabled>
+                                        <option value="" disabled selected>3er...</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div style="flex: 1;">
+                            <label class="form-label" style="font-size: 0.75rem;">Monto (Bs)</label>
+                            <div class="input-group">
+                                <i class="fa-solid fa-coins input-icon"></i>
+                                <input type="number" name="amount" id="ticketAmount" class="form-input" value="20" min="20" placeholder="20" required style="font-size: 1.1rem; font-weight: bold;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <input type="hidden" name="ticket_date" id="ticketDate">
+
+                <div style="margin-top: 20px;">
+                    <button type="button" id="btnAddToQueue" class="btn btn-outline btn-block" style="border: 2px dashed var(--primary); color: var(--primary); font-weight: bold; margin-bottom: 15px;">
+                        <i class="fa-solid fa-plus"></i> Agregar Ticket
+                    </button>
+
+                    <div id="queueContainer" style="display: none; background: #f8f9fa; border-radius: 8px; padding: 10px; border: 1px solid #eee; margin-bottom: 15px;">
+                        <h4 style="font-size: 0.85rem; color: #666; margin-bottom: 8px; display: flex; justify-content: space-between;">
+                            <span>Tickets en Cola:</span>
+                            <span id="queueCountBadge" style="background: var(--primary); color: white; padding: 1px 6px; border-radius: 10px; font-size: 0.75rem;">0</span>
+                        </h4>
+                        
+                        <div style="max-height: 150px; overflow-y: auto;">
+                            <table class="queue-table">
+                                <tbody id="queueTableBody"></tbody>
+                            </table>
+                        </div>
+
+                        <div class="queue-total">
+                            <span>Total a Pagar:</span>
+                            <span id="queueTotalAmount" style="font-weight: 800; color: var(--primary);">Bs. 0.00</span>
+                        </div>
+                    </div>
+
+                    <button type="button" id="btnProcessQueue" class="btn btn-primary btn-block" style="display: none;">
+                        <i class="fa-solid fa-check-double"></i> Procesar Compra
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div id="ticketConfirmModal" class="modal-overlay" style="z-index: 2000;"> <div class="modal-content" style="max-width: 400px;">
+        <div class="modal-header">
+            <h3><i class="fa-solid fa-clipboard-check"></i> Confirmar Datos</h3>
+        </div>
+        
+        <div class="modal-body">
+            <p style="color: #666; font-size: 0.9rem; margin-bottom: 15px;">
+                Verifica los detalles antes de procesar tu ticket:
+            </p>
+
+            <div id="confirmationSummary" style="background: #f8f9fa; padding: 15px; border-radius: 8px; font-size: 0.9rem; border: 1px solid #eee;">
+                </div>
+
+            <div class="form-row" style="margin-top: 20px; gap: 10px;">
+                <button type="button" class="btn btn-outline" id="btnCancelConfirm" style="flex: 1; border-color: #ccc; color: #666;">
+                    <i class="fa-solid fa-arrow-left"></i> Corregir
+                </button>
+                <button type="button" class="btn btn-primary" id="btnRealConfirm" style="flex: 1;">
+                    <i class="fa-solid fa-check"></i> Confirmar
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="logoutModal" class="modal-overlay" style="z-index: 2000;">
+    <div class="modal-content" style="max-width: 380px;">
+        
+        <div class="modal-header">
+            <h3 style="display: flex; align-items: center; gap: 8px; margin: 0;">
+                <i class="fa-solid fa-right-from-bracket"></i> 
+                Cerrar Sesión 
+                <i class="fa-solid fa-circle-exclamation" style="color: var(--alert); font-size: 1.1rem;"></i>
+            </h3>
+            <span class="close-modal" data-target="logoutModal">&times;</span>
+        </div>
+        
+        <div class="modal-body">
+            <p style="color: #666; font-size: 0.9rem; margin-bottom: 25px;">
+                ¿Estás seguro de que deseas finalizar tu sesión actual?
+            </p>
+            
+            <div class="form-row" style="display: flex; gap: 10px;">
+                <button type="button" class="btn btn-outline close-modal" data-target="logoutModal" 
+                        style="flex: 1; border-color: #ccc; color: #666; padding: 8px 10px; font-size: 0.9rem;">
+                    Cancelar
+                </button>
+                
+                <a href="{% url 'logout' %}" class="btn btn-primary" 
+                   style="flex: 1; background-color: var(--alert); border: none; padding: 8px 10px; font-size: 0.9rem; display: flex; align-items: center; justify-content: center;">
+                    Salir
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="historyModal" class="modal-overlay">
+    <div class="modal-content" style="max-width: 450px; height: 80vh; display: flex; flex-direction: column;">
+        
+        <div class="modal-header">
+            <h3><i class="fa-solid fa-clock-rotate-left"></i> Mis Jugadas</h3>
+            <span class="close-modal" data-target="historyModal">&times;</span>
+        </div>
+
+        <div class="modal-body" style="flex: 1; overflow-y: auto; padding: 15px; background: #f8f9fa;">
+            
+            <div style="margin-bottom: 15px; display: flex; gap: 8px; justify-content: center">
+                
+                <input type="date" id="dateFilter" class="form-input" 
+                       style="padding: 5px; font-size: 0.85rem; width: auto; border-radius: 20px; color: #666;">
+
+                <select id="gameTypeFilter" class="form-input" 
+                        style="padding: 5px 10px; font-size: 0.85rem; width: auto; border-radius: 20px;">
+                    <option value="triples" selected>Triples</option>
+                    <option value="animalitos">Animalitos</option>
+                </select>
+
+                <select id="ticketFilter" class="form-input" 
+                        style="padding: 5px 10px; font-size: 0.85rem; width: auto; border-radius: 20px;">
+                    <option value="all">Ver Todas</option>
+                    </select>
+            </div>
+
+            <div class="tickets-container" id="ticketsListContainer" style="display: flex; flex-direction: column; gap: 8px;">
+                
+                {% for ticket in tickets %}
+                <div class="ticket-compact status-border-{{ ticket.status }}" data-lottery="{{ ticket.lottery }}" data-date="{{ ticket.created_at|date:'Y-m-d' }}" data-gametype="{{ ticket.game_type }}">
+                    
+                    <div class="tc-left">
+                        <span class="tc-lottery">{{ ticket.lottery }}</span>
+                        <span class="tc-date">{{ ticket.created_at|date:"d/m" }} - {{ ticket.draw_time }}</span>
+                        <span class="tc-id">#FEL-{{ ticket.id }}</span>
+                    </div>
+
+                    <div class="tc-center">
+                        {% if ticket.game_type == 'animalitos' and ticket.bet_type == 'tripleta' %}
+                            <div style="display: flex; flex-direction: column; align-items: center; gap: 2px;">
+                                <span class="tc-value" style="font-size: 0.7rem; line-height: 1.1;">{{ ticket.play_value }}</span>
+                                <span class="tc-value" style="font-size: 0.7rem; line-height: 1.1; text-align: center;">
+                                    {{ ticket.extras }}
+                                </span>
+                            </div>
+                            <span class="tc-type" style="margin-top: 4px;">Tripleta</span>
+
+                        {% else %}
+                            <span class="tc-value">{{ ticket.play_value }}</span>
+                            <span class="tc-type">
+                                {% if ticket.bet_type == 'single' %}
+                                    Individual
+                                {% else %}
+                                    {{ ticket.bet_type|capfirst }}{% if ticket.extras %} <span style="font-size: 0.8em;">({{ ticket.extras }})</span>{% endif %}
+                                {% endif %}
+                            </span>
+                        {% endif %}
+                    </div>
+
+                    <div class="tc-right">
+                        <span class="tc-amount">Bs. {{ ticket.amount }}</span>
+                        {% if ticket.status == 'pendiente' %}
+                            <span class="tc-badge badge-pending"><i class="fa-regular fa-clock"></i></span>
+                        {% elif ticket.status == 'ganador' %}
+                            <span class="tc-badge badge-won"><i class="fa-solid fa-trophy"></i></span>
+                        {% else %}
+                            <span class="tc-badge badge-lost"><i class="fa-solid fa-xmark"></i></span>
+                        {% endif %}
+                    </div>
+
+                </div>
+                {% empty %}
+                    <div style="text-align: center; color: #999; margin-top: 50px;">
+                        <i class="fa-solid fa-ticket-simple fa-4x" style="margin-bottom: 20px; color: #e0e0e0;"></i>
+                        <p style="text-align: center;">No tienes jugadas registradas aún.</p>
+                    </div>
+                {% endfor %}
+                <div id="noResultsMessage" style="display: none; text-align: center; padding: 40px 20px; color: #999;">
+                    <i class="fa-solid fa-filter-circle-xmark" style="font-size: 2.5rem; margin-bottom: 15px; color: #e0e0e0;"></i>
+                    <p style="font-size: 0.95rem; font-weight: 500; text-align: center;">No se encontraron tickets.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="fullHistoryModal" class="modal-overlay">
+    <div class="modal-content" style="max-width: 700px; height: 80vh; display: flex; flex-direction: column;">
+        
+        <div class="modal-header">
+            <h3><i class="fa-solid fa-list-ul"></i> Historial de Movimientos</h3>
+            <span class="close-modal" data-target="fullHistoryModal">&times;</span>
+        </div>
+
+        <div class="modal-body" id="fullHistoryScrollArea" style="flex: 1; overflow-y: auto; padding: 0;">
+            <div class="table-responsive">
+                <table class="history-table" style="margin: 0;">
+                    <thead style="position: sticky; top: 0; background: white; z-index: 1; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+                        <tr>
+                            <th>Fecha</th>
+                            <th>Ticket ID / Ref</th>
+                            <th>Descripción</th>
+                            <th>Monto</th>
+                            <th>Estado</th>
+                        </tr>
+                    </thead>
+                    
+                    <tbody id="fullHistoryTableBody">
+                        </tbody>
+                </table>
+                
+                <div id="historyLoader" style="text-align: center; padding: 15px; display: none; color: var(--primary);">
+                    <i class="fa-solid fa-spinner fa-spin"></i> Cargando más...
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% if messages %}
+    {% for message in messages %}
+        {% if forloop.last %}
+            <div id="serverMessage" 
+                 data-message="{{ message }}" 
+                 data-type="{{ message.tags }}" 
+                 style="display: none;">
+            </div>
+        {% endif %}
+    {% endfor %}
+{% endif %}
+
+{% block scripts %}
+    <script src="{% static 'core/js/dashboard.js' %}"></script>
+    
+{% endblock %}
+
+{% endblock %}

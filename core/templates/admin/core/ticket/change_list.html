@@ -1,0 +1,13 @@
+{% extends "admin/change_list.html" %}
+
+{% block object-tools-items %}
+    <li>
+        {# Botón que llama a nuestra API de verificación #}
+        <a href="{% url 'verify_winners' %}" class="btn btn-high" style="background-color: #f39c12; color: white; border: none;">
+            Verificar Ganadores
+        </a>
+    </li>
+    
+    {# Mantenemos los botones originales de Django #}
+    {{ block.super }}
+{% endblock %}

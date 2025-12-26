@@ -1,0 +1,57 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Lotería Felmar - {% block title %}Inicio{% endblock %}</title>  
+    <link rel="stylesheet" href="{% static 'core/css/styles.css' %}">
+    {% block styles %}{% endblock %}
+
+    <link rel="shortcut icon" type="image/jpg" href="{% static 'core/img/favicon.ico' %}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <nav class="navbar">
+                <a href="{% url 'home' %}" class="logo-container">
+                    <img src="{% static 'core/img/logo_felmar.jpg' %}" alt="Logo Felmar" class="logo-img">
+                    <span class="brand-name">Lotería Felmar C.A.</span>
+                </a>
+                <div class="nav-links">
+                    <a href="{% url 'home' %}" class="nav-item">
+                        <i class="fa-solid fa-house"></i>Inicio
+                    </a>
+                    
+                    <a href="{% url 'results' %}" class="nav-item">
+                        <i class="fa-solid fa-list-ol"></i>Resultados
+                    </a>
+
+                    {% if user.is_authenticated %}
+                        <a href="{% url 'dashboard' %}" class="nav-item btn btn-primary" style="padding: 8px 20px; font-size: 0.9rem; color: var(--primary-dark);">
+                            <i class="fa-solid fa-user-circle"></i> Dashboard
+                        </a>
+                    {% else %}
+                        <a href="{% url 'login' %}" class="nav-item btn btn-primary" style="padding: 8px 20px; font-size: 0.9rem; color: var(--primary-dark);">
+                            <i class="fa-solid fa-right-to-bracket"></i> Ingresar
+                        </a>
+                    {% endif %}                                         
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    {% block content %}
+    {% endblock %}
+    <footer>
+        <div class="container">
+            <p><i class="fa-solid fa-id-card"></i> &copy; {% now "Y" %} Lotería Felmar C.A. - RIF: J-310748314. Todos los derechos reservados.</p>
+            
+            <p><i class="fa-solid fa-location-dot"></i> Metro Zoológico de Caricuao, Av. Ppal, Sector Ud3, C.C. Caricuao, PB Local 19, Caracas</p>
+        </div>
+    </footer>
+    {% block scripts %}  
+    {% endblock %}
+</body>
+</html>

@@ -1,0 +1,294 @@
+{% extends 'core/base.html' %}
+{% load static %} {% block title %}Bienvenidos{% endblock %}
+
+{% block content %}
+
+<section class="hero">
+    <div class="container">
+        
+        <div class="carousel-container">
+            <h1 class="hero-slide active">¡La suerte a tu alcance en un solo clic!</h1>
+            <h1 class="hero-slide">¿Y si hoy es tu gran día de suerte?</h1>
+            <h1 class="hero-slide">Tu próximo premio te está esperando.</h1>
+            <h1 class="hero-slide">Juega fácil, rápido y seguro con Felmar.</h1>
+        </div>
+        <p>Modernizamos la forma de jugar. Compra tus tickets y revisa resultados desde la comodidad de tu hogar.</p>
+        <a href="{% url 'dashboard' %}" class="btn btn-primary">
+            <i class="fa-solid fa-ticket"></i> ¡Probar Suerte Ahora!
+        </a>
+    </div>
+</section>
+
+<div class="container">
+    <div class="features-grid"> 
+        <div class="card">
+            <i class="fa-solid fa-shield-halved card-icon"></i> <h3>Juega Seguro</h3>
+            <p>Agencia autorizada con años de trayectoria en Caricuao. Tu jugada está 100% garantizada.</p>
+        </div>
+
+        <div class="card">
+            <i class="fa-solid fa-bolt card-icon"></i> <h3>Resultados al Instante</h3>
+            <p>Consulta los sorteos en tiempo real desde nuestra web sin tener que ir a la agencia.</p>
+        </div>
+
+        <div class="card">
+            <i class="fa-solid fa-map-location-dot card-icon"></i> <h3>Ubicación Central</h3>
+            <p>Visítanos en el corazón de Caricuao, justo en la estación del Metro Zoológico.</p>
+        </div>
+
+        <div class="card">
+            <i class="fa-solid fa-building-user card-icon"></i> <h3>Atención Personalizada</h3>
+            <p>¿Dudas con tu recarga? Visítanos en la agencia y recibe soporte directo de nuestro equipo en taquilla.</p>
+        </div>
+
+        <div class="card">
+            <i class="fa-solid fa-layer-group card-icon"></i> <h3>Todas las Loterías</h3>
+            <p>Juega Triple Zulia, Chance, Táchira y más. Toda la variedad de sorteos en un solo lugar.</p>
+        </div>
+
+        <div class="card">
+            <i class="fa-solid fa-hand-holding-dollar card-icon"></i> <h3>Pagos Rápidos</h3>
+            <p>Al ganar, tu premio se acredita al instante. Solicita tu retiro seguro y sin complicaciones.</p>
+        </div>
+    </div>
+</div>
+
+<section class="steps-section">
+    <div class="container">
+        <div class="section-header">
+            <h2>¿Cómo jugar en Felmar?</h2>
+            <p>Empieza a ganar en 3 simples pasos</p>
+        </div>
+
+        <div class="steps-grid">
+            <div class="step-item">
+                <div class="icon-circle">
+                    <i class="fa-solid fa-user-plus"></i>
+                </div>
+                <h3>1. Regístrate</h3>
+                <p>Crea tu cuenta en segundos. Es gratis, rápido y seguro.</p>
+            </div>
+
+            <div class="step-connector">
+                <i class="fa-solid fa-chevron-right"></i>
+            </div>
+
+            <div class="step-item">
+                <div class="icon-circle">
+                    <i class="fa-solid fa-wallet"></i>
+                </div>
+                <h3>2. Recarga</h3>
+                <p>Abona saldo a tu cuenta mediante pago móvil o transferencia.</p>
+            </div>
+
+            <div class="step-connector">
+                <i class="fa-solid fa-chevron-right"></i>
+            </div>
+
+            <div class="step-item">
+                <div class="icon-circle">
+                    <i class="fa-solid fa-ticket"></i>
+                </div>
+                <h3>3. ¡Gana!</h3>
+                <p>Elige tu lotería favorita, selecciona tus números y espera el sorteo.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="results-preview">
+    <div class="container">
+        <div class="section-header">
+            <h2><i class="fa-solid fa-trophy" style="color: var(--accent-gold);"></i> Resultados Destacados</h2>
+            <p>Estos fueron los números ganadores de los sorteos principales de ayer</p>
+        </div>
+
+        <div class="results-carousel-wrapper">
+            
+            <button class="carousel-control prev" onclick="moveResults(-1)">
+                <i class="fa-solid fa-chevron-left"></i>
+            </button>
+
+            <div class="results-track-container">
+                
+                <div class="results-slide active-result">
+                    <div class="results-grid">
+                        <div class="result-card">
+                            <div class="lottery-badge zulia">TRIPLE ZULIA</div>
+                            <div class="draw-info">
+                                <span><i class="fa-regular fa-clock"></i> 12:45 PM</span>
+                                <span class="draw-date">Ayer</span>
+                            </div>
+                            <div class="winning-number"><span>482 A</span></div>
+                        </div>
+
+                        <div class="result-card">
+                            <div class="lottery-badge lotto-activo">LOTTO ACTIVO</div>
+                            <div class="draw-info">
+                                <span><i class="fa-regular fa-clock"></i> 01:00 PM</span>
+                                <span class="draw-date">Ayer</span>
+                            </div>
+                            <div class="animal-result">
+                                <span class="iconify animal-icon" data-icon="noto:dolphin"></span> <span class="animal-name">0 - Delfín</span>
+                            </div>
+                        </div>
+
+                        <div class="result-card">
+                            <div class="lottery-badge caracas">TRIPLE CARACAS</div>
+                            <div class="draw-info">
+                                <span><i class="fa-regular fa-clock"></i> 01:00 PM</span>
+                                <span class="draw-date">Ayer</span>
+                            </div>
+                            <div class="winning-number"><span>915 B</span></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="results-slide">
+                    <div class="results-grid">
+                        
+                        <div class="result-card">
+                            <div class="lottery-badge granjita">LA GRANJITA</div>
+                            <div class="draw-info">
+                                <span><i class="fa-regular fa-clock"></i> 12:00 PM</span>
+                                <span class="draw-date">Ayer</span>
+                            </div>
+                            <div class="animal-result">
+                                <span class="iconify animal-icon" data-icon="noto:ox"></span>
+                                <span class="animal-name">2 - Toro</span>
+                            </div>
+                        </div>
+
+                        <div class="result-card">
+                            <div class="lottery-badge tachira">TRIPLE TÁCHIRA</div>
+                            <div class="draw-info">
+                                <span><i class="fa-regular fa-clock"></i> 04:00 PM</span>
+                                <span class="draw-date">Ayer</span>
+                            </div>
+                            <div class="winning-number"><span>033 C</span></div>
+                        </div>
+
+                        <div class="result-card">
+                            <div class="lottery-badge selva-plus">SELVA PLUS</div>
+                            <div class="draw-info">
+                                <span><i class="fa-regular fa-clock"></i> 01:00 PM</span>
+                                <span class="draw-date">Ayer</span>
+                            </div>
+                            <div class="animal-result">
+                                <span class="iconify animal-icon" data-icon="noto:tiger-face"></span>
+                                <span class="animal-name">10 - Tigre</span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <button class="carousel-control next" onclick="moveResults(1)">
+                <i class="fa-solid fa-chevron-right"></i>
+            </button>
+
+        </div>
+
+        <div class="carousel-dots-container">
+            <span class="dot active-dot" onclick="currentResultSlide(0)"></span>
+            <span class="dot" onclick="currentResultSlide(1)"></span>
+        </div>
+
+        <div style="margin-top: 30px;">
+            <a href="{% url 'results' %}" class="btn btn-outline" style="border-color: var(--primary); color: var(--primary);">
+                <i class="fa-solid fa-list-ol"></i> Ver Todos los Resultados
+            </a>
+        </div>
+    </div>
+</section>
+
+<section class="brands-section">
+    <div class="container">
+        <p class="brands-title">Somos agencia autorizada de las principales operadoras</p>
+        
+        <div class="brands-grid">          
+            
+            <div class="brand-item">
+                <span class="brand-text" style="color: #0054a6;">TRIPLE</span>
+                <span class="brand-text-bold" style="color: #0072bc;">ZULIA</span>
+            </div>
+
+            <div class="brand-item">
+                <span class="brand-text" style="color: #c0392b;">TRIPLE</span>
+                <span class="brand-text-bold" style="color: #c0392b;">CARACAS</span>
+            </div>
+
+            <div class="brand-item">
+                <span class="brand-text" style="color: #e67e22;">TRIPLE</span>
+                <span class="brand-text-bold" style="color: #d35400;">CHANCE</span>
+            </div>
+
+            <div class="brand-item">
+                <span class="brand-text" style="color: #f1c40f;">TRIPLE</span>
+                <span class="brand-text-bold" style="color: #f39c12;">TÁCHIRA</span>
+            </div>
+
+            <div class="brand-item">
+                <span class="brand-text" style="color: #8e44ad;">TRIPLE</span>
+                <span class="brand-text-bold" style="color: #9b59b6;">ZAMORANO</span>
+            </div>
+
+            <div class="brand-item">
+                <span class="brand-text" style="color: #e91e63;">TRIPLE</span>
+                <span class="brand-text-bold" style="color: #c2185b;">CALIENTE</span>
+            </div>
+
+            <div class="brand-item">
+                <span class="brand-text-bold" style="color: #d32f2f;">LOTTO</span>
+                <span class="brand-sub" style="background: #d32f2f;">ACTIVO</span>
+            </div>
+
+            <div class="brand-item">
+                <span class="brand-text-bold" style="color: #27ae60;">LA</span>
+                <span class="brand-text-bold" style="color: #2ecc71;">GRANJITA</span>
+            </div>
+
+            <div class="brand-item">
+                <span class="brand-text-bold" style="color: #134e5e;">SELVA</span>
+                <span class="brand-sub" style="background: #71b280;">PLUS</span>
+            </div>
+
+            <div class="brand-item">
+                <span class="brand-text-bold" style="color: #795548;">GUACHARITO</span>
+            </div>
+
+            <div class="brand-item">
+                <span class="brand-text-bold" style="color: #3e2723;">EL</span>
+                <span class="brand-text-bold" style="color: #5d4037;">GUÁCHARO</span>
+            </div>
+
+            <div class="brand-item">
+                <span class="brand-text-bold" style="color: #009688;">LOTTO</span>
+                <span class="brand-sub" style="background: #009688;">CHAIMA</span>
+            </div>
+
+            <div class="brand-item">
+                <span class="brand-text-bold" style="color: #fbc02d;">LOTTO</span>
+                <span class="brand-sub" style="background: #fbc02d; color: #333;">REY</span>
+            </div>
+
+            <div class="brand-item">
+                <span class="brand-text-bold" style="color: #1565c0;">CÓNDOR</span>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<a href="https://maps.app.goo.gl/EAobifFiBGanB1ev7" target="_blank" class="floating-map-btn" title="Ver Ubicación en Mapa">
+    <i class="fas fa-map-marker-alt"></i>
+</a>
+
+{% endblock %}
+
+{% block scripts %}
+    <script src="{% static 'core/js/carousel.js' %}"></script>
+    <script src="{% static 'core/js/main.js' %}"></script>
+    <script src="https://code.iconify.design/3/3.1.0/iconify.min.js"></script>
+{% endblock %}
