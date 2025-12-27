@@ -144,6 +144,24 @@
         "date": "2025-12-27"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "354 A",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "285 B",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "426 C",
+        "date": "2025-12-27"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "041 A",
@@ -159,6 +177,24 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "690 C",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "641 A",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "498 B",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "754 C",
         "date": "2025-12-27"
     },
     {
@@ -213,6 +249,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "225 C",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "929 A",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "538 B",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "318 C",
         "date": "2025-12-27"
     },
     {
@@ -291,6 +345,12 @@
         "lottery": "Lotto Activo",
         "time": "04:00 PM",
         "result": "9 - Aguila",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "35 - Jirafa",
         "date": "2025-12-27"
     },
     {
@@ -402,6 +462,12 @@
         "date": "2025-12-27"
     },
     {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "18 - Burro",
+        "date": "2025-12-27"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "29 - Elefante",
@@ -510,6 +576,12 @@
         "date": "2025-12-27"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "34 - Venado",
+        "date": "2025-12-27"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "32 - Ardilla",
@@ -555,6 +627,12 @@
         "lottery": "Lotto Rey",
         "time": "03:30 PM",
         "result": "9 - Aguila",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "04:30 PM",
+        "result": "15 - Zorro",
         "date": "2025-12-27"
     },
     {
@@ -609,6 +687,12 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "29 - Elefante",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "22 - Camello",
         "date": "2025-12-27"
     },
     {
@@ -669,6 +753,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "05 - Leon",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "03 - Ciempies",
         "date": "2025-12-27"
     },
     {
