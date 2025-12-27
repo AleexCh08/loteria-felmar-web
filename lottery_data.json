@@ -378,6 +378,12 @@
         "date": "2025-12-27"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "57 - Pato",
+        "date": "2025-12-27"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -513,6 +519,24 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "27 - Perro",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "834 A",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "725 B",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "014 C",
         "date": "2025-12-27"
     },
     {
