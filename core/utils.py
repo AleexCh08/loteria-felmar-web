@@ -4,262 +4,49 @@ from django.utils import timezone
 from datetime import datetime, timedelta
 from .models import Result, Ticket
 
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/AleexCh08/loteria-felmar-web/feature-api-github/lottery_data.json"
+
 def scrape_lottery_results():
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    }
-    today = timezone.localtime(timezone.now()).date()
     log_messages = []
     count = 0
-
-    # ==========================================
-    # PARTE 1: TRIPLES (Tablas)
-    # ==========================================
-    url_triples = "https://www.loteriadehoy.com/loterias/resultados/"
-    map_triples = {
-        'Triple Zulia': 'Triple Zulia', 
-        'Triple Chance': 'Triple Chance', 
-        'Triple Caracas': 'Triple Caracas',
-        'Triple Zamorano': 'Triple Zamorano', 
-        'Triple Caliente': 'Triple Caliente', 
-    }
+    today = timezone.localtime(timezone.now()).date()
 
     try:
-        response = requests.get(url_triples, headers=headers, timeout=10)
-        soup = BeautifulSoup(response.text, 'html.parser')
+        response = requests.get(GITHUB_RAW_URL, timeout=15)
+        response.raise_for_status() 
         
-        tables = soup.find_all('table', class_='resultados')
-        
-        for table in tables:
-            th = table.find('th')
-            if not th: continue
-            header_text = th.get_text(strip=True)
+        data = response.json() 
+
+        for item in data:
+            lottery_name = item['lottery']
+            draw_time = item['time']
+            result_val = item['result']
             
-            detected_name = None
-            for web_name, db_name in map_triples.items():
-                if web_name.lower() in header_text.lower():
-                    detected_name = db_name
-                    break
-            
-            if detected_name:
-                rows = table.find('tbody').find_all('tr') if table.find('tbody') else []
-                for row in rows:
-                    if 'ingrid' in row.get('class', []): continue
-                    cols = row.find_all('td')
-                    if len(cols) < 2: continue
-                    
-                    raw_time = cols[0].get_text(strip=True).upper()
-                    time_match = re.search(r'(\d{1,2}:\d{2}\s?(?:AM|PM))', raw_time)
-                    
-                    if time_match:
-                        clean_time = time_match.group(1)
-                        if detected_name == 'Triple Zamorano':
-                            target_columns = [(1, 'A'), (2, 'C')]
-                        else:
-                            target_columns = [(1, 'A'), (2, 'B'), (3, 'C')]
-                        for col_idx, letter in target_columns:
-                            if len(cols) > col_idx:
-                                raw_val = cols[col_idx].get_text(strip=True)
-                                num_match = re.search(r'\b(\d{3})\b', raw_val)
-                                if num_match:
-                                    final_val = f"{num_match.group(1)} {letter}"
-                                    obj, created = Result.objects.get_or_create(
-                                        lottery=detected_name, draw_time=clean_time, result_value=final_val, date=today,
-                                        defaults={'is_manual': False}
-                                    )
-                                    if created:
-                                        count += 1
-                                        log_messages.append(f"[TRIPLE] {detected_name} {clean_time} -> {final_val}")
+            obj, created = Result.objects.get_or_create(
+                lottery=lottery_name,
+                draw_time=draw_time,
+                date=today, 
+                defaults={
+                    'result_value': result_val,
+                    'is_manual': False
+                }
+            )
+
+            if created:
+                count += 1
+                log_messages.append(f"[{lottery_name}] {draw_time} -> {result_val}")
+            elif obj.result_value != result_val:
+                obj.result_value = result_val
+                obj.save()
+                log_messages.append(f"[CORRECCIÓN] {lottery_name} {draw_time} -> {result_val}")
 
     except Exception as e:
-        log_messages.append(f"Error Triples: {str(e)}")
-
-    # ==========================================
-    # PARTE 2: ANIMALITOS (Tarjetas)
-    # ==========================================
-    url_animals = "https://www.loteriadehoy.com/animalitos/resultados/"
-    map_animals = {
-        'Lotto Activo': 'Lotto Activo',
-        'La Granjita': 'Granjita',
-        'Selva Plus': 'Selva Plus',
-        'El Guacharito Millonario': 'Guacharito',
-        'Guacharo Activo': 'Guacharo',
-        'Loto Chaima': 'Lotto Chaima',
-        'Lotto Rey': 'Lotto Rey',     
-    }
-
-    try:
-        response = requests.get(url_animals, headers=headers, timeout=10)
-        soup = BeautifulSoup(response.text, 'html.parser')
-
-        title_divs = soup.find_all('div', class_='title-center')
-        
-        for title_div in title_divs:
-            h3 = title_div.find('h3')
-            if not h3: continue
-            
-            web_name = h3.get_text(strip=True)
-
-            detected_animal_lottery = None
-            for key, val in map_animals.items():
-                if key.lower() in web_name.lower():
-                    remainder = web_name.lower().replace(key.lower(), "")
-                    if any(c.isalnum() for c in remainder):
-                        continue
-                    detected_animal_lottery = val
-                    break
-            
-            if detected_animal_lottery:
-                results_row = title_div.find_next_sibling('div', class_='row')
-                
-                if results_row:
-                    cards = results_row.find_all('div', class_=lambda x: x and 'col-' in x)
-                    
-                    for card in cards:
-                        h5 = card.find('h5')
-                        if not h5: continue
-                        raw_time = h5.get_text(strip=True).upper()
-
-                        h4 = card.find('h4')
-                        if not h4: continue
-                        raw_result = " ".join(h4.get_text().split()) 
-                        
-                        time_match = re.search(r'(\d{1,2}:\d{2}\s?(?:AM|PM))', raw_time)
-                        
-                        if time_match:
-                            clean_time = time_match.group(1)
-
-                            res_match = re.match(r'^(\d{1,2}|00)\s+(.+)$', raw_result)
-                            
-                            if res_match:
-                                num = res_match.group(1)
-                                name = res_match.group(2)
-                                final_val = f"{num} - {name}"
-                                
-                                obj, created = Result.objects.get_or_create(
-                                    lottery=detected_animal_lottery,
-                                    draw_time=clean_time,
-                                    date=today,
-                                    defaults={'result_value': final_val, 'is_manual': False}
-                                )
-                                
-                                if created:
-                                    count += 1
-                                    log_messages.append(f"[ANIMAL] {detected_animal_lottery} {clean_time} -> {final_val}")
-                                elif obj.result_value != final_val:
-                                    obj.result_value = final_val
-                                    obj.save()
-
-    except Exception as e:
-        log_messages.append(f"Error Animalitos: {str(e)}")
-
-    # ==========================================
-    # PARTE 3: TÁCHIRA (URL ESPECÍFICA)
-    # ==========================================
-    try:
-        url_tachira = "https://loteriadehoy.com/loteria/tripletachira/resultados/"
-        
-        response = requests.get(url_tachira, headers=headers, timeout=10)
-        soup = BeautifulSoup(response.text, 'html.parser')
-
-        table = soup.find('table', class_='resultados')
-        
-        if table and table.find('tbody'):
-            rows = table.find('tbody').find_all('tr')
-            
-            for row in rows:
-                cols = row.find_all('td')
-                if len(cols) < 4: continue 
-                raw_time = cols[0].get_text(strip=True).upper()
-                time_match = re.search(r'(\d{1,2}:\d{2}\s?(?:AM|PM))', raw_time)
-                
-                if time_match:
-                    clean_time = time_match.group(1)
-                    target_columns = [(1, 'A'), (2, 'B'), (3, 'C')]
-                    
-                    for col_idx, letter in target_columns:
-                        raw_val = cols[col_idx].get_text(strip=True) 
-                        num_match = re.search(r'\b(\d{3})\b', raw_val)
-                        
-                        if num_match:
-                            number = num_match.group(1)
-                            final_val = f"{number} {letter}"
-                            
-                            obj, created = Result.objects.get_or_create(
-                                lottery='Triple Tachira', 
-                                draw_time=clean_time, 
-                                result_value=final_val, 
-                                date=today,
-                                defaults={'is_manual': False}
-                            )
-                            if created:
-                                count += 1
-                                log_messages.append(f"[TACHIRA_EXT] Triple Táchira {clean_time} -> {final_val}")
-
-    except Exception as e:
-        log_messages.append(f"Error Táchira Específico: {str(e)}")
-
-    # ==================
-    # PARTE 4: CÓNDOR 
-    # ==================
-    try:
-        url_condor = "https://tripletachira.com/condor.php"
-
-        condor_hours = {
-            '9':  '09:00 AM',
-            '10': '10:00 AM',
-            '11': '11:00 AM',
-            '12': '12:00 PM',
-            '1':  '01:00 PM',
-            '2':  '02:00 PM',
-            '3':  '03:00 PM',
-            '4':  '04:00 PM',
-            '5':  '05:00 PM',
-            '6':  '06:00 PM',
-            '7':  '07:00 PM'
-        }
-
-        response = requests.get(url_condor, headers=headers, timeout=10)
-        pattern = r"var tipos = JSON\.stringify\('(\[.*?\])'\);"
-        match = re.search(pattern, response.text)
-
-        if match:
-            json_str = match.group(1).replace("\\", "")
-            data = json.loads(json_str)
-
-            for item in data:
-                raw_id = item.get('id', '') 
-
-                if raw_id.startswith('CondorGana'):
-                    draw_num = raw_id.replace('CondorGana', '')
-                    
-                    if draw_num in condor_hours:
-                        draw_time = condor_hours[draw_num]
-                        number = item.get('N', '').strip()
-                        name = item.get('S', '').strip()
-
-                        if number and name:
-                            final_val = f"{number} - {name.title()}"
-                            
-                            obj, created = Result.objects.get_or_create(
-                                lottery='Condor', 
-                                draw_time=draw_time, 
-                                date=today,
-                                defaults={'result_value': final_val, 'is_manual': False}
-                            )
-                            if created:
-                                count += 1
-                                log_messages.append(f"[CONDOR_OK] Condor {draw_time} -> {final_val}")
-
-    except Exception as e:
-        log_messages.append(f"Error Condor: {str(e)}")
+        return False, f"Error conectando a GitHub: {str(e)}"
 
     if count > 0:
-        return True, f"¡Proceso Terminado! {count} nuevos resultados.\n" + "\n".join(log_messages)
-    elif log_messages:
-        return True, "Escaneo listo. Sin novedades (validado Triples y Animalitos)."
+        return True, f"¡Sincronizado con GitHub! {count} resultados nuevos.\n" + "\n".join(log_messages)
     else:
-        return True, "Escaneo listo. No se encontraron datos nuevos."
+        return True, "Sincronizado con GitHub. Sin datos nuevos."
 
 def check_ticket_results():
     pending_tickets = Ticket.objects.filter(status='pendiente')
