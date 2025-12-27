@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Lotería Felmar - {% block title %}Inicio{% endblock %}</title>  
     <link rel="stylesheet" href="{% static 'core/css/styles.css' %}">
+    <meta name="theme-color" content="#273185"> <link rel="manifest" href="{% static 'core/manifest.json' %}">
     {% block styles %}{% endblock %}
 
     <link rel="shortcut icon" type="image/jpg" href="{% static 'core/img/favicon.ico' %}">
@@ -51,6 +52,18 @@
             <p><i class="fa-solid fa-location-dot"></i> Metro Zoológico de Caricuao, Av. Ppal, Sector Ud3, C.C. Caricuao, PB Local 19, Caracas</p>
         </div>
     </footer>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('/service-worker.js')
+                    .then(function(registration) {
+                        console.log('ServiceWorker registrado con éxito: ', registration.scope);
+                    }, function(err) {
+                        console.log('Fallo al registrar ServiceWorker: ', err);
+                    });
+            });
+        }
+    </script>
     {% block scripts %}  
     {% endblock %}
 </body>
