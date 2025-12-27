@@ -162,6 +162,24 @@
         "date": "2025-12-27"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "692 A",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "580 B",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "237 C",
+        "date": "2025-12-27"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "041 A",
@@ -474,6 +492,12 @@
         "date": "2025-12-27"
     },
     {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "00 - Ballena",
+        "date": "2025-12-27"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "29 - Elefante",
@@ -591,6 +615,12 @@
         "lottery": "Selva Plus",
         "time": "05:00 PM",
         "result": "34 - Venado",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "06:00 PM",
+        "result": "0 - Delfin",
         "date": "2025-12-27"
     },
     {
@@ -714,6 +744,12 @@
         "date": "2025-12-27"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "50 - Canario",
+        "date": "2025-12-27"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "834 A",
@@ -729,6 +765,24 @@
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "014 C",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "849 A",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "094 B",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "598 C",
         "date": "2025-12-27"
     },
     {
@@ -777,6 +831,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "03 - Ciempies",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "74 - Turpial",
         "date": "2025-12-27"
     },
     {
