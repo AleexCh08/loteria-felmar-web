@@ -1,5 +1,4 @@
 import requests, re, json
-from bs4 import BeautifulSoup
 from django.utils import timezone
 from datetime import datetime, timedelta
 from .models import Result, Ticket
@@ -13,21 +12,24 @@ def scrape_lottery_results():
 
     try:
         response = requests.get(GITHUB_RAW_URL, timeout=15)
-        response.raise_for_status() 
+        response.raise_for_status()
         
-        data = response.json() 
+        data = response.json()
 
         for item in data:
-            lottery_name = item['lottery']
-            draw_time = item['time']
-            result_val = item['result']
+            lottery_name = item.get('lottery')
+            draw_time = item.get('time')
+            result_val = item.get('result')
             
+            if not lottery_name or not draw_time or not result_val:
+                continue
+
             obj, created = Result.objects.get_or_create(
                 lottery=lottery_name,
                 draw_time=draw_time,
-                date=today, 
+                date=today,
+                result_value=result_val, 
                 defaults={
-                    'result_value': result_val,
                     'is_manual': False
                 }
             )
@@ -35,18 +37,14 @@ def scrape_lottery_results():
             if created:
                 count += 1
                 log_messages.append(f"[{lottery_name}] {draw_time} -> {result_val}")
-            elif obj.result_value != result_val:
-                obj.result_value = result_val
-                obj.save()
-                log_messages.append(f"[CORRECCIÓN] {lottery_name} {draw_time} -> {result_val}")
-
+            
     except Exception as e:
-        return False, f"Error conectando a GitHub: {str(e)}"
+        return False, f"Error sincronizando con GitHub: {str(e)}"
 
     if count > 0:
-        return True, f"¡Sincronizado con GitHub! {count} resultados nuevos.\n" + "\n".join(log_messages)
+        return True, f"¡Sincronizado! {count} resultados nuevos.\n" + "\n".join(log_messages)
     else:
-        return True, "Sincronizado con GitHub. Sin datos nuevos."
+        return True, "Sincronizado. Sin datos nuevos."
 
 def check_ticket_results():
     pending_tickets = Ticket.objects.filter(status='pendiente')

@@ -6,7 +6,6 @@ import subprocess
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-# Archivo donde guardaremos la "API"
 JSON_FILENAME = "lottery_data.json"
 
 def run_scraper():
@@ -14,7 +13,7 @@ def run_scraper():
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
     today_str = datetime.now().strftime("%Y-%m-%d")
-    scraped_data = [] # Aquí acumulamos los resultados
+    scraped_data = [] 
     
     print("--- INICIANDO SCRAPING LOCAL ---")
 
@@ -57,7 +56,6 @@ def run_scraper():
                     
                     if time_match:
                         clean_time = time_match.group(1)
-                        # Lógica de Zamorano (Sin B)
                         if detected_name == 'Triple Zamorano':
                             target_columns = [(1, 'A'), (2, 'C')]
                         else:
@@ -207,12 +205,10 @@ def run_scraper():
     # ==========================================
     print(f"Total encontrados: {len(scraped_data)}")
     
-    # 1. Guardar JSON local
     with open(JSON_FILENAME, 'w', encoding='utf-8') as f:
         json.dump(scraped_data, f, indent=4, ensure_ascii=False)
     print(f"Archivo {JSON_FILENAME} actualizado.")
 
-    # 2. Subir a GitHub automáticamente
     try:
         print("Subiendo a GitHub...")
         subprocess.run(["git", "add", JSON_FILENAME], check=True)
