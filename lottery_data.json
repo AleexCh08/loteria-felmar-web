@@ -408,6 +408,12 @@
         "date": "2025-12-27"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "5 - Leon",
+        "date": "2025-12-27"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -522,6 +528,12 @@
         "date": "2025-12-27"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "96 - Caballito De Mar",
+        "date": "2025-12-27"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -633,6 +645,12 @@
         "lottery": "Lotto Rey",
         "time": "04:30 PM",
         "result": "15 - Zorro",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "05:30 PM",
+        "result": "4 - Alacran",
         "date": "2025-12-27"
     },
     {
