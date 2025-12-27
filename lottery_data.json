@@ -234,6 +234,24 @@
         "date": "2025-12-27"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "039 A",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "892 B",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "424 C",
+        "date": "2025-12-27"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "670 A",
@@ -321,6 +339,24 @@
         "lottery": "Triple Caliente",
         "time": "04:30 PM",
         "result": "318 C",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "500 A",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "901 B",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "048 C",
         "date": "2025-12-27"
     },
     {
@@ -642,6 +678,12 @@
         "date": "2025-12-27"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "49 - Pereza",
+        "date": "2025-12-27"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -777,6 +819,12 @@
         "lottery": "Lotto Rey",
         "time": "06:30 PM",
         "result": "2 - Toro",
+        "date": "2025-12-27"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "07:30 PM",
+        "result": "16 - Oso",
         "date": "2025-12-27"
     },
     {
