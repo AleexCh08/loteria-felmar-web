@@ -4,6 +4,7 @@ from django.contrib.auth.models import User
 from django.http import HttpResponseRedirect
 from django.urls import path, reverse
 from .models import Profile, Ticket, Result, Payment
+from django.core.management import call_command
 from .utils import scrape_lottery_results
 
 class ProfileInline(admin.StackedInline):
@@ -48,12 +49,11 @@ class ResultAdmin(admin.ModelAdmin):
         return custom_urls + urls
 
     def run_scraper_view(self, request):
-        success, message = scrape_lottery_results()
-
-        if success:
-            self.message_user(request, message, level=messages.SUCCESS)
-        else:
-            self.message_user(request, message, level=messages.ERROR)
+        try:
+            call_command('traer_datos')
+            self.message_user(request, "Sincronización y Verificación de Tickets completada.", level=messages.SUCCESS)
+        except Exception as e:
+            self.message_user(request, f"Error en el proceso: {str(e)}", level=messages.ERROR)
 
         url = reverse('admin:core_result_changelist')
         return HttpResponseRedirect(url)
