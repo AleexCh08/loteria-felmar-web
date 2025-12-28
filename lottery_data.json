@@ -180,6 +180,24 @@
         "date": "2025-12-28"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "780 A",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "430 B",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "671 C",
+        "date": "2025-12-28"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -243,6 +261,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "30 - Caiman",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "9 - Aguila",
         "date": "2025-12-28"
     },
     {
@@ -312,6 +336,12 @@
         "date": "2025-12-28"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "7 - Perico",
+        "date": "2025-12-28"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -375,6 +405,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "46 - Puma",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "26 - Vaca",
         "date": "2025-12-28"
     },
     {
@@ -510,6 +546,12 @@
         "date": "2025-12-28"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "22 - Camello",
+        "date": "2025-12-28"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "12 - Caballo",
@@ -642,6 +684,12 @@
         "date": "2025-12-28"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "13 - Mono",
+        "date": "2025-12-28"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "75 - Condor",
@@ -693,6 +741,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "28 - Zamuro",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "74 - Turpial",
         "date": "2025-12-28"
     },
     {
