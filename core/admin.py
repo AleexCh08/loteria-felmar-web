@@ -26,7 +26,7 @@ admin.site.register(User, UserAdmin)
 
 @admin.register(Ticket)
 class TicketAdmin(admin.ModelAdmin):
-    list_display = ('id', 'user', 'lottery', 'play_value', 'amount', 'created_at', 'status')
+    list_display = ('id', 'user', 'lottery', 'play_value', 'draw_time', 'amount', 'created_at', 'status')
     list_filter = ('status', 'lottery', 'created_at')
     search_fields = ('user__username', 'play_value')
     list_editable = ('status',)
@@ -94,3 +94,7 @@ class PaymentAdmin(admin.ModelAdmin):
     @admin.action(description='❌ Rechazar Pagos')
     def reject_payments(self, request, queryset):
         queryset.update(status='rechazado')
+
+admin.site.site_header = "Administración Lotería Felmar"
+admin.site.site_title = "Admin Felmar"    
+admin.site.index_title = "Panel de Control"

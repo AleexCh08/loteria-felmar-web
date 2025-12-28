@@ -1,0 +1,20 @@
+{% extends "admin/base.html" %}
+{% load static %}
+
+{% block title %}
+    {{ site_title|default:"Admin Felmar" }} {% if title %} - {{ title }} {% endif %}
+{% endblock %}
+
+{% block extrahead %}
+    {{ block.super }}
+    <link rel="shortcut icon" type="image/x-icon" href="{% static 'core/img/favicon.ico' %}">
+{% endblock %}
+
+{% block branding %}
+<h1 id="site-name">
+    <a href="{% url 'admin:index' %}">
+        <img src="{% static 'core/img/favicon.ico' %}" height="20px" style="margin-right: 5px;">
+        Administración Lotería Felmar
+    </a>
+</h1>
+{% endblock %}
