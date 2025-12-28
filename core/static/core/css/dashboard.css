@@ -60,6 +60,7 @@
     text-decoration: none;
     color: var(--text-main);
     border: 1px solid #eee;
+    border-bottom: 4px solid #eee;
     transition: transform 0.2s, box-shadow 0.2s;
     display: flex;
     flex-direction: column;
@@ -72,6 +73,50 @@
     transform: translateY(-3px);
     box-shadow: 0 5px 15px rgba(0,0,0,0.08);
     border-color: var(--accent-gold);
+}
+
+.action-card:first-child {
+    border-bottom-color: var(--primary);
+}
+.action-card:first-child:hover {
+    border-color: var(--primary);
+    background-color: #fcfeff; /* Un fondo muy sutil azulado al hover */
+}
+
+/* 2. Recargar Saldo (Dorado) */
+#btnRecharge {
+    border-bottom-color: var(--accent-gold);
+}
+#btnRecharge:hover {
+    border-color: var(--accent-gold);
+    background-color: #fffdf8;
+}
+
+/* 3. Mis Jugadas (Verde) */
+#btnHistory {
+    border-bottom-color: #27ae60;
+}
+#btnHistory:hover {
+    border-color: #27ae60;
+    background-color: #f8fffa;
+}
+
+/* 4. Mi Perfil (Gris/Azul Oscuro) */
+#btnProfileInfo {
+    border-bottom-color: var(--text-light);
+}
+#btnProfileInfo:hover {
+    border-color: var(--text-light);
+    background-color: #fcfcfc;
+}
+
+/* 5. Cerrar Sesión (Rojo Alerta) */
+#btnLogout {
+    border-bottom-color: var(--alert);
+}
+#btnLogout:hover {
+    border-color: var(--alert);
+    background-color: #fffafa;
 }
 
 .action-icon {
