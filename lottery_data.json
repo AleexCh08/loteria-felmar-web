@@ -162,6 +162,12 @@
         "date": "2025-12-28"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "31 - Lapa",
+        "date": "2025-12-28"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -195,6 +201,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "40 - Avispa",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "13 - Mono",
         "date": "2025-12-28"
     },
     {
@@ -270,6 +282,12 @@
         "date": "2025-12-28"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "02:00 PM",
+        "result": "5 - Leon",
+        "date": "2025-12-28"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "12 - Caballo",
@@ -342,6 +360,12 @@
         "date": "2025-12-28"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2025-12-28"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "75 - Condor",
@@ -363,6 +387,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "0 - Delfin",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "61 - Panda",
         "date": "2025-12-28"
     },
     {
