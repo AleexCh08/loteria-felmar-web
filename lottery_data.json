@@ -270,6 +270,12 @@
         "date": "2025-12-28"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "50 - Canario",
+        "date": "2025-12-28"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "35 - Jirafa",
@@ -345,6 +351,12 @@
         "lottery": "Lotto Rey",
         "time": "01:30 PM",
         "result": "9 - Aguila",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "02:30 PM",
+        "result": "5 - Leon",
         "date": "2025-12-28"
     },
     {
