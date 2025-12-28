@@ -126,6 +126,24 @@
         "date": "2025-12-28"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "856 A",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "038 B",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "617 C",
+        "date": "2025-12-28"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -171,6 +189,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "33 - Pescado",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "9 - Aguila",
         "date": "2025-12-28"
     },
     {
@@ -270,6 +294,12 @@
         "date": "2025-12-28"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "39 - Lechuza",
+        "date": "2025-12-28"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "68 - Jaguar",
@@ -366,6 +396,12 @@
         "date": "2025-12-28"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "2 - Toro",
+        "date": "2025-12-28"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "12 - Caballo",
@@ -459,6 +495,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "43 - Mariposa",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "14 - Paloma",
         "date": "2025-12-28"
     },
     {
