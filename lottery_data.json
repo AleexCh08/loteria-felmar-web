@@ -90,6 +90,24 @@
         "date": "2025-12-28"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "415 A",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "641 B",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "524 C",
+        "date": "2025-12-28"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -123,6 +141,12 @@
         "lottery": "Lotto Activo",
         "time": "01:00 PM",
         "result": "22 - Camello",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "25 - Gallina",
         "date": "2025-12-28"
     },
     {
