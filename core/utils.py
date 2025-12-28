@@ -1,4 +1,4 @@
-import requests, re, json
+import requests, re, time
 from django.utils import timezone
 from datetime import datetime, timedelta
 from .models import Result, Ticket
@@ -11,7 +11,11 @@ def scrape_lottery_results():
     today = timezone.localtime(timezone.now()).date()
 
     try:
-        response = requests.get(GITHUB_RAW_URL, timeout=15)
+        timestamp = int(time.time())
+        url = f"{GITHUB_RAW_URL}?v={timestamp}"
+
+        response = requests.get(url, timeout=15)
+        response.headers['Cache-Control'] = 'no-cache'
         response.raise_for_status()
         
         data = response.json()
