@@ -198,6 +198,72 @@
         "date": "2025-12-28"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "880 A",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "406 B",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "052 C",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "597 A",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "372 B",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "021 C",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "823 A",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "190 B",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "705 C",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "215 A",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "138 C",
+        "date": "2025-12-28"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -480,6 +546,12 @@
         "date": "2025-12-28"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "13 - Mono",
+        "date": "2025-12-28"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "35 - Jirafa",
@@ -615,6 +687,12 @@
         "lottery": "Lotto Rey",
         "time": "06:30 PM",
         "result": "8 - Raton",
+        "date": "2025-12-28"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "07:30 PM",
+        "result": "19 - Chivo",
         "date": "2025-12-28"
     },
     {
