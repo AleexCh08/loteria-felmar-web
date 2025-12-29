@@ -455,7 +455,7 @@ input[type="checkbox"]:checked + .option-chip {
 .tc-date { font-size: 0.75rem; color: #999; }
 
 .tc-center { display: flex; flex-direction: column; align-items: center; width: 40%; }
-.tc-value { font-size: 1.2rem; font-weight: 800; color: var(--primary); letter-spacing: 1px; }
+.tc-value { font-size: 1.2rem; font-weight: 800; color: var(--primary); letter-spacing: 1px; white-space: nowrap;}
 .tc-type { font-size: 0.7rem; color: #888; text-transform: uppercase; }
 
 .tc-right { display: flex; flex-direction: column; align-items: flex-end; width: 30%; gap: 2px; }
@@ -588,7 +588,6 @@ input[type="checkbox"]:checked + .option-chip {
     animation: slideUpCard 0.4s cubic-bezier(0.19, 1, 0.22, 1) forwards;
 }
 
-
 /* --- RESPONSIVIDAD --- */
 /* TABLETS */
 @media (min-width: 481px) and (max-width: 900px) {
@@ -682,6 +681,16 @@ input[type="checkbox"]:checked + .option-chip {
         text-overflow: ellipsis;
     }
 
+    #statusFilter {
+        font-size: 0.75rem !important;
+        margin: 0 auto;       
+    }
+
+    .filters-wrapper {
+        padding: 12px 10px;
+        gap: 8px;
+    }
+
     #historyModal .modal-body > div:first-child {
         gap: 5px !important;
     }
@@ -763,4 +772,5 @@ input[type="checkbox"]:checked + .option-chip {
         justify-content: center;
         align-items: center;
     }
+
 }

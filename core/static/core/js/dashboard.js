@@ -968,10 +968,12 @@ document.addEventListener('DOMContentLoaded', function() {
         filterTickets();
     }
 
+    const statusFilter = document.getElementById('statusFilter');
     function filterTickets() {
         const dateValue = dateFilter ? dateFilter.value : '';
         const typeValue = gameTypeFilter ? gameTypeFilter.value : 'triples';
         const lottoValue = ticketFilter ? ticketFilter.value.toLowerCase() : 'all';
+        const statusValue = statusFilter ? statusFilter.value : 'all';
         
         const tickets = document.querySelectorAll('.ticket-compact');
         const noMsg = document.getElementById('noResultsMessage');
@@ -983,12 +985,14 @@ document.addEventListener('DOMContentLoaded', function() {
             const tDate = ticket.getAttribute('data-date');
             const tType = (ticket.getAttribute('data-gametype') || '').toLowerCase(); 
             const tLotto = ticket.getAttribute('data-lottery').toLowerCase();
+            const tStatus = ticket.getAttribute('data-status');
 
             const matchDate = (dateValue === '') || (tDate === dateValue);
             const matchType = (tType === typeValue);
             const matchLotto = (lottoValue === 'all') || tLotto.includes(lottoValue);
+            const matchStatus = (statusValue === 'all') || (tStatus === statusValue);           
 
-            const isVisible = (matchDate && matchType && matchLotto);
+            const isVisible = (matchDate && matchType && matchLotto && matchStatus);
             
             ticket.style.display = isVisible ? 'flex' : 'none';
             
@@ -1000,6 +1004,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
+    if (statusFilter) statusFilter.addEventListener('change', filterTickets);
     if (gameTypeFilter) {
         gameTypeFilter.addEventListener('change', updateLotteryOptions);
         updateLotteryOptions(); 
