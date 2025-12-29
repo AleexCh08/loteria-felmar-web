@@ -210,6 +210,18 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "475 A",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "506 C",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "11 - Gato",
@@ -258,6 +270,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "18 - Burro",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -303,6 +321,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "12 - Caballo",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "25 - Gallina",
         "date": "2025-12-29"
     },
     {
@@ -408,6 +432,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "9 - Aguila",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "12 - Caballo",
@@ -453,6 +483,12 @@
         "lottery": "Selva Plus",
         "time": "03:00 PM",
         "result": "30 - Caiman",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "18 - Burro",
         "date": "2025-12-29"
     },
     {
@@ -504,6 +540,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "04:30 PM",
+        "result": "4 - Alacran",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -552,6 +594,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "4 - Alacran",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "40 - Avispa",
@@ -585,6 +633,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "45 - Garza",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "05 - Leon",
         "date": "2025-12-29"
     },
     {
