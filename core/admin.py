@@ -5,7 +5,6 @@ from django.http import HttpResponseRedirect
 from django.urls import path, reverse
 from .models import Profile, Ticket, Result, Payment
 from django.core.management import call_command
-from .utils import scrape_lottery_results
 
 class ProfileInline(admin.StackedInline):
     model = Profile

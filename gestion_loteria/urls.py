@@ -22,7 +22,7 @@ urlpatterns = [
     path('api/verify-winners/', trigger_verification, name='verify_winners'),
     path('api/history/', history_api, name='history_api'),
     path('service-worker.js', TemplateView.as_view(
-        template_name="core/js/service-worker.js", 
+        template_name="service-worker.js", 
         content_type='application/javascript'
     ), name='service-worker'),
 ]
