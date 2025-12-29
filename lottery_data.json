@@ -126,6 +126,24 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "197 A",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "864 B",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "923 C",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "073 A",
@@ -333,6 +351,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "24 - Iguana",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "14 - Paloma",
         "date": "2025-12-29"
     },
     {
