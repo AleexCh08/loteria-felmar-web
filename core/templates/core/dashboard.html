@@ -536,27 +536,39 @@
 
         <div class="modal-body" style="flex: 1; overflow-y: auto; padding: 15px; background: #f8f9fa;">
             
-            <div style="margin-bottom: 15px; display: flex; gap: 8px; justify-content: center">
-                
-                <input type="date" id="dateFilter" class="form-input" 
-                       style="padding: 5px; font-size: 0.85rem; width: auto; border-radius: 20px; color: #666;">
+            <div style="background-color: white; padding: 15px; border-radius: 12px; border: 1px solid #e0e0e0; box-shadow: 0 4px 6px rgba(0,0,0,0.02); margin-bottom: 15px; display: flex; flex-direction: column; gap: 10px; align-items: center;">
+                <div style="display: flex; gap: 8px; justify-content: center; width: 100%;">
+                    <input type="date" id="dateFilter" class="form-input" 
+                        style="padding: 5px; font-size: 0.85rem; width: auto; border-radius: 20px; color: #666;">
 
-                <select id="gameTypeFilter" class="form-input" 
-                        style="padding: 5px 10px; font-size: 0.85rem; width: auto; border-radius: 20px;">
-                    <option value="triples" selected>Triples</option>
-                    <option value="animalitos">Animalitos</option>
-                </select>
-
-                <select id="ticketFilter" class="form-input" 
-                        style="padding: 5px 10px; font-size: 0.85rem; width: auto; border-radius: 20px;">
-                    <option value="all">Ver Todas</option>
+                    <select id="gameTypeFilter" class="form-input" 
+                            style="padding: 5px 10px; font-size: 0.85rem; width: auto; border-radius: 20px;">
+                        <option value="triples" selected>Triples</option>
+                        <option value="animalitos">Animalitos</option>
                     </select>
+
+                    <select id="ticketFilter" class="form-input" 
+                            style="padding: 5px 10px; font-size: 0.85rem; width: auto; border-radius: 20px;">
+                        <option value="all">Ver Todas</option>
+                    </select>            
+                </div>
+
+                <div style="display: flex; justify-content: center; width: 100%;">
+                    <select id="statusFilter" class="form-input" 
+                            style="padding: 5px 10px; font-size: 0.85rem; width: auto; border-radius: 20px; text-align: center; border-color: var(--primary);">
+                        <option value="all">Todos los Estados</option>
+                        <option value="pendiente">Pendientes</option>
+                        <option value="ganador">Ganadores</option>
+                        <option value="perdedor">No Ganadores</option>
+                    </select>
+                </div>
+
             </div>
 
             <div class="tickets-container" id="ticketsListContainer" style="display: flex; flex-direction: column; gap: 8px;">
                 
                 {% for ticket in tickets %}
-                <div class="ticket-compact status-border-{{ ticket.status }}" data-lottery="{{ ticket.lottery }}" data-date="{{ ticket.created_at|date:'Y-m-d' }}" data-gametype="{{ ticket.game_type }}">
+                <div class="ticket-compact status-border-{{ ticket.status }}" data-lottery="{{ ticket.lottery }}" data-date="{{ ticket.created_at|date:'Y-m-d' }}" data-gametype="{{ ticket.game_type }}" data-status="{{ ticket.status }}">
                     
                     <div class="tc-left">
                         <span class="tc-lottery">{{ ticket.lottery }}</span>

@@ -210,7 +210,7 @@ def history_api(request):
         p['type'] = 'payment'
         combined_list.append(p)
 
-    combined_list.sort(key=lambda x: x['created_at'], reverse=True)
+    combined_list.sort(key=lambda x: (x['created_at'], x['id'], x['type']), reverse=True)
 
     paginator = Paginator(combined_list, per_page)
     page_obj = paginator.get_page(page_number)
