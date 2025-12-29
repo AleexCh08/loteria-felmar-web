@@ -234,6 +234,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "29 - Elefante",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -372,6 +378,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "87 - Cabra",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "12 - Caballo",
@@ -459,6 +471,12 @@
         "lottery": "Lotto Rey",
         "time": "02:30 PM",
         "result": "30 - Caiman",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "03:30 PM",
+        "result": "20 - Cochino",
         "date": "2025-12-29"
     },
     {
