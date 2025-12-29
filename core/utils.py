@@ -2,8 +2,8 @@ import requests, re, time
 from django.utils import timezone
 from datetime import datetime, timedelta
 from .models import Result, Ticket
-
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/AleexCh08/loteria-felmar-web/feature-api-github/lottery_data.json"
+ 
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/AleexCh08/loteria-felmar-web/feature-api-github-v1/lottery_data.json"
 
 def scrape_lottery_results():
     log_messages = []
@@ -32,7 +32,7 @@ def scrape_lottery_results():
                 lottery=lottery_name,
                 draw_time=draw_time,
                 date=today,
-                result_value=result_val, 
+                result_value=result_val,
                 defaults={
                     'is_manual': False
                 }

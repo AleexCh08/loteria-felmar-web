@@ -117,7 +117,7 @@ def results_view(request):
         'jaguar': 'noto:leopard', 'conejo': 'noto:rabbit', 'bisonte': 'noto:bison',
         'guacamaya': 'game-icons:parrot-head', 'gorila': 'noto:gorilla', 'hipopotamo': 'noto:hippopotamus',
         'turpial': 'openmoji:bird', 'guacharo': 'game-icons:swallow', 'rinoceronte':'noto:rhinoceros',
-        'pinguino': 'noto:penguin', 'antilope':'noto:antelope', 'calamar': 'noto:squid',
+        'pinguino': 'noto:penguin', 'antilope':'noto:water-buffalo', 'calamar': 'noto:squid',
         'murcielago': 'noto:bat', 'cuervo':'game-icons:raven', 'cucaracha': 'noto:cockroach',
         'buho':'noto:owl', 'camaron':'noto:shrimp', 'hamster':'noto:hamster',
         'buey': 'noto:ox', 'cabra': 'noto:goat', 'erizo de mar':'game-icons:urchin',
