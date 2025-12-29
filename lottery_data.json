@@ -144,6 +144,24 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "378 A",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "095 B",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "762 C",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "073 A",
@@ -159,6 +177,24 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "160 C",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "758 A",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "174 B",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "112 C",
         "date": "2025-12-29"
     },
     {
@@ -180,6 +216,24 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "258 A",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "911 B",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "142 C",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "405 A",
@@ -195,6 +249,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "841 C",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "010 A",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "754 B",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "193 C",
         "date": "2025-12-29"
     },
     {
@@ -276,6 +348,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "2 - Toro",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -330,6 +408,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "16 - Oso",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "66 - Lobo",
@@ -381,6 +465,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "14 - Paloma",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "45 - Garza",
         "date": "2025-12-29"
     },
     {
@@ -492,6 +582,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "8 - Raton",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "6 - Rana",
@@ -600,6 +696,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "53 - Caracol",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "40 - Avispa",
@@ -639,6 +741,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "05 - Leon",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "50 - Canario",
         "date": "2025-12-29"
     },
     {
