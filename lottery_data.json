@@ -234,6 +234,24 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "846 A",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "323 B",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "846 C",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "902 A",
@@ -270,6 +288,24 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "227 A",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "036 B",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "051 C",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "405 A",
@@ -303,6 +339,24 @@
         "lottery": "Triple Caliente",
         "time": "04:30 PM",
         "result": "193 C",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "481 A",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "068 B",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "664 C",
         "date": "2025-12-29"
     },
     {
@@ -759,6 +813,12 @@
         "lottery": "Lotto Rey",
         "time": "06:30 PM",
         "result": "19 - Chivo",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "07:30 PM",
+        "result": "34 - Venado",
         "date": "2025-12-29"
     },
     {
