@@ -96,6 +96,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "31 - Lapa",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "66 - Lobo",
@@ -138,6 +144,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "78 - Antilope",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "12 - Caballo",
@@ -177,6 +189,12 @@
         "lottery": "Lotto Rey",
         "time": "10:30 AM",
         "result": "13 - Mono",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "11:30 AM",
+        "result": "5 - Leon",
         "date": "2025-12-29"
     },
     {
