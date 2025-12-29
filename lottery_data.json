@@ -1,8 +1,32 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "593 A",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "388 B",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "037 C",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "11 - Gato",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "4 - Alacran",
         "date": "2025-12-29"
     },
     {
@@ -15,6 +39,12 @@
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "66 - Lobo",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "09:00 AM",
+        "result": "11 - Gato",
         "date": "2025-12-29"
     },
     {
@@ -39,6 +69,12 @@
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "10 - Tigre",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "05 - Leon",
         "date": "2025-12-29"
     }
 ]
