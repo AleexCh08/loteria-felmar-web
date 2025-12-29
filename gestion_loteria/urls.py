@@ -1,5 +1,6 @@
 from django.contrib import admin
 from django.urls import path
+from django.views.generic import TemplateView
 from core.views import (home, login_view, register_view, 
 forgot_password_view, dashboard_view, results_view, 
 custom_logout_view, create_ticket_api, trigger_scraping, 
@@ -20,4 +21,8 @@ urlpatterns = [
     path('api/check-session/', check_session_status, name='check_session'),
     path('api/verify-winners/', trigger_verification, name='verify_winners'),
     path('api/history/', history_api, name='history_api'),
+    path('service-worker.js', TemplateView.as_view(
+        template_name="core/js/service-worker.js", 
+        content_type='application/javascript'
+    ), name='service-worker'),
 ]

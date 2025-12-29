@@ -94,6 +94,7 @@ SESSION_COOKIE_AGE = 1800
 SESSION_SAVE_EVERY_REQUEST = True
 SESSION_COOKIE_HTTPONLY = True
 
-# URL Permitida
-CSRF_TRUSTED_ORIGINS = ['https://proyecto-loteria.serveousercontent.com']
+# URL's Permitidas
+CSRF_TRUSTED_ORIGINS = ['https://proyecto-loteria.serveousercontent.com',
+                        'https://*.trycloudflare.com']
 
