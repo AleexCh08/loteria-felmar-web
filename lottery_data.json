@@ -108,6 +108,24 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "265 A",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "380 B",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "775 C",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "073 A",
@@ -258,6 +276,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "12 - Caballo",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "66 - Lobo",
@@ -297,6 +321,12 @@
         "lottery": "Guacharo",
         "time": "02:00 PM",
         "result": "48 - Puercoespin",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "24 - Iguana",
         "date": "2025-12-29"
     },
     {
@@ -384,6 +414,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "03:00 PM",
+        "result": "30 - Caiman",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "6 - Rana",
@@ -468,6 +504,12 @@
         "date": "2025-12-29"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "54 - Grillo",
+        "date": "2025-12-29"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "40 - Avispa",
@@ -495,6 +537,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "13 - Mono",
+        "date": "2025-12-29"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "45 - Garza",
         "date": "2025-12-29"
     },
     {
