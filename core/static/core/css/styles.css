@@ -388,7 +388,7 @@ footer p {
 
 /* Colores específicos para cada lotería (CSS Puro) */
 .zulia { background: linear-gradient(to right, #0054a6, #0072bc); }
-.caracas { background: linear-gradient(to right, #c0392b, #e74c3c); }
+.caracas { background: linear-gradient(to right, #a51303, #e74c3c); }
 .chance { background: linear-gradient(to right, #e30613, #f9a01b); }
 .tachira { background: linear-gradient(to right, #f39200, #ffcb05); color: #333; }
 .zamorano { background: linear-gradient(to right, #8e44ad, #9b59b6); }

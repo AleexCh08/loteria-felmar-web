@@ -115,8 +115,8 @@ input[type="date"] {
     color: white; 
 }
 
-.guacharito { background: linear-gradient(to right, #795548, #8d6e63); }
-.guacharo { background: linear-gradient(to right, #3e2723, #5d4037); }
+.guacharito { background: linear-gradient(to right, #f7b90e, #f4db84); }
+.guacharo { background: linear-gradient(to right, #661b0d, #dcce3a); }
 .lotto-chaima { background: linear-gradient(to right, #009688, #26a69a); }
 .lotto-rey { background: linear-gradient(to right, #fbc02d, #fdd835); color: #333; }
 .condor { background: linear-gradient(to right, #1565c0, #1e88e5); }
