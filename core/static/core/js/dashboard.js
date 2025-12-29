@@ -1040,6 +1040,11 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
 
                 movements.forEach(mov => {
+                    const uniqueRowId = `hist-row-${mov.type}-${mov.id}`;
+                    if (document.getElementById(uniqueRowId)) {
+                        return; 
+                    }
+
                     let statusClass = 'status-pending';
                     let statusText = 'Pendiente';
                     
@@ -1052,6 +1057,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     }
 
                     const row = document.createElement('tr');
+                    row.id = uniqueRowId; 
+
                     let idHtml = '';
                     if (mov.type === 'ticket') {
                         idHtml = `<span class="ticket-id">#FEL-${mov.id}</span>`;
@@ -1092,13 +1099,15 @@ document.addEventListener('DOMContentLoaded', function() {
             e.preventDefault();
             const modal = document.getElementById('fullHistoryModal');
             if (modal) {
+                document.getElementById('fullHistoryTableBody').innerHTML = '';
+                const scrollArea = document.getElementById('fullHistoryScrollArea');
+                if(scrollArea) scrollArea.scrollTop = 0;
+
                 modal.style.display = 'flex';
-                setTimeout(() => modal.classList.add('active'), 10);
-                
+                setTimeout(() => modal.classList.add('active'), 10);              
                 currentPage = 1;
                 hasMore = true;
-                isLoading = false;
-                
+                isLoading = false;             
                 loadHistoryPage();
             }
         });
