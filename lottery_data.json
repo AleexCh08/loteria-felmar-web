@@ -54,6 +54,24 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "087 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "438 B",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "527 C",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "24 - Iguana",
@@ -126,6 +144,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "58 - Hormiga",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "14 - Paloma",
@@ -171,6 +195,12 @@
         "lottery": "Selva Plus",
         "time": "11:00 AM",
         "result": "21 - Gallo",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "00 - Ballena",
         "date": "2025-12-30"
     },
     {
@@ -222,6 +252,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "21 - Gallo",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "01 - Carnero",
@@ -231,6 +267,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "0 - Delfin",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "69 - Conejo",
         "date": "2025-12-30"
     },
     {
