@@ -162,6 +162,24 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "320 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "495 B",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "111 C",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "690 A",
@@ -600,6 +618,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "06:00 PM",
+        "result": "13 - Mono",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "12 - Caballo",
@@ -720,6 +744,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "34 - Venado",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "60 - Camaleon",
@@ -765,6 +795,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "56 - Tiburon",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "34 - Venado",
         "date": "2025-12-30"
     },
     {
