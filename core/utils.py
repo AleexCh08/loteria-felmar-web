@@ -3,7 +3,7 @@ from django.utils import timezone
 from datetime import datetime, timedelta
 from .models import Result, Ticket
  
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/AleexCh08/loteria-felmar-web/feature-notify-winner/lottery_data.json"
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/AleexCh08/loteria-felmar-web/main/lottery_data.json"
 
 def scrape_lottery_results():
     log_messages = []
