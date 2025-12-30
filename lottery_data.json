@@ -180,6 +180,24 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "273 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "683 B",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "458 C",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "690 A",
@@ -252,6 +270,24 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "491 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "739 B",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "683 C",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "259 A",
@@ -309,6 +345,18 @@
         "lottery": "Triple Zamorano",
         "time": "04:00 PM",
         "result": "273 C",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "693 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "045 C",
         "date": "2025-12-30"
     },
     {
@@ -444,6 +492,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "4 - Alacran",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "49 - Pereza",
@@ -510,6 +564,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "57 - Pato",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "14 - Paloma",
@@ -567,6 +627,12 @@
         "lottery": "Guacharito",
         "time": "05:30 PM",
         "result": "15 - Zorro",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "56 - Tiburon",
         "date": "2025-12-30"
     },
     {
@@ -636,6 +702,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "15 - Zorro",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "12 - Caballo",
@@ -693,6 +765,12 @@
         "lottery": "Lotto Rey",
         "time": "05:30 PM",
         "result": "9 - Aguila",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "06:30 PM",
+        "result": "15 - Zorro",
         "date": "2025-12-30"
     },
     {
@@ -759,6 +837,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "34 - Venado",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "50 - Canario",
         "date": "2025-12-30"
     },
     {
@@ -849,6 +933,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "34 - Venado",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "33 - Pescado",
         "date": "2025-12-30"
     },
     {
