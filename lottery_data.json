@@ -192,6 +192,18 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "020 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "273 C",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "24 - Iguana",
@@ -237,6 +249,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "8 - Raton",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "14 - Paloma",
         "date": "2025-12-30"
     },
     {
@@ -288,6 +306,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "27 - Perro",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "49 - Pereza",
@@ -333,6 +357,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "8 - raton",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "14 - Paloma",
         "date": "2025-12-30"
     },
     {
@@ -432,6 +462,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "29 - Elefante",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "12 - Caballo",
@@ -525,6 +561,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "23 - Cebra",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "20 - Cochino",
         "date": "2025-12-30"
     },
     {
