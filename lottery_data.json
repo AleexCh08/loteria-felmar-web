@@ -174,6 +174,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "6 - Rana",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "14 - Paloma",
@@ -231,6 +237,12 @@
         "lottery": "Selva Plus",
         "time": "12:00 PM",
         "result": "00 - Ballena",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:00 PM",
+        "result": "4 - Alacran",
         "date": "2025-12-30"
     },
     {
