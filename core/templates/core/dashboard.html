@@ -8,6 +8,20 @@
     <link rel="stylesheet" href="{% static 'core/css/auth.css' %}"> {% endblock %}
 
 {% block content %}
+<div id="winnerNotification" class="winner-banner">
+    <div class="winner-content">
+        <div class="winner-icon-box">
+            <i class="fa-solid fa-trophy fa-bounce"></i>
+        </div>
+        <div class="winner-info">
+            <h4>¡FELICIDADES! ¡GANASTE!</h4>
+            <p>Tu ticket de <strong id="winLottery">Lotería</strong> resultó premiado.</p>
+            <div class="win-prize">Premio: Bs. <span id="winAmount">0.00</span></div>
+        </div>
+        <button class="winner-close" onclick="closeWinnerBanner()">&times;</button>
+    </div>
+</div>
+
 <div class="container" style="padding-top: 30px;">
 
     <div class="dashboard-header">

@@ -378,3 +378,35 @@ def trigger_verification(request):
     count = check_ticket_results()
     messages.success(request, f'¡Proceso completado! Se han verificado y procesado {count} tickets pendientes.')
     return redirect(request.META.get('HTTP_REFERER', 'admin:index'))
+
+@login_required
+def check_winner_notification(request):
+    winner_ticket = Ticket.objects.filter(
+        user=request.user,
+        status='ganador',
+        notification_seen=False
+    ).first() 
+
+    if winner_ticket:
+        multiplier = 0
+        if winner_ticket.game_type == 'triples':
+            multiplier = 35 if winner_ticket.bet_type == 'terminal' else 60
+        elif winner_ticket.game_type == 'animalitos':
+            multiplier = 50 if winner_ticket.bet_type == 'tripleta' else 30
+        
+        prize = winner_ticket.amount * multiplier
+
+        winner_ticket.notification_seen = True
+        winner_ticket.save()
+
+        return JsonResponse({
+            'has_winner': True,
+            'lottery': winner_ticket.lottery,
+            'ticket_id': winner_ticket.id,
+            'amount_played': str(winner_ticket.amount),
+            'prize': str(prize),
+            'play_value': winner_ticket.play_value,
+            'game_type': winner_ticket.game_type
+        })
+
+    return JsonResponse({'has_winner': False})

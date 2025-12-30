@@ -42,7 +42,8 @@ class Ticket(models.Model):
     extras = models.CharField(max_length=255, blank=True, null=True, verbose_name="Detalles/Permutas")
     amount = models.DecimalField(max_digits=10, decimal_places=2, verbose_name="Monto Apostado") 
     status = models.CharField(max_length=10, choices=STATUS_CHOICES, default='pendiente')
-
+    notification_seen = models.BooleanField(default=False)
+    
     class Meta:
         ordering = ['-created_at'] 
         indexes = [

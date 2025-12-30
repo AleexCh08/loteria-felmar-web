@@ -4,7 +4,8 @@ from django.views.generic import TemplateView
 from core.views import (home, login_view, register_view, 
 forgot_password_view, dashboard_view, results_view, 
 custom_logout_view, create_ticket_api, trigger_scraping, 
-request_recharge, check_session_status, trigger_verification, history_api)
+request_recharge, check_session_status, trigger_verification, history_api,
+check_winner_notification)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -25,4 +26,5 @@ urlpatterns = [
         template_name="service-worker.js", 
         content_type='application/javascript'
     ), name='service-worker'),
+    path('api/check-winner-notification/', check_winner_notification, name='check_winner_notification'),
 ]

@@ -588,6 +588,108 @@ input[type="checkbox"]:checked + .option-chip {
     animation: slideUpCard 0.4s cubic-bezier(0.19, 1, 0.22, 1) forwards;
 }
 
+.winner-banner {
+    position: fixed;
+    top: -120px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: auto;     
+    max-width: 90%;   
+    background: linear-gradient(135deg, #f1c40f 0%, #f39c12 100%);
+    color: #2c3e50;  
+    z-index: 9999;
+    border-radius: 50px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.25); 
+    transition: top 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.winner-banner.show {
+    top: 25px; 
+}
+
+.winner-content {
+    display: flex;
+    align-items: center;
+    gap: 15px; 
+    padding: 10px 20px;
+}
+
+.winner-icon-box {
+    background: rgba(255,255,255,0.25);
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    color: #fff;
+    flex-shrink: 0; 
+}
+
+.winner-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    text-align: center; 
+}
+
+.winner-info h4 {
+    margin: 0 0 2px 0;
+    font-size: 0.9rem;
+    font-weight: 800;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 1.1;
+}
+
+.winner-info p {
+    margin: 0 0 4px 0;
+    font-size: 0.8rem;
+    color: #5c4a00;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.win-prize {
+    background: #fff;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-weight: 800;
+    font-size: 0.85rem;
+    color: #d35400;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    display: inline-block; 
+    width: fit-content; 
+}
+
+.winner-close {
+    background: rgba(0,0,0,0.05);
+    border: none;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;  
+    font-size: 1.1rem;
+    color: rgba(255,255,255,0.7);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    position: static; 
+    margin-left: 5px;
+    transition: all 0.2s;
+}
+
+.winner-close:hover {
+    background: rgba(255,255,255,0.3);
+    color: #fff;
+    transform: scale(1.1);
+}
+
 /* --- RESPONSIVIDAD --- */
 /* TABLETS */
 @media (min-width: 481px) and (max-width: 900px) {
@@ -772,5 +874,26 @@ input[type="checkbox"]:checked + .option-chip {
         justify-content: center;
         align-items: center;
     }
+    .winner-banner {
+        width: 95% !important; 
+        max-width: none;
+        border-radius: 15px; 
+    }
 
+    .winner-content {
+        padding: 12px 15px; 
+        gap: 10px;
+        width: 100%; 
+        justify-content: space-between; 
+    }
+    
+    .winner-icon-box {
+        width: 35px;
+        height: 35px;
+        font-size: 1.1rem;
+    }
+    
+    .winner-info h4 { font-size: 0.8rem; }
+    .winner-info p { font-size: 0.75rem; }
+    .win-prize { font-size: 0.8rem; }
 }

@@ -1182,4 +1182,52 @@ document.addEventListener('DOMContentLoaded', function() {
             e.returnValue = ''; 
         }
     });
+
+    // --- NOTIFICACIÓN DE GANADOR (POLLING) ---
+    let isChecking = false; 
+    window.closeWinnerBanner = function() {
+        const banner = document.getElementById('winnerNotification');
+        if(banner) {
+            banner.classList.remove('show');
+            setTimeout(() => {
+                checkWinner(); 
+            }, 500); 
+        }
+    };
+
+    function checkWinner() {
+        if (document.hidden) return;
+        const banner = document.getElementById('winnerNotification');
+        if (banner && banner.classList.contains('show')) return;
+        if (isChecking) return;
+
+        isChecking = true;
+
+        fetch('/api/check-winner-notification/')
+            .then(response => response.json())
+            .then(data => {
+                if (data.has_winner) {
+                    const lblLottery = document.getElementById('winLottery');
+                    const lblAmount = document.getElementById('winAmount');
+                    
+                    if (banner && lblLottery && lblAmount) {
+                        lblLottery.innerText = `${data.lottery} - ${data.play_value}`;
+                        
+                        const prizeFormatted = parseFloat(data.prize).toLocaleString('es-VE', { 
+                            minimumFractionDigits: 2, maximumFractionDigits: 2 
+                        });
+                        lblAmount.innerText = prizeFormatted;
+                        banner.classList.add('show');
+                    }
+                }
+            })
+            .catch(err => console.error("Error checking winners:", err))
+            .finally(() => {
+                isChecking = false;
+            });
+    }
+
+    if (window.winnerInterval) clearInterval(window.winnerInterval);
+    window.winnerInterval = setInterval(checkWinner, 30000);
+    setTimeout(checkWinner, 2000);
 });
