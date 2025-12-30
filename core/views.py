@@ -120,7 +120,7 @@ def results_view(request):
         'pinguino': 'noto:penguin', 'antilope':'noto:water-buffalo', 'calamar': 'noto:squid',
         'murcielago': 'noto:bat', 'cuervo':'game-icons:raven', 'cucaracha': 'noto:cockroach',
         'buho':'noto:owl', 'camaron':'noto:shrimp', 'hamster':'noto:hamster',
-        'buey': 'noto:ox', 'cabra': 'noto:goat', 'erizo de mar':'game-icons:urchin',
+        'buey': 'noto:ox', 'cabra': 'noto:goat', 'erizo de mar':'noto:microbe',
         'anguila':'game-icons:eel', 'huron':'openmoji:ferret', 'morrocoy':'game-icons:tortoise',          
         'cisne': 'noto:swan', 'gaviota':'game-icons:seagull', 'paujil':'game-icons:rooster',
         'escarabajo':'noto:beetle', 'caballito de mar':'game-icons:seahorse', 'loro':'openmoji:parrot',
