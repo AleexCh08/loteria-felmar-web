@@ -108,6 +108,42 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "108 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "432 B",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "606 C",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "259 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "416 B",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "269 C",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "12:00 PM",
         "result": "900 A",
@@ -357,6 +393,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "45 - Garza",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "60 - Camaleon",
         "date": "2025-12-30"
     },
     {
