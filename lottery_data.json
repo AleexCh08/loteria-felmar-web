@@ -234,6 +234,24 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "661 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "537 B",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "602 C",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "108 A",
@@ -321,6 +339,24 @@
         "lottery": "Triple Caliente",
         "time": "04:30 PM",
         "result": "980 C",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "126 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "559 B",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "034 C",
         "date": "2025-12-30"
     },
     {
@@ -423,6 +459,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "7 - Perico",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "18 - Burro",
         "date": "2025-12-30"
     },
     {
@@ -636,6 +678,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "90 - Huron",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "35 - Jirafa",
@@ -771,6 +819,12 @@
         "lottery": "Lotto Rey",
         "time": "06:30 PM",
         "result": "15 - Zorro",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "07:30 PM",
+        "result": "33 - Pescado",
         "date": "2025-12-30"
     },
     {
