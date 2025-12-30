@@ -72,6 +72,42 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "142 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "791 B",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "061 C",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "690 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "440 B",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "973 C",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "12:00 PM",
         "result": "900 A",
@@ -114,6 +150,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "19 - Chivo",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -141,6 +183,12 @@
         "lottery": "Granjita",
         "time": "12:00 PM",
         "result": "26 - Vaca",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "22 - Camello",
         "date": "2025-12-30"
     },
     {
@@ -303,6 +351,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "21 - Gallo",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "45 - Garza",
         "date": "2025-12-30"
     },
     {
