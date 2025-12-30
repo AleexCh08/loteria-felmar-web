@@ -144,6 +144,24 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "263 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "693 B",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "540 C",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "690 A",
@@ -384,6 +402,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "15 - Zorro",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "49 - Pereza",
@@ -435,6 +459,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "14 - Paloma",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "26 - Vaca",
         "date": "2025-12-30"
     },
     {
@@ -546,6 +576,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "23 - Cebra",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "12 - Caballo",
@@ -654,6 +690,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "33 - Pescado",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "60 - Camaleon",
@@ -693,6 +735,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "35 - Jirafa",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "56 - Tiburon",
         "date": "2025-12-30"
     },
     {
