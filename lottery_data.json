@@ -126,6 +126,24 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "184 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "872 B",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "300 C",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "690 A",
@@ -603,6 +621,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "58 - Hormiga",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "35 - Jirafa",
         "date": "2025-12-30"
     },
     {
