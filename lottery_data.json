@@ -372,6 +372,12 @@
         "date": "2025-12-30"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "7 - Perico",
+        "date": "2025-12-30"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -429,6 +435,12 @@
         "lottery": "Granjita",
         "time": "05:00 PM",
         "result": "15 - Zorro",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "27 - Perro",
         "date": "2025-12-30"
     },
     {
@@ -747,6 +759,42 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "34 - Venado",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "564 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "626 B",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "962 C",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "252 A",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "748 B",
+        "date": "2025-12-30"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "631 C",
         "date": "2025-12-30"
     },
     {
