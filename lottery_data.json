@@ -48,6 +48,12 @@
         "date": "2026-01-06"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "12 - Caballo",
+        "date": "2026-01-06"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -96,6 +102,12 @@
         "date": "2026-01-06"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "2 - Toro",
+        "date": "2026-01-06"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -123,6 +135,12 @@
         "lottery": "Lotto Rey",
         "time": "09:30 AM",
         "result": "29 - Elefante",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "10:30 AM",
+        "result": "0 - Delfin",
         "date": "2026-01-06"
     },
     {
