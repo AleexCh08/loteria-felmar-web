@@ -36,6 +36,12 @@
         "date": "2026-01-06"
     },
     {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "0 - Delfin",
+        "date": "2026-01-06"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "35 - Jirafa",
@@ -54,9 +60,21 @@
         "date": "2026-01-06"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "48 - Puercoespin",
+        "date": "2026-01-06"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "00 - Ballena",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "09:00 AM",
+        "result": "36 - Culebra",
         "date": "2026-01-06"
     },
     {
@@ -66,9 +84,21 @@
         "date": "2026-01-06"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "09:30 AM",
+        "result": "29 - Elefante",
+        "date": "2026-01-06"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "37 - Tortuga",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "21 - Gallo",
         "date": "2026-01-06"
     },
     {
