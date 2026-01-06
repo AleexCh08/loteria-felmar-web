@@ -162,6 +162,24 @@
         "date": "2026-01-06"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "593 A",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "018 B",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "482 C",
+        "date": "2026-01-06"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "604 A",
@@ -378,6 +396,12 @@
         "date": "2026-01-06"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-01-06"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -435,6 +459,12 @@
         "lottery": "Granjita",
         "time": "05:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "34 - Venado",
         "date": "2026-01-06"
     },
     {
@@ -564,6 +594,12 @@
         "date": "2026-01-06"
     },
     {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "24 - Iguana",
+        "date": "2026-01-06"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -687,6 +723,12 @@
         "lottery": "Lotto Rey",
         "time": "05:30 PM",
         "result": "20 - Cochino",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "06:30 PM",
+        "result": "9 - Aguila",
         "date": "2026-01-06"
     },
     {
