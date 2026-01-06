@@ -108,6 +108,24 @@
         "date": "2026-01-06"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "063 A",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "370 B",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "813 C",
+        "date": "2026-01-06"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "604 A",
@@ -240,6 +258,12 @@
         "date": "2026-01-06"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-01-06"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -321,6 +345,12 @@
         "lottery": "Guacharo",
         "time": "02:00 PM",
         "result": "11 - Gato",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "20 - Cochino",
         "date": "2026-01-06"
     },
     {
@@ -519,6 +549,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "19 - Chivo",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "58 - Hormiga",
         "date": "2026-01-06"
     },
     {
