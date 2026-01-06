@@ -126,6 +126,24 @@
         "date": "2026-01-06"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "147 A",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "769 B",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "908 C",
+        "date": "2026-01-06"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "604 A",
@@ -261,6 +279,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "13 - Mono",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "8 - Raton",
         "date": "2026-01-06"
     },
     {
