@@ -90,6 +90,60 @@
         "date": "2026-01-06"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "604 A",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "323 B",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "164 C",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "026 A",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "843 B",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "006 C",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "129 A",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "380 B",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "464 C",
+        "date": "2026-01-06"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "12:00 PM",
         "result": "808 A",
@@ -240,6 +294,12 @@
         "date": "2026-01-06"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "61 - Panda",
+        "date": "2026-01-06"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -306,6 +366,12 @@
         "date": "2026-01-06"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "01:30 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-01-06"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "37 - Tortuga",
@@ -339,6 +405,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "32 - Ardilla",
+        "date": "2026-01-06"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "22 - Camello",
         "date": "2026-01-06"
     },
     {
