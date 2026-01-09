@@ -144,6 +144,24 @@
         "date": "2026-01-09"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "532 A",
+        "date": "2026-01-09"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "261 B",
+        "date": "2026-01-09"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "311 C",
+        "date": "2026-01-09"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "650 A",
@@ -159,6 +177,24 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "851 C",
+        "date": "2026-01-09"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "628 A",
+        "date": "2026-01-09"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "708 B",
+        "date": "2026-01-09"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "862 C",
         "date": "2026-01-09"
     },
     {
@@ -378,6 +414,12 @@
         "date": "2026-01-09"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "2 - Toro",
+        "date": "2026-01-09"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "69 - Conejo",
@@ -429,6 +471,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "2 - Toro",
+        "date": "2026-01-09"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "71 - Guacamaya",
         "date": "2026-01-09"
     },
     {
@@ -540,6 +588,12 @@
         "date": "2026-01-09"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "14 - Paloma",
+        "date": "2026-01-09"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "33 - Pescado",
@@ -648,6 +702,12 @@
         "date": "2026-01-09"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "0 - Delfin",
+        "date": "2026-01-09"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "12 - Caballo",
@@ -687,6 +747,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "08 - Raton",
+        "date": "2026-01-09"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "03 - Ciempies",
         "date": "2026-01-09"
     },
     {
