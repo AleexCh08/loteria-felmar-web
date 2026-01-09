@@ -180,6 +180,24 @@
         "date": "2026-01-09"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "872 A",
+        "date": "2026-01-09"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "204 B",
+        "date": "2026-01-09"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "390 C",
+        "date": "2026-01-09"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "650 A",
@@ -456,6 +474,12 @@
         "date": "2026-01-09"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-01-09"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "69 - Conejo",
@@ -519,6 +543,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "40 - Avispa",
+        "date": "2026-01-09"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "53 - Caracol",
         "date": "2026-01-09"
     },
     {
@@ -654,6 +684,12 @@
         "date": "2026-01-09"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "22 - Camello",
+        "date": "2026-01-09"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "33 - Pescado",
@@ -783,6 +819,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "34 - Venado",
+        "date": "2026-01-09"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "19 - Chivo",
         "date": "2026-01-09"
     },
     {
