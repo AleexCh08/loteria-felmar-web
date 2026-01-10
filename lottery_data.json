@@ -234,6 +234,24 @@
         "date": "2026-01-10"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "572 A",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "244 B",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "812 C",
+        "date": "2026-01-10"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "180 A",
@@ -321,6 +339,24 @@
         "lottery": "Triple Caliente",
         "time": "04:30 PM",
         "result": "555 C",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "268 A",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "357 B",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "411 C",
         "date": "2026-01-10"
     },
     {
@@ -654,6 +690,12 @@
         "date": "2026-01-10"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "72 - Gorila",
+        "date": "2026-01-10"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -789,6 +831,12 @@
         "lottery": "Lotto Rey",
         "time": "06:30 PM",
         "result": "7 - Perico",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "07:30 PM",
+        "result": "24 - Iguana",
         "date": "2026-01-10"
     },
     {
