@@ -54,9 +54,39 @@
         "date": "2026-01-10"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "734 A",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "396 B",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "409 C",
+        "date": "2026-01-10"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "206 A",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "766 A",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "539 C",
         "date": "2026-01-10"
     },
     {
@@ -81,6 +111,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "7 - Perico",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "17 - Pavo",
         "date": "2026-01-10"
     },
     {
@@ -132,6 +168,12 @@
         "date": "2026-01-10"
     },
     {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "33 - Pescado",
+        "date": "2026-01-10"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "79 - Calamar",
@@ -177,6 +219,12 @@
         "lottery": "Selva Plus",
         "time": "11:00 AM",
         "result": "34 - Venado",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "20 - Cochino",
         "date": "2026-01-10"
     },
     {
@@ -228,6 +276,12 @@
         "date": "2026-01-10"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "12 - Caballo",
+        "date": "2026-01-10"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "14 - Paloma",
@@ -237,6 +291,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "05 - Leon",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "23 - Cebra",
         "date": "2026-01-10"
     },
     {
