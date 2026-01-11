@@ -90,6 +90,24 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "028 A",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "816 B",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "785 C",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -165,6 +183,12 @@
         "lottery": "Granjita",
         "time": "01:00 PM",
         "result": "1 - Carnero",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "5 - Leon",
         "date": "2026-01-11"
     },
     {
@@ -246,6 +270,12 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "97 - Loro",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -321,6 +351,12 @@
         "lottery": "Lotto Rey",
         "time": "01:30 PM",
         "result": "25 - Gallina",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "02:30 PM",
+        "result": "17 - Pavo",
         "date": "2026-01-11"
     },
     {
