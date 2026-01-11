@@ -18,6 +18,24 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "003 A",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "251 B",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "134 C",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -27,6 +45,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "26 - Vaca",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "17 - Pavo",
         "date": "2026-01-11"
     },
     {
@@ -42,6 +66,12 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "15 - Zorro",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "64 - Gavilan",
@@ -51,6 +81,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "72 - Gorila",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "40 - Avispa",
         "date": "2026-01-11"
     },
     {
@@ -78,6 +114,12 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "8 - Raton",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "28 - Zamuro",
@@ -99,6 +141,18 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "45 - Garza",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "43 - Mariposa",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "72 - Gorila",
         "date": "2026-01-11"
     },
     {
