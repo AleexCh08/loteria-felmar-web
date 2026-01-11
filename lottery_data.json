@@ -126,6 +126,12 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "29 - Elefante",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -195,6 +201,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "2 - Toro",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "9 - Aguila",
         "date": "2026-01-11"
     },
     {
@@ -270,6 +282,12 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "02:00 PM",
+        "result": "29 - Elefante",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "28 - Zamuro",
@@ -342,6 +360,12 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "42 - Tucan",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "52 - Pulpo",
@@ -363,6 +387,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "41 - Canguro",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "65 - Arana",
         "date": "2026-01-11"
     },
     {
