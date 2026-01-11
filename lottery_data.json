@@ -102,6 +102,12 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "53 - Caracol",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -129,6 +135,12 @@
         "lottery": "Lotto Rey",
         "time": "09:30 AM",
         "result": "8 - Raton",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "10:30 AM",
+        "result": "21 - Gallo",
         "date": "2026-01-11"
     },
     {
