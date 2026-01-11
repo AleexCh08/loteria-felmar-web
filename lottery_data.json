@@ -72,6 +72,24 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "974 A",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "263 B",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "439 C",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -99,6 +117,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "23 - Cebra",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "24 - Iguana",
         "date": "2026-01-11"
     },
     {
@@ -132,6 +156,12 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "1 - Carnero",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "64 - Gavilan",
@@ -159,6 +189,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "37 - Tortuga",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "2 - Toro",
         "date": "2026-01-11"
     },
     {
@@ -222,6 +258,12 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "01:00 PM",
+        "result": "2 - Toro",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "28 - Zamuro",
@@ -279,6 +321,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "53 - Caracol",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "8 - raton",
         "date": "2026-01-11"
     },
     {
