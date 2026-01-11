@@ -144,6 +144,24 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "560 A",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "823 B",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "242 C",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -195,6 +213,12 @@
         "lottery": "Lotto Activo",
         "time": "04:00 PM",
         "result": "33 - Pescado",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "25 - Gallina",
         "date": "2026-01-11"
     },
     {
@@ -252,6 +276,12 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "64 - Gavilan",
@@ -303,6 +333,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "73 - Hipopotamo",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "24 - Iguana",
         "date": "2026-01-11"
     },
     {
@@ -414,6 +450,12 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "34 - Venado",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "28 - Zamuro",
@@ -522,6 +564,12 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "55 - Oso Hormiguero",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "52 - Pulpo",
@@ -561,6 +609,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "37 - Tortuga",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "13 - Mono",
         "date": "2026-01-11"
     },
     {
