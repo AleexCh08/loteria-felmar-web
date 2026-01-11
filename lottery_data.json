@@ -198,6 +198,72 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "285 A",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "580 B",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "406 C",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "983 A",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "897 B",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "403 C",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "711 A",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "652 B",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "973 C",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "847 A",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "197 C",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -333,6 +399,12 @@
         "lottery": "Granjita",
         "time": "06:00 PM",
         "result": "19 - Chivo",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "11 - Gato",
         "date": "2026-01-11"
     },
     {
@@ -474,6 +546,12 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "18 - Burro",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -609,6 +687,12 @@
         "lottery": "Lotto Rey",
         "time": "06:30 PM",
         "result": "3 - Ciempies",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "07:30 PM",
+        "result": "2 - Toro",
         "date": "2026-01-11"
     },
     {
