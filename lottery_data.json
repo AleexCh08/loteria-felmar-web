@@ -367,6 +367,12 @@
     },
     {
         "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "131 C",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Zamorano",
         "time": "12:00 PM",
         "result": "766 A",
         "date": "2026-01-10"
@@ -381,6 +387,12 @@
         "lottery": "Triple Zamorano",
         "time": "02:00 PM",
         "result": "698 A",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "027 C",
         "date": "2026-01-10"
     },
     {
@@ -909,6 +921,60 @@
         "lottery": "Lotto Chaima",
         "time": "07:00 PM",
         "result": "55 - Oso Hormiguero",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "016 A",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "538 B",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "498 C",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "475 A",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "343 B",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "766 C",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "10:00 PM",
+        "result": "685 A",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "10:00 PM",
+        "result": "234 B",
+        "date": "2026-01-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "10:00 PM",
+        "result": "766 C",
         "date": "2026-01-10"
     },
     {
