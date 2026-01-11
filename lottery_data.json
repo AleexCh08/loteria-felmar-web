@@ -96,6 +96,12 @@
         "date": "2026-01-11"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "20 - Cochino",
+        "date": "2026-01-11"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "64 - Gavilan",
@@ -135,6 +141,12 @@
         "lottery": "Guacharito",
         "time": "10:30 AM",
         "result": "53 - Caracol",
+        "date": "2026-01-11"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "16 - Oso",
         "date": "2026-01-11"
     },
     {
