@@ -36,6 +36,12 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "162 A",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -63,6 +69,12 @@
         "lottery": "Granjita",
         "time": "09:00 AM",
         "result": "25 - Gallina",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "11 - Gato",
         "date": "2026-01-16"
     },
     {
@@ -96,6 +108,12 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "37 - Tortuga",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -105,6 +123,12 @@
         "lottery": "Selva Plus",
         "time": "09:00 AM",
         "result": "1 - Carnero",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "17 - Pavo",
         "date": "2026-01-16"
     },
     {
@@ -120,6 +144,12 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "10:30 AM",
+        "result": "26 - Vaca",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "45 - Garza",
@@ -129,6 +159,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "1 - Carnero",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "52 - Pulpo",
         "date": "2026-01-16"
     },
     {
