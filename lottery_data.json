@@ -108,6 +108,42 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "403 A",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "576 B",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "094 C",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "738 A",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "256 B",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "204 C",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "162 A",
@@ -192,6 +228,12 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "9 - Aguila",
@@ -255,6 +297,12 @@
         "lottery": "Guacharito",
         "time": "12:30 PM",
         "result": "20 - Cochino",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "28 - Zamuro",
         "date": "2026-01-16"
     },
     {
@@ -324,6 +372,12 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "01:30 PM",
+        "result": "19 - Chivo",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "45 - Garza",
@@ -357,6 +411,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "20 - Cochino",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "64 - Gavilan",
         "date": "2026-01-16"
     },
     {
