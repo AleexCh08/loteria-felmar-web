@@ -234,6 +234,24 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "781 A",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "922 B",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "873 C",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "403 A",
@@ -267,6 +285,24 @@
         "lottery": "Triple Caracas",
         "time": "04:30 PM",
         "result": "989 C",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "642 A",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "052 B",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "905 C",
         "date": "2026-01-16"
     },
     {
@@ -342,6 +378,18 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "483 A",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "631 C",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -408,6 +456,12 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -471,6 +525,12 @@
         "lottery": "Granjita",
         "time": "06:00 PM",
         "result": "34 - Venado",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "11 - Gato",
         "date": "2026-01-16"
     },
     {
@@ -612,6 +672,12 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "69 - Conejo",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -675,6 +741,12 @@
         "lottery": "Selva Plus",
         "time": "06:00 PM",
         "result": "6 - Rana",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "35 - Jirafa",
         "date": "2026-01-16"
     },
     {
@@ -744,6 +816,12 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "07:30 PM",
+        "result": "33 - Pescado",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "45 - Garza",
@@ -807,6 +885,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "28 - Zamuro",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "23 - Cebra",
         "date": "2026-01-16"
     },
     {
