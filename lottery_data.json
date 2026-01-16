@@ -222,6 +222,18 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "340 A",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "932 C",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -321,6 +333,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "16 - Oso",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-01-16"
     },
     {
@@ -426,6 +444,12 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "41 - Canguro",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -528,6 +552,12 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "04:30 PM",
+        "result": "6 - Rana",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "45 - Garza",
@@ -615,6 +645,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "40 - Avispa",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "13 - Mono",
         "date": "2026-01-16"
     },
     {
