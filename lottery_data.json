@@ -144,6 +144,24 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "491 A",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "982 B",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "122 C",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "833 A",
@@ -159,6 +177,24 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "290 C",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "236 A",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "480 B",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "200 C",
         "date": "2026-01-16"
     },
     {
@@ -180,6 +216,24 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "678 A",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "126 B",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "989 C",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "738 A",
@@ -195,6 +249,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "204 C",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "167 A",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "912 B",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "200 C",
         "date": "2026-01-16"
     },
     {
@@ -288,6 +360,12 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "31 - Lapa",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -342,6 +420,12 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "9 - Aguila",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "9 - Aguila",
@@ -393,6 +477,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "12 - Caballo",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "58 - Hormiga",
         "date": "2026-01-16"
     },
     {
@@ -504,6 +594,12 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "33 - Pescado",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "9 - Aguila",
@@ -612,6 +708,12 @@
         "date": "2026-01-16"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "6 - Rana",
+        "date": "2026-01-16"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "64 - Gavilan",
@@ -651,6 +753,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "13 - Mono",
+        "date": "2026-01-16"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "20 - Cochino",
         "date": "2026-01-16"
     },
     {
