@@ -90,6 +90,24 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "710 A",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "850 B",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "505 C",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -123,6 +141,12 @@
         "lottery": "Lotto Activo",
         "time": "01:00 PM",
         "result": "1 - Carnero",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-01-18"
     },
     {
@@ -198,6 +222,12 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "51 - Pelicano",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "39 - Lechuza",
@@ -267,6 +297,12 @@
         "lottery": "Selva Plus",
         "time": "01:00 PM",
         "result": "15 - Zorro",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "02:00 PM",
+        "result": "18 - Burro",
         "date": "2026-01-18"
     },
     {
@@ -342,6 +378,12 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "8 - raton",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "04 - Alacran",
@@ -363,6 +405,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "03 - Ciempies",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "07 - Perico",
         "date": "2026-01-18"
     },
     {
