@@ -18,6 +18,24 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "489 A",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "071 B",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "268 C",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -45,6 +63,12 @@
         "lottery": "Granjita",
         "time": "09:00 AM",
         "result": "7 - Perico",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "15 - Zorro",
         "date": "2026-01-18"
     },
     {
@@ -78,6 +102,12 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "3 - Ciempies",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -87,6 +117,12 @@
         "lottery": "Selva Plus",
         "time": "09:00 AM",
         "result": "24 - Iguana",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "34 - Venado",
         "date": "2026-01-18"
     },
     {
@@ -102,6 +138,12 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "10:30 AM",
+        "result": "5 - Leon",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -111,6 +153,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "23 - Cebra",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "42 - Tucan",
         "date": "2026-01-18"
     },
     {
