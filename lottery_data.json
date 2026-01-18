@@ -246,6 +246,12 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "10 - Tigre",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "65 - Arana",
@@ -345,6 +351,12 @@
         "lottery": "Guacharito",
         "time": "03:30 PM",
         "result": "76 - Rinoceronte",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "9 - Aguila",
         "date": "2026-01-18"
     },
     {
@@ -450,6 +462,12 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "04:30 PM",
+        "result": "27 - Perro",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -537,6 +555,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "67 - Avestruz",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "49 - Pereza",
         "date": "2026-01-18"
     },
     {
