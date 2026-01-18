@@ -276,6 +276,12 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "23 - Zebra",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "65 - Arana",
@@ -501,6 +507,12 @@
         "lottery": "Lotto Rey",
         "time": "04:30 PM",
         "result": "27 - Perro",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "05:30 PM",
+        "result": "18 - Burro",
         "date": "2026-01-18"
     },
     {
