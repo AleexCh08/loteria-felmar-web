@@ -162,6 +162,24 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "083 A",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "594 B",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "607 C",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -219,6 +237,12 @@
         "lottery": "Lotto Activo",
         "time": "05:00 PM",
         "result": "19 - Chivo",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "25 - Gallina",
         "date": "2026-01-18"
     },
     {
@@ -342,6 +366,12 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "41 - Canguro",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "39 - Lechuza",
@@ -393,6 +423,12 @@
         "lottery": "Guacharito",
         "time": "04:30 PM",
         "result": "9 - Aguila",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "45 - Garza",
         "date": "2026-01-18"
     },
     {
@@ -453,6 +489,12 @@
         "lottery": "Selva Plus",
         "time": "05:00 PM",
         "result": "29 - Elefante",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "06:00 PM",
+        "result": "7 - Perico",
         "date": "2026-01-18"
     },
     {
@@ -576,6 +618,12 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "48 - Puercoespin",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "04 - Alacran",
@@ -621,6 +669,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "24 - Iguana",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-01-18"
     },
     {
