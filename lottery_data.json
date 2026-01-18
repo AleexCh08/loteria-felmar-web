@@ -180,6 +180,36 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "849 A",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "025 B",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "974 C",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "768 A",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "872 C",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -243,6 +273,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "25 - Gallina",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "12 - Caballo",
         "date": "2026-01-18"
     },
     {
@@ -312,6 +348,12 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "65 - Arana",
@@ -375,6 +417,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "41 - Canguro",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "72 - Gorila",
         "date": "2026-01-18"
     },
     {
@@ -510,6 +558,12 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "0 - Delfin",
@@ -642,6 +696,12 @@
         "date": "2026-01-18"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "15 - Zorro",
+        "date": "2026-01-18"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "04 - Alacran",
@@ -693,6 +753,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "10 - Tigre",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "55 - Osohormi",
         "date": "2026-01-18"
     },
     {
