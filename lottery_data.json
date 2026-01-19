@@ -444,6 +444,12 @@
         "date": "2026-01-19"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "92 - Cisne",
+        "date": "2026-01-19"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -546,6 +552,12 @@
         "date": "2026-01-19"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "04:30 PM",
+        "result": "7 - Perico",
+        "date": "2026-01-19"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "43 - Mariposa",
@@ -633,6 +645,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "06 - Rana",
+        "date": "2026-01-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "73 - Hipopotamo",
         "date": "2026-01-19"
     },
     {
