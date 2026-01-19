@@ -768,21 +768,69 @@
         "date": "2026-01-18"
     },
     {
-        "lottery": "Triple Tachira",
-        "time": "10:00 PM",
-        "result": "394 A",
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "04 - Alacran",
         "date": "2026-01-18"
     },
     {
-        "lottery": "Triple Tachira",
-        "time": "10:00 PM",
-        "result": "495 B",
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "02 - Toro",
         "date": "2026-01-18"
     },
     {
-        "lottery": "Triple Tachira",
-        "time": "10:00 PM",
-        "result": "365 C",
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "0 - Delfin",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "03 - Ciempies",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "07 - Perico",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "67 - Avestruz",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "49 - Pereza",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "24 - Iguana",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "10 - Tigre",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "55 - Osohormi",
+        "date": "2026-01-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "74 - Turpial",
         "date": "2026-01-18"
     }
 ]
