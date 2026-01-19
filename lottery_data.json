@@ -72,6 +72,42 @@
         "date": "2026-01-19"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "082 A",
+        "date": "2026-01-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "330 B",
+        "date": "2026-01-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "708 C",
+        "date": "2026-01-19"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "032 A",
+        "date": "2026-01-19"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "571 B",
+        "date": "2026-01-19"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "679 C",
+        "date": "2026-01-19"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "619 A",
@@ -117,6 +153,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "34 - Venado",
+        "date": "2026-01-19"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-01-19"
     },
     {
@@ -180,6 +222,12 @@
         "date": "2026-01-19"
     },
     {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "73 - Hipopotamo",
+        "date": "2026-01-19"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "80 - Murcielago",
@@ -240,6 +288,12 @@
         "date": "2026-01-19"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "01:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-01-19"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "1 - Carnero",
@@ -297,6 +351,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "7 - Perico",
+        "date": "2026-01-19"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "34 - Venado",
         "date": "2026-01-19"
     },
     {
