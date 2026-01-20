@@ -420,6 +420,12 @@
         "date": "2026-01-20"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-01-20"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "69 - Conejo",
@@ -534,6 +540,12 @@
         "date": "2026-01-20"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "40 - Avispa",
+        "date": "2026-01-20"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -645,6 +657,12 @@
         "lottery": "Lotto Rey",
         "time": "04:30 PM",
         "result": "29 - Elefante",
+        "date": "2026-01-20"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "05:30 PM",
+        "result": "26 - Vaca",
         "date": "2026-01-20"
     },
     {
