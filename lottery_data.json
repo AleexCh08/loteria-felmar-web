@@ -450,6 +450,12 @@
         "date": "2026-01-20"
     },
     {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "14 - Paloma",
+        "date": "2026-01-20"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "69 - Conejo",
@@ -573,6 +579,12 @@
         "lottery": "Guacharito",
         "time": "05:30 PM",
         "result": "40 - Avispa",
+        "date": "2026-01-20"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "78 - Antilope",
         "date": "2026-01-20"
     },
     {
@@ -702,6 +714,12 @@
         "date": "2026-01-20"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "06:30 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-01-20"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -783,6 +801,24 @@
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "891 C",
+        "date": "2026-01-20"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "913 A",
+        "date": "2026-01-20"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "011 B",
+        "date": "2026-01-20"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "837 C",
         "date": "2026-01-20"
     },
     {
