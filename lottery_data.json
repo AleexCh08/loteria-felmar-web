@@ -72,6 +72,12 @@
         "date": "2026-01-20"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "8 - Raton",
+        "date": "2026-01-20"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "69 - Conejo",
@@ -81,6 +87,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "13 - Mono",
+        "date": "2026-01-20"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "51 - Pelicano",
         "date": "2026-01-20"
     },
     {
@@ -96,6 +108,12 @@
         "date": "2026-01-20"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "17 - Pavo",
+        "date": "2026-01-20"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -105,6 +123,12 @@
         "lottery": "Selva Plus",
         "time": "09:00 AM",
         "result": "32 - Ardilla",
+        "date": "2026-01-20"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "29 - Elefante",
         "date": "2026-01-20"
     },
     {
@@ -120,6 +144,12 @@
         "date": "2026-01-20"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "10:30 AM",
+        "result": "25 - Gallina",
+        "date": "2026-01-20"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -129,6 +159,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "45 - Garza",
+        "date": "2026-01-20"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "48 - Puercoespin",
         "date": "2026-01-20"
     },
     {
