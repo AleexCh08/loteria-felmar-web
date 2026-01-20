@@ -246,6 +246,12 @@
         "date": "2026-01-20"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "18 - Burro",
+        "date": "2026-01-20"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "4 - Alacran",
@@ -285,6 +291,12 @@
         "lottery": "Granjita",
         "time": "02:00 PM",
         "result": "32 - Ardilla",
+        "date": "2026-01-20"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "9 - Aguila",
         "date": "2026-01-20"
     },
     {
@@ -378,6 +390,12 @@
         "date": "2026-01-20"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "51 - Pelicano",
+        "date": "2026-01-20"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -465,6 +483,12 @@
         "lottery": "Lotto Rey",
         "time": "02:30 PM",
         "result": "36 - Culebra",
+        "date": "2026-01-20"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "03:30 PM",
+        "result": "19 - Chivo",
         "date": "2026-01-20"
     },
     {
