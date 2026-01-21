@@ -54,6 +54,24 @@
         "date": "2026-01-21"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "726 A",
+        "date": "2026-01-21"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "907 B",
+        "date": "2026-01-21"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "810 C",
+        "date": "2026-01-21"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "225 A",
@@ -81,6 +99,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "11 - Gato",
+        "date": "2026-01-21"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "28 - Zamuro",
         "date": "2026-01-21"
     },
     {
@@ -132,6 +156,12 @@
         "date": "2026-01-21"
     },
     {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "10 - Tigre",
+        "date": "2026-01-21"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "59 - Pantera",
@@ -180,6 +210,12 @@
         "date": "2026-01-21"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "30 - Caiman",
+        "date": "2026-01-21"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "17 - Pavo",
@@ -225,6 +261,12 @@
         "lottery": "Lotto Chaima",
         "time": "11:00 AM",
         "result": "25 - Gallina",
+        "date": "2026-01-21"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "34 - Venado",
         "date": "2026-01-21"
     },
     {
