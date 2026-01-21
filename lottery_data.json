@@ -228,6 +228,12 @@
         "date": "2026-01-21"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "34 - Venado",
+        "date": "2026-01-21"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -309,6 +315,12 @@
         "lottery": "Guacharo",
         "time": "02:00 PM",
         "result": "49 - Pereza",
+        "date": "2026-01-21"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "5 - Leon",
         "date": "2026-01-21"
     },
     {
@@ -396,6 +408,12 @@
         "date": "2026-01-21"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "03:00 PM",
+        "result": "36 - Culebra",
+        "date": "2026-01-21"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "17 - Pavo",
@@ -480,6 +498,12 @@
         "date": "2026-01-21"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "40 - Avispa",
+        "date": "2026-01-21"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "03 - Ciempies",
@@ -507,6 +531,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "15 - Zorro",
+        "date": "2026-01-21"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "48 - Puercoespin",
         "date": "2026-01-21"
     },
     {
