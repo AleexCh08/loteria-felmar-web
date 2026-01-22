@@ -144,6 +144,24 @@
         "date": "2026-01-22"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "649 A",
+        "date": "2026-01-22"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "492 B",
+        "date": "2026-01-22"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "572 C",
+        "date": "2026-01-22"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "409 A",
@@ -342,6 +360,12 @@
         "date": "2026-01-22"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "11 - Gato",
+        "date": "2026-01-22"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -447,6 +471,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "0 - Delfin",
+        "date": "2026-01-22"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "45 - Garza",
         "date": "2026-01-22"
     },
     {
@@ -558,6 +588,12 @@
         "date": "2026-01-22"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "14 - Paloma",
+        "date": "2026-01-22"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "2 - Toro",
@@ -666,6 +702,12 @@
         "date": "2026-01-22"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "53 - Caracol",
+        "date": "2026-01-22"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "425 A",
@@ -723,6 +765,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "03 - Ciempies",
+        "date": "2026-01-22"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "65 - Arana",
         "date": "2026-01-22"
     },
     {
