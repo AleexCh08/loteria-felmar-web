@@ -450,6 +450,12 @@
         "date": "2026-01-22"
     },
     {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "34 - Venado",
+        "date": "2026-01-22"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "50 - Canario",
@@ -576,6 +582,12 @@
         "date": "2026-01-22"
     },
     {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "77 - Pinguino",
+        "date": "2026-01-22"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "31 - Lapa",
@@ -633,6 +645,12 @@
         "lottery": "Selva Plus",
         "time": "05:00 PM",
         "result": "14 - Paloma",
+        "date": "2026-01-22"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "06:00 PM",
+        "result": "27 - Perro",
         "date": "2026-01-22"
     },
     {
@@ -696,6 +714,12 @@
         "date": "2026-01-22"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "06:30 PM",
+        "result": "14 - Paloma",
+        "date": "2026-01-22"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "14 - Paloma",
@@ -756,6 +780,12 @@
         "date": "2026-01-22"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "18 - Burro",
+        "date": "2026-01-22"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "425 A",
@@ -771,6 +801,24 @@
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "925 C",
+        "date": "2026-01-22"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "102 A",
+        "date": "2026-01-22"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "200 B",
+        "date": "2026-01-22"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "313 C",
         "date": "2026-01-22"
     },
     {
