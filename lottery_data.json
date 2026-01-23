@@ -1,8 +1,32 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "745 A",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "457 B",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "895 C",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "0 - Delfin",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "3 - Ciempies",
         "date": "2026-01-23"
     },
     {
@@ -39,6 +63,12 @@
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "6 - Rana",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "02 - Toro",
         "date": "2026-01-23"
     }
 ]
