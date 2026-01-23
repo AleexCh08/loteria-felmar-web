@@ -420,6 +420,12 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "34 - Venado",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "39 - Lechuza",
@@ -531,6 +537,12 @@
         "lottery": "Guacharito",
         "time": "04:30 PM",
         "result": "31 - Lapa",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "82 - Cucaracha",
         "date": "2026-01-23"
     },
     {
@@ -648,6 +660,12 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "05:30 PM",
+        "result": "16 - Oso",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -708,6 +726,42 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "930 A",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "663 B",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "242 C",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "011 A",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "362 B",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "453 C",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "46 - Puma",
@@ -747,6 +801,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "49 - Pereza",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "34 - Venado",
         "date": "2026-01-23"
     },
     {
