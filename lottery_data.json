@@ -450,6 +450,12 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "39 - Lechuza",
@@ -576,6 +582,12 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "16 - Oso",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -699,6 +711,12 @@
         "lottery": "Lotto Rey",
         "time": "05:30 PM",
         "result": "16 - Oso",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "06:30 PM",
+        "result": "0 - Delfin",
         "date": "2026-01-23"
     },
     {
