@@ -144,6 +144,24 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "601 A",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "370 B",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "718 C",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "804 A",
@@ -159,6 +177,24 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "453 C",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "905 A",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "016 B",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "864 C",
         "date": "2026-01-23"
     },
     {
@@ -180,6 +216,24 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "728 A",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "687 B",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "284 C",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "818 A",
@@ -195,6 +249,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "039 C",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "000 A",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "472 B",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "143 C",
         "date": "2026-01-23"
     },
     {
@@ -285,6 +357,12 @@
         "lottery": "Lotto Activo",
         "time": "04:00 PM",
         "result": "21 - Gallo",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "32 - Ardilla",
         "date": "2026-01-23"
     },
     {
@@ -396,6 +474,12 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "61 - Panda",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "93 - Gaviota",
@@ -504,6 +588,12 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "8 - Raton",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "0 - Delfin",
@@ -609,6 +699,60 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "31 - Lapa",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "46 - Puma",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "18 - Burro",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "36 - Culebra",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "57 - Pato",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "66 - Lobo",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "49 - Pereza",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "02 - Toro",
         "date": "2026-01-23"
     }
 ]
