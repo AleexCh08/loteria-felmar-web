@@ -108,6 +108,24 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "058 A",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "306 B",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "132 C",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "804 A",
@@ -228,6 +246,12 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "21 - Gallo",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "31 - Lapa",
@@ -267,6 +291,12 @@
         "lottery": "Granjita",
         "time": "02:00 PM",
         "result": "13 - Mono",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "28 - Zamuro",
         "date": "2026-01-23"
     },
     {
@@ -360,6 +390,12 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "48 - Puercoespin",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -450,6 +486,12 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "03:30 PM",
+        "result": "17 - Pavo",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -489,6 +531,12 @@
         "lottery": "Lotto Chaima",
         "time": "02:00 PM",
         "result": "3 - Ciempies",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "41 - Canguro",
         "date": "2026-01-23"
     },
     {
