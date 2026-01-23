@@ -6,15 +6,33 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Granjita",
+        "time": "08:00 AM",
+        "result": "31 - Lapa",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "39 - Lechuza",
         "date": "2026-01-23"
     },
     {
+        "lottery": "Guacharito",
+        "time": "08:30 AM",
+        "result": "93 - Gaviota",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "08:30 AM",
+        "result": "0 - Delfin",
         "date": "2026-01-23"
     },
     {
