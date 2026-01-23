@@ -222,6 +222,18 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "524 A",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "706 C",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -266,6 +278,12 @@
     {
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
+        "result": "21 - Gallo",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
         "result": "21 - Gallo",
         "date": "2026-01-23"
     },
@@ -315,6 +333,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "28 - Zamuro",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "23 - Zebra",
         "date": "2026-01-23"
     },
     {
@@ -420,6 +444,12 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "31 - Lapa",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -522,6 +552,12 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "04:30 PM",
+        "result": "13 - Mono",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -573,48 +609,6 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "31 - Lapa",
-        "date": "2026-01-23"
-    },
-    {
-        "lottery": "Condor",
-        "time": "01:00 PM",
-        "result": "46 - Puma",
-        "date": "2026-01-23"
-    },
-    {
-        "lottery": "Condor",
-        "time": "10:00 AM",
-        "result": "18 - Burro",
-        "date": "2026-01-23"
-    },
-    {
-        "lottery": "Condor",
-        "time": "11:00 AM",
-        "result": "36 - Culebra",
-        "date": "2026-01-23"
-    },
-    {
-        "lottery": "Condor",
-        "time": "12:00 PM",
-        "result": "27 - Perro",
-        "date": "2026-01-23"
-    },
-    {
-        "lottery": "Condor",
-        "time": "02:00 PM",
-        "result": "57 - Pato",
-        "date": "2026-01-23"
-    },
-    {
-        "lottery": "Condor",
-        "time": "03:00 PM",
-        "result": "66 - Lobo",
-        "date": "2026-01-23"
-    },
-    {
-        "lottery": "Condor",
-        "time": "09:00 AM",
-        "result": "02 - Toro",
         "date": "2026-01-23"
     }
 ]
