@@ -312,6 +312,12 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "66 - Lobo",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "93 - Gaviota",
@@ -393,6 +399,12 @@
         "lottery": "Selva Plus",
         "time": "02:00 PM",
         "result": "00 - Ballena",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "03:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-01-23"
     },
     {
@@ -507,6 +519,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "57 - Pato",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "66 - Lobo",
         "date": "2026-01-23"
     },
     {
