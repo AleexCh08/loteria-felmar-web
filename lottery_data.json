@@ -36,9 +36,21 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "25 - Gallina",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "39 - Lechuza",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "09:00 AM",
+        "result": "24 - Iguana",
         "date": "2026-01-23"
     },
     {
@@ -48,9 +60,21 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "59 - Pantera",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "09:00 AM",
+        "result": "31 - Lapa",
         "date": "2026-01-23"
     },
     {
@@ -60,9 +84,21 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "09:30 AM",
+        "result": "20 - Cochino",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "6 - Rana",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "25 - Gallina",
         "date": "2026-01-23"
     },
     {
