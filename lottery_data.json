@@ -126,6 +126,24 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "486 A",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "296 B",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "524 C",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "804 A",
@@ -348,6 +366,12 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "93 - Gaviota",
@@ -444,6 +468,12 @@
         "date": "2026-01-23"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "2 - Toro",
+        "date": "2026-01-23"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "0 - Delfin",
@@ -537,6 +567,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "41 - Canguro",
+        "date": "2026-01-23"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-01-23"
     },
     {
