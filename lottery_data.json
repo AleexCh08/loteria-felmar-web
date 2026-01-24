@@ -18,6 +18,24 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "750 A",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "164 B",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "893 C",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -27,6 +45,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "9 - Aguila",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "11 - Gato",
         "date": "2026-01-24"
     },
     {
@@ -99,6 +123,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "1 - Carnero",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "33 - Pescado",
         "date": "2026-01-24"
     },
     {
