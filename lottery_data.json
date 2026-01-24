@@ -90,6 +90,60 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "291 A",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "038 B",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "085 C",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "837 A",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "230 B",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "478 C",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "245 A",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "040 B",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "183 C",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "809 A",
@@ -174,6 +228,12 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "29 - Elefante",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -237,6 +297,12 @@
         "lottery": "Guacharito",
         "time": "12:30 PM",
         "result": "83 - Buho",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "34 - Venado",
         "date": "2026-01-24"
     },
     {
@@ -306,6 +372,12 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "01:30 PM",
+        "result": "10 - Tigre",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -339,6 +411,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "41 - Canguro",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "42 - Tucan",
         "date": "2026-01-24"
     },
     {
