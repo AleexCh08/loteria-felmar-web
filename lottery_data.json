@@ -126,6 +126,24 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "297 A",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "046 B",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "781 C",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "291 A",
@@ -318,6 +336,12 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -417,6 +441,12 @@
         "lottery": "Guacharito",
         "time": "03:30 PM",
         "result": "72 - Gorila",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "21 - Gallo",
         "date": "2026-01-24"
     },
     {
@@ -522,6 +552,12 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "04:30 PM",
+        "result": "1 - Carnero",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -576,6 +612,24 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "309 A",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "789 B",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "519 C",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "42 - Tucan",
@@ -609,6 +663,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-01-24"
     },
     {
