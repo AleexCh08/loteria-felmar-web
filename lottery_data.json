@@ -180,6 +180,24 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "245 A",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "435 B",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "192 C",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "291 A",
@@ -324,6 +342,18 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "576 A",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "589 C",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -387,6 +417,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "8 - Raton",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "0 - Delfin",
         "date": "2026-01-24"
     },
     {
@@ -519,6 +555,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "69 - Conejo",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "12 - Caballo",
         "date": "2026-01-24"
     },
     {
@@ -714,6 +756,12 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "06:30 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -867,6 +915,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "58 - Hormiga",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "17 - Pavo",
         "date": "2026-01-24"
     },
     {
