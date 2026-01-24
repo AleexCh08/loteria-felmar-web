@@ -54,6 +54,24 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "689 A",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "265 B",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "798 C",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "809 A",
@@ -81,6 +99,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "20 - Cochino",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "17 - Pavo",
         "date": "2026-01-24"
     },
     {
@@ -132,6 +156,12 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "77 - Pinguino",
@@ -177,6 +207,12 @@
         "lottery": "Selva Plus",
         "time": "11:00 AM",
         "result": "10 - Tigre",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-01-24"
     },
     {
@@ -228,6 +264,12 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "25 - Gallina",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "33 - Pescado",
@@ -237,6 +279,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "54 - Grillo",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "38 - Bufalo",
         "date": "2026-01-24"
     },
     {
