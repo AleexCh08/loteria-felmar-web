@@ -78,6 +78,18 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "643 A",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "974 C",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -129,6 +141,12 @@
         "lottery": "Granjita",
         "time": "11:00 AM",
         "result": "1 - Carnero",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "13 - Mono",
         "date": "2026-01-24"
     },
     {
@@ -186,6 +204,12 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "83 - Buho",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -237,6 +261,12 @@
         "lottery": "Lotto Rey",
         "time": "11:30 AM",
         "result": "00 - Ballena",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "12:30 PM",
+        "result": "3 - Ciempies",
         "date": "2026-01-24"
     },
     {
