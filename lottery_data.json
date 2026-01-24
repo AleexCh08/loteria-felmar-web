@@ -450,6 +450,12 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "29 - Elefante",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -573,6 +579,12 @@
         "lottery": "Guacharito",
         "time": "05:30 PM",
         "result": "69 - Conejo",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "91 - Morrocoy",
         "date": "2026-01-24"
     },
     {
