@@ -204,6 +204,18 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "008 A",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "142 C",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -249,6 +261,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "24 - Iguana",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "30 - Caiman",
         "date": "2026-01-24"
     },
     {
@@ -348,6 +366,12 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "71 - Guacamaya",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "77 - Pinguino",
@@ -444,6 +468,12 @@
         "date": "2026-01-24"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "18 - Burro",
+        "date": "2026-01-24"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "13 - Mono",
@@ -537,6 +567,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "6 - Rana",
+        "date": "2026-01-24"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "43 - Mariposa",
         "date": "2026-01-24"
     },
     {
