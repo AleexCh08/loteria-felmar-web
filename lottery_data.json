@@ -2,1033 +2,109 @@
     {
         "lottery": "Triple Chance",
         "time": "09:00 AM",
-        "result": "239 A",
-        "date": "2026-01-24"
+        "result": "078 A",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Triple Chance",
         "time": "09:00 AM",
-        "result": "675 B",
-        "date": "2026-01-24"
+        "result": "986 B",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Triple Chance",
         "time": "09:00 AM",
-        "result": "026 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "750 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "164 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "893 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "087 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "113 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "305 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "12:00 PM",
-        "result": "689 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "12:00 PM",
-        "result": "265 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "12:00 PM",
-        "result": "798 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "01:00 PM",
-        "result": "076 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "01:00 PM",
-        "result": "931 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "01:00 PM",
-        "result": "580 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "02:00 PM",
-        "result": "341 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "02:00 PM",
-        "result": "623 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "02:00 PM",
-        "result": "053 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "03:00 PM",
-        "result": "471 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "03:00 PM",
-        "result": "682 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "03:00 PM",
-        "result": "869 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "04:00 PM",
-        "result": "297 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "04:00 PM",
-        "result": "046 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "04:00 PM",
-        "result": "781 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "05:00 PM",
-        "result": "820 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "05:00 PM",
-        "result": "304 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "05:00 PM",
-        "result": "652 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "06:00 PM",
-        "result": "472 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "06:00 PM",
-        "result": "067 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "06:00 PM",
-        "result": "816 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "07:00 PM",
-        "result": "245 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "07:00 PM",
-        "result": "435 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "07:00 PM",
-        "result": "192 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zulia",
-        "time": "12:45 PM",
-        "result": "291 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zulia",
-        "time": "12:45 PM",
-        "result": "038 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zulia",
-        "time": "12:45 PM",
-        "result": "085 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zulia",
-        "time": "04:45 PM",
-        "result": "087 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zulia",
-        "time": "04:45 PM",
-        "result": "378 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zulia",
-        "time": "04:45 PM",
-        "result": "333 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zulia",
-        "time": "07:05 PM",
-        "result": "807 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zulia",
-        "time": "07:05 PM",
-        "result": "081 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zulia",
-        "time": "07:05 PM",
-        "result": "431 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caracas",
-        "time": "01:00 PM",
-        "result": "837 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caracas",
-        "time": "01:00 PM",
-        "result": "230 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caracas",
-        "time": "01:00 PM",
-        "result": "478 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caracas",
-        "time": "04:30 PM",
-        "result": "710 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caracas",
-        "time": "04:30 PM",
-        "result": "851 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caracas",
-        "time": "04:30 PM",
-        "result": "932 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caracas",
-        "time": "07:00 PM",
-        "result": "270 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caracas",
-        "time": "07:00 PM",
-        "result": "243 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caracas",
-        "time": "07:00 PM",
-        "result": "415 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caliente",
-        "time": "01:00 PM",
-        "result": "245 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caliente",
-        "time": "01:00 PM",
-        "result": "040 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caliente",
-        "time": "01:00 PM",
-        "result": "183 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caliente",
-        "time": "04:30 PM",
-        "result": "531 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caliente",
-        "time": "04:30 PM",
-        "result": "649 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caliente",
-        "time": "04:30 PM",
-        "result": "841 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caliente",
-        "time": "07:10 PM",
-        "result": "460 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caliente",
-        "time": "07:10 PM",
-        "result": "119 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Caliente",
-        "time": "07:10 PM",
-        "result": "596 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zamorano",
-        "time": "10:00 AM",
-        "result": "809 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zamorano",
-        "time": "12:00 PM",
-        "result": "643 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zamorano",
-        "time": "12:00 PM",
-        "result": "974 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zamorano",
-        "time": "02:00 PM",
-        "result": "275 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zamorano",
-        "time": "04:00 PM",
-        "result": "008 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zamorano",
-        "time": "04:00 PM",
-        "result": "142 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zamorano",
-        "time": "07:00 PM",
-        "result": "576 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Zamorano",
-        "time": "07:00 PM",
-        "result": "589 C",
-        "date": "2026-01-24"
+        "result": "162 C",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
-        "result": "13 - Mono",
-        "date": "2026-01-24"
+        "result": "33 - Pescado",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
-        "result": "9 - Aguila",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Activo",
-        "time": "10:00 AM",
-        "result": "11 - Gato",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Activo",
-        "time": "11:00 AM",
-        "result": "20 - Cochino",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Activo",
-        "time": "12:00 PM",
-        "result": "17 - Pavo",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Activo",
-        "time": "01:00 PM",
-        "result": "3 - Ciempies",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Activo",
-        "time": "02:00 PM",
-        "result": "26 - Vaca",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Activo",
-        "time": "03:00 PM",
-        "result": "24 - Iguana",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Activo",
-        "time": "04:00 PM",
-        "result": "30 - Caiman",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Activo",
-        "time": "05:00 PM",
-        "result": "28 - Zamuro",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Activo",
-        "time": "06:00 PM",
         "result": "8 - Raton",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Activo",
-        "time": "07:00 PM",
-        "result": "0 - Delfin",
-        "date": "2026-01-24"
+        "date": "2026-01-25"
     },
     {
         "lottery": "Granjita",
         "time": "08:00 AM",
-        "result": "22 - Camello",
-        "date": "2026-01-24"
+        "result": "8 - Raton",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Granjita",
         "time": "09:00 AM",
-        "result": "26 - Vaca",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "10:00 AM",
-        "result": "30 - Caiman",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "11:00 AM",
-        "result": "1 - Carnero",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "12:00 PM",
-        "result": "13 - Mono",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "01:00 PM",
-        "result": "29 - Elefante",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "02:00 PM",
-        "result": "22 - Camello",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "03:00 PM",
-        "result": "34 - Venado",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "04:00 PM",
-        "result": "3 - Ciempies",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "05:00 PM",
-        "result": "10 - Tigre",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "06:00 PM",
-        "result": "29 - Elefante",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "07:00 PM",
-        "result": "18 - Burro",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharo",
-        "time": "08:00 AM",
-        "result": "22 - Camello",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharo",
-        "time": "09:00 AM",
-        "result": "64 - Gavilan",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharo",
-        "time": "10:00 AM",
-        "result": "18 - Burro",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharo",
-        "time": "11:00 AM",
-        "result": "50 - Canario",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharo",
-        "time": "12:00 PM",
-        "result": "17 - Pavo",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharo",
-        "time": "01:00 PM",
-        "result": "9 - Aguila",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharo",
-        "time": "02:00 PM",
-        "result": "63 - Cangrejo",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharo",
-        "time": "03:00 PM",
         "result": "20 - Cochino",
-        "date": "2026-01-24"
+        "date": "2026-01-25"
     },
     {
         "lottery": "Guacharo",
-        "time": "04:00 PM",
-        "result": "71 - Guacamaya",
-        "date": "2026-01-24"
+        "time": "08:00 AM",
+        "result": "56 - Tiburon",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Guacharo",
-        "time": "05:00 PM",
-        "result": "70 - Bisonte",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharo",
-        "time": "06:00 PM",
-        "result": "69 - Conejo",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharo",
-        "time": "07:00 PM",
-        "result": "12 - Caballo",
-        "date": "2026-01-24"
+        "time": "09:00 AM",
+        "result": "45 - Garza",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Guacharito",
         "time": "08:30 AM",
-        "result": "77 - Pinguino",
-        "date": "2026-01-24"
+        "result": "1 - Carnero",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Guacharito",
         "time": "09:30 AM",
-        "result": "41 - Canguro",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "10:30 AM",
-        "result": "0 - Delfin",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "11:30 AM",
-        "result": "24 - Iguana",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "12:30 PM",
-        "result": "83 - Buho",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "01:30 PM",
-        "result": "34 - Venado",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "02:30 PM",
-        "result": "68 - Jaguar",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "03:30 PM",
-        "result": "72 - Gorila",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "04:30 PM",
-        "result": "21 - Gallo",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "05:30 PM",
-        "result": "69 - Conejo",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "06:30 PM",
-        "result": "91 - Morrocoy",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "07:30 PM",
-        "result": "74 - Turpial",
-        "date": "2026-01-24"
+        "result": "96 - Caballito De Mar",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
-        "result": "34 - Venado",
-        "date": "2026-01-24"
+        "result": "8 - Raton",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Selva Plus",
         "time": "09:00 AM",
-        "result": "13 - Mono",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "10:00 AM",
-        "result": "6 - Rana",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "11:00 AM",
-        "result": "10 - Tigre",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "12:00 PM",
-        "result": "31 - Lapa",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "01:00 PM",
-        "result": "11 - Gato",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "02:00 PM",
-        "result": "25 - Gallina",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "03:00 PM",
-        "result": "28 - Zamuro",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "04:00 PM",
-        "result": "18 - Burro",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "05:00 PM",
-        "result": "4 - Alacran",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "06:00 PM",
-        "result": "17 - Pavo",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "07:00 PM",
-        "result": "9 - Aguila",
-        "date": "2026-01-24"
+        "result": "14 - Paloma",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
-        "result": "13 - Mono",
-        "date": "2026-01-24"
+        "result": "6 - Rana",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Lotto Rey",
         "time": "09:30 AM",
-        "result": "8 - Raton",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Rey",
-        "time": "10:30 AM",
-        "result": "25 - Gallina",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Rey",
-        "time": "11:30 AM",
-        "result": "00 - Ballena",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Rey",
-        "time": "12:30 PM",
-        "result": "3 - Ciempies",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Rey",
-        "time": "01:30 PM",
-        "result": "10 - Tigre",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Rey",
-        "time": "02:30 PM",
-        "result": "12 - Caballo",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Rey",
-        "time": "03:30 PM",
-        "result": "16 - Oso",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Rey",
-        "time": "04:30 PM",
-        "result": "1 - Carnero",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Rey",
-        "time": "05:30 PM",
-        "result": "27 - Perro",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Rey",
-        "time": "06:30 PM",
-        "result": "28 - Zamuro",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Rey",
-        "time": "07:30 PM",
-        "result": "23 - Cebra",
-        "date": "2026-01-24"
+        "result": "0 - Delfin",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
-        "result": "32 - Ardilla",
-        "date": "2026-01-24"
+        "result": "30 - Caiman",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
-        "result": "1 - Carnero",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "10:00 AM",
-        "result": "40 - Avispa",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "11:00 AM",
-        "result": "0 - Delfin",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "12:00 PM",
-        "result": "25 - Gallina",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "01:00 PM",
-        "result": "41 - Canguro",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "02:00 PM",
-        "result": "30 - Caiman",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "03:00 PM",
-        "result": "6 - Rana",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "04:00 PM",
-        "result": "43 - Mariposa",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "05:00 PM",
-        "result": "51 - Pelicano",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "06:00 PM",
-        "result": "19 - Chivo",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "07:00 PM",
-        "result": "46 - Puma",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "01:15 PM",
-        "result": "309 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "01:15 PM",
-        "result": "789 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "01:15 PM",
-        "result": "519 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "04:45 PM",
-        "result": "648 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "04:45 PM",
-        "result": "360 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "04:45 PM",
-        "result": "006 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "10:00 PM",
-        "result": "927 A",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "10:00 PM",
-        "result": "110 B",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "10:00 PM",
-        "result": "231 C",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Condor",
-        "time": "01:00 PM",
-        "result": "42 - Tucan",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Condor",
-        "time": "10:00 AM",
-        "result": "33 - Pescado",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Condor",
-        "time": "11:00 AM",
-        "result": "54 - Grillo",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Condor",
-        "time": "12:00 PM",
-        "result": "38 - Bufalo",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Condor",
-        "time": "02:00 PM",
-        "result": "49 - Pereza",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Condor",
-        "time": "03:00 PM",
-        "result": "30 - Caiman",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Condor",
-        "time": "04:00 PM",
-        "result": "33 - Pescado",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Condor",
-        "time": "05:00 PM",
-        "result": "44 - Chiguire",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Condor",
-        "time": "06:00 PM",
-        "result": "58 - Hormiga",
-        "date": "2026-01-24"
-    },
-    {
-        "lottery": "Condor",
-        "time": "07:00 PM",
-        "result": "17 - Pavo",
-        "date": "2026-01-24"
+        "result": "8 - raton",
+        "date": "2026-01-25"
     },
     {
         "lottery": "Condor",
         "time": "09:00 AM",
-        "result": "19 - Chivo",
-        "date": "2026-01-24"
+        "result": "22 - Camello",
+        "date": "2026-01-25"
     }
 ]
