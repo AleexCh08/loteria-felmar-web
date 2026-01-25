@@ -18,6 +18,24 @@
         "date": "2026-01-25"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "612 A",
+        "date": "2026-01-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "350 B",
+        "date": "2026-01-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "402 C",
+        "date": "2026-01-25"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "33 - Pescado",
@@ -27,6 +45,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "8 - Raton",
+        "date": "2026-01-25"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "34 - Venado",
         "date": "2026-01-25"
     },
     {
@@ -42,6 +66,12 @@
         "date": "2026-01-25"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "4 - Alacran",
+        "date": "2026-01-25"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "56 - Tiburon",
@@ -51,6 +81,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "45 - Garza",
+        "date": "2026-01-25"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "50 - Canario",
         "date": "2026-01-25"
     },
     {
@@ -66,6 +102,12 @@
         "date": "2026-01-25"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "9 - Aguila",
+        "date": "2026-01-25"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "8 - Raton",
@@ -75,6 +117,12 @@
         "lottery": "Selva Plus",
         "time": "09:00 AM",
         "result": "14 - Paloma",
+        "date": "2026-01-25"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "3 - Ciempies",
         "date": "2026-01-25"
     },
     {
@@ -90,6 +138,12 @@
         "date": "2026-01-25"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "10:30 AM",
+        "result": "5 - Leon",
+        "date": "2026-01-25"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -99,6 +153,18 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "8 - raton",
+        "date": "2026-01-25"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "27 - Perro",
+        "date": "2026-01-25"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "56 - Tiburon",
         "date": "2026-01-25"
     },
     {
