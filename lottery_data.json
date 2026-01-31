@@ -342,6 +342,18 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "603 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "793 C",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -624,6 +636,12 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "79 - Calamar",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "21 - Gallo",
@@ -687,6 +705,12 @@
         "lottery": "Selva Plus",
         "time": "06:00 PM",
         "result": "16 - Oso",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "8 - Raton",
         "date": "2026-01-31"
     },
     {
@@ -756,6 +780,12 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "07:30 PM",
+        "result": "30 - Caiman",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "39 - Lechuza",
@@ -819,6 +849,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "53 - Caracol",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "21 - Gallo",
         "date": "2026-01-31"
     },
     {
