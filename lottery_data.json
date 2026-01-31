@@ -72,6 +72,24 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "675 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "409 B",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "184 C",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "192 A",
@@ -87,6 +105,24 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "043 C",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "683 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "978 B",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "850 C",
         "date": "2026-01-31"
     },
     {
@@ -192,6 +228,12 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "00 - Ballena",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -255,6 +297,12 @@
         "lottery": "Guacharito",
         "time": "12:30 PM",
         "result": "77 - Pinguino",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "92 - Cisne",
         "date": "2026-01-31"
     },
     {
@@ -324,6 +372,12 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "01:30 PM",
+        "result": "31 - Lapa",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "39 - Lechuza",
@@ -357,6 +411,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "50 - Canario",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "68 - Jaguar",
         "date": "2026-01-31"
     },
     {
