@@ -1,110 +1,26 @@
 [
     {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "529 A",
-        "date": "2026-01-30"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "158 B",
-        "date": "2026-01-30"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "331 C",
-        "date": "2026-01-30"
-    },
-    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
-        "result": "6 - Rana",
-        "date": "2026-01-30"
-    },
-    {
-        "lottery": "Lotto Activo",
-        "time": "09:00 AM",
-        "result": "9 - Aguila",
-        "date": "2026-01-30"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "08:00 AM",
-        "result": "12 - Caballo",
-        "date": "2026-01-30"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "09:00 AM",
-        "result": "10 - Tigre",
-        "date": "2026-01-30"
+        "result": "3 - Ciempies",
+        "date": "2026-01-31"
     },
     {
         "lottery": "Guacharo",
         "time": "08:00 AM",
-        "result": "26 - Vaca",
-        "date": "2026-01-30"
-    },
-    {
-        "lottery": "Guacharo",
-        "time": "09:00 AM",
-        "result": "58 - Hormiga",
-        "date": "2026-01-30"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "08:30 AM",
-        "result": "7 - Perico",
-        "date": "2026-01-30"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "09:30 AM",
-        "result": "89 - Anguila",
-        "date": "2026-01-30"
+        "result": "18 - Burro",
+        "date": "2026-01-31"
     },
     {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
-        "result": "4 - Alacran",
-        "date": "2026-01-30"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "09:00 AM",
-        "result": "9 - Aguila",
-        "date": "2026-01-30"
-    },
-    {
-        "lottery": "Lotto Rey",
-        "time": "08:30 AM",
-        "result": "6 - Rana",
-        "date": "2026-01-30"
-    },
-    {
-        "lottery": "Lotto Rey",
-        "time": "09:30 AM",
-        "result": "35 - Jirafa",
-        "date": "2026-01-30"
+        "result": "21 - Gallo",
+        "date": "2026-01-31"
     },
     {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
-        "result": "42 - Tucan",
-        "date": "2026-01-30"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "09:00 AM",
-        "result": "19 - Chivo",
-        "date": "2026-01-30"
-    },
-    {
-        "lottery": "Condor",
-        "time": "09:00 AM",
-        "result": "46 - Puma",
-        "date": "2026-01-30"
+        "result": "39 - Lechuza",
+        "date": "2026-01-31"
     }
 ]
