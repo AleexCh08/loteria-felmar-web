@@ -18,6 +18,30 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "689 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "261 B",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "397 C",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "129 A",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -27,6 +51,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "19 - Chivo",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "32 - Ardilla",
         "date": "2026-01-31"
     },
     {
@@ -51,6 +81,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "67 - Avestruz",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "9 - Aguila",
         "date": "2026-01-31"
     },
     {
@@ -99,6 +135,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "28 - Zamuro",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "51 - Pelicano",
         "date": "2026-01-31"
     },
     {
