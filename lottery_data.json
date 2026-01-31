@@ -144,6 +144,24 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "851 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "415 B",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "777 C",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "192 A",
@@ -159,6 +177,24 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "043 C",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "260 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "746 B",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "968 C",
         "date": "2026-01-31"
     },
     {
@@ -180,6 +216,24 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "484 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "012 B",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "752 C",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "623 A",
@@ -195,6 +249,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "638 C",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "113 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "628 B",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "834 C",
         "date": "2026-01-31"
     },
     {
@@ -219,6 +291,18 @@
         "lottery": "Triple Zamorano",
         "time": "02:00 PM",
         "result": "504 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "018 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "871 C",
         "date": "2026-01-31"
     },
     {
@@ -273,6 +357,12 @@
         "lottery": "Lotto Activo",
         "time": "04:00 PM",
         "result": "8 - Raton",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "21 - Gallo",
         "date": "2026-01-31"
     },
     {
@@ -384,6 +474,12 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "14 - Paloma",
@@ -489,6 +585,12 @@
         "lottery": "Selva Plus",
         "time": "04:00 PM",
         "result": "19 - Chivo",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "20 - Cochino",
         "date": "2026-01-31"
     },
     {
@@ -600,6 +702,12 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "46 - Puma",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "68 - Jaguar",
@@ -639,6 +747,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "27 - Perro",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "52 - Pulpo",
         "date": "2026-01-31"
     },
     {
