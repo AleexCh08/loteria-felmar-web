@@ -420,6 +420,12 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "22 - Camello",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -531,6 +537,12 @@
         "lottery": "Guacharito",
         "time": "04:30 PM",
         "result": "34 - Venado",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "27 - Perro",
         "date": "2026-01-31"
     },
     {
@@ -648,6 +660,12 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "05:30 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "39 - Lechuza",
@@ -705,6 +723,42 @@
         "lottery": "Lotto Chaima",
         "time": "05:00 PM",
         "result": "46 - Puma",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "921 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "834 B",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "266 C",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "709 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "178 B",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "444 C",
         "date": "2026-01-31"
     },
     {
