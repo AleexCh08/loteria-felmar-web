@@ -390,6 +390,12 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "44 - Chiguire",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "21 - Gallo",
@@ -477,6 +483,12 @@
         "lottery": "Lotto Rey",
         "time": "02:30 PM",
         "result": "20 - Cochino",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "03:30 PM",
+        "result": "5 - Leon",
         "date": "2026-01-31"
     },
     {
