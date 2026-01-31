@@ -90,6 +90,24 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "291 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "539 B",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "464 C",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "192 A",
@@ -162,6 +180,12 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "504 A",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -195,6 +219,12 @@
         "lottery": "Lotto Activo",
         "time": "01:00 PM",
         "result": "5 - Leon",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-01-31"
     },
     {
@@ -234,6 +264,12 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "4 - Alacran",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -267,6 +303,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "43 - Mariposa",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "53 - Caracol",
         "date": "2026-01-31"
     },
     {
@@ -435,6 +477,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "69 - Conejo",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "20 - Cochino",
         "date": "2026-01-31"
     },
     {
