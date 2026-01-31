@@ -126,6 +126,24 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "812 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "600 B",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "576 C",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "192 A",
@@ -252,6 +270,12 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "8 - Raton",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "24 - Iguana",
@@ -300,6 +324,12 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -345,6 +375,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "48 - Puercoespin",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "6 - Rana",
         "date": "2026-01-31"
     },
     {
