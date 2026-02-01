@@ -108,6 +108,24 @@
         "date": "2026-02-01"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "581 A",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "063 B",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "617 C",
+        "date": "2026-02-01"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -147,6 +165,12 @@
         "lottery": "Lotto Activo",
         "time": "02:00 PM",
         "result": "29 - Elefante",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-02-01"
     },
     {
@@ -234,6 +258,12 @@
         "date": "2026-02-01"
     },
     {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "15 - Zorro",
+        "date": "2026-02-01"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "73 - Hipopotamo",
@@ -315,6 +345,12 @@
         "lottery": "Selva Plus",
         "time": "02:00 PM",
         "result": "2 - Toro",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "03:00 PM",
+        "result": "23 - Cebra",
         "date": "2026-02-01"
     },
     {
@@ -402,6 +438,12 @@
         "date": "2026-02-01"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "41 - Canguro",
+        "date": "2026-02-01"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "72 - Gorila",
@@ -429,6 +471,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "43 - Mariposa",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "37 - Tortuga",
         "date": "2026-02-01"
     },
     {
