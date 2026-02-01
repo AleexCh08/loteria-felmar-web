@@ -180,6 +180,36 @@
         "date": "2026-02-01"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "499 A",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "152 B",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "078 C",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "708 A",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "142 C",
+        "date": "2026-02-01"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -243,6 +273,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "18 - Burro",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "12 - Caballo",
         "date": "2026-02-01"
     },
     {
@@ -312,6 +348,12 @@
         "date": "2026-02-01"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-02-01"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "41 - Canguro",
@@ -375,6 +417,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "8 - raton",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-02-01"
     },
     {
@@ -510,6 +558,12 @@
         "date": "2026-02-01"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "33 - Pescado",
+        "date": "2026-02-01"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "4 - Alacran",
@@ -642,6 +696,12 @@
         "date": "2026-02-01"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "12 - Caballo",
+        "date": "2026-02-01"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "72 - Gorila",
@@ -693,6 +753,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "54 - Grillo",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "62 - Cachicamo",
         "date": "2026-02-01"
     },
     {
