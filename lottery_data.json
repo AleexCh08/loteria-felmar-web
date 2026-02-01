@@ -234,6 +234,24 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "378 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "055 B",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "416 C",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "683 A",
@@ -270,6 +288,24 @@
         "date": "2026-01-31"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "281 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "206 B",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "156 C",
+        "date": "2026-01-31"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "623 A",
@@ -303,6 +339,24 @@
         "lottery": "Triple Caliente",
         "time": "04:30 PM",
         "result": "834 C",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "927 A",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "315 B",
+        "date": "2026-01-31"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "102 C",
         "date": "2026-01-31"
     },
     {
