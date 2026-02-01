@@ -126,6 +126,24 @@
         "date": "2026-02-01"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "138 A",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "876 B",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "382 C",
+        "date": "2026-02-01"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -336,6 +354,12 @@
         "date": "2026-02-01"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "55 - Oso Hormiguero",
+        "date": "2026-02-01"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -438,6 +462,12 @@
         "date": "2026-02-01"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "04:30 PM",
+        "result": "23 - Cebra",
+        "date": "2026-02-01"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "51 - Pelicano",
@@ -525,6 +555,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "37 - Tortuga",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "74 - Turpial",
         "date": "2026-02-01"
     },
     {
