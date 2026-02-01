@@ -30,6 +30,12 @@
         "date": "2026-02-01"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "24 - Iguana",
+        "date": "2026-02-01"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "8 - Raton",
@@ -42,6 +48,12 @@
         "date": "2026-02-01"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "18 - Burro",
+        "date": "2026-02-01"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "41 - Canguro",
@@ -51,6 +63,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "16 - Oso",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "26 - Vaca",
         "date": "2026-02-01"
     },
     {
@@ -78,6 +96,12 @@
         "date": "2026-02-01"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "19 - Chivo",
+        "date": "2026-02-01"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "4 - Alacran",
@@ -99,6 +123,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "16 - Oso",
+        "date": "2026-02-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "09 - Aguila",
         "date": "2026-02-01"
     },
     {
