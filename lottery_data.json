@@ -198,6 +198,12 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "26 - Vaca",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -234,6 +240,12 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "26 - Vaca",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "45 - Garza",
@@ -267,6 +279,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "66 - Lobo",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "32 - Ardilla",
         "date": "2026-02-02"
     },
     {
@@ -342,6 +360,12 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "02:00 PM",
+        "result": "00 - Ballena",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "3 - Ciempies",
@@ -414,6 +438,12 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "9 - Aguila",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "34 - Venado",
@@ -435,6 +465,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "00 - Ballena",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-02-02"
     },
     {
