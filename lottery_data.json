@@ -36,6 +36,12 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "940 A",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "28 - Zamuro",
@@ -66,6 +72,12 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "27 - Perro",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "45 - Garza",
@@ -75,6 +87,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "17 - Pavo",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "16 - Oso",
         "date": "2026-02-02"
     },
     {
@@ -90,6 +108,12 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "43 - Mariposa",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -99,6 +123,12 @@
         "lottery": "Selva Plus",
         "time": "09:00 AM",
         "result": "34 - Venado",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "16 - Oso",
         "date": "2026-02-02"
     },
     {
@@ -123,6 +153,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "50 - Canario",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "43 - Mariposa",
         "date": "2026-02-02"
     },
     {
