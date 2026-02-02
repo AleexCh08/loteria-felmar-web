@@ -252,6 +252,12 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "22 - Camello",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -345,6 +351,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "12 - Caballo",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "48 - Puercoespin",
         "date": "2026-02-02"
     },
     {
@@ -444,6 +456,12 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "34 - Venado",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "3 - Ciempies",
@@ -537,6 +555,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "11 - Gato",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "46 - Puma",
         "date": "2026-02-02"
     },
     {
