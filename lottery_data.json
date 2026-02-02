@@ -72,6 +72,42 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "909 A",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "762 B",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "871 C",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "973 A",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "711 B",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "579 C",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "940 A",
@@ -120,6 +156,12 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "30 - Caiman",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -150,6 +192,12 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "45 - Garza",
@@ -177,6 +225,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "54 - Grillo",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "66 - Lobo",
         "date": "2026-02-02"
     },
     {
@@ -240,6 +294,12 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "01:00 PM",
+        "result": "1 - Carnero",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "3 - Ciempies",
@@ -297,6 +357,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "29 - Elefante",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "27 - Perro",
         "date": "2026-02-02"
     },
     {
