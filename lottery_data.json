@@ -90,6 +90,24 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "629 A",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "469 B",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "893 C",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "909 A",
@@ -159,6 +177,12 @@
         "lottery": "Triple Zamorano",
         "time": "12:00 PM",
         "result": "350 C",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "727 A",
         "date": "2026-02-02"
     },
     {
@@ -324,6 +348,12 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "63 - Cangrejo",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -399,6 +429,12 @@
         "lottery": "Lotto Rey",
         "time": "01:30 PM",
         "result": "31 - Lapa",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "02:30 PM",
+        "result": "20 - Cochino",
         "date": "2026-02-02"
     },
     {
