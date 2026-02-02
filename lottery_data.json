@@ -132,6 +132,12 @@
         "date": "2026-02-02"
     },
     {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "54 - Grillo",
+        "date": "2026-02-02"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "61 - Panda",
@@ -237,6 +243,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "20 - Cochino",
+        "date": "2026-02-02"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "00 - Ballena",
         "date": "2026-02-02"
     },
     {
