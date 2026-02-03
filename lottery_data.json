@@ -180,6 +180,24 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "396 A",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "807 B",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "272 C",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "863 A",
@@ -390,6 +408,12 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "30 - Caiman",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -453,6 +477,12 @@
         "lottery": "Granjita",
         "time": "06:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-02-03"
     },
     {
@@ -522,6 +552,12 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "38 - Bufalo",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "68 - Jaguar",
@@ -579,6 +615,12 @@
         "lottery": "Guacharito",
         "time": "05:30 PM",
         "result": "84 - Camaron",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "83 - Buho",
         "date": "2026-02-03"
     },
     {
@@ -645,6 +687,12 @@
         "lottery": "Selva Plus",
         "time": "06:00 PM",
         "result": "15 - Zorro",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "16 - Oso",
         "date": "2026-02-03"
     },
     {
@@ -780,6 +828,12 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "19 - Chivo",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "228 A",
@@ -867,6 +921,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "28 - Zamuro",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "60 - Camaleon",
         "date": "2026-02-03"
     },
     {
