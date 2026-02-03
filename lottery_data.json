@@ -126,6 +126,24 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "374 A",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "111 B",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "738 C",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "863 A",
@@ -345,6 +363,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "28 - Zamuro",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "21 - Gallo",
         "date": "2026-02-03"
     },
     {
