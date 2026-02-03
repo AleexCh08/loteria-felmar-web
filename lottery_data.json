@@ -384,6 +384,12 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "18 - Burro",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -702,6 +708,12 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "06:30 PM",
+        "result": "13 - Mono",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "46 - Puma",
@@ -759,6 +771,48 @@
         "lottery": "Lotto Chaima",
         "time": "05:00 PM",
         "result": "6 - Rana",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "48 - Puercoespin",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "228 A",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "557 B",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "216 C",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "210 A",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "211 B",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "931 C",
         "date": "2026-02-03"
     },
     {
