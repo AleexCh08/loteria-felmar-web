@@ -360,6 +360,12 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "33 - Pescado",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -411,6 +417,12 @@
         "lottery": "Granjita",
         "time": "04:00 PM",
         "result": "1 - Carnero",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "27 - Perro",
         "date": "2026-02-03"
     },
     {
@@ -468,6 +480,12 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "37 - Tortuga",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "68 - Jaguar",
@@ -519,6 +537,12 @@
         "lottery": "Guacharito",
         "time": "04:30 PM",
         "result": "5 - Leon",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "84 - Camaron",
         "date": "2026-02-03"
     },
     {
@@ -576,6 +600,12 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "12 - Caballo",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "27 - Perro",
@@ -630,6 +660,12 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "05:30 PM",
+        "result": "10 - Tigre",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "46 - Puma",
@@ -681,6 +717,12 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "33 - Pescado",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "6 - Rana",
         "date": "2026-02-03"
     },
     {
