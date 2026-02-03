@@ -144,6 +144,24 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "509 A",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "897 B",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "671 C",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "863 A",
@@ -159,6 +177,24 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "738 C",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "681 A",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "553 B",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "075 C",
         "date": "2026-02-03"
     },
     {
@@ -180,6 +216,24 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "028 A",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "176 B",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "411 C",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "601 A",
@@ -195,6 +249,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "945 C",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "416 A",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "042 B",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "050 C",
         "date": "2026-02-03"
     },
     {
@@ -651,6 +723,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "01 - Carnero",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "47 - Pavoreal",
         "date": "2026-02-03"
     },
     {
