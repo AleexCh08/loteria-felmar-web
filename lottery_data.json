@@ -1,14 +1,44 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "582 A",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "829 B",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "144 C",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "22 - Camello",
         "date": "2026-02-03"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "29 - Elefante",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "18 - Burro",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "36 - Culebra",
         "date": "2026-02-03"
     },
     {
@@ -30,9 +60,21 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "78 - Antilope",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "17 - Pavo",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "09:00 AM",
+        "result": "10 - Tigre",
         "date": "2026-02-03"
     },
     {
@@ -42,9 +84,27 @@
         "date": "2026-02-03"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "09:30 AM",
+        "result": "5 - Leon",
+        "date": "2026-02-03"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "46 - Puma",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "22 - Camello",
+        "date": "2026-02-03"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "17 - Pavo",
         "date": "2026-02-03"
     }
 ]
