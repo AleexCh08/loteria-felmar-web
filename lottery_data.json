@@ -180,6 +180,24 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "944 A",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "208 B",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "713 C",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "735 A",
@@ -195,6 +213,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "584 C",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "769 A",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "100 B",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "936 C",
         "date": "2026-02-05"
     },
     {
@@ -219,6 +255,18 @@
         "lottery": "Triple Zamorano",
         "time": "02:00 PM",
         "result": "394 A",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "475 A",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "428 C",
         "date": "2026-02-05"
     },
     {
@@ -267,6 +315,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "28 - Zamuro",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "5 - Leon",
         "date": "2026-02-05"
     },
     {
@@ -426,6 +480,12 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "76 - Rinoceronte",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -525,6 +585,12 @@
         "lottery": "Lotto Rey",
         "time": "03:30 PM",
         "result": "31 - Lapa",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "04:30 PM",
+        "result": "36 - Culebra",
         "date": "2026-02-05"
     },
     {
@@ -633,6 +699,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "70 - Bisonte",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "0 - Delfin",
         "date": "2026-02-05"
     },
     {
