@@ -180,6 +180,24 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "793 A",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "621 B",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "563 C",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "816 A",
@@ -252,6 +270,24 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "391 A",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "537 B",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "429 C",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "735 A",
@@ -321,6 +357,18 @@
         "lottery": "Triple Zamorano",
         "time": "04:00 PM",
         "result": "428 C",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "792 A",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "018 C",
         "date": "2026-02-05"
     },
     {
@@ -456,6 +504,12 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "16 - Oso",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "51 - Pelicano",
@@ -519,6 +573,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "22 - Camello",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "21 - Gallo",
         "date": "2026-02-05"
     },
     {
@@ -651,6 +711,12 @@
         "lottery": "Selva Plus",
         "time": "06:00 PM",
         "result": "10 - Tigre",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "20 - Cochino",
         "date": "2026-02-05"
     },
     {
