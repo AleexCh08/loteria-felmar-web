@@ -330,6 +330,12 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "01:00 PM",
+        "result": "1 - Carnero",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "28 - Zamuro",
@@ -360,6 +366,12 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "01:30 PM",
+        "result": "18 - Burro",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "44 - Chiguire",
@@ -387,6 +399,18 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "3 - Ciempies",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "39 - Lechuza",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "09 - Aguila",
         "date": "2026-02-05"
     },
     {
