@@ -180,6 +180,12 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "394 A",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -342,6 +348,12 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "48 - Puercoespin",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -420,6 +432,12 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "02:30 PM",
+        "result": "33 - Pescado",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "44 - Chiguire",
@@ -453,6 +471,30 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "39 - Lechuza",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "10 - Tigre",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "710 A",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "242 B",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "208 C",
         "date": "2026-02-05"
     },
     {
