@@ -366,6 +366,12 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "1 - Carnero",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -426,6 +432,12 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "00 - Ballena",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "51 - Pelicano",
@@ -483,6 +495,12 @@
         "lottery": "Guacharo",
         "time": "05:00 PM",
         "result": "62 - Cachicamo",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "22 - Camello",
         "date": "2026-02-05"
     },
     {
@@ -606,6 +624,12 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "06:00 PM",
+        "result": "10 - Tigre",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "28 - Zamuro",
@@ -726,6 +750,12 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "23 - Cebra",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "710 A",
@@ -741,6 +771,24 @@
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "208 C",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "852 A",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "513 B",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "449 C",
         "date": "2026-02-05"
     },
     {
@@ -789,6 +837,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "66 - Lobo",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "07 - Perico",
         "date": "2026-02-05"
     },
     {
