@@ -246,6 +246,12 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -285,6 +291,12 @@
         "lottery": "Granjita",
         "time": "02:00 PM",
         "result": "11 - Gato",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "12 - Caballo",
         "date": "2026-02-05"
     },
     {
@@ -378,6 +390,12 @@
         "date": "2026-02-05"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "49 - Pereza",
+        "date": "2026-02-05"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -465,6 +483,12 @@
         "lottery": "Lotto Rey",
         "time": "02:30 PM",
         "result": "33 - Pescado",
+        "date": "2026-02-05"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "03:30 PM",
+        "result": "31 - Lapa",
         "date": "2026-02-05"
     },
     {
