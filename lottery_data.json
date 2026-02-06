@@ -300,6 +300,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "7 - Perico",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "1 - Carnero",
@@ -345,6 +351,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "51 - Pelicano",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "19 - Chivo",
         "date": "2026-02-06"
     },
     {
@@ -444,6 +456,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "16 - Oso",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "6 - Rana",
@@ -537,6 +555,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "50 - Canario",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "7 - Perico",
         "date": "2026-02-06"
     },
     {
