@@ -162,6 +162,24 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "873 A",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "321 B",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "446 C",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "461 A",
@@ -426,6 +444,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "22 - Camello",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "1 - Carnero",
@@ -483,6 +507,12 @@
         "lottery": "Guacharo",
         "time": "05:00 PM",
         "result": "57 - Pato",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-02-06"
     },
     {
@@ -606,6 +636,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "06:00 PM",
+        "result": "7 - Perico",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "6 - Rana",
@@ -726,6 +762,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "36 - Culebra",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "163 A",
@@ -789,6 +831,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "11 - Gato",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "74 - Turpial",
         "date": "2026-02-06"
     },
     {
