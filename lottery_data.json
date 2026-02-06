@@ -54,6 +54,24 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "266 A",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "574 B",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "934 C",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "069 A",
@@ -108,6 +126,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "0 - Delfin",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "1 - Carnero",
@@ -129,6 +153,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "12 - Caballo",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "70 - Bisonte",
         "date": "2026-02-06"
     },
     {
@@ -180,6 +210,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "20 - Cochino",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "6 - Rana",
@@ -228,6 +264,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "10 - Tigre",
@@ -237,6 +279,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "55 - Osohormi",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "32 - Ardilla",
         "date": "2026-02-06"
     },
     {
