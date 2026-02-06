@@ -78,6 +78,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "25 - Gallina",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "28 - Zamuro",
@@ -93,6 +99,12 @@
         "lottery": "Granjita",
         "time": "10:00 AM",
         "result": "27 - Perro",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "4 - Alacran",
         "date": "2026-02-06"
     },
     {
@@ -138,6 +150,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "43 - Mariposa",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -177,6 +195,12 @@
         "lottery": "Lotto Rey",
         "time": "10:30 AM",
         "result": "11 - Gato",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "11:30 AM",
+        "result": "17 - Pavo",
         "date": "2026-02-06"
     },
     {
