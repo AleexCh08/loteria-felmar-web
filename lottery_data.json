@@ -108,6 +108,24 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "270 A",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "830 B",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "704 C",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "461 A",
@@ -312,6 +330,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "51 - Pelicano",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "94 - Paujil",
@@ -393,6 +417,12 @@
         "lottery": "Selva Plus",
         "time": "02:00 PM",
         "result": "14 - Paloma",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "03:00 PM",
+        "result": "36 - Culebra",
         "date": "2026-02-06"
     },
     {
@@ -480,6 +510,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "50 - Canario",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "67 - Avestruz",
@@ -507,6 +543,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "16 - Oso",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "71 - Guacamaya",
         "date": "2026-02-06"
     },
     {
