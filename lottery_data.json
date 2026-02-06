@@ -234,6 +234,24 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "900 A",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "198 B",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "703 C",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "867 A",
@@ -270,6 +288,24 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "952 A",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "008 B",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "873 C",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "014 A",
@@ -303,6 +339,24 @@
         "lottery": "Triple Caliente",
         "time": "04:30 PM",
         "result": "378 C",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "206 A",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "131 B",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "835 C",
         "date": "2026-02-06"
     },
     {
@@ -492,6 +546,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "20 - Cochino",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "1 - Carnero",
@@ -630,6 +690,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "93 - Gaviota",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -765,6 +831,12 @@
         "lottery": "Lotto Rey",
         "time": "06:30 PM",
         "result": "23 - Cebra",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "07:30 PM",
+        "result": "29 - Elefante",
         "date": "2026-02-06"
     },
     {
