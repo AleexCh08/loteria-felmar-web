@@ -180,6 +180,24 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "293 A",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "052 B",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "976 C",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "461 A",
@@ -324,6 +342,18 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "960 A",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "098 C",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "1 - Carnero",
@@ -387,6 +417,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "0 - Delfin",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "36 - Culebra",
         "date": "2026-02-06"
     },
     {
@@ -522,6 +558,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "41 - Canguro",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "94 - Paujil",
@@ -651,6 +693,12 @@
         "lottery": "Selva Plus",
         "time": "06:00 PM",
         "result": "7 - Perico",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "3 - Ciempies",
         "date": "2026-02-06"
     },
     {
@@ -786,6 +834,12 @@
         "date": "2026-02-06"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-02-06"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "163 A",
@@ -855,6 +909,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "74 - Turpial",
+        "date": "2026-02-06"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "64 - Gavilan",
         "date": "2026-02-06"
     },
     {
