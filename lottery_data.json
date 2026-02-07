@@ -144,6 +144,24 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "746 A",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "371 B",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "157 C",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "896 A",
@@ -159,6 +177,24 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "245 C",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "498 A",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "074 B",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "946 C",
         "date": "2026-02-07"
     },
     {
@@ -324,6 +360,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "31 - Lapa",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -375,6 +417,12 @@
         "lottery": "Granjita",
         "time": "04:00 PM",
         "result": "13 - Mono",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "25 - Gallina",
         "date": "2026-02-07"
     },
     {
@@ -687,6 +735,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "28 - Zamuro",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "01 - Carnero",
         "date": "2026-02-07"
     },
     {
