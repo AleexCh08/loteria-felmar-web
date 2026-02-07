@@ -36,6 +36,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "128 A",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -45,6 +51,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "5 - Leon",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "31 - Lapa",
         "date": "2026-02-07"
     },
     {
@@ -60,6 +72,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "28 - Zamuro",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "37 - Tortuga",
@@ -69,6 +87,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "68 - Jaguar",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "41 - Canguro",
         "date": "2026-02-07"
     },
     {
@@ -84,6 +108,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "57 - Pato",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "19 - Chivo",
@@ -93,6 +123,12 @@
         "lottery": "Selva Plus",
         "time": "09:00 AM",
         "result": "26 - Vaca",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "14 - Paloma",
         "date": "2026-02-07"
     },
     {
@@ -108,6 +144,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "10:30 AM",
+        "result": "3 - Ciempies",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -117,6 +159,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "29 - Elefante",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "22 - Camello",
         "date": "2026-02-07"
     },
     {
