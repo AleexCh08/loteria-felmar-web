@@ -108,6 +108,24 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "634 A",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "723 B",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "140 C",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "896 A",
@@ -228,6 +246,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "25 - Gallina",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -267,6 +291,12 @@
         "lottery": "Granjita",
         "time": "02:00 PM",
         "result": "32 - Ardilla",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "17 - Pavo",
         "date": "2026-02-07"
     },
     {
@@ -360,6 +390,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "61 - Panda",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "19 - Chivo",
@@ -447,6 +483,12 @@
         "lottery": "Lotto Rey",
         "time": "02:30 PM",
         "result": "22 - Camello",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "03:30 PM",
+        "result": "31 - Lapa",
         "date": "2026-02-07"
     },
     {
