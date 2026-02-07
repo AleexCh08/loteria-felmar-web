@@ -384,6 +384,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "24 - Iguana",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -576,6 +582,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "41 - Canguro",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "19 - Chivo",
@@ -702,6 +714,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "06:30 PM",
+        "result": "22 - Camello",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -765,6 +783,42 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "45 - Garza",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "635 A",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "446 B",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "875 C",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "926 A",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "544 B",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "508 C",
         "date": "2026-02-07"
     },
     {
