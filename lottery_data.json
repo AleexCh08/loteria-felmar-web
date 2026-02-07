@@ -180,6 +180,24 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "555 A",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "674 B",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "295 C",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "896 A",
@@ -321,6 +339,18 @@
         "lottery": "Triple Zamorano",
         "time": "04:00 PM",
         "result": "478 C",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "569 A",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "408 C",
         "date": "2026-02-07"
     },
     {
@@ -522,6 +552,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "70 - Bisonte",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "19 - Chivo",
@@ -651,6 +687,12 @@
         "lottery": "Selva Plus",
         "time": "06:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "21 - Gallo",
         "date": "2026-02-07"
     },
     {
@@ -786,6 +828,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "39 - Lechuza",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "635 A",
@@ -873,6 +921,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "33 - Pescado",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "41 - Canguro",
         "date": "2026-02-07"
     },
     {
