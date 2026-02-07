@@ -180,6 +180,24 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "617 A",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "430 B",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "148 C",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "028 A",
@@ -195,6 +213,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "972 C",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "924 A",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "347 B",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "506 C",
         "date": "2026-02-07"
     },
     {
@@ -219,6 +255,18 @@
         "lottery": "Triple Zamorano",
         "time": "02:00 PM",
         "result": "562 A",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "957 A",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "478 C",
         "date": "2026-02-07"
     },
     {
@@ -324,6 +372,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "37 - Tortuga",
@@ -423,6 +477,12 @@
         "lottery": "Guacharito",
         "time": "03:30 PM",
         "result": "61 - Panda",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "38 - Bufalo",
         "date": "2026-02-07"
     },
     {
@@ -528,6 +588,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "04:30 PM",
+        "result": "0 - Delfin",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -615,6 +681,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "37 - Tortuga",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "28 - Zamuro",
         "date": "2026-02-07"
     },
     {
