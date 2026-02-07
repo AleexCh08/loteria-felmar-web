@@ -24,9 +24,21 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "5 - Leon",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "00 - Ballena",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "26 - Vaca",
         "date": "2026-02-07"
     },
     {
@@ -48,6 +60,12 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "36 - Culebra",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "19 - Chivo",
@@ -66,9 +84,21 @@
         "date": "2026-02-07"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "09:30 AM",
+        "result": "5 - Leon",
+        "date": "2026-02-07"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "30 - Caiman",
+        "date": "2026-02-07"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "29 - Elefante",
         "date": "2026-02-07"
     },
     {
