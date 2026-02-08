@@ -144,6 +144,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "21 - Gallo",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -177,6 +183,12 @@
         "lottery": "Granjita",
         "time": "01:00 PM",
         "result": "15 - Zorro",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "29 - Elefante",
         "date": "2026-02-08"
     },
     {
@@ -258,6 +270,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "89 - Anguila",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -333,6 +351,12 @@
         "lottery": "Lotto Rey",
         "time": "01:30 PM",
         "result": "33 - Pescado",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "02:30 PM",
+        "result": "4 - Alacran",
         "date": "2026-02-08"
     },
     {
