@@ -144,6 +144,24 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "375 A",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "738 B",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "085 C",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -195,6 +213,12 @@
         "lottery": "Lotto Activo",
         "time": "04:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "00 - Ballena",
         "date": "2026-02-08"
     },
     {
@@ -372,6 +396,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "7 - Perico",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -483,6 +513,12 @@
         "lottery": "Lotto Rey",
         "time": "04:30 PM",
         "result": "15 - Zorro",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "05:30 PM",
+        "result": "1 - Carnero",
         "date": "2026-02-08"
     },
     {
