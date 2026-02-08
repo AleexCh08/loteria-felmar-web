@@ -108,6 +108,24 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "780 A",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "901 B",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "426 C",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -234,6 +252,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "48 - Puercoespin",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "71 - Guacamaya",
@@ -315,6 +339,12 @@
         "lottery": "Selva Plus",
         "time": "02:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "03:00 PM",
+        "result": "32 - Ardilla",
         "date": "2026-02-08"
     },
     {
@@ -402,6 +432,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "0 - Delfin",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "17 - Pavo",
@@ -428,6 +464,12 @@
     {
         "lottery": "Condor",
         "time": "02:00 PM",
+        "result": "40 - Avispa",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
         "result": "40 - Avispa",
         "date": "2026-02-08"
     },
