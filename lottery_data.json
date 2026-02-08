@@ -198,6 +198,72 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "472 A",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "757 B",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "586 C",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "009 A",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "067 B",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "241 C",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "037 A",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "711 B",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "962 C",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "982 A",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "305 C",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -264,6 +330,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "23 - Cebra",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -327,6 +399,12 @@
         "lottery": "Granjita",
         "time": "06:00 PM",
         "result": "15 - Zorro",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "5 - Leon",
         "date": "2026-02-08"
     },
     {
@@ -468,6 +546,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "77 - Pinguino",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -603,6 +687,12 @@
         "lottery": "Lotto Rey",
         "time": "06:30 PM",
         "result": "36 - Culebra",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "07:30 PM",
+        "result": "3 - Ciempies",
         "date": "2026-02-08"
     },
     {
