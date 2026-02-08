@@ -102,6 +102,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "65 - Arana",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -132,6 +138,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "10:30 AM",
+        "result": "23 - Cebra",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "12 - Caballo",
@@ -141,6 +153,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "44 - Chiguire",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "37 - Tortuga",
         "date": "2026-02-08"
     },
     {
