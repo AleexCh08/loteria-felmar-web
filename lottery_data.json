@@ -1,5 +1,23 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "848 A",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "194 B",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "358 C",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -14,6 +32,12 @@
     {
         "lottery": "Granjita",
         "time": "08:00 AM",
+        "result": "2 - Toro",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
         "result": "2 - Toro",
         "date": "2026-02-08"
     },
@@ -36,6 +60,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "66 - Lobo",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -51,6 +81,12 @@
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "6 - Rana",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "09:30 AM",
+        "result": "21 - Gallo",
         "date": "2026-02-08"
     },
     {
