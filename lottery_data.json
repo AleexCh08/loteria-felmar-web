@@ -252,6 +252,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "14 - Paloma",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "35 - Jirafa",
@@ -303,6 +309,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "32 - Ardilla",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "39 - Lechuza",
         "date": "2026-02-08"
     },
     {
@@ -414,6 +426,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "00 - Ballena",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "6 - Rana",
@@ -522,6 +540,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "30 - Caiman",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "17 - Pavo",
@@ -561,6 +585,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "22 - Camello",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "56 - Tiburon",
         "date": "2026-02-08"
     },
     {
