@@ -120,6 +120,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -222,6 +228,12 @@
         "date": "2026-02-08"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "44 - Chiguire",
+        "date": "2026-02-08"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -321,6 +333,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "21 - Gallo",
+        "date": "2026-02-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "17 - Pavo",
         "date": "2026-02-08"
     },
     {
