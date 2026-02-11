@@ -78,6 +78,18 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "312 A",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "101 C",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -129,6 +141,12 @@
         "lottery": "Granjita",
         "time": "11:00 AM",
         "result": "6 - Rana",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-02-11"
     },
     {
@@ -186,6 +204,12 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "81 - Cuervo",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -237,6 +261,12 @@
         "lottery": "Lotto Rey",
         "time": "11:30 AM",
         "result": "24 - Iguana",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "12:30 PM",
+        "result": "33 - Pescado",
         "date": "2026-02-11"
     },
     {
