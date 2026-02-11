@@ -18,6 +18,24 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "578 A",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "965 B",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "622 C",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -27,6 +45,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "26 - Vaca",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "22 - Camello",
         "date": "2026-02-11"
     },
     {
@@ -42,6 +66,12 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "19 - Chivo",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -51,6 +81,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "74 - Turpial",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "67 - Avestruz",
         "date": "2026-02-11"
     },
     {
@@ -78,6 +114,12 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "31 - Lapa",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "26 - Vaca",
@@ -99,6 +141,18 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "45 - Garza",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "1 - Carnero",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "16 - Oso",
         "date": "2026-02-11"
     },
     {
