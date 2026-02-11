@@ -36,6 +36,24 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "702 A",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "540 B",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "034 C",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "358 A",
@@ -60,6 +78,12 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "17 - Pavo",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -78,6 +102,12 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "6 - Rana",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -93,6 +123,12 @@
         "lottery": "Guacharo",
         "time": "10:00 AM",
         "result": "67 - Avestruz",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "1 - Carnero",
         "date": "2026-02-11"
     },
     {
@@ -132,6 +168,12 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "11:00 AM",
+        "result": "20 - Cochino",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "26 - Vaca",
@@ -165,6 +207,12 @@
         "lottery": "Lotto Chaima",
         "time": "10:00 AM",
         "result": "1 - Carnero",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "11:00 AM",
+        "result": "13 - Mono",
         "date": "2026-02-11"
     },
     {
