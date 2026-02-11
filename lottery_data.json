@@ -90,6 +90,60 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "516 A",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "703 B",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "381 C",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "245 A",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "592 B",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "904 C",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "040 A",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "921 B",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "384 C",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "358 A",
@@ -246,6 +300,12 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "58 - Hormiga",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -312,6 +372,12 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "01:30 PM",
+        "result": "23 - Cebra",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "4 - Alacran",
@@ -345,6 +411,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "9 - Aguila",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "57 - Pato",
         "date": "2026-02-11"
     },
     {
