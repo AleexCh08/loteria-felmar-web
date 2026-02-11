@@ -180,6 +180,24 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "801 A",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "189 B",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "643 C",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "516 A",
@@ -324,6 +342,18 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "964 A",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "601 C",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -456,6 +486,12 @@
         "date": "2026-02-11"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "23 - Zebra",
+        "date": "2026-02-11"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -519,6 +555,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "58 - Hormiga",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "34 - Venado",
         "date": "2026-02-11"
     },
     {
@@ -651,6 +693,12 @@
         "lottery": "Selva Plus",
         "time": "06:00 PM",
         "result": "17 - Pavo",
+        "date": "2026-02-11"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "2 - Toro",
         "date": "2026-02-11"
     },
     {
