@@ -582,6 +582,12 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "34 - Venado",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -708,6 +714,12 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "06:30 PM",
+        "result": "21 - Gallo",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "21 - Gallo",
@@ -771,6 +783,42 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "51 - Pelicano",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "137 A",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "089 B",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "972 C",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "102 A",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "202 B",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "313 C",
         "date": "2026-02-14"
     },
     {
