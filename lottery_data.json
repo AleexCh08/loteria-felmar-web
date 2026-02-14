@@ -72,6 +72,24 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "650 A",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "843 B",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "410 C",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "302 A",
@@ -171,6 +189,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "0 - Delfin",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "5 - Leon",
         "date": "2026-02-14"
     },
     {
@@ -276,6 +300,12 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -303,6 +333,12 @@
         "lottery": "Selva Plus",
         "time": "12:00 PM",
         "result": "15 - Zorro",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:00 PM",
+        "result": "32 - Ardilla",
         "date": "2026-02-14"
     },
     {
@@ -336,6 +372,12 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "01:30 PM",
+        "result": "14 - Paloma",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "21 - Gallo",
@@ -363,6 +405,18 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "11 - Gato",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "25 - Gallina",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-02-14"
     },
     {
