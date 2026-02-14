@@ -108,6 +108,24 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "419 A",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "841 B",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "601 C",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "302 A",
@@ -270,6 +288,12 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "20 - Cochino",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -309,6 +333,12 @@
         "lottery": "Guacharo",
         "time": "02:00 PM",
         "result": "54 - Grillo",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "27 - Perro",
         "date": "2026-02-14"
     },
     {
@@ -393,6 +423,12 @@
         "lottery": "Selva Plus",
         "time": "02:00 PM",
         "result": "29 - Elefante",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "03:00 PM",
+        "result": "9 - Aguila",
         "date": "2026-02-14"
     },
     {
