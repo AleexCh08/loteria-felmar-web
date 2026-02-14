@@ -72,6 +72,60 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "302 A",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "383 B",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "405 C",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "818 A",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "745 B",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "682 C",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "708 A",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "116 B",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "489 C",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "903 A",
@@ -150,6 +204,12 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -180,6 +240,12 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "71 - Guacamaya",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "63 - Cangrejo",
@@ -201,6 +267,12 @@
         "lottery": "Guacharito",
         "time": "11:30 AM",
         "result": "93 - Gaviota",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "1 - Carnero",
         "date": "2026-02-14"
     },
     {
