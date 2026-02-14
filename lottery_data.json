@@ -180,6 +180,24 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "621 A",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "937 B",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "509 C",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "302 A",
@@ -252,6 +270,24 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "670 A",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "638 B",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "636 C",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "708 A",
@@ -321,6 +357,18 @@
         "lottery": "Triple Zamorano",
         "time": "04:00 PM",
         "result": "331 C",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "058 A",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "539 C",
         "date": "2026-02-14"
     },
     {
@@ -522,6 +570,12 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "59 - Pantera",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "63 - Cangrejo",
@@ -651,6 +705,12 @@
         "lottery": "Selva Plus",
         "time": "06:00 PM",
         "result": "22 - Camello",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-02-14"
     },
     {
@@ -873,6 +933,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "04 - Alacran",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "37 - Tortuga",
         "date": "2026-02-14"
     },
     {
