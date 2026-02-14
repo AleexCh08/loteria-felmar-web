@@ -234,6 +234,24 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "509 A",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "584 B",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "643 C",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "818 A",
@@ -321,6 +339,24 @@
         "lottery": "Triple Caliente",
         "time": "04:30 PM",
         "result": "091 C",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "957 A",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "075 B",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "387 C",
         "date": "2026-02-14"
     },
     {
@@ -438,6 +474,12 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "23 - Zebra",
@@ -501,6 +543,12 @@
         "lottery": "Granjita",
         "time": "06:00 PM",
         "result": "5 - Leon",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-02-14"
     },
     {
@@ -642,6 +690,12 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "83 - Buho",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -780,6 +834,12 @@
         "date": "2026-02-14"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "07:30 PM",
+        "result": "7 - Perico",
+        "date": "2026-02-14"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "21 - Gallo",
@@ -843,6 +903,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "51 - Pelicano",
+        "date": "2026-02-14"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "44 - Chiguire",
         "date": "2026-02-14"
     },
     {
