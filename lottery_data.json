@@ -102,6 +102,12 @@
         "date": "2026-02-15"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "5 - Leon",
+        "date": "2026-02-15"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "21 - Gallo",
@@ -129,6 +135,12 @@
         "lottery": "Lotto Rey",
         "time": "09:30 AM",
         "result": "14 - Paloma",
+        "date": "2026-02-15"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "10:30 AM",
+        "result": "34 - Venado",
         "date": "2026-02-15"
     },
     {
