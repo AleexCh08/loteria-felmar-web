@@ -90,6 +90,12 @@
         "date": "2026-02-15"
     },
     {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "70 - Bisonte",
+        "date": "2026-02-15"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "4 - Alacran",
@@ -123,6 +129,12 @@
         "lottery": "Selva Plus",
         "time": "10:00 AM",
         "result": "23 - Cebra",
+        "date": "2026-02-15"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "11:00 AM",
+        "result": "36 - Culebra",
         "date": "2026-02-15"
     },
     {
@@ -165,6 +177,12 @@
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "58 - Hormiga",
+        "date": "2026-02-15"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "24 - Iguana",
         "date": "2026-02-15"
     },
     {
