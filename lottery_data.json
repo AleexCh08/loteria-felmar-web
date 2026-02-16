@@ -78,6 +78,18 @@
         "date": "2026-02-16"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "137 A",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "902 C",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -243,6 +255,12 @@
         "lottery": "Lotto Rey",
         "time": "11:30 AM",
         "result": "7 - Perico",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "12:30 PM",
+        "result": "19 - Chivo",
         "date": "2026-02-16"
     },
     {
