@@ -234,6 +234,24 @@
         "date": "2026-02-16"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "829 A",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "043 B",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "492 C",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "895 A",
@@ -339,6 +357,18 @@
         "lottery": "Triple Zamorano",
         "time": "04:00 PM",
         "result": "079 C",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "657 A",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "226 C",
         "date": "2026-02-16"
     },
     {
@@ -480,6 +510,12 @@
         "date": "2026-02-16"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "4 - Alacran",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -618,6 +654,12 @@
         "date": "2026-02-16"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "41 - Canguro",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -753,6 +795,12 @@
         "lottery": "Lotto Rey",
         "time": "06:30 PM",
         "result": "23 - Cebra",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "07:30 PM",
+        "result": "14 - Paloma",
         "date": "2026-02-16"
     },
     {
