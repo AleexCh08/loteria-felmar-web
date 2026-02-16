@@ -18,6 +18,30 @@
         "date": "2026-02-16"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "913 A",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "709 B",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "135 C",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "742 A",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -66,6 +90,12 @@
         "date": "2026-02-16"
     },
     {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "8 - raton",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "86 - Buey",
@@ -75,6 +105,12 @@
         "lottery": "Guacharito",
         "time": "09:30 AM",
         "result": "57 - Pato",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "22 - Camello",
         "date": "2026-02-16"
     },
     {
@@ -90,6 +126,12 @@
         "date": "2026-02-16"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "22 - Camello",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "10 - Tigre",
@@ -102,6 +144,12 @@
         "date": "2026-02-16"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "10:30 AM",
+        "result": "1 - Carnero",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -111,6 +159,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "50 - Canario",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "47 - Pavo Real",
         "date": "2026-02-16"
     },
     {
