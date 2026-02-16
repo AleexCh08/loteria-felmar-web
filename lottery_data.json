@@ -90,6 +90,60 @@
         "date": "2026-02-16"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "805 A",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "081 B",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "364 C",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "895 A",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "525 B",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "053 C",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "601 A",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "259 B",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "065 C",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "742 A",
@@ -312,6 +366,12 @@
         "date": "2026-02-16"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "01:30 PM",
+        "result": "0 - Delfin",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -345,6 +405,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "9 - Aguila",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "13 - Mono",
         "date": "2026-02-16"
     },
     {
