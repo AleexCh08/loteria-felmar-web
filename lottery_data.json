@@ -384,6 +384,12 @@
         "date": "2026-02-16"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "12 - Caballo",
@@ -576,6 +582,12 @@
         "date": "2026-02-16"
     },
     {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "56 - Tiburon",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -699,6 +711,12 @@
         "lottery": "Lotto Rey",
         "time": "05:30 PM",
         "result": "26 - Vaca",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "06:30 PM",
+        "result": "23 - Cebra",
         "date": "2026-02-16"
     },
     {
