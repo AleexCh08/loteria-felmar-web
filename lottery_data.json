@@ -1,14 +1,38 @@
 [
     {
+        "lottery": "Lotto Activo",
+        "time": "08:00 AM",
+        "result": "30 - Caiman",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "08:00 AM",
+        "result": "12 - Caballo",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "23 - Cebra",
         "date": "2026-02-16"
     },
     {
+        "lottery": "Guacharito",
+        "time": "08:30 AM",
+        "result": "86 - Buey",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "30 - Caiman",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "08:30 AM",
+        "result": "10 - Tigre",
         "date": "2026-02-16"
     },
     {
