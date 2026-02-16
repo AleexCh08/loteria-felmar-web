@@ -30,6 +30,12 @@
         "date": "2026-02-16"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "21 - Gallo",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "12 - Caballo",
@@ -39,6 +45,12 @@
         "lottery": "Granjita",
         "time": "09:00 AM",
         "result": "28 - Zamuro",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "3 - Ciempies",
         "date": "2026-02-16"
     },
     {
@@ -57,6 +69,12 @@
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "86 - Buey",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "57 - Pato",
         "date": "2026-02-16"
     },
     {
@@ -93,6 +111,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "50 - Canario",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "07 - Perico",
         "date": "2026-02-16"
     },
     {
