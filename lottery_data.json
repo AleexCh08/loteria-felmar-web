@@ -36,6 +36,24 @@
         "date": "2026-02-16"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "272 A",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "954 B",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "640 C",
+        "date": "2026-02-16"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "742 A",
@@ -171,6 +189,12 @@
         "lottery": "Lotto Rey",
         "time": "10:30 AM",
         "result": "1 - Carnero",
+        "date": "2026-02-16"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "11:30 AM",
+        "result": "7 - Perico",
         "date": "2026-02-16"
     },
     {
