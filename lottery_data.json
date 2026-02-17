@@ -300,6 +300,12 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "21 - Gallo",
@@ -345,6 +351,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "16 - Oso",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "39 - Lechuza",
         "date": "2026-02-17"
     },
     {
@@ -444,6 +456,12 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "31 - Lapa",
@@ -537,6 +555,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "53 - Caracol",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "19 - Chivo",
         "date": "2026-02-17"
     },
     {
