@@ -1,8 +1,32 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "083 A",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "416 B",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "274 C",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "6 - Rana",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "32 - Ardilla",
         "date": "2026-02-17"
     },
     {
@@ -12,9 +36,21 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "31 - Lapa",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "21 - Gallo",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "09:00 AM",
+        "result": "63 - Cangrejo",
         "date": "2026-02-17"
     },
     {
@@ -30,6 +66,12 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "09:00 AM",
+        "result": "3 - Ciempies",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "31 - Lapa",
@@ -39,6 +81,18 @@
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "2 - Toro",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "54 - Grillo",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "20 - Cochino",
         "date": "2026-02-17"
     }
 ]
