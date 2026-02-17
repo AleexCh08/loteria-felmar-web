@@ -78,6 +78,18 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "395 A",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "030 C",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -129,6 +141,12 @@
         "lottery": "Granjita",
         "time": "11:00 AM",
         "result": "33 - Pescado",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "36 - Culebra",
         "date": "2026-02-17"
     },
     {
@@ -186,6 +204,12 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "80 - Murcielago",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "24 - Iguana",
@@ -237,6 +261,12 @@
         "lottery": "Lotto Rey",
         "time": "11:30 AM",
         "result": "7 - Perico",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "12:30 PM",
+        "result": "10 - Tigre",
         "date": "2026-02-17"
     },
     {
