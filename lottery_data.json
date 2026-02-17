@@ -126,6 +126,24 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "102 A",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "687 B",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "242 C",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "104 A",
@@ -204,6 +222,18 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "546 A",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "793 C",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -249,6 +279,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "26 - Vaca",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "7 - Perico",
         "date": "2026-02-17"
     },
     {
@@ -408,6 +444,12 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "58 - Hormiga",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "24 - Iguana",
@@ -510,6 +552,12 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "04:30 PM",
+        "result": "25 - Gallina",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -597,6 +645,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "33 - Pescado",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "37 - Tortuga",
         "date": "2026-02-17"
     },
     {
