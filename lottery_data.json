@@ -36,6 +36,24 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "054 A",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "507 B",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "984 C",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "369 A",
@@ -96,6 +114,12 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "59 - Pantera",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "89 - Anguila",
@@ -129,6 +153,12 @@
         "lottery": "Selva Plus",
         "time": "10:00 AM",
         "result": "36 - Culebra",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "11:00 AM",
+        "result": "20 - Cochino",
         "date": "2026-02-17"
     },
     {
@@ -168,9 +198,21 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "11:00 AM",
+        "result": "48 - Puercoespin",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "55 - Osohormi",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "51 - Pelicano",
         "date": "2026-02-17"
     },
     {
