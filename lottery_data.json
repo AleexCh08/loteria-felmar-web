@@ -18,6 +18,24 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "592 A",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "388 B",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "630 C",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -42,6 +60,12 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "23 - Zebra",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "21 - Gallo",
@@ -51,6 +75,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "63 - Cangrejo",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "53 - Caracol",
         "date": "2026-02-17"
     },
     {
@@ -78,6 +108,12 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "36 - Culebra",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "31 - Lapa",
@@ -99,6 +135,18 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "54 - Grillo",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "5 - Leon",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "55 - Osohormi",
         "date": "2026-02-17"
     },
     {
