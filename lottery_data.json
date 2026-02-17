@@ -36,6 +36,12 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "369 A",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -45,6 +51,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "32 - Ardilla",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "19 - Chivo",
         "date": "2026-02-17"
     },
     {
@@ -96,6 +108,12 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "84 - Camaron",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "24 - Iguana",
@@ -123,6 +141,12 @@
         "lottery": "Lotto Rey",
         "time": "09:30 AM",
         "result": "32 - Ardilla",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "10:30 AM",
+        "result": "12 - Caballo",
         "date": "2026-02-17"
     },
     {
