@@ -54,6 +54,24 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "675 A",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "896 B",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "501 C",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "369 A",
@@ -81,6 +99,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "8 - Raton",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "28 - Zamuro",
         "date": "2026-02-17"
     },
     {
@@ -132,6 +156,12 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "00 - Ballena",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "89 - Anguila",
@@ -177,6 +207,12 @@
         "lottery": "Selva Plus",
         "time": "11:00 AM",
         "result": "20 - Cochino",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "35 - Jirafa",
         "date": "2026-02-17"
     },
     {
@@ -228,6 +264,12 @@
         "date": "2026-02-17"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "26 - Vaca",
+        "date": "2026-02-17"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "55 - Osohormi",
@@ -237,6 +279,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "51 - Pelicano",
+        "date": "2026-02-17"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "55 - Osohormi",
         "date": "2026-02-17"
     },
     {
