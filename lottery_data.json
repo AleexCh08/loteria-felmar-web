@@ -582,6 +582,12 @@
         "date": "2026-02-18"
     },
     {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -705,6 +711,12 @@
         "lottery": "Lotto Rey",
         "time": "05:30 PM",
         "result": "29 - Elefante",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "06:30 PM",
+        "result": "6 - Rana",
         "date": "2026-02-18"
     },
     {
