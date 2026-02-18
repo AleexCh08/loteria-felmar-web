@@ -1,14 +1,38 @@
 [
     {
+        "lottery": "Lotto Activo",
+        "time": "08:00 AM",
+        "result": "19 - Chivo",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "08:00 AM",
+        "result": "6 - Rana",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "46 - Puma",
         "date": "2026-02-18"
     },
     {
+        "lottery": "Guacharito",
+        "time": "08:30 AM",
+        "result": "63 - Cangrejo",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "22 - Camello",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "08:30 AM",
+        "result": "3 - Ciempies",
         "date": "2026-02-18"
     },
     {
