@@ -18,6 +18,24 @@
         "date": "2026-02-18"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "040 A",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "897 B",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "932 C",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "19 - Chivo",
@@ -27,6 +45,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "36 - Culebra",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "1 - Carnero",
         "date": "2026-02-18"
     },
     {
@@ -51,6 +75,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "72 - Gorila",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "0 - Delfin",
         "date": "2026-02-18"
     },
     {
@@ -99,6 +129,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "39 - Lechuza",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "13 - Mono",
         "date": "2026-02-18"
     },
     {
