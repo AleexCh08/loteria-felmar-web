@@ -222,6 +222,18 @@
         "date": "2026-02-18"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "923 A",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "977 C",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "19 - Chivo",
@@ -432,6 +444,12 @@
         "date": "2026-02-18"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "6 - Rana",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -534,6 +552,12 @@
         "date": "2026-02-18"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "04:30 PM",
+        "result": "00 - Ballena",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "36 - Culebra",
@@ -621,6 +645,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "71 - Guacamaya",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "07 - Perico",
         "date": "2026-02-18"
     },
     {
