@@ -90,6 +90,24 @@
         "date": "2026-02-18"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "837 A",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "324 B",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "613 C",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "524 A",
@@ -270,6 +288,12 @@
         "date": "2026-02-18"
     },
     {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "63 - Cangrejo",
@@ -339,6 +363,12 @@
         "lottery": "Selva Plus",
         "time": "01:00 PM",
         "result": "9 - Aguila",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "02:00 PM",
+        "result": "11 - Gato",
         "date": "2026-02-18"
     },
     {
@@ -435,6 +465,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "19 - Chivo",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "67 - Avestruz",
         "date": "2026-02-18"
     },
     {
