@@ -180,6 +180,12 @@
         "date": "2026-02-18"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "073 A",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "19 - Chivo",
@@ -216,6 +222,12 @@
         "date": "2026-02-18"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "11 - Gato",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -249,6 +261,12 @@
         "lottery": "Granjita",
         "time": "01:00 PM",
         "result": "31 - Lapa",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "11 - Gato",
         "date": "2026-02-18"
     },
     {
@@ -330,6 +348,12 @@
         "date": "2026-02-18"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "92 - Cisne",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -408,6 +432,12 @@
         "date": "2026-02-18"
     },
     {
+        "lottery": "Lotto Rey",
+        "time": "02:30 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "36 - Culebra",
@@ -441,6 +471,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "17 - Pavo",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "20 - Cochino",
         "date": "2026-02-18"
     },
     {
