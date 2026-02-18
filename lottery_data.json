@@ -1,8 +1,32 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "980 A",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "512 B",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "721 C",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "19 - Chivo",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "36 - Culebra",
         "date": "2026-02-18"
     },
     {
@@ -12,9 +36,21 @@
         "date": "2026-02-18"
     },
     {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "36 - Culebra",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "46 - Puma",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "09:00 AM",
+        "result": "72 - Gorila",
         "date": "2026-02-18"
     },
     {
@@ -30,6 +66,12 @@
         "date": "2026-02-18"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "09:00 AM",
+        "result": "23 - Cebra",
+        "date": "2026-02-18"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "3 - Ciempies",
@@ -39,6 +81,18 @@
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "36 - Culebra",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "39 - Lechuza",
+        "date": "2026-02-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "04 - Alacran",
         "date": "2026-02-18"
     }
 ]
