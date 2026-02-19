@@ -54,6 +54,24 @@
         "date": "2026-02-19"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "864 A",
+        "date": "2026-02-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "478 B",
+        "date": "2026-02-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "194 C",
+        "date": "2026-02-19"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "758 A",
@@ -84,6 +102,12 @@
         "date": "2026-02-19"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "14 - Paloma",
+        "date": "2026-02-19"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -108,6 +132,12 @@
         "date": "2026-02-19"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "24 - Iguana",
+        "date": "2026-02-19"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "69 - Conejo",
@@ -129,6 +159,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "5 - Leon",
+        "date": "2026-02-19"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "49 - Pereza",
         "date": "2026-02-19"
     },
     {
@@ -180,6 +216,12 @@
         "date": "2026-02-19"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "25 - Gallina",
+        "date": "2026-02-19"
+    },
+    {
         "lottery": "Lotto Rey",
         "time": "08:30 AM",
         "result": "21 - Gallo",
@@ -228,6 +270,12 @@
         "date": "2026-02-19"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-02-19"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "69 - Conejo",
@@ -237,6 +285,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "57 - Pato",
+        "date": "2026-02-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "12 - Caballo",
         "date": "2026-02-19"
     },
     {
