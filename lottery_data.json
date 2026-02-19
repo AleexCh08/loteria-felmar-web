@@ -108,6 +108,42 @@
         "date": "2026-02-19"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "460 A",
+        "date": "2026-02-19"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "624 B",
+        "date": "2026-02-19"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "272 C",
+        "date": "2026-02-19"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "726 A",
+        "date": "2026-02-19"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "409 B",
+        "date": "2026-02-19"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "480 C",
+        "date": "2026-02-19"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "758 A",
@@ -153,6 +189,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "14 - Paloma",
+        "date": "2026-02-19"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "32 - Ardilla",
         "date": "2026-02-19"
     },
     {
@@ -357,6 +399,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "34 - Venado",
+        "date": "2026-02-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "24 - Iguana",
         "date": "2026-02-19"
     },
     {
