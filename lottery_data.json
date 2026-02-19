@@ -300,6 +300,12 @@
         "date": "2026-02-19"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "46 - Puma",
+        "date": "2026-02-19"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "1 - Carnero",
@@ -363,6 +369,12 @@
         "lottery": "Lotto Rey",
         "time": "12:30 PM",
         "result": "2 - Toro",
+        "date": "2026-02-19"
+    },
+    {
+        "lottery": "Lotto Rey",
+        "time": "01:30 PM",
+        "result": "34 - Venado",
         "date": "2026-02-19"
     },
     {
