@@ -126,6 +126,24 @@
         "date": "2026-07-09"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "061 A",
+        "date": "2026-07-09"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "271 B",
+        "date": "2026-07-09"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "651 C",
+        "date": "2026-07-09"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "302 A",
@@ -357,6 +375,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "6 - Rana",
+        "date": "2026-07-09"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "47 - Pavo Real",
         "date": "2026-07-09"
     },
     {
