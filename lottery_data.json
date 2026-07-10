@@ -234,6 +234,24 @@
         "date": "2026-07-10"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "275 A",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "056 B",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "208 C",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "476 A",
@@ -270,6 +288,24 @@
         "date": "2026-07-10"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "019 A",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "943 B",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "895 C",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "459 A",
@@ -303,6 +339,24 @@
         "lottery": "Triple Caliente",
         "time": "04:30 PM",
         "result": "197 C",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "958 A",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "869 B",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "274 C",
         "date": "2026-07-10"
     },
     {
@@ -429,6 +483,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "28 - Zamuro",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "27 - Perro",
         "date": "2026-07-10"
     },
     {
@@ -639,6 +699,12 @@
         "lottery": "Guacharito",
         "time": "06:30 PM",
         "result": "50 - Canario",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "23 - Cebra",
         "date": "2026-07-10"
     },
     {
