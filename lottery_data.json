@@ -162,6 +162,24 @@
         "date": "2026-07-10"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "492 A",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "601 B",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "134 C",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "453 A",
@@ -723,6 +741,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "19 - Chivo",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "44 - Chiguire",
         "date": "2026-07-10"
     },
     {
