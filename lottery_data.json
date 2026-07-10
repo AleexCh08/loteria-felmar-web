@@ -126,6 +126,24 @@
         "date": "2026-07-10"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "196 A",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "571 B",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "309 C",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "453 A",
@@ -213,6 +231,18 @@
         "lottery": "Triple Zamorano",
         "time": "02:00 PM",
         "result": "397 C",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "570 A",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "705 C",
         "date": "2026-07-10"
     },
     {
@@ -360,6 +390,12 @@
         "date": "2026-07-10"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "21 - Gallo",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "15 - Zorro",
@@ -456,6 +492,12 @@
         "date": "2026-07-10"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "9 - Aguila",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "14 - Paloma",
@@ -501,6 +543,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "4 - Alacran",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "51 - Pelicano",
         "date": "2026-07-10"
     },
     {
