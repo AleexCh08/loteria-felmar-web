@@ -1,8 +1,32 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "852 A",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "238 B",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "044 C",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "7 - Perico",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "20 - Cochino",
         "date": "2026-07-10"
     },
     {
@@ -18,6 +42,12 @@
         "date": "2026-07-10"
     },
     {
+        "lottery": "Guacharo",
+        "time": "09:00 AM",
+        "result": "58 - Hormiga",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "15 - Zorro",
@@ -30,9 +60,27 @@
         "date": "2026-07-10"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "09:00 AM",
+        "result": "13 - Mono",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "14 - Paloma",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "13 - Mono",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "04 - Alacran",
         "date": "2026-07-10"
     }
 ]
