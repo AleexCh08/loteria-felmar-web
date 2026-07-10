@@ -36,6 +36,18 @@
         "date": "2026-07-10"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "587 A",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "516 C",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "7 - Perico",
@@ -48,6 +60,12 @@
         "date": "2026-07-10"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "33 - Pescado",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "12 - Caballo",
@@ -57,6 +75,12 @@
         "lottery": "Granjita",
         "time": "09:00 AM",
         "result": "30 - Caiman",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "7 - Perico",
         "date": "2026-07-10"
     },
     {
@@ -87,6 +111,12 @@
         "lottery": "Guacharito",
         "time": "09:30 AM",
         "result": "26 - Vaca",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "40 - Avispa",
         "date": "2026-07-10"
     },
     {
