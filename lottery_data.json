@@ -396,6 +396,12 @@
         "date": "2026-07-10"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "12 - Caballo",
@@ -453,6 +459,12 @@
         "lottery": "Granjita",
         "time": "05:00 PM",
         "result": "11 - Gato",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "24 - Iguana",
         "date": "2026-07-10"
     },
     {
@@ -516,6 +528,12 @@
         "date": "2026-07-10"
     },
     {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "51 - Pelicano",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "15 - Zorro",
@@ -573,6 +591,12 @@
         "lottery": "Guacharito",
         "time": "05:30 PM",
         "result": "56 - Tiburon",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "50 - Canario",
         "date": "2026-07-10"
     },
     {
@@ -636,6 +660,12 @@
         "date": "2026-07-10"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "06:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "14 - Paloma",
@@ -693,6 +723,48 @@
         "lottery": "Lotto Chaima",
         "time": "05:00 PM",
         "result": "54 - Grillo",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "9 - Aguila",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "742 A",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "853 B",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "508 C",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "121 A",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "805 B",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "918 C",
         "date": "2026-07-10"
     },
     {
