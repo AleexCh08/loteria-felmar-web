@@ -258,6 +258,12 @@
         "date": "2026-07-10"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-07-10"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "12 - Caballo",
@@ -297,6 +303,12 @@
         "lottery": "Granjita",
         "time": "02:00 PM",
         "result": "32 - Ardilla",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "28 - Zamuro",
         "date": "2026-07-10"
     },
     {
@@ -387,6 +399,12 @@
         "lottery": "Guacharito",
         "time": "02:30 PM",
         "result": "12 - Caballo",
+        "date": "2026-07-10"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "21 - Gallo",
         "date": "2026-07-10"
     },
     {
