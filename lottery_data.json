@@ -36,6 +36,24 @@
         "date": "2026-07-11"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "563 A",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "025 B",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "833 C",
+        "date": "2026-07-11"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "182 A",
@@ -66,6 +84,12 @@
         "date": "2026-07-11"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "12 - Caballo",
+        "date": "2026-07-11"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "20 - Cochino",
@@ -81,6 +105,12 @@
         "lottery": "Granjita",
         "time": "10:00 AM",
         "result": "30 - Caiman",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "21 - Gallo",
         "date": "2026-07-11"
     },
     {
@@ -123,6 +153,12 @@
         "lottery": "Guacharito",
         "time": "10:30 AM",
         "result": "1 - Carnero",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "39 - Lechuza",
         "date": "2026-07-11"
     },
     {
