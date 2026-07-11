@@ -186,6 +186,18 @@
         "date": "2026-07-11"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "209 A",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "145 C",
+        "date": "2026-07-11"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -264,6 +276,12 @@
         "date": "2026-07-11"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-07-11"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "75 - Guacharo",
@@ -339,6 +357,12 @@
         "lottery": "Guacharito",
         "time": "01:30 PM",
         "result": "68 - Jaguar",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "92 - Cisne",
         "date": "2026-07-11"
     },
     {
