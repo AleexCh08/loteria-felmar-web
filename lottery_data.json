@@ -462,6 +462,12 @@
         "date": "2026-07-11"
     },
     {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-07-11"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "75 - Guacharo",
@@ -585,6 +591,12 @@
         "lottery": "Guacharito",
         "time": "05:30 PM",
         "result": "85 - Hamster",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "59 - Pantera",
         "date": "2026-07-11"
     },
     {
@@ -717,6 +729,42 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "5 - Leon",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "494 A",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "206 B",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "304 C",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "749 A",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "180 B",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "858 C",
         "date": "2026-07-11"
     },
     {
