@@ -66,6 +66,18 @@
         "date": "2026-07-11"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "408 A",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "125 C",
+        "date": "2026-07-11"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -138,6 +150,12 @@
         "date": "2026-07-11"
     },
     {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "49 - Pereza",
+        "date": "2026-07-11"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "81 - Cuervo",
@@ -186,6 +204,12 @@
         "date": "2026-07-11"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "20 - Cochino",
+        "date": "2026-07-11"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "8 - Raton",
@@ -210,6 +234,12 @@
         "date": "2026-07-11"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "38 - Bufalo",
+        "date": "2026-07-11"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "04 - Alacran",
@@ -219,6 +249,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "13 - Mono",
+        "date": "2026-07-11"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "54 - Grillo",
         "date": "2026-07-11"
     },
     {
