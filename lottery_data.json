@@ -198,6 +198,60 @@
         "date": "2026-07-12"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "986 A",
+        "date": "2026-07-12"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "322 B",
+        "date": "2026-07-12"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "762 C",
+        "date": "2026-07-12"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "047 A",
+        "date": "2026-07-12"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "052 B",
+        "date": "2026-07-12"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "823 C",
+        "date": "2026-07-12"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "754 A",
+        "date": "2026-07-12"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "938 B",
+        "date": "2026-07-12"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "430 C",
+        "date": "2026-07-12"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "07:00 PM",
         "result": "859 A",
@@ -492,6 +546,12 @@
         "date": "2026-07-12"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "94 - Paujil",
+        "date": "2026-07-12"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "4 - Alacran",
@@ -627,6 +687,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "36 - Culebra",
+        "date": "2026-07-12"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "22 - Camello",
         "date": "2026-07-12"
     },
     {
