@@ -162,6 +162,24 @@
         "date": "2026-07-13"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "209 A",
+        "date": "2026-07-13"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "174 B",
+        "date": "2026-07-13"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "391 C",
+        "date": "2026-07-13"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "329 A",
@@ -498,6 +516,12 @@
         "date": "2026-07-13"
     },
     {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "49 - Pereza",
+        "date": "2026-07-13"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "00 - Ballena",
@@ -618,6 +642,12 @@
         "date": "2026-07-13"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "06:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-07-13"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -678,6 +708,48 @@
         "date": "2026-07-13"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "48 - Puercoespin",
+        "date": "2026-07-13"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "847 A",
+        "date": "2026-07-13"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "869 B",
+        "date": "2026-07-13"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "186 C",
+        "date": "2026-07-13"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "181 A",
+        "date": "2026-07-13"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "985 B",
+        "date": "2026-07-13"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "838 C",
+        "date": "2026-07-13"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "54 - Grillo",
@@ -723,6 +795,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "64 - Gavilan",
+        "date": "2026-07-13"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "44 - Chiguire",
         "date": "2026-07-13"
     },
     {
