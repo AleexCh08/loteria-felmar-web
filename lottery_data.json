@@ -90,6 +90,24 @@
         "date": "2026-07-13"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "515 A",
+        "date": "2026-07-13"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "049 B",
+        "date": "2026-07-13"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "850 C",
+        "date": "2026-07-13"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "329 A",
@@ -201,6 +219,12 @@
         "lottery": "Lotto Activo",
         "time": "01:00 PM",
         "result": "2 - Toro",
+        "date": "2026-07-13"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "32 - Ardilla",
         "date": "2026-07-13"
     },
     {
@@ -321,6 +345,12 @@
         "lottery": "Guacharito",
         "time": "01:30 PM",
         "result": "49 - Pereza",
+        "date": "2026-07-13"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "60 - Camaleon",
         "date": "2026-07-13"
     },
     {
