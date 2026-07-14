@@ -108,6 +108,42 @@
         "date": "2026-07-14"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "672 A",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "503 B",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "819 C",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "713 A",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "084 B",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "435 C",
+        "date": "2026-07-14"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "638 A",
@@ -159,6 +195,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "1 - Carnero",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "18 - Burro",
         "date": "2026-07-14"
     },
     {
@@ -264,6 +306,12 @@
         "date": "2026-07-14"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "31 - Lapa",
+        "date": "2026-07-14"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "19 - Chivo",
@@ -333,6 +381,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "9 - Aguila",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "56 - Tiburon",
         "date": "2026-07-14"
     },
     {
