@@ -180,6 +180,24 @@
         "date": "2026-07-14"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "497 A",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "958 B",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "822 C",
+        "date": "2026-07-14"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "728 A",
@@ -249,6 +267,24 @@
         "lottery": "Triple Caracas",
         "time": "04:30 PM",
         "result": "092 C",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "526 A",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "908 B",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "155 C",
         "date": "2026-07-14"
     },
     {
@@ -468,6 +504,12 @@
         "date": "2026-07-14"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-07-14"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -531,6 +573,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "32 - Ardilla",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "6 - Rana",
         "date": "2026-07-14"
     },
     {
@@ -666,6 +714,12 @@
         "date": "2026-07-14"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "4 - Alacran",
+        "date": "2026-07-14"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -783,6 +837,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "65 - Arana",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "51 - Pelicano",
         "date": "2026-07-14"
     },
     {
