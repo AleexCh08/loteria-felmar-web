@@ -282,6 +282,12 @@
         "date": "2026-07-14"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "29 - Elefante",
+        "date": "2026-07-14"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -327,6 +333,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "34 - Venado",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "21 - Gallo",
         "date": "2026-07-14"
     },
     {
@@ -429,6 +441,12 @@
         "lottery": "Guacharito",
         "time": "03:30 PM",
         "result": "57 - Pato",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "50 - Canario",
         "date": "2026-07-14"
     },
     {
@@ -573,6 +591,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "07 - Perico",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "66 - Lobo",
         "date": "2026-07-14"
     },
     {
