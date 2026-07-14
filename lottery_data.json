@@ -144,6 +144,24 @@
         "date": "2026-07-14"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "929 A",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "867 B",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "302 C",
+        "date": "2026-07-14"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "728 A",
@@ -159,6 +177,24 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "945 C",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "241 A",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "133 B",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "237 C",
         "date": "2026-07-14"
     },
     {
@@ -180,6 +216,24 @@
         "date": "2026-07-14"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "694 A",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "739 B",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "092 C",
+        "date": "2026-07-14"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "713 A",
@@ -195,6 +249,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "435 C",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "978 A",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "532 B",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "158 C",
         "date": "2026-07-14"
     },
     {
@@ -231,6 +303,18 @@
         "lottery": "Triple Zamorano",
         "time": "02:00 PM",
         "result": "044 C",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "118 A",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "390 C",
         "date": "2026-07-14"
     },
     {
@@ -342,6 +426,12 @@
         "date": "2026-07-14"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "11 - Gato",
+        "date": "2026-07-14"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -393,6 +483,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "35 - Jirafa",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "37 - Tortuga",
         "date": "2026-07-14"
     },
     {
@@ -504,6 +600,12 @@
         "date": "2026-07-14"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "4 - Alacran",
+        "date": "2026-07-14"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -558,6 +660,12 @@
         "date": "2026-07-14"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "53 - Caracol",
+        "date": "2026-07-14"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "56 - Tiburon",
@@ -597,6 +705,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "66 - Lobo",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "61 - Panda",
         "date": "2026-07-14"
     },
     {
