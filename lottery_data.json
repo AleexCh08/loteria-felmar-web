@@ -90,6 +90,24 @@
         "date": "2026-07-14"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "699 A",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "708 B",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "423 C",
+        "date": "2026-07-14"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "728 A",
@@ -165,6 +183,18 @@
         "lottery": "Triple Zamorano",
         "time": "12:00 PM",
         "result": "065 C",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "415 A",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "044 C",
         "date": "2026-07-14"
     },
     {
@@ -330,6 +360,12 @@
         "date": "2026-07-14"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "97 - Loro",
+        "date": "2026-07-14"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "19 - Chivo",
@@ -405,6 +441,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "9 - Aguila",
+        "date": "2026-07-14"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-07-14"
     },
     {
