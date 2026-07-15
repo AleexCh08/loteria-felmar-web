@@ -162,6 +162,24 @@
         "date": "2026-07-15"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "173 A",
+        "date": "2026-07-15"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "632 B",
+        "date": "2026-07-15"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "957 C",
+        "date": "2026-07-15"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "293 A",
@@ -438,6 +456,12 @@
         "date": "2026-07-15"
     },
     {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "6 - Rana",
+        "date": "2026-07-15"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "49 - Pereza",
@@ -495,6 +519,12 @@
         "lottery": "Guacharo",
         "time": "05:00 PM",
         "result": "10 - Tigre",
+        "date": "2026-07-15"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "67 - Avestruz",
         "date": "2026-07-15"
     },
     {
@@ -618,6 +648,12 @@
         "date": "2026-07-15"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "06:00 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-07-15"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "50 - Canario",
@@ -723,6 +759,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "43 - Mariposa",
+        "date": "2026-07-15"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "67 - Avestruz",
         "date": "2026-07-15"
     },
     {
