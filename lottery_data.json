@@ -126,6 +126,24 @@
         "date": "2026-07-17"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "286 A",
+        "date": "2026-07-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "952 B",
+        "date": "2026-07-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "762 C",
+        "date": "2026-07-17"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "956 A",
@@ -213,6 +231,18 @@
         "lottery": "Triple Zamorano",
         "time": "02:00 PM",
         "result": "010 C",
+        "date": "2026-07-17"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "609 A",
+        "date": "2026-07-17"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "032 C",
         "date": "2026-07-17"
     },
     {
@@ -312,6 +342,12 @@
         "date": "2026-07-17"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "26 - Vaca",
+        "date": "2026-07-17"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "57 - Pato",
@@ -357,6 +393,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "72 - Gorila",
+        "date": "2026-07-17"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "51 - Pelicano",
         "date": "2026-07-17"
     },
     {
@@ -456,6 +498,12 @@
         "date": "2026-07-17"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-07-17"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "46 - Puma",
@@ -501,6 +549,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "18 - Burro",
+        "date": "2026-07-17"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "40 - Avispa",
         "date": "2026-07-17"
     },
     {
