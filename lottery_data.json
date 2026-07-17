@@ -108,6 +108,24 @@
         "date": "2026-07-17"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "642 A",
+        "date": "2026-07-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "390 B",
+        "date": "2026-07-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "735 C",
+        "date": "2026-07-17"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "956 A",
@@ -282,6 +300,12 @@
         "date": "2026-07-17"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "4 - Alacran",
+        "date": "2026-07-17"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "57 - Pato",
@@ -321,6 +345,12 @@
         "lottery": "Guacharo",
         "time": "02:00 PM",
         "result": "31 - Lapa",
+        "date": "2026-07-17"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "72 - Gorila",
         "date": "2026-07-17"
     },
     {
@@ -408,6 +438,12 @@
         "date": "2026-07-17"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "03:00 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-07-17"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "46 - Puma",
@@ -450,6 +486,12 @@
         "date": "2026-07-17"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "18 - Burro",
+        "date": "2026-07-17"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "15 - Zorro",
@@ -477,6 +519,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-07-17"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-07-17"
     },
     {
