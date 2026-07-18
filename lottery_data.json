@@ -306,6 +306,12 @@
         "date": "2026-07-18"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "21 - Gallo",
+        "date": "2026-07-18"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -396,6 +402,12 @@
         "date": "2026-07-18"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "54 - Grillo",
+        "date": "2026-07-18"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -438,6 +450,12 @@
         "date": "2026-07-18"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "03:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-07-18"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "41 - Canguro",
@@ -477,6 +495,30 @@
         "lottery": "Lotto Chaima",
         "time": "02:00 PM",
         "result": "16 - Oso",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "618 A",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "727 B",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "818 C",
         "date": "2026-07-18"
     },
     {
