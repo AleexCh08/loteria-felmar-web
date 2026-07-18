@@ -180,6 +180,24 @@
         "date": "2026-07-18"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "227 A",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "382 B",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "902 C",
+        "date": "2026-07-18"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "536 A",
@@ -354,6 +372,12 @@
         "date": "2026-07-18"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "24 - Iguana",
+        "date": "2026-07-18"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -405,6 +429,12 @@
         "lottery": "Granjita",
         "time": "04:00 PM",
         "result": "27 - Perro",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "35 - Jirafa",
         "date": "2026-07-18"
     },
     {
@@ -519,6 +549,12 @@
         "lottery": "Guacharito",
         "time": "04:30 PM",
         "result": "13 - Mono",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "18 - Burro",
         "date": "2026-07-18"
     },
     {
