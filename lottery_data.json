@@ -108,6 +108,24 @@
         "date": "2026-07-18"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "311 A",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "107 B",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "582 C",
+        "date": "2026-07-18"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "263 A",
@@ -240,6 +258,12 @@
         "date": "2026-07-18"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "1 - Carnero",
+        "date": "2026-07-18"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -321,6 +345,12 @@
         "lottery": "Guacharo",
         "time": "02:00 PM",
         "result": "59 - Pantera",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "12 - Caballo",
         "date": "2026-07-18"
     },
     {
@@ -477,6 +507,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "23 - Cebra",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "57 - Pato",
         "date": "2026-07-18"
     },
     {
