@@ -234,6 +234,18 @@
         "date": "2026-07-18"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "586 A",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "930 C",
+        "date": "2026-07-18"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -444,6 +456,12 @@
         "date": "2026-07-18"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "13 - Mono",
+        "date": "2026-07-18"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -603,6 +621,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "57 - Pato",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "68 - Jaguar",
         "date": "2026-07-18"
     },
     {
