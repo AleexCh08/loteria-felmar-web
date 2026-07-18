@@ -90,6 +90,24 @@
         "date": "2026-07-18"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "291 A",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "463 B",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "052 C",
+        "date": "2026-07-18"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "263 A",
@@ -276,6 +294,12 @@
         "date": "2026-07-18"
     },
     {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "59 - Pantera",
+        "date": "2026-07-18"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "76 - Rinoceronte",
@@ -348,6 +372,12 @@
         "date": "2026-07-18"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "02:00 PM",
+        "result": "18 - Burro",
+        "date": "2026-07-18"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "41 - Canguro",
@@ -384,6 +414,12 @@
         "date": "2026-07-18"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "16 - Oso",
+        "date": "2026-07-18"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "23 - Cebra",
@@ -405,6 +441,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "47 - Pavoreal",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "23 - Cebra",
         "date": "2026-07-18"
     },
     {
