@@ -78,6 +78,12 @@
         "date": "2026-07-18"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "1 - Carnero",
+        "date": "2026-07-18"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -105,6 +111,12 @@
         "lottery": "Guacharito",
         "time": "09:30 AM",
         "result": "31 - Lapa",
+        "date": "2026-07-18"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "29 - Elefante",
         "date": "2026-07-18"
     },
     {
