@@ -162,6 +162,24 @@
         "date": "2026-07-19"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "826 A",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "611 B",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "564 C",
+        "date": "2026-07-19"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -219,6 +237,12 @@
         "lottery": "Lotto Activo",
         "time": "05:00 PM",
         "result": "6 - Rana",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-07-19"
     },
     {
@@ -282,6 +306,12 @@
         "date": "2026-07-19"
     },
     {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "25 - Gallina",
+        "date": "2026-07-19"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -339,6 +369,12 @@
         "lottery": "Guacharo",
         "time": "05:00 PM",
         "result": "45 - Garza",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "14 - Paloma",
         "date": "2026-07-19"
     },
     {
@@ -462,6 +498,12 @@
         "date": "2026-07-19"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "06:00 PM",
+        "result": "31 - Lapa",
+        "date": "2026-07-19"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "52 - Pulpo",
@@ -522,6 +564,12 @@
         "date": "2026-07-19"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-07-19"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "58 - Hormiga",
@@ -567,6 +615,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "07 - Perico",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-07-19"
     },
     {
