@@ -198,6 +198,60 @@
         "date": "2026-07-19"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "621 A",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "944 B",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "716 C",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "870 A",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "184 B",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "055 C",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "645 A",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "979 B",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "825 C",
+        "date": "2026-07-19"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "07:00 PM",
         "result": "264 A",
@@ -273,6 +327,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "26 - Vaca",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "24 - Iguana",
         "date": "2026-07-19"
     },
     {
@@ -486,6 +546,12 @@
         "date": "2026-07-19"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "84 - Camaron",
+        "date": "2026-07-19"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "31 - Lapa",
@@ -621,6 +687,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "5 - Leon",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "24 - Iguana",
         "date": "2026-07-19"
     },
     {
