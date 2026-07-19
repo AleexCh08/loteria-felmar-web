@@ -180,6 +180,36 @@
         "date": "2026-07-19"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "149 A",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "807 B",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "388 C",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "264 A",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "206 C",
+        "date": "2026-07-19"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -312,6 +342,12 @@
         "date": "2026-07-19"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "34 - Venado",
+        "date": "2026-07-19"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -375,6 +411,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "14 - Paloma",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "47 - Pavo Real",
         "date": "2026-07-19"
     },
     {
@@ -510,6 +552,12 @@
         "date": "2026-07-19"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "23 - Cebra",
+        "date": "2026-07-19"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "52 - Pulpo",
@@ -627,6 +675,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "33 - Pescado",
+        "date": "2026-07-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "47 - Pavoreal",
         "date": "2026-07-19"
     },
     {
