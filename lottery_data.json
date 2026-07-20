@@ -204,6 +204,12 @@
         "date": "2026-07-20"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-07-20"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "36 - Culebra",
@@ -273,6 +279,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "34 - Venado",
+        "date": "2026-07-20"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "28 - Zamuro",
         "date": "2026-07-20"
     },
     {
@@ -405,6 +417,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "69 - Conejo",
+        "date": "2026-07-20"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "40 - Avispa",
         "date": "2026-07-20"
     },
     {
