@@ -126,6 +126,24 @@
         "date": "2026-07-20"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "372 A",
+        "date": "2026-07-20"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "615 B",
+        "date": "2026-07-20"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "143 C",
+        "date": "2026-07-20"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "306 A",
@@ -216,6 +234,18 @@
         "date": "2026-07-20"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "183 A",
+        "date": "2026-07-20"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "389 C",
+        "date": "2026-07-20"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -261,6 +291,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "32 - Ardilla",
+        "date": "2026-07-20"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "3 - Ciempies",
         "date": "2026-07-20"
     },
     {
@@ -420,6 +456,12 @@
         "date": "2026-07-20"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "78 - Antilope",
+        "date": "2026-07-20"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -522,6 +564,12 @@
         "date": "2026-07-20"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "12 - Caballo",
+        "date": "2026-07-20"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "61 - Panda",
@@ -555,6 +603,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "51 - Pelicano",
+        "date": "2026-07-20"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "36 - Culebra",
         "date": "2026-07-20"
     },
     {
