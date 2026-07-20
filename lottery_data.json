@@ -108,6 +108,24 @@
         "date": "2026-07-20"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "547 A",
+        "date": "2026-07-20"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "260 B",
+        "date": "2026-07-20"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "923 C",
+        "date": "2026-07-20"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "075 A",
@@ -288,6 +306,12 @@
         "date": "2026-07-20"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "94 - Paujil",
+        "date": "2026-07-20"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -357,6 +381,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "47 - Pavo Real",
+        "date": "2026-07-20"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "61 - Panda",
         "date": "2026-07-20"
     },
     {
