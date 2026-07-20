@@ -312,6 +312,12 @@
         "date": "2026-07-20"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-07-20"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -357,6 +363,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "40 - Avispa",
+        "date": "2026-07-20"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "55 - Oso Hormiguero",
         "date": "2026-07-20"
     },
     {
@@ -453,6 +465,12 @@
         "lottery": "Selva Plus",
         "time": "03:00 PM",
         "result": "33 - Pescado",
+        "date": "2026-07-20"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "5 - Leon",
         "date": "2026-07-20"
     },
     {
