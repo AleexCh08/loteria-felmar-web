@@ -84,6 +84,18 @@
         "date": "2026-07-20"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "734 A",
+        "date": "2026-07-20"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "186 C",
+        "date": "2026-07-20"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -195,6 +207,12 @@
         "lottery": "Guacharito",
         "time": "11:30 AM",
         "result": "55 - Oso Hormiguero",
+        "date": "2026-07-20"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "53 - Caracol",
         "date": "2026-07-20"
     },
     {
