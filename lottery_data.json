@@ -186,6 +186,18 @@
         "date": "2026-07-21"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "357 A",
+        "date": "2026-07-21"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "782 C",
+        "date": "2026-07-21"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -222,6 +234,12 @@
         "date": "2026-07-21"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-07-21"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "9 - Aguila",
@@ -255,6 +273,12 @@
         "lottery": "Granjita",
         "time": "01:00 PM",
         "result": "20 - Cochino",
+        "date": "2026-07-21"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "29 - Elefante",
         "date": "2026-07-21"
     },
     {
@@ -336,6 +360,12 @@
         "date": "2026-07-21"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "68 - Jaguar",
+        "date": "2026-07-21"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "1 - Carnero",
@@ -411,6 +441,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "54 - Grillo",
+        "date": "2026-07-21"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "15 - Zorro",
         "date": "2026-07-21"
     },
     {
