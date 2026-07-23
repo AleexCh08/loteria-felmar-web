@@ -438,6 +438,12 @@
         "date": "2026-07-23"
     },
     {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "30 - Caiman",
+        "date": "2026-07-23"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "71 - Guacamaya",
@@ -495,6 +501,12 @@
         "lottery": "Guacharo",
         "time": "05:00 PM",
         "result": "47 - Pavo Real",
+        "date": "2026-07-23"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "42 - Tucan",
         "date": "2026-07-23"
     },
     {
@@ -723,6 +735,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "45 - Garza",
+        "date": "2026-07-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "62 - Cachicamo",
         "date": "2026-07-23"
     },
     {
