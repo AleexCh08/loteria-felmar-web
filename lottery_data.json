@@ -72,6 +72,42 @@
         "date": "2026-07-23"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "184 A",
+        "date": "2026-07-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "574 B",
+        "date": "2026-07-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "354 C",
+        "date": "2026-07-23"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "915 A",
+        "date": "2026-07-23"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "041 B",
+        "date": "2026-07-23"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "501 C",
+        "date": "2026-07-23"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "612 A",
@@ -123,6 +159,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "1 - Carnero",
+        "date": "2026-07-23"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "34 - Venado",
         "date": "2026-07-23"
     },
     {
@@ -183,6 +225,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "59 - Pantera",
+        "date": "2026-07-23"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "44 - Chiguire",
         "date": "2026-07-23"
     },
     {
