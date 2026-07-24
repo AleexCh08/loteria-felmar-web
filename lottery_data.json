@@ -54,6 +54,24 @@
         "date": "2026-07-24"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "701 A",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "250 B",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "813 C",
+        "date": "2026-07-24"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "902 A",
@@ -114,6 +132,12 @@
         "date": "2026-07-24"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-07-24"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "51 - Pelicano",
@@ -135,6 +159,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "70 - Bisonte",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "73 - Hipopotamo",
         "date": "2026-07-24"
     },
     {
@@ -219,6 +249,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "61 - Panda",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "54 - Grillo",
         "date": "2026-07-24"
     },
     {
