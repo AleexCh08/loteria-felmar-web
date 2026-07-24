@@ -198,6 +198,24 @@
         "date": "2026-07-24"
     },
     {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "330 A",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "894 B",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "531 C",
+        "date": "2026-07-24"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "902 A",
@@ -231,6 +249,18 @@
         "lottery": "Triple Zamorano",
         "time": "02:00 PM",
         "result": "244 C",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "500 A",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "615 C",
         "date": "2026-07-24"
     },
     {
@@ -282,6 +312,12 @@
         "date": "2026-07-24"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-07-24"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -327,6 +363,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "27 - Perro",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "18 - Burro",
         "date": "2026-07-24"
     },
     {
@@ -480,6 +522,12 @@
         "date": "2026-07-24"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-07-24"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "14 - Paloma",
@@ -525,6 +573,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "1 - Carnero",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "39 - Lechuza",
         "date": "2026-07-24"
     },
     {
@@ -579,6 +633,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "27 - Perro",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "24 - Iguana",
         "date": "2026-07-24"
     },
     {
