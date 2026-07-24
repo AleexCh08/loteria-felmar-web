@@ -114,6 +114,12 @@
         "date": "2026-07-24"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "72 - Gorila",
+        "date": "2026-07-24"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -141,6 +147,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "37 - Tortuga",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "18 - Burro",
         "date": "2026-07-24"
     },
     {
