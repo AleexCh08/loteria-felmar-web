@@ -186,6 +186,18 @@
         "date": "2026-07-24"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "703 A",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "244 C",
+        "date": "2026-07-24"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -264,6 +276,12 @@
         "date": "2026-07-24"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "2 - Toro",
+        "date": "2026-07-24"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "51 - Pelicano",
@@ -339,6 +357,12 @@
         "lottery": "Guacharito",
         "time": "01:30 PM",
         "result": "63 - Cangrejo",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "46 - Puma",
         "date": "2026-07-24"
     },
     {
@@ -423,6 +447,24 @@
         "lottery": "Lotto Chaima",
         "time": "02:00 PM",
         "result": "40 - Avispa",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "784 A",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "391 B",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "178 C",
         "date": "2026-07-24"
     },
     {
