@@ -306,6 +306,12 @@
         "date": "2026-07-24"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-07-24"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "51 - Pelicano",
@@ -393,6 +399,12 @@
         "lottery": "Guacharito",
         "time": "02:30 PM",
         "result": "46 - Puma",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "32 - Ardilla",
         "date": "2026-07-24"
     },
     {
