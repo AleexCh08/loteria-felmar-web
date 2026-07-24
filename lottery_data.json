@@ -144,6 +144,24 @@
         "date": "2026-07-24"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "441 A",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "109 B",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "370 C",
+        "date": "2026-07-24"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "421 A",
@@ -162,6 +180,24 @@
         "date": "2026-07-24"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "806 A",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "179 B",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "863 C",
+        "date": "2026-07-24"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "307 A",
@@ -177,6 +213,24 @@
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "245 C",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "717 A",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "286 B",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "589 C",
         "date": "2026-07-24"
     },
     {
@@ -426,6 +480,12 @@
         "date": "2026-07-24"
     },
     {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "7 - Perico",
+        "date": "2026-07-24"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "12 - Caballo",
@@ -471,6 +531,12 @@
         "lottery": "Guacharito",
         "time": "03:30 PM",
         "result": "32 - Ardilla",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "44 - Chiguire",
         "date": "2026-07-24"
     },
     {
@@ -528,6 +594,12 @@
         "date": "2026-07-24"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "20 - Cochino",
+        "date": "2026-07-24"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "14 - Paloma",
@@ -579,6 +651,12 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "39 - Lechuza",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-07-24"
     },
     {
@@ -639,6 +717,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "24 - Iguana",
+        "date": "2026-07-24"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "64 - Gavilan",
         "date": "2026-07-24"
     },
     {
