@@ -157,6 +157,12 @@
     },
     {
         "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "09 - Aguila",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Condor",
         "time": "09:00 AM",
         "result": "21 - Gallo",
         "date": "2026-07-25"
