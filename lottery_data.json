@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "lottery": "Guacharo",
+        "time": "08:00 AM",
+        "result": "73 - Hipopotamo",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "08:00 AM",
+        "result": "26 - Vaca",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "08:00 AM",
+        "result": "9 - Aguila",
+        "date": "2026-07-25"
+    }
+]
