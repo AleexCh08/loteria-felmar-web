@@ -204,6 +204,12 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "11 - Gato",
@@ -240,6 +246,12 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "73 - Hipopotamo",
@@ -273,6 +285,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "62 - Cachicamo",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "18 - Burro",
         "date": "2026-07-25"
     },
     {
@@ -348,6 +366,12 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "02:00 PM",
+        "result": "36 - Culebra",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "9 - Aguila",
@@ -384,6 +408,12 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "36 - Culebra",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "11 - Gato",
@@ -405,6 +435,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "53 - Caracol",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "51 - Pelicano",
         "date": "2026-07-25"
     },
     {
