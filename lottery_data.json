@@ -120,6 +120,12 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "29 - Elefante",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "11 - Gato",
@@ -204,6 +210,12 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "31 - Lapa",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -261,6 +273,30 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "10 - Tigre",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "07 - Perico",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "09 - Aguila",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "53 - Caracol",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "21 - Gallo",
         "date": "2026-07-25"
     }
 ]
