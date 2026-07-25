@@ -126,6 +126,24 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "376 A",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "537 B",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "867 C",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "085 A",
@@ -216,6 +234,18 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "240 A",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "278 C",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "36 - Culebra",
@@ -261,6 +291,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "23 - Cebra",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "22 - Camello",
         "date": "2026-07-25"
     },
     {
@@ -360,6 +396,12 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "6 - Rana",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "92 - Cisne",
@@ -456,6 +498,12 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "9 - Aguila",
@@ -501,6 +549,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "44 - Chiguire",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "5 - Leon",
         "date": "2026-07-25"
     },
     {
