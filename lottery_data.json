@@ -72,6 +72,42 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "084 A",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "146 B",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "507 C",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "085 A",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "818 B",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "325 C",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "265 A",
@@ -123,6 +159,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "29 - Elefante",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "0 - Delfin",
         "date": "2026-07-25"
     },
     {
@@ -186,6 +228,12 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "62 - Cachicamo",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "92 - Cisne",
@@ -246,6 +294,12 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "01:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "9 - Aguila",
@@ -273,6 +327,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "10 - Tigre",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "30 - Caiman",
         "date": "2026-07-25"
     },
     {
