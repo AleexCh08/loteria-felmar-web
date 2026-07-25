@@ -54,6 +54,24 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "687 A",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "270 B",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "832 C",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "265 A",
@@ -63,6 +81,18 @@
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "708 C",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "470 A",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "938 C",
         "date": "2026-07-25"
     },
     {
@@ -114,6 +144,12 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "14 - Paloma",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "73 - Hipopotamo",
@@ -135,6 +171,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "49 - Pereza",
+        "date": "2026-07-25"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "4 - Alacran",
         "date": "2026-07-25"
     },
     {
@@ -186,6 +228,12 @@
         "date": "2026-07-25"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "22 - Camello",
+        "date": "2026-07-25"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "9 - Aguila",
@@ -210,21 +258,9 @@
         "date": "2026-07-25"
     },
     {
-        "lottery": "Condor",
-        "time": "10:00 AM",
-        "result": "07 - Perico",
-        "date": "2026-07-25"
-    },
-    {
-        "lottery": "Condor",
-        "time": "11:00 AM",
-        "result": "09 - Aguila",
-        "date": "2026-07-25"
-    },
-    {
-        "lottery": "Condor",
-        "time": "09:00 AM",
-        "result": "21 - Gallo",
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-07-25"
     }
 ]
