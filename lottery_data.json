@@ -144,6 +144,24 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "582 A",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "107 B",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "860 C",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -195,6 +213,12 @@
         "lottery": "Lotto Activo",
         "time": "04:00 PM",
         "result": "26 - Vaca",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "35 - Jirafa",
         "date": "2026-07-26"
     },
     {
@@ -306,6 +330,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "58 - Hormiga",
@@ -414,6 +444,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "20 - Cochino",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -468,6 +504,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "18 - Burro",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "13 - Mono",
@@ -507,6 +549,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "35 - Jirafa",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-07-26"
     },
     {
