@@ -198,6 +198,72 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "831 A",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "074 B",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "693 C",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "710 A",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "650 B",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "669 C",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "386 A",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "375 B",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "277 C",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "511 A",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "819 C",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -333,6 +399,12 @@
         "lottery": "Granjita",
         "time": "06:00 PM",
         "result": "27 - Perro",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "14 - Paloma",
         "date": "2026-07-26"
     },
     {
@@ -474,6 +546,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "22 - Camello",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -540,6 +618,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "33 - Pescado",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -603,6 +687,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "39 - Lechuza",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "47 - Pavo Real",
         "date": "2026-07-26"
     },
     {
