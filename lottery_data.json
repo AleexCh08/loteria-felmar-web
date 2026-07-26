@@ -144,6 +144,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "0 - Delfin",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -177,6 +183,12 @@
         "lottery": "Granjita",
         "time": "01:00 PM",
         "result": "26 - Vaca",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "4 - Alacran",
         "date": "2026-07-26"
     },
     {
@@ -216,6 +228,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "70 - Bisonte",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "58 - Hormiga",
@@ -249,6 +267,12 @@
         "lottery": "Guacharito",
         "time": "01:30 PM",
         "result": "56 - Tiburon",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "97 - Loro",
         "date": "2026-07-26"
     },
     {
@@ -288,6 +312,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "02:00 PM",
+        "result": "36 - Culebra",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -321,6 +351,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "21 - Gallo",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-07-26"
     },
     {
