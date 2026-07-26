@@ -54,6 +54,24 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "620 A",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "210 B",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "942 C",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -126,6 +144,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "58 - Hormiga",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "58 - Hormiga",
@@ -174,6 +198,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "30 - Caiman",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -198,21 +228,9 @@
         "date": "2026-07-26"
     },
     {
-        "lottery": "Condor",
-        "time": "10:00 AM",
-        "result": "51 - Pelicano",
-        "date": "2026-07-26"
-    },
-    {
-        "lottery": "Condor",
-        "time": "11:00 AM",
-        "result": "72 - Gorila",
-        "date": "2026-07-26"
-    },
-    {
-        "lottery": "Condor",
-        "time": "09:00 AM",
-        "result": "13 - Mono",
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "50 - Canario",
         "date": "2026-07-26"
     }
 ]
