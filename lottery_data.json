@@ -36,6 +36,24 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "202 A",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "958 B",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "785 C",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -51,6 +69,12 @@
         "lottery": "Lotto Activo",
         "time": "10:00 AM",
         "result": "15 - Zorro",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "1 - Carnero",
         "date": "2026-07-26"
     },
     {
@@ -72,6 +96,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "23 - Zebra",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "57 - Pato",
@@ -87,6 +117,12 @@
         "lottery": "Guacharo",
         "time": "10:00 AM",
         "result": "54 - Grillo",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "32 - Ardilla",
         "date": "2026-07-26"
     },
     {
@@ -126,6 +162,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "11:00 AM",
+        "result": "15 - Zorro",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -144,9 +186,21 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "11:00 AM",
+        "result": "33 - Pescado",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "51 - Pelicano",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "72 - Gorila",
         "date": "2026-07-26"
     },
     {
