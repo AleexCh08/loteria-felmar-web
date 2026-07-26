@@ -354,6 +354,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "30 - Caiman",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -495,6 +501,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "67 - Avestruz",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "35 - Jirafa",
         "date": "2026-07-26"
     },
     {
