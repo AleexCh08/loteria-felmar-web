@@ -72,6 +72,24 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "388 A",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "475 B",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "837 C",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -99,6 +117,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "27 - Perro",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "3 - Ciempies",
         "date": "2026-07-26"
     },
     {
@@ -132,6 +156,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "26 - Vaca",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "57 - Pato",
@@ -159,6 +189,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "58 - Hormiga",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "49 - Pereza",
         "date": "2026-07-26"
     },
     {
@@ -219,6 +255,12 @@
         "lottery": "Selva Plus",
         "time": "12:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-07-26"
     },
     {
