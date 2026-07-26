@@ -276,6 +276,12 @@
         "date": "2026-07-26"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "16 - Oso",
+        "date": "2026-07-26"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "57 - Pato",
@@ -387,6 +393,12 @@
         "lottery": "Guacharito",
         "time": "04:30 PM",
         "result": "30 - Caiman",
+        "date": "2026-07-26"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "54 - Grillo",
         "date": "2026-07-26"
     },
     {
