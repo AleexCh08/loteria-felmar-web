@@ -36,6 +36,24 @@
         "date": "2026-07-27"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "087 A",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "949 B",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "217 C",
+        "date": "2026-07-27"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "550 A",
@@ -63,6 +81,12 @@
         "lottery": "Lotto Activo",
         "time": "10:00 AM",
         "result": "23 - Cebra",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "9 - Aguila",
         "date": "2026-07-27"
     },
     {
@@ -102,6 +126,12 @@
         "date": "2026-07-27"
     },
     {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "5 - Leon",
+        "date": "2026-07-27"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "29 - Elefante",
@@ -138,6 +168,12 @@
         "date": "2026-07-27"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "11:00 AM",
+        "result": "13 - Mono",
+        "date": "2026-07-27"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "43 - Mariposa",
@@ -156,9 +192,21 @@
         "date": "2026-07-27"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "11:00 AM",
+        "result": "24 - Iguana",
+        "date": "2026-07-27"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "70 - Bisonte",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "40 - Avispa",
         "date": "2026-07-27"
     },
     {
