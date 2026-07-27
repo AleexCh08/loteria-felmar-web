@@ -258,6 +258,12 @@
         "date": "2026-07-27"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "26 - Vaca",
+        "date": "2026-07-27"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -396,6 +402,12 @@
         "date": "2026-07-27"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "70 - Bisonte",
+        "date": "2026-07-27"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -489,6 +501,24 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "54 - Grillo",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "844 A",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "166 B",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "990 C",
         "date": "2026-07-27"
     },
     {
