@@ -72,6 +72,42 @@
         "date": "2026-07-27"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "646 A",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "981 B",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "396 C",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "126 A",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "043 B",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "707 C",
+        "date": "2026-07-27"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "550 A",
@@ -123,6 +159,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "22 - Camello",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "21 - Gallo",
         "date": "2026-07-27"
     },
     {
