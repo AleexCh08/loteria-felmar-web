@@ -108,6 +108,12 @@
         "date": "2026-07-27"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "2 - Toro",
+        "date": "2026-07-27"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "56 - Tiburon",
@@ -147,6 +153,12 @@
         "lottery": "Guacharito",
         "time": "10:30 AM",
         "result": "41 - Canguro",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "62 - Cachicamo",
         "date": "2026-07-27"
     },
     {
