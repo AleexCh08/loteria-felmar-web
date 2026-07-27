@@ -84,6 +84,18 @@
         "date": "2026-07-27"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "536 A",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "078 C",
+        "date": "2026-07-27"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "14 - Paloma",
@@ -195,6 +207,12 @@
         "lottery": "Guacharito",
         "time": "11:30 AM",
         "result": "62 - Cachicamo",
+        "date": "2026-07-27"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "98 - Cocodrilo",
         "date": "2026-07-27"
     },
     {
