@@ -1,5 +1,23 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "670 A",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "909 B",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "163 C",
+        "date": "2026-07-28"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -39,6 +57,12 @@
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "94 - Paujil",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "72 - Gorila",
         "date": "2026-07-28"
     },
     {
