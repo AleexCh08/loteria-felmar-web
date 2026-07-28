@@ -84,6 +84,18 @@
         "date": "2026-07-28"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "854 A",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "785 C",
+        "date": "2026-07-28"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -195,6 +207,12 @@
         "lottery": "Guacharito",
         "time": "11:30 AM",
         "result": "63 - Cangrejo",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "12 - Caballo",
         "date": "2026-07-28"
     },
     {
