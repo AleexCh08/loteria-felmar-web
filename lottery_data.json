@@ -234,6 +234,24 @@
         "date": "2026-07-28"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "152 A",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "680 B",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "965 C",
+        "date": "2026-07-28"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "407 A",
@@ -321,6 +339,24 @@
         "lottery": "Triple Caliente",
         "time": "04:30 PM",
         "result": "791 C",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "121 A",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "834 B",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "803 C",
         "date": "2026-07-28"
     },
     {
@@ -522,6 +558,12 @@
         "date": "2026-07-28"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "22 - Camello",
+        "date": "2026-07-28"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "44 - Chiguire",
@@ -660,6 +702,12 @@
         "date": "2026-07-28"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "91 - Morrocoy",
+        "date": "2026-07-28"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "9 - Aguila",
@@ -726,6 +774,12 @@
         "date": "2026-07-28"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "21 - Gallo",
+        "date": "2026-07-28"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "48 - Puercoespin",
@@ -789,6 +843,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "39 - Lechuza",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-07-28"
     },
     {
