@@ -198,6 +198,12 @@
         "date": "2026-07-28"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "15 - Zorro",
+        "date": "2026-07-28"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "20 - Cochino",
@@ -225,6 +231,12 @@
         "lottery": "Granjita",
         "time": "12:00 PM",
         "result": "5 - Leon",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "14 - Paloma",
         "date": "2026-07-28"
     },
     {
@@ -294,6 +306,12 @@
         "date": "2026-07-28"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "00 - Ballena",
+        "date": "2026-07-28"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "9 - Aguila",
@@ -357,6 +375,18 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "44 - Chiguire",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "61 - Panda",
         "date": "2026-07-28"
     },
     {
