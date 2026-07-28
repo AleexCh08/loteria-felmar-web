@@ -72,6 +72,78 @@
         "date": "2026-07-28"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "260 A",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "613 B",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "451 C",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "923 A",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "893 B",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "189 C",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "407 A",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "158 B",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "890 C",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "527 A",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "860 B",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "908 C",
+        "date": "2026-07-28"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "023 A",
@@ -186,6 +258,12 @@
         "date": "2026-07-28"
     },
     {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "6 - Rana",
+        "date": "2026-07-28"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "94 - Paujil",
@@ -243,6 +321,12 @@
         "lottery": "Selva Plus",
         "time": "12:00 PM",
         "result": "29 - Elefante",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:00 PM",
+        "result": "13 - Mono",
         "date": "2026-07-28"
     },
     {
