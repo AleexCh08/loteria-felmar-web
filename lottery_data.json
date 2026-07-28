@@ -18,6 +18,24 @@
         "date": "2026-07-28"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "375 A",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "618 B",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "795 C",
+        "date": "2026-07-28"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "023 A",
@@ -60,6 +78,12 @@
         "date": "2026-07-28"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "34 - Venado",
+        "date": "2026-07-28"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "44 - Chiguire",
@@ -87,6 +111,12 @@
         "lottery": "Guacharito",
         "time": "09:30 AM",
         "result": "72 - Gorila",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "56 - Tiburon",
         "date": "2026-07-28"
     },
     {
