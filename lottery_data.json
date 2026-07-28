@@ -180,6 +180,24 @@
         "date": "2026-07-28"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "780 A",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "304 B",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "441 C",
+        "date": "2026-07-28"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "923 A",
@@ -249,6 +267,24 @@
         "lottery": "Triple Caracas",
         "time": "04:30 PM",
         "result": "825 C",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "534 A",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "208 B",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "522 C",
         "date": "2026-07-28"
     },
     {
@@ -336,6 +372,18 @@
         "date": "2026-07-28"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "035 A",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "601 C",
+        "date": "2026-07-28"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -399,6 +447,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "16 - Oso",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "21 - Gallo",
         "date": "2026-07-28"
     },
     {
@@ -531,6 +585,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "49 - Pereza",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "40 - Avispa",
         "date": "2026-07-28"
     },
     {
@@ -819,6 +879,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "18 - Burro",
+        "date": "2026-07-28"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "53 - Caracol",
         "date": "2026-07-28"
     },
     {
