@@ -180,6 +180,24 @@
         "date": "2026-07-29"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "043 A",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "129 B",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "854 C",
+        "date": "2026-07-29"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "258 A",
@@ -213,6 +231,24 @@
         "lottery": "Triple Zulia",
         "time": "04:45 PM",
         "result": "790 C",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "570 A",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "697 B",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "245 C",
         "date": "2026-07-29"
     },
     {
@@ -252,6 +288,24 @@
         "date": "2026-07-29"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "097 A",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "541 B",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "030 C",
+        "date": "2026-07-29"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "386 A",
@@ -285,6 +339,24 @@
         "lottery": "Triple Caliente",
         "time": "04:30 PM",
         "result": "930 C",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "316 A",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "807 B",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "941 C",
         "date": "2026-07-29"
     },
     {
@@ -627,6 +699,12 @@
         "lottery": "Guacharito",
         "time": "06:30 PM",
         "result": "31 - Lapa",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "64 - Gavilan",
         "date": "2026-07-29"
     },
     {
