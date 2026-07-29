@@ -126,6 +126,24 @@
         "date": "2026-07-29"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "962 A",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "705 B",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "329 C",
+        "date": "2026-07-29"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "258 A",
@@ -216,6 +234,18 @@
         "date": "2026-07-29"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "782 A",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "173 C",
+        "date": "2026-07-29"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "1 - Carnero",
@@ -261,6 +291,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "25 - Gallina",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "22 - Camello",
         "date": "2026-07-29"
     },
     {
@@ -312,6 +348,12 @@
         "date": "2026-07-29"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-07-29"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -357,6 +399,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "13 - Mono",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "62 - Cachicamo",
         "date": "2026-07-29"
     },
     {
@@ -456,6 +504,12 @@
         "date": "2026-07-29"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "6 - Rana",
+        "date": "2026-07-29"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -501,6 +555,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "20 - Cochino",
+        "date": "2026-07-29"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "5 - Leon",
         "date": "2026-07-29"
     },
     {
