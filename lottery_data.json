@@ -72,6 +72,24 @@
         "date": "2026-07-30"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "579 A",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "421 B",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "781 C",
+        "date": "2026-07-30"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "603 A",
@@ -87,6 +105,42 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "289 C",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "415 A",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "252 B",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "285 C",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "584 A",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "004 B",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "972 C",
         "date": "2026-07-30"
     },
     {
@@ -180,6 +234,12 @@
         "date": "2026-07-30"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-07-30"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -243,6 +303,12 @@
         "lottery": "Guacharito",
         "time": "12:30 PM",
         "result": "78 - Antilope",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "18 - Burro",
         "date": "2026-07-30"
     },
     {
@@ -315,6 +381,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "26 - Vaca",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "13 - Mono",
         "date": "2026-07-30"
     },
     {
