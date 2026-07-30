@@ -1,23 +1,5 @@
 [
     {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "826 A",
-        "date": "2026-07-30"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "275 B",
-        "date": "2026-07-30"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "545 C",
-        "date": "2026-07-30"
-    },
-    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -27,6 +9,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "26 - Vaca",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "33 - Pescado",
         "date": "2026-07-30"
     },
     {
@@ -54,6 +42,12 @@
         "date": "2026-07-30"
     },
     {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "6 - Rana",
+        "date": "2026-07-30"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "87 - Cabra",
@@ -78,6 +72,12 @@
         "date": "2026-07-30"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "25 - Gallina",
+        "date": "2026-07-30"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "16 - Oso",
@@ -87,6 +87,18 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "46 - Puma",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "44 - Chiguire",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "48 - Puercoespin",
         "date": "2026-07-30"
     },
     {
