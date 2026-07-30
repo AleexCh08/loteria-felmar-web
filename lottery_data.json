@@ -372,6 +372,12 @@
         "date": "2026-07-30"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "11 - Gato",
+        "date": "2026-07-30"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "23 - Zebra",
@@ -423,6 +429,12 @@
         "lottery": "Granjita",
         "time": "04:00 PM",
         "result": "33 - Pescado",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "29 - Elefante",
         "date": "2026-07-30"
     },
     {
