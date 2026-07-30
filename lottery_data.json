@@ -1,5 +1,53 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "826 A",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "275 B",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "545 C",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "793 A",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "220 B",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "374 C",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "518 A",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "131 C",
+        "date": "2026-07-30"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -27,6 +75,12 @@
         "lottery": "Granjita",
         "time": "09:00 AM",
         "result": "12 - Caballo",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "26 - Vaca",
         "date": "2026-07-30"
     },
     {
