@@ -186,6 +186,18 @@
         "date": "2026-07-30"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "372 A",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "306 C",
+        "date": "2026-07-30"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -348,6 +360,12 @@
         "date": "2026-07-30"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "67 - Avestruz",
+        "date": "2026-07-30"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -384,6 +402,12 @@
         "date": "2026-07-30"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "02:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-07-30"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "16 - Oso",
@@ -417,6 +441,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "26 - Vaca",
+        "date": "2026-07-30"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "43 - Mariposa",
         "date": "2026-07-30"
     },
     {
