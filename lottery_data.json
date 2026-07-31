@@ -1,8 +1,32 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "762 A",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "498 B",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "606 C",
+        "date": "2026-07-31"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "36 - Culebra",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "5 - Leon",
         "date": "2026-07-31"
     },
     {
@@ -12,9 +36,21 @@
         "date": "2026-07-31"
     },
     {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "17 - Pavo",
+        "date": "2026-07-31"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "68 - Jaguar",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "09:00 AM",
+        "result": "64 - Gavilan",
         "date": "2026-07-31"
     },
     {
@@ -30,9 +66,21 @@
         "date": "2026-07-31"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "09:00 AM",
+        "result": "5 - Leon",
+        "date": "2026-07-31"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "34 - Venado",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "44 - Chiguire",
         "date": "2026-07-31"
     }
 ]
