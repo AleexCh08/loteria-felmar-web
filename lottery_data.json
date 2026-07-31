@@ -126,6 +126,24 @@
         "date": "2026-07-31"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "670 A",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "465 B",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "896 C",
+        "date": "2026-07-31"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "617 A",
@@ -360,6 +378,12 @@
         "date": "2026-07-31"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "74 - Turpial",
+        "date": "2026-07-31"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "79 - Calamar",
@@ -456,6 +480,12 @@
         "date": "2026-07-31"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "23 - Cebra",
+        "date": "2026-07-31"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -501,6 +531,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "53 - Caracol",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "28 - Zamuro",
         "date": "2026-07-31"
     },
     {
