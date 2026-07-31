@@ -108,6 +108,42 @@
         "date": "2026-07-31"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "876 A",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "168 B",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "645 C",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "849 A",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "526 B",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "171 C",
+        "date": "2026-07-31"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "204 A",
@@ -162,6 +198,12 @@
         "date": "2026-07-31"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-07-31"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -189,6 +231,12 @@
         "lottery": "Granjita",
         "time": "12:00 PM",
         "result": "35 - Jirafa",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "27 - Perro",
         "date": "2026-07-31"
     },
     {
@@ -255,6 +303,12 @@
         "lottery": "Guacharito",
         "time": "12:30 PM",
         "result": "63 - Cangrejo",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "82 - Cucaracha",
         "date": "2026-07-31"
     },
     {
@@ -327,6 +381,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "29 - Elefante",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "13 - Mono",
         "date": "2026-07-31"
     },
     {
