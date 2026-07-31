@@ -72,6 +72,42 @@
         "date": "2026-07-31"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "395 A",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "919 B",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "178 C",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "617 A",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "784 B",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "342 C",
+        "date": "2026-07-31"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "204 A",
@@ -81,6 +117,18 @@
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "559 C",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "908 A",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "774 C",
         "date": "2026-07-31"
     },
     {
@@ -174,6 +222,12 @@
         "date": "2026-07-31"
     },
     {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "20 - Cochino",
+        "date": "2026-07-31"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "79 - Calamar",
@@ -234,6 +288,12 @@
         "date": "2026-07-31"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "01:00 PM",
+        "result": "6 - Rana",
+        "date": "2026-07-31"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -261,6 +321,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "18 - Burro",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "29 - Elefante",
         "date": "2026-07-31"
     },
     {
