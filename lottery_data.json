@@ -432,6 +432,12 @@
         "date": "2026-07-31"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "8 - Raton",
+        "date": "2026-07-31"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "68 - Jaguar",
@@ -543,6 +549,12 @@
         "lottery": "Guacharito",
         "time": "04:30 PM",
         "result": "43 - Mariposa",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "70 - Bisonte",
         "date": "2026-07-31"
     },
     {
