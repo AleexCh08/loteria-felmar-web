@@ -498,6 +498,12 @@
         "date": "2026-08-01"
     },
     {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "14 - Paloma",
+        "date": "2026-08-01"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "32 - Ardilla",
@@ -618,6 +624,12 @@
         "date": "2026-08-01"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "06:00 PM",
+        "result": "10 - Tigre",
+        "date": "2026-08-01"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -723,6 +735,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "48 - Puercoespin",
+        "date": "2026-08-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "42 - Tucan",
         "date": "2026-08-01"
     },
     {
