@@ -886,5 +886,71 @@
         "time": "04:45 PM",
         "result": "052 C",
         "date": "2026-07-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "32 - Ardilla",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "21 - Gallo",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "56 - Tiburon",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "60 - Camaleon",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "26 - Vaca",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "48 - Puercoespin",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "70 - Bisonte",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "50 - Canario",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "49 - Pereza",
+        "date": "2026-07-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "44 - Chiguire",
+        "date": "2026-07-31"
     }
 ]
