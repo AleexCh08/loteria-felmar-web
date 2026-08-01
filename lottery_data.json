@@ -552,6 +552,12 @@
         "date": "2026-08-01"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "84 - Camaron",
+        "date": "2026-08-01"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -606,6 +612,12 @@
         "date": "2026-08-01"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:00 PM",
+        "result": "6 - Rana",
+        "date": "2026-08-01"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -657,6 +669,12 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "39 - Lechuza",
+        "date": "2026-08-01"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "14 - Paloma",
         "date": "2026-08-01"
     },
     {
