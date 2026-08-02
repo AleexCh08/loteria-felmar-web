@@ -54,6 +54,24 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "341 A",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "201 B",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "751 C",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -75,6 +93,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "22 - Camello",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "34 - Venado",
         "date": "2026-08-02"
     },
     {
@@ -102,6 +126,12 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "0 - Delfin",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -123,6 +153,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "26 - Vaca",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "54 - Grillo",
         "date": "2026-08-02"
     },
     {
@@ -150,6 +186,12 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "68 - Jaguar",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -174,6 +216,12 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "9 - Aguila",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -195,6 +243,12 @@
         "lottery": "Lotto Chaima",
         "time": "11:00 AM",
         "result": "53 - Caracol",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "0 - Delfin",
         "date": "2026-08-02"
     },
     {
