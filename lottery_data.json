@@ -180,6 +180,42 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "615 A",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "199 B",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "275 C",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "379 A",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "796 B",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "278 C",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -243,6 +279,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "33 - Pescado",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-08-02"
     },
     {
@@ -378,6 +420,12 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "78 - Antilope",
@@ -510,6 +558,12 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -576,6 +630,12 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "7 - Perico",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "59 - Pantera",
@@ -627,6 +687,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "21 - Gallo",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "72 - Gorila",
         "date": "2026-08-02"
     },
     {
