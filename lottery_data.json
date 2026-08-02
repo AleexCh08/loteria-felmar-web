@@ -198,6 +198,24 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "905 A",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "133 B",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "562 C",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "07:00 PM",
         "result": "379 A",
@@ -213,6 +231,36 @@
         "lottery": "Triple Caracas",
         "time": "07:00 PM",
         "result": "278 C",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "235 A",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "144 B",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "441 C",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "921 A",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "354 C",
         "date": "2026-08-02"
     },
     {
@@ -354,6 +402,12 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -489,6 +543,12 @@
         "lottery": "Guacharito",
         "time": "06:30 PM",
         "result": "94 - Paujil",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "39 - Lechuza",
         "date": "2026-08-02"
     },
     {
