@@ -126,6 +126,24 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "019 A",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "307 B",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "861 C",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -270,6 +288,12 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "55 - Oso Hormiguero",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "78 - Antilope",
@@ -363,6 +387,12 @@
         "lottery": "Selva Plus",
         "time": "03:00 PM",
         "result": "35 - Jirafa",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "30 - Caiman",
         "date": "2026-08-02"
     },
     {
