@@ -48,6 +48,12 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "3 - Ciempies",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -57,6 +63,12 @@
         "lottery": "Granjita",
         "time": "09:00 AM",
         "result": "19 - Chivo",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "9 - Aguila",
         "date": "2026-08-02"
     },
     {
@@ -90,6 +102,12 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "47 - Pavo Real",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -117,6 +135,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "36 - Culebra",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "13 - Mono",
         "date": "2026-08-02"
     },
     {
