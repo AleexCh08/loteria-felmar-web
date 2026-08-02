@@ -168,6 +168,12 @@
         "date": "2026-08-02"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-08-02"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -207,6 +213,12 @@
         "lottery": "Granjita",
         "time": "02:00 PM",
         "result": "22 - Camello",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-08-02"
     },
     {
@@ -297,6 +309,12 @@
         "lottery": "Guacharito",
         "time": "02:30 PM",
         "result": "17 - Pavo",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "52 - Pulpo",
         "date": "2026-08-02"
     },
     {
