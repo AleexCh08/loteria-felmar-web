@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "lottery": "Lotto Activo",
+        "time": "08:00 AM",
+        "result": "5 - Leon",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "08:00 AM",
+        "result": "34 - Venado",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "08:00 AM",
+        "result": "32 - Ardilla",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "08:00 AM",
+        "result": "30 - Caiman",
+        "date": "2026-08-02"
+    }
+]
