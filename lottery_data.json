@@ -211,6 +211,12 @@
     },
     {
         "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "02 - Toro",
+        "date": "2026-08-02"
+    },
+    {
+        "lottery": "Condor",
         "time": "09:00 AM",
         "result": "57 - Pato",
         "date": "2026-08-02"
