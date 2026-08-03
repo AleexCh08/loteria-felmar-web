@@ -72,6 +72,42 @@
         "date": "2026-08-03"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "653 A",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "072 B",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "927 C",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "754 A",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "082 B",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "049 C",
+        "date": "2026-08-03"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "259 A",
@@ -123,6 +159,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "1 - Carnero",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-08-03"
     },
     {
@@ -186,6 +228,12 @@
         "date": "2026-08-03"
     },
     {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "52 - Pulpo",
+        "date": "2026-08-03"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "24 - Iguana",
@@ -207,6 +255,12 @@
         "lottery": "Guacharito",
         "time": "11:30 AM",
         "result": "88 - Erizo De Mar",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "22 - Camello",
         "date": "2026-08-03"
     },
     {
@@ -240,6 +294,12 @@
         "date": "2026-08-03"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "01:00 PM",
+        "result": "26 - Vaca",
+        "date": "2026-08-03"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "50 - Canario",
@@ -267,6 +327,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "47 - Pavo Real",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "9 - Aguila",
         "date": "2026-08-03"
     },
     {
