@@ -108,6 +108,42 @@
         "date": "2026-08-03"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "049 A",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "558 B",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "868 C",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "385 A",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "279 B",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "652 C",
+        "date": "2026-08-03"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "259 A",
@@ -198,6 +234,12 @@
         "date": "2026-08-03"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "33 - Pescado",
+        "date": "2026-08-03"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -261,6 +303,12 @@
         "lottery": "Guacharito",
         "time": "12:30 PM",
         "result": "22 - Camello",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "55 - Oso Hormiguero",
         "date": "2026-08-03"
     },
     {
@@ -333,6 +381,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "9 - Aguila",
+        "date": "2026-08-03"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "30 - Caiman",
         "date": "2026-08-03"
     },
     {
