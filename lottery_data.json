@@ -850,5 +850,71 @@
         "time": "07:00 PM",
         "result": "52 - Pulpo",
         "date": "2026-08-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "64 - Gavilan",
+        "date": "2026-08-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "06 - Rana",
+        "date": "2026-08-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "45 - Garza",
+        "date": "2026-08-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "09 - Aguila",
+        "date": "2026-08-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "09 - Aguila",
+        "date": "2026-08-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "74 - Turpial",
+        "date": "2026-08-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "67 - Avestruz",
+        "date": "2026-08-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "07 - Perico",
+        "date": "2026-08-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "62 - Cachicamo",
+        "date": "2026-08-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-08-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "57 - Pato",
+        "date": "2026-08-04"
     }
 ]
