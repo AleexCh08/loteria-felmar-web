@@ -54,6 +54,24 @@
         "date": "2026-08-05"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "630 A",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "486 B",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "726 C",
+        "date": "2026-08-05"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "357 A",
@@ -63,6 +81,18 @@
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "839 C",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "458 A",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "085 C",
         "date": "2026-08-05"
     },
     {
@@ -180,6 +210,12 @@
         "date": "2026-08-05"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "97 - Loro",
+        "date": "2026-08-05"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -201,6 +237,12 @@
         "lottery": "Selva Plus",
         "time": "11:00 AM",
         "result": "3 - Ciempies",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-08-05"
     },
     {
@@ -228,6 +270,12 @@
         "date": "2026-08-05"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "49 - Pereza",
+        "date": "2026-08-05"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "28 - Zamuro",
@@ -237,6 +285,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "20 - Cochino",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "73 - Hipopotamo",
         "date": "2026-08-05"
     },
     {
