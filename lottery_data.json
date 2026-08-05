@@ -180,6 +180,24 @@
         "date": "2026-08-05"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "960 A",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "071 B",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "610 C",
+        "date": "2026-08-05"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "510 A",
@@ -195,6 +213,24 @@
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "799 C",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "284 A",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "222 B",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "145 C",
         "date": "2026-08-05"
     },
     {
@@ -336,6 +372,12 @@
         "date": "2026-08-05"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "18 - Burro",
+        "date": "2026-08-05"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -387,6 +429,12 @@
         "lottery": "Granjita",
         "time": "04:00 PM",
         "result": "20 - Cochino",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-08-05"
     },
     {
@@ -504,6 +552,12 @@
         "date": "2026-08-05"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-08-05"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -615,6 +669,12 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "48 - Puercoespin",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "25 - Gallina",
         "date": "2026-08-05"
     },
     {
