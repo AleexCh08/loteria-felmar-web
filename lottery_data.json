@@ -108,6 +108,24 @@
         "date": "2026-08-05"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "014 A",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "250 B",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "397 C",
+        "date": "2026-08-05"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "175 A",
@@ -123,6 +141,42 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "726 C",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "510 A",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "396 B",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "799 C",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "648 A",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "402 B",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "250 C",
         "date": "2026-08-05"
     },
     {
@@ -234,6 +288,12 @@
         "date": "2026-08-05"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-08-05"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "59 - Pantera",
@@ -273,6 +333,12 @@
         "lottery": "Guacharo",
         "time": "02:00 PM",
         "result": "48 - Puercoespin",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-08-05"
     },
     {
@@ -360,6 +426,12 @@
         "date": "2026-08-05"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "03:00 PM",
+        "result": "36 - Culebra",
+        "date": "2026-08-05"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "54 - Grillo",
@@ -429,6 +501,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "75 - Condor",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "0 - Delfin",
         "date": "2026-08-05"
     },
     {
