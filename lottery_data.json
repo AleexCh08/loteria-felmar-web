@@ -126,6 +126,24 @@
         "date": "2026-08-05"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "274 A",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "732 B",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "844 C",
+        "date": "2026-08-05"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "175 A",
@@ -264,6 +282,12 @@
         "date": "2026-08-05"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "4 - Alacran",
+        "date": "2026-08-05"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -360,6 +384,12 @@
         "date": "2026-08-05"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "68 - Jaguar",
+        "date": "2026-08-05"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "68 - Jaguar",
@@ -399,6 +429,12 @@
         "lottery": "Guacharito",
         "time": "02:30 PM",
         "result": "91 - Morrocoy",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "9 - Aguila",
         "date": "2026-08-05"
     },
     {
@@ -447,6 +483,12 @@
         "lottery": "Selva Plus",
         "time": "03:00 PM",
         "result": "36 - Culebra",
+        "date": "2026-08-05"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "13 - Mono",
         "date": "2026-08-05"
     },
     {
