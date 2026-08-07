@@ -372,6 +372,12 @@
         "date": "2026-08-07"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "00 - Ballena",
+        "date": "2026-08-07"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -543,6 +549,12 @@
         "lottery": "Guacharito",
         "time": "04:30 PM",
         "result": "81 - Cuervo",
+        "date": "2026-08-07"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "53 - Caracol",
         "date": "2026-08-07"
     },
     {
