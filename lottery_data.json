@@ -126,6 +126,24 @@
         "date": "2026-08-08"
     },
     {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "098 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "109 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "562 C",
+        "date": "2026-08-08"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "641 A",
@@ -177,6 +195,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "8 - Raton",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "3 - Ciempies",
         "date": "2026-08-08"
     },
     {
@@ -282,6 +306,12 @@
         "date": "2026-08-08"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "85 - Hamster",
+        "date": "2026-08-08"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "31 - Lapa",
@@ -312,6 +342,12 @@
         "date": "2026-08-08"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "01:00 PM",
+        "result": "23 - Cebra",
+        "date": "2026-08-08"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -339,6 +375,18 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "40 - Avispa",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "25 - Gallina",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "67 - Avestruz",
         "date": "2026-08-08"
     },
     {
