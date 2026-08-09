@@ -192,6 +192,12 @@
         "date": "2026-08-09"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "4 - Alacran",
+        "date": "2026-08-09"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -237,6 +243,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "13 - Mono",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-08-09"
     },
     {
@@ -342,6 +354,12 @@
         "date": "2026-08-09"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "53 - Caracol",
+        "date": "2026-08-09"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "24 - Iguana",
@@ -387,6 +405,12 @@
         "lottery": "Selva Plus",
         "time": "03:00 PM",
         "result": "29 - Elefante",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "22 - Camello",
         "date": "2026-08-09"
     },
     {
@@ -438,6 +462,12 @@
         "date": "2026-08-09"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "46 - Puma",
+        "date": "2026-08-09"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "69 - Conejo",
@@ -471,6 +501,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "36 - Culebra",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-08-09"
     },
     {
