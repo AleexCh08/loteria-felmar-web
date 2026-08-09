@@ -144,6 +144,12 @@
         "date": "2026-08-09"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "11 - Gato",
+        "date": "2026-08-09"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -261,6 +267,12 @@
         "lottery": "Guacharito",
         "time": "01:30 PM",
         "result": "3 - Ciempies",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "44 - Chiguire",
         "date": "2026-08-09"
     },
     {
