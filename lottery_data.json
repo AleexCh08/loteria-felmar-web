@@ -1,5 +1,425 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "080 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "879 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "947 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "231 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "591 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "625 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "612 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "392 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "538 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "801 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "076 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "351 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "197 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "681 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "543 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "550 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "180 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "218 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "679 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "904 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "061 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "832 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "726 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "403 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "059 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "288 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "436 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "638 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "172 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "813 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "933 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "380 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "751 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "428 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "338 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "505 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "542 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "448 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "280 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "602 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "496 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "871 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "909 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "241 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "895 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "970 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "936 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "328 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "735 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "197 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "256 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "098 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "109 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "562 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "040 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "799 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "693 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "611 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "055 B",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "592 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "641 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "450 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "205 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "639 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "794 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "142 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "178 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "726 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "674 A",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "542 C",
+        "date": "2026-08-08"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -465,6 +885,72 @@
         "lottery": "Triple Tachira",
         "time": "04:45 PM",
         "result": "529 C",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "67 - Avestruz",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "21 - Gallo",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "42 - Tucan",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "65 - Arana",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "21 - Gallo",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "59 - Pantera",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "61 - Panda",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "24 - Iguana",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "70 - Bisonte",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "26 - Vaca",
+        "date": "2026-08-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "71 - Guacamaya",
         "date": "2026-08-08"
     }
 ]
