@@ -198,6 +198,72 @@
         "date": "2026-08-09"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "674 A",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "030 B",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "361 C",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "583 A",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "250 B",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "017 C",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "289 A",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "742 B",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "787 C",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "897 A",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "060 C",
+        "date": "2026-08-09"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -480,6 +546,12 @@
         "date": "2026-08-09"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "51 - Pelicano",
+        "date": "2026-08-09"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "24 - Iguana",
@@ -615,6 +687,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-08-09"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "24 - Iguana",
         "date": "2026-08-09"
     },
     {
