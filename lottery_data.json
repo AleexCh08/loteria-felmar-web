@@ -108,6 +108,42 @@
         "date": "2026-08-10"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "833 A",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "401 B",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "655 C",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "754 A",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "370 B",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "625 C",
+        "date": "2026-08-10"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "506 A",
@@ -270,6 +306,12 @@
         "date": "2026-08-10"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "92 - Cisne",
+        "date": "2026-08-10"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -297,6 +339,12 @@
         "lottery": "Selva Plus",
         "time": "12:00 PM",
         "result": "17 - Pavo",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:00 PM",
+        "result": "30 - Caiman",
         "date": "2026-08-10"
     },
     {
@@ -330,27 +378,9 @@
         "date": "2026-08-10"
     },
     {
-        "lottery": "Condor",
-        "time": "10:00 AM",
-        "result": "08 - Raton",
-        "date": "2026-08-10"
-    },
-    {
-        "lottery": "Condor",
-        "time": "11:00 AM",
-        "result": "59 - Pantera",
-        "date": "2026-08-10"
-    },
-    {
-        "lottery": "Condor",
-        "time": "12:00 PM",
-        "result": "35 - Jirafa",
-        "date": "2026-08-10"
-    },
-    {
-        "lottery": "Condor",
-        "time": "09:00 AM",
-        "result": "29 - Elefante",
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "41 - Canguro",
         "date": "2026-08-10"
     }
 ]
