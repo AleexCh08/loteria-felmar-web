@@ -396,6 +396,12 @@
         "date": "2026-08-10"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "25 - Gallina",
+        "date": "2026-08-10"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "36 - Culebra",
@@ -585,6 +591,12 @@
         "lottery": "Guacharito",
         "time": "05:30 PM",
         "result": "68 - Jaguar",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "4 - Alacran",
         "date": "2026-08-10"
     },
     {
