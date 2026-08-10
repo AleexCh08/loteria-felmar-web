@@ -468,6 +468,12 @@
         "date": "2026-08-10"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-08-10"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "54 - Grillo",
@@ -531,6 +537,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "39 - Lechuza",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "9 - Aguila",
         "date": "2026-08-10"
     },
     {
@@ -663,6 +675,12 @@
         "lottery": "Selva Plus",
         "time": "06:00 PM",
         "result": "3 - Ciempies",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "2 - Toro",
         "date": "2026-08-10"
     },
     {
@@ -801,6 +819,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "40 - Avispa",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "12 - Caballo",
         "date": "2026-08-10"
     },
     {
