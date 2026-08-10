@@ -126,6 +126,24 @@
         "date": "2026-08-10"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "270 A",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "146 B",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "405 C",
+        "date": "2026-08-10"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "207 A",
@@ -213,6 +231,18 @@
         "lottery": "Triple Zamorano",
         "time": "02:00 PM",
         "result": "322 C",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "573 A",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "002 C",
         "date": "2026-08-10"
     },
     {
@@ -312,6 +342,12 @@
         "date": "2026-08-10"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "9 - Aguila",
+        "date": "2026-08-10"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "54 - Grillo",
@@ -357,6 +393,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-08-10"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "64 - Gavilan",
         "date": "2026-08-10"
     },
     {
