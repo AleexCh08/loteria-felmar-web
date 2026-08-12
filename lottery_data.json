@@ -234,6 +234,18 @@
         "date": "2026-08-12"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "182 A",
+        "date": "2026-08-12"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "759 C",
+        "date": "2026-08-12"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -279,6 +291,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "7 - Perico",
+        "date": "2026-08-12"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "0 - Delfin",
         "date": "2026-08-12"
     },
     {
@@ -438,6 +456,12 @@
         "date": "2026-08-12"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "48 - Puercoespin",
+        "date": "2026-08-12"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -540,6 +564,12 @@
         "date": "2026-08-12"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "20 - Cochino",
+        "date": "2026-08-12"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "32 - Ardilla",
@@ -573,6 +603,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "31 - Lapa",
+        "date": "2026-08-12"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "15 - Zorro",
         "date": "2026-08-12"
     },
     {
