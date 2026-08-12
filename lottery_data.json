@@ -18,6 +18,36 @@
         "date": "2026-08-12"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "281 A",
+        "date": "2026-08-12"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "470 B",
+        "date": "2026-08-12"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "962 C",
+        "date": "2026-08-12"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "395 A",
+        "date": "2026-08-12"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "781 C",
+        "date": "2026-08-12"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -27,6 +57,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "16 - Oso",
+        "date": "2026-08-12"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "20 - Cochino",
         "date": "2026-08-12"
     },
     {
@@ -54,6 +90,12 @@
         "date": "2026-08-12"
     },
     {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "0 - Delfin",
+        "date": "2026-08-12"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "26 - Vaca",
@@ -78,6 +120,12 @@
         "date": "2026-08-12"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "25 - Gallina",
+        "date": "2026-08-12"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "49 - Pereza",
@@ -87,6 +135,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "6 - Rana",
+        "date": "2026-08-12"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "38 - Bufalo",
         "date": "2026-08-12"
     },
     {
