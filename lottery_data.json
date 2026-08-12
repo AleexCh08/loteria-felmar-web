@@ -90,6 +90,24 @@
         "date": "2026-08-12"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "340 A",
+        "date": "2026-08-12"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "150 B",
+        "date": "2026-08-12"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "796 C",
+        "date": "2026-08-12"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "405 A",
@@ -165,6 +183,18 @@
         "lottery": "Triple Zamorano",
         "time": "12:00 PM",
         "result": "050 C",
+        "date": "2026-08-12"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "911 A",
+        "date": "2026-08-12"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "133 C",
         "date": "2026-08-12"
     },
     {
@@ -246,6 +276,12 @@
         "date": "2026-08-12"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "19 - Chivo",
+        "date": "2026-08-12"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "1 - Carnero",
@@ -324,6 +360,12 @@
         "date": "2026-08-12"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "00 - Ballena",
+        "date": "2026-08-12"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -399,6 +441,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "1 - Carnero",
+        "date": "2026-08-12"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "24 - Iguana",
         "date": "2026-08-12"
     },
     {
