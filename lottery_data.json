@@ -18,6 +18,36 @@
         "date": "2026-08-13"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "698 A",
+        "date": "2026-08-13"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "842 B",
+        "date": "2026-08-13"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "762 C",
+        "date": "2026-08-13"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "058 A",
+        "date": "2026-08-13"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "352 C",
+        "date": "2026-08-13"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "12 - Caballo",
@@ -84,6 +114,12 @@
         "date": "2026-08-13"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "82 - Cucaracha",
+        "date": "2026-08-13"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -96,6 +132,12 @@
         "date": "2026-08-13"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "26 - Vaca",
+        "date": "2026-08-13"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "40 - Avispa",
@@ -105,6 +147,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "28 - Zamuro",
+        "date": "2026-08-13"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "27 - Perro",
         "date": "2026-08-13"
     },
     {
