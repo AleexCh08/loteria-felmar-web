@@ -36,6 +36,24 @@
         "date": "2026-08-13"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "535 A",
+        "date": "2026-08-13"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "257 B",
+        "date": "2026-08-13"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "924 C",
+        "date": "2026-08-13"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "058 A",
@@ -84,6 +102,12 @@
         "date": "2026-08-13"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "1 - Carnero",
+        "date": "2026-08-13"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "16 - Oso",
@@ -99,6 +123,12 @@
         "lottery": "Guacharo",
         "time": "10:00 AM",
         "result": "15 - Zorro",
+        "date": "2026-08-13"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "48 - Puercoespin",
         "date": "2026-08-13"
     },
     {
@@ -159,6 +189,12 @@
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "13 - Mono",
+        "date": "2026-08-13"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "64 - Gavilan",
         "date": "2026-08-13"
     },
     {
