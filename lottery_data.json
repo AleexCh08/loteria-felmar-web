@@ -1,8 +1,32 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "141 A",
+        "date": "2026-08-13"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "527 B",
+        "date": "2026-08-13"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "716 C",
+        "date": "2026-08-13"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "12 - Caballo",
+        "date": "2026-08-13"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "3 - Ciempies",
         "date": "2026-08-13"
     },
     {
@@ -12,9 +36,21 @@
         "date": "2026-08-13"
     },
     {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "35 - Jirafa",
+        "date": "2026-08-13"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "16 - Oso",
+        "date": "2026-08-13"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "09:00 AM",
+        "result": "46 - Puma",
         "date": "2026-08-13"
     },
     {
@@ -27,6 +63,12 @@
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "34 - Venado",
+        "date": "2026-08-13"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "09:00 AM",
+        "result": "5 - Leon",
         "date": "2026-08-13"
     },
     {
