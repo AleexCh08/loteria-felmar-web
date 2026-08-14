@@ -258,6 +258,12 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -438,6 +444,12 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "03:00 PM",
+        "result": "19 - Chivo",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "42 - Tucan",
@@ -477,6 +489,12 @@
         "lottery": "Lotto Chaima",
         "time": "02:00 PM",
         "result": "27 - Perro",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "36 - Culebra",
         "date": "2026-08-14"
     },
     {
