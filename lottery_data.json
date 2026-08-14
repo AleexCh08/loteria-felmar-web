@@ -180,6 +180,24 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "871 A",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "360 B",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "499 C",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "453 A",
@@ -213,6 +231,24 @@
         "lottery": "Triple Zulia",
         "time": "04:45 PM",
         "result": "402 C",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "160 A",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "201 B",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "039 C",
         "date": "2026-08-14"
     },
     {
@@ -306,6 +342,24 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "635 A",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "955 B",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "487 C",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "124 A",
@@ -351,6 +405,18 @@
         "lottery": "Triple Zamorano",
         "time": "04:00 PM",
         "result": "183 C",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "587 A",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "398 C",
         "date": "2026-08-14"
     },
     {
@@ -417,6 +483,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "12 - Caballo",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "4 - Alacran",
         "date": "2026-08-14"
     },
     {
@@ -630,6 +702,12 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "52 - Pulpo",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -696,6 +774,12 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "31 - Lapa",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "42 - Tucan",
@@ -759,6 +843,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "38 - Bufalo",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-08-14"
     },
     {
