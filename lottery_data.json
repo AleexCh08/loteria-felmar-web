@@ -108,6 +108,24 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "326 A",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "992 B",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "843 C",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "453 A",
@@ -282,6 +300,12 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "6 - Rana",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "55 - Oso Hormiguero",
@@ -321,6 +345,12 @@
         "lottery": "Guacharo",
         "time": "02:00 PM",
         "result": "23 - Cebra",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "52 - Pulpo",
         "date": "2026-08-14"
     },
     {
@@ -450,6 +480,24 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "841 A",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "968 B",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "464 C",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "72 - Gorila",
@@ -477,6 +525,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "03 - Ciempies",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-08-14"
     },
     {
