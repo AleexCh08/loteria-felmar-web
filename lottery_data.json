@@ -90,6 +90,24 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "087 A",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "919 B",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "293 C",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "453 A",
@@ -204,6 +222,12 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -273,6 +297,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "67 - Avestruz",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "23 - Cebra",
         "date": "2026-08-14"
     },
     {
@@ -348,6 +378,12 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "02:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "42 - Tucan",
@@ -384,6 +420,12 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "72 - Gorila",
@@ -405,6 +447,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "02 - Toro",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "03 - Ciempies",
         "date": "2026-08-14"
     },
     {
