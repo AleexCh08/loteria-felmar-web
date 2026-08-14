@@ -438,6 +438,12 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "55 - Oso Hormiguero",
@@ -495,6 +501,12 @@
         "lottery": "Guacharo",
         "time": "05:00 PM",
         "result": "26 - Vaca",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "5 - Leon",
         "date": "2026-08-14"
     },
     {
@@ -741,6 +753,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-08-14"
     },
     {
