@@ -126,6 +126,24 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "253 A",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "507 B",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "098 C",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "453 A",
@@ -216,6 +234,18 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "052 A",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "183 C",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -264,6 +294,12 @@
         "date": "2026-08-14"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "31 - Lapa",
+        "date": "2026-08-14"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -309,6 +345,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "6 - Rana",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "32 - Ardilla",
         "date": "2026-08-14"
     },
     {
@@ -411,6 +453,12 @@
         "lottery": "Guacharito",
         "time": "03:30 PM",
         "result": "8 - Raton",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "46 - Puma",
         "date": "2026-08-14"
     },
     {
@@ -573,6 +621,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "31 - Lapa",
+        "date": "2026-08-14"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "65 - Arana",
         "date": "2026-08-14"
     },
     {
