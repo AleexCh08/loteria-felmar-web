@@ -234,6 +234,24 @@
         "date": "2026-08-15"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "061 A",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "387 B",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "805 C",
+        "date": "2026-08-15"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "206 A",
@@ -321,6 +339,24 @@
         "lottery": "Triple Caliente",
         "time": "04:30 PM",
         "result": "729 C",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "712 A",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "151 B",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "233 C",
         "date": "2026-08-15"
     },
     {
@@ -522,6 +558,12 @@
         "date": "2026-08-15"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "21 - Gallo",
+        "date": "2026-08-15"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -660,6 +702,12 @@
         "date": "2026-08-15"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "98 - Cocodrilo",
+        "date": "2026-08-15"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "33 - Pescado",
@@ -726,6 +774,12 @@
         "date": "2026-08-15"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "1 - Carnero",
+        "date": "2026-08-15"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "38 - Bufalo",
@@ -789,6 +843,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "00 - Ballena",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "48 - Puercoespin",
         "date": "2026-08-15"
     },
     {
