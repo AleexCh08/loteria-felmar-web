@@ -180,6 +180,24 @@
         "date": "2026-08-15"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "190 A",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "711 B",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "306 C",
+        "date": "2026-08-15"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "951 A",
@@ -249,6 +267,24 @@
         "lottery": "Triple Caracas",
         "time": "04:30 PM",
         "result": "342 C",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "716 A",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "142 B",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "781 C",
         "date": "2026-08-15"
     },
     {
@@ -336,6 +372,18 @@
         "date": "2026-08-15"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "480 A",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "582 C",
+        "date": "2026-08-15"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -399,6 +447,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "6 - Rana",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "00 - Ballena",
         "date": "2026-08-15"
     },
     {
@@ -531,6 +585,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "52 - Pulpo",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "49 - Pereza",
         "date": "2026-08-15"
     },
     {
@@ -801,6 +861,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "47 - Pavoreal",
+        "date": "2026-08-15"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "37 - Tortuga",
         "date": "2026-08-15"
     },
     {
