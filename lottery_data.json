@@ -48,6 +48,12 @@
         "date": "2026-08-16"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "21 - Gallo",
+        "date": "2026-08-16"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "28 - Zamuro",
@@ -57,6 +63,12 @@
         "lottery": "Granjita",
         "time": "09:00 AM",
         "result": "16 - Oso",
+        "date": "2026-08-16"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "21 - Gallo",
         "date": "2026-08-16"
     },
     {
@@ -87,6 +99,12 @@
         "lottery": "Guacharito",
         "time": "09:30 AM",
         "result": "81 - Cuervo",
+        "date": "2026-08-16"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "1 - Carnero",
         "date": "2026-08-16"
     },
     {
