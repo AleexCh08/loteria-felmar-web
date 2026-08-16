@@ -186,6 +186,12 @@
         "date": "2026-08-16"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "26 - Vaca",
+        "date": "2026-08-16"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "24 - Iguana",
@@ -261,6 +267,12 @@
         "lottery": "Guacharito",
         "time": "01:30 PM",
         "result": "20 - Cochino",
+        "date": "2026-08-16"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "67 - Avestruz",
         "date": "2026-08-16"
     },
     {
