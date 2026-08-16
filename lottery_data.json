@@ -72,6 +72,12 @@
         "date": "2026-08-16"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "15 - Zorro",
+        "date": "2026-08-16"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "28 - Zamuro",
@@ -135,6 +141,12 @@
         "lottery": "Guacharito",
         "time": "10:30 AM",
         "result": "1 - Carnero",
+        "date": "2026-08-16"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "89 - Anguila",
         "date": "2026-08-16"
     },
     {
