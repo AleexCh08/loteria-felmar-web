@@ -372,6 +372,12 @@
         "date": "2026-08-18"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "29 - Elefante",
+        "date": "2026-08-18"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "33 - Pescado",
@@ -543,6 +549,12 @@
         "lottery": "Guacharito",
         "time": "04:30 PM",
         "result": "87 - Cabra",
+        "date": "2026-08-18"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "62 - Cachicamo",
         "date": "2026-08-18"
     },
     {
