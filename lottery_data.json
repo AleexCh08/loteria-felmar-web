@@ -306,6 +306,12 @@
         "date": "2026-08-18"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "29 - Elefante",
+        "date": "2026-08-18"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -396,6 +402,12 @@
         "date": "2026-08-18"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "12 - Caballo",
+        "date": "2026-08-18"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -438,6 +450,12 @@
         "date": "2026-08-18"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "03:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-08-18"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "54 - Grillo",
@@ -477,6 +495,12 @@
         "lottery": "Lotto Chaima",
         "time": "02:00 PM",
         "result": "46 - Puma",
+        "date": "2026-08-18"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "41 - Canguro",
         "date": "2026-08-18"
     },
     {
