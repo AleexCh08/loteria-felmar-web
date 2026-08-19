@@ -72,6 +72,24 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "873 A",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "786 B",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "940 C",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "941 A",
@@ -87,6 +105,42 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "604 C",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "022 A",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "966 B",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "681 C",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "024 A",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "137 B",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "106 C",
         "date": "2026-08-19"
     },
     {
@@ -252,6 +306,12 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "78 - Antilope",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -315,6 +375,18 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "3 - Ciempies",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "19 - Chivo",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "59 - Pantera",
         "date": "2026-08-19"
     },
     {
