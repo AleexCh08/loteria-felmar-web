@@ -36,6 +36,12 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "3 - Ciempies",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -51,6 +57,12 @@
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "85 - Hamster",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "92 - Cisne",
         "date": "2026-08-19"
     },
     {
