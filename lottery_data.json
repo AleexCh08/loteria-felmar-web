@@ -234,6 +234,18 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "982 A",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "378 C",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "16 - Oso",
@@ -279,6 +291,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "16 - Oso",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "36 - Culebra",
         "date": "2026-08-19"
     },
     {
@@ -438,6 +456,12 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "5 - Leon",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -543,48 +567,6 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "29 - Elefante",
-        "date": "2026-08-19"
-    },
-    {
-        "lottery": "Condor",
-        "time": "01:00 PM",
-        "result": "59 - Pantera",
-        "date": "2026-08-19"
-    },
-    {
-        "lottery": "Condor",
-        "time": "10:00 AM",
-        "result": "31 - Lapa",
-        "date": "2026-08-19"
-    },
-    {
-        "lottery": "Condor",
-        "time": "11:00 AM",
-        "result": "30 - Caiman",
-        "date": "2026-08-19"
-    },
-    {
-        "lottery": "Condor",
-        "time": "12:00 PM",
-        "result": "38 - Bufalo",
-        "date": "2026-08-19"
-    },
-    {
-        "lottery": "Condor",
-        "time": "02:00 PM",
-        "result": "68 - Jaguar",
-        "date": "2026-08-19"
-    },
-    {
-        "lottery": "Condor",
-        "time": "03:00 PM",
-        "result": "19 - Chivo",
-        "date": "2026-08-19"
-    },
-    {
-        "lottery": "Condor",
-        "time": "09:00 AM",
-        "result": "39 - Lechuza",
         "date": "2026-08-19"
     }
 ]
