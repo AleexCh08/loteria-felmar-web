@@ -54,6 +54,24 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "956 A",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "543 B",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "221 C",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "549 A",
@@ -63,6 +81,18 @@
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "208 C",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "527 A",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "190 C",
         "date": "2026-08-19"
     },
     {
@@ -90,6 +120,12 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "1 - Carnero",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -114,6 +150,12 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "22 - Camello",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -135,6 +177,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "62 - Cachicamo",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "39 - Lechuza",
         "date": "2026-08-19"
     },
     {
@@ -207,6 +255,30 @@
         "lottery": "Lotto Chaima",
         "time": "11:00 AM",
         "result": "44 - Chiguire",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "31 - Lapa",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "30 - Caiman",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "38 - Bufalo",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "39 - Lechuza",
         "date": "2026-08-19"
     }
 ]
