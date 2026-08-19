@@ -18,6 +18,36 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "376 A",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "045 B",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "489 C",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "549 A",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "208 C",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "16 - Oso",
@@ -27,6 +57,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "31 - Lapa",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "14 - Paloma",
         "date": "2026-08-19"
     },
     {
@@ -54,6 +90,12 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "0 - Delfin",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "85 - Hamster",
@@ -78,6 +120,12 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "14 - Paloma",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -87,6 +135,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "47 - Pavo Real",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "31 - Lapa",
         "date": "2026-08-19"
     },
     {
