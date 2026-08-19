@@ -72,6 +72,24 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "941 A",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "424 B",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "604 C",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "549 A",
@@ -126,6 +144,12 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -156,6 +180,12 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "6 - Rana",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -183,6 +213,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "39 - Lechuza",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "70 - Bisonte",
         "date": "2026-08-19"
     },
     {
@@ -243,6 +279,12 @@
         "lottery": "Selva Plus",
         "time": "12:00 PM",
         "result": "25 - Gallina",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:00 PM",
+        "result": "17 - Pavo",
         "date": "2026-08-19"
     },
     {
