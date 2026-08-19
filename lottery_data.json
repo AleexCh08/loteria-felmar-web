@@ -258,6 +258,12 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "16 - Oso",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -297,6 +303,12 @@
         "lottery": "Granjita",
         "time": "02:00 PM",
         "result": "15 - Zorro",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "16 - Oso",
         "date": "2026-08-19"
     },
     {
@@ -390,6 +402,12 @@
         "date": "2026-08-19"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "51 - Pelicano",
+        "date": "2026-08-19"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -477,6 +495,12 @@
         "lottery": "Lotto Chaima",
         "time": "02:00 PM",
         "result": "23 - Cebra",
+        "date": "2026-08-19"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "55 - Oso Hormiguero",
         "date": "2026-08-19"
     },
     {
