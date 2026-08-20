@@ -84,6 +84,18 @@
         "date": "2026-08-20"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "074 A",
+        "date": "2026-08-20"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "647 C",
+        "date": "2026-08-20"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -135,6 +147,12 @@
         "lottery": "Granjita",
         "time": "11:00 AM",
         "result": "17 - Pavo",
+        "date": "2026-08-20"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "5 - Leon",
         "date": "2026-08-20"
     },
     {
@@ -192,6 +210,12 @@
         "date": "2026-08-20"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "8 - Raton",
+        "date": "2026-08-20"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -243,6 +267,12 @@
         "lottery": "Lotto Chaima",
         "time": "11:00 AM",
         "result": "38 - Bufalo",
+        "date": "2026-08-20"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "53 - Caracol",
         "date": "2026-08-20"
     },
     {
