@@ -498,6 +498,12 @@
         "date": "2026-08-20"
     },
     {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "18 - Burro",
+        "date": "2026-08-20"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "54 - Grillo",
@@ -723,6 +729,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "42 - Tucan",
+        "date": "2026-08-20"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-08-20"
     },
     {
