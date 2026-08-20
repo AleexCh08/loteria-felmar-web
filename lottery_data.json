@@ -90,6 +90,24 @@
         "date": "2026-08-20"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "390 A",
+        "date": "2026-08-20"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "438 B",
+        "date": "2026-08-20"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "263 C",
+        "date": "2026-08-20"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "550 A",
@@ -276,6 +294,12 @@
         "date": "2026-08-20"
     },
     {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "9 - Aguila",
+        "date": "2026-08-20"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "54 - Grillo",
@@ -348,6 +372,12 @@
         "date": "2026-08-20"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "02:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-08-20"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -384,6 +414,12 @@
         "date": "2026-08-20"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "18 - Burro",
+        "date": "2026-08-20"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "10 - Tigre",
@@ -405,6 +441,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "70 - Bisonte",
+        "date": "2026-08-20"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "22 - Camello",
         "date": "2026-08-20"
     },
     {
