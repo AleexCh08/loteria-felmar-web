@@ -18,6 +18,24 @@
         "date": "2026-08-20"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "518 A",
+        "date": "2026-08-20"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "234 B",
+        "date": "2026-08-20"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "945 C",
+        "date": "2026-08-20"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -27,6 +45,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "18 - Burro",
+        "date": "2026-08-20"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "14 - Paloma",
         "date": "2026-08-20"
     },
     {
@@ -42,6 +66,12 @@
         "date": "2026-08-20"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "18 - Burro",
+        "date": "2026-08-20"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -51,6 +81,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "58 - Hormiga",
+        "date": "2026-08-20"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "30 - Caiman",
         "date": "2026-08-20"
     },
     {
@@ -78,6 +114,12 @@
         "date": "2026-08-20"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "19 - Chivo",
+        "date": "2026-08-20"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -87,6 +129,18 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "26 - Vaca",
+        "date": "2026-08-20"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "39 - Lechuza",
+        "date": "2026-08-20"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "06 - Rana",
         "date": "2026-08-20"
     },
     {
