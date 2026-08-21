@@ -54,6 +54,24 @@
         "date": "2026-08-21"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "643 A",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "450 B",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "024 C",
+        "date": "2026-08-21"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "083 A",
@@ -63,6 +81,18 @@
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "611 C",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "201 A",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "373 C",
         "date": "2026-08-21"
     },
     {
@@ -87,6 +117,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "25 - Gallina",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "18 - Burro",
         "date": "2026-08-21"
     },
     {
@@ -174,6 +210,12 @@
         "date": "2026-08-21"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "26 - Vaca",
+        "date": "2026-08-21"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -225,6 +267,12 @@
         "lottery": "Lotto Chaima",
         "time": "11:00 AM",
         "result": "23 - Cebra",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "35 - Jirafa",
         "date": "2026-08-21"
     },
     {
