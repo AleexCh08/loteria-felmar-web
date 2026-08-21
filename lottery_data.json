@@ -54,6 +54,12 @@
         "date": "2026-08-21"
     },
     {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "14 - Paloma",
+        "date": "2026-08-21"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "6 - Rana",
@@ -87,6 +93,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "52 - Pulpo",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "06 - Rana",
         "date": "2026-08-21"
     },
     {
