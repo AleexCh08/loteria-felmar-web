@@ -108,6 +108,42 @@
         "date": "2026-08-21"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "564 A",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "708 B",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "311 C",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "846 A",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "654 B",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "636 C",
+        "date": "2026-08-21"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "083 A",
@@ -159,6 +195,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "18 - Burro",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "8 - Raton",
         "date": "2026-08-21"
     },
     {
@@ -264,6 +306,12 @@
         "date": "2026-08-21"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "95 - Escarabajo",
+        "date": "2026-08-21"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -327,6 +375,18 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "35 - Jirafa",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "49 - Pereza",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-08-21"
     },
     {
