@@ -180,6 +180,24 @@
         "date": "2026-08-21"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "465 A",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "875 B",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "933 C",
+        "date": "2026-08-21"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "716 A",
@@ -333,6 +351,18 @@
         "lottery": "Triple Zamorano",
         "time": "04:00 PM",
         "result": "795 C",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "397 A",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "032 C",
         "date": "2026-08-21"
     },
     {
@@ -534,6 +564,12 @@
         "date": "2026-08-21"
     },
     {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-08-21"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "6 - Rana",
@@ -663,6 +699,12 @@
         "lottery": "Selva Plus",
         "time": "06:00 PM",
         "result": "6 - Rana",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "20 - Cochino",
         "date": "2026-08-21"
     },
     {
@@ -819,6 +861,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "09 - Aguila",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "03 - Ciempies",
         "date": "2026-08-21"
     },
     {
