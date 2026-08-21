@@ -114,6 +114,12 @@
         "date": "2026-08-21"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "23 - Zebra",
+        "date": "2026-08-21"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -135,6 +141,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "16 - Oso",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "42 - Tucan",
         "date": "2026-08-21"
     },
     {
@@ -186,6 +198,12 @@
         "date": "2026-08-21"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "36 - Culebra",
+        "date": "2026-08-21"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -219,6 +237,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "23 - Cebra",
+        "date": "2026-08-21"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "49 - Pereza",
         "date": "2026-08-21"
     },
     {
