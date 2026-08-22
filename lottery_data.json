@@ -402,6 +402,12 @@
         "date": "2026-08-22"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "76 - Rinoceronte",
+        "date": "2026-08-22"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -444,6 +450,12 @@
         "date": "2026-08-22"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "03:00 PM",
+        "result": "1 - Carnero",
+        "date": "2026-08-22"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "8 - Raton",
@@ -483,6 +495,54 @@
         "lottery": "Lotto Chaima",
         "time": "02:00 PM",
         "result": "22 - Camello",
+        "date": "2026-08-22"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "55 - Oso Hormiguero",
+        "date": "2026-08-22"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "41 - Canguro",
+        "date": "2026-08-22"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "21 - Gallo",
+        "date": "2026-08-22"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "06 - Rana",
+        "date": "2026-08-22"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "41 - Canguro",
+        "date": "2026-08-22"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "19 - Chivo",
+        "date": "2026-08-22"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "72 - Gorila",
+        "date": "2026-08-22"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "54 - Grillo",
         "date": "2026-08-22"
     }
 ]
