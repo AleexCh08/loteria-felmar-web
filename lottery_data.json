@@ -180,6 +180,36 @@
         "date": "2026-08-23"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "208 A",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "570 B",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "891 C",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "843 A",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "938 C",
+        "date": "2026-08-23"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "4 - Alacran",
@@ -312,6 +342,12 @@
         "date": "2026-08-23"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "23 - Zebra",
+        "date": "2026-08-23"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "7 - Perico",
@@ -375,6 +411,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "38 - Bufalo",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "14 - Paloma",
         "date": "2026-08-23"
     },
     {
@@ -510,6 +552,12 @@
         "date": "2026-08-23"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:00 PM",
+        "result": "00 - Ballena",
+        "date": "2026-08-23"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -576,6 +624,12 @@
         "date": "2026-08-23"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "15 - Zorro",
+        "date": "2026-08-23"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "36 - Culebra",
@@ -627,6 +681,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "01 - Carnero",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "68 - Jaguar",
         "date": "2026-08-23"
     },
     {
