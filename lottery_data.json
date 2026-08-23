@@ -192,6 +192,12 @@
         "date": "2026-08-23"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "2 - Toro",
+        "date": "2026-08-23"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "9 - Aguila",
@@ -237,6 +243,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "4 - Alacran",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "22 - Camello",
         "date": "2026-08-23"
     },
     {
@@ -339,6 +351,12 @@
         "lottery": "Guacharito",
         "time": "03:30 PM",
         "result": "93 - Gaviota",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "80 - Murcielago",
         "date": "2026-08-23"
     },
     {
@@ -483,6 +501,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "39 - Lechuza",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "16 - Oso",
         "date": "2026-08-23"
     },
     {
