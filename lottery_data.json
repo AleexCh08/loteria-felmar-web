@@ -108,6 +108,24 @@
         "date": "2026-08-23"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "972 A",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "861 B",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "108 C",
+        "date": "2026-08-23"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "4 - Alacran",
@@ -147,6 +165,12 @@
         "lottery": "Lotto Activo",
         "time": "02:00 PM",
         "result": "20 - Cochino",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "16 - Oso",
         "date": "2026-08-23"
     },
     {
@@ -192,6 +216,12 @@
         "date": "2026-08-23"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "4 - Alacran",
+        "date": "2026-08-23"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "7 - Perico",
@@ -231,6 +261,12 @@
         "lottery": "Guacharo",
         "time": "02:00 PM",
         "result": "48 - Puercoespin",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "19 - Chivo",
         "date": "2026-08-23"
     },
     {
@@ -276,6 +312,12 @@
         "date": "2026-08-23"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "93 - Gaviota",
+        "date": "2026-08-23"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -315,6 +357,12 @@
         "lottery": "Selva Plus",
         "time": "02:00 PM",
         "result": "0 - Delfin",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "03:00 PM",
+        "result": "25 - Gallina",
         "date": "2026-08-23"
     },
     {
@@ -360,6 +408,12 @@
         "date": "2026-08-23"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "10 - Tigre",
+        "date": "2026-08-23"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "36 - Culebra",
@@ -387,6 +441,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "07 - Perico",
+        "date": "2026-08-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "39 - Lechuza",
         "date": "2026-08-23"
     },
     {
