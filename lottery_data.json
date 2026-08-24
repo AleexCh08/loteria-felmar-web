@@ -1,71 +1,5 @@
 [
     {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "960 A",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "171 B",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "712 C",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "514 A",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "103 B",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "980 C",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "870 A",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "092 B",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "550 C",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Zamorano",
-        "time": "10:00 AM",
-        "result": "230 A",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Zamorano",
-        "time": "10:00 AM",
-        "result": "476 C",
-        "date": "2026-08-24"
-    },
-    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -114,6 +48,12 @@
         "date": "2026-08-24"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "7 - Perico",
+        "date": "2026-08-24"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "33 - Pescado",
@@ -135,6 +75,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "23 - Cebra",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "38 - Bufalo",
         "date": "2026-08-24"
     },
     {
@@ -186,6 +132,12 @@
         "date": "2026-08-24"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-08-24"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "43 - Mariposa",
@@ -207,6 +159,12 @@
         "lottery": "Lotto Chaima",
         "time": "11:00 AM",
         "result": "23 - Cebra",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "42 - Tucan",
         "date": "2026-08-24"
     }
 ]
