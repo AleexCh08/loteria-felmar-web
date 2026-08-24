@@ -1,5 +1,101 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "960 A",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "171 B",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "712 C",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "514 A",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "103 B",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "980 C",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "870 A",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "092 B",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "550 C",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "204 A",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "044 B",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "821 C",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "230 A",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "476 C",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "785 A",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "399 C",
+        "date": "2026-08-24"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -21,6 +117,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "9 - Aguila",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "5 - Leon",
         "date": "2026-08-24"
     },
     {
@@ -105,6 +207,12 @@
         "lottery": "Guacharito",
         "time": "11:30 AM",
         "result": "76 - Rinoceronte",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "64 - Gavilan",
         "date": "2026-08-24"
     },
     {
