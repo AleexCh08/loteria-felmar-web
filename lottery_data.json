@@ -1,41 +1,5 @@
 [
     {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "960 A",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "171 B",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "712 C",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "514 A",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "103 B",
-        "date": "2026-08-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "980 C",
-        "date": "2026-08-24"
-    },
-    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -66,6 +30,12 @@
         "date": "2026-08-24"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "28 - Zamuro",
+        "date": "2026-08-24"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "33 - Pescado",
@@ -93,6 +63,12 @@
         "lottery": "Guacharito",
         "time": "09:30 AM",
         "result": "63 - Cangrejo",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "5 - Leon",
         "date": "2026-08-24"
     },
     {
