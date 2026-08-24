@@ -24,9 +24,21 @@
         "date": "2026-08-24"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "1 - Carnero",
+        "date": "2026-08-24"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "11 - Gato",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "0 - Delfin",
         "date": "2026-08-24"
     },
     {
@@ -48,6 +60,12 @@
         "date": "2026-08-24"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "63 - Cangrejo",
+        "date": "2026-08-24"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "19 - Chivo",
@@ -63,6 +81,18 @@
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "43 - Mariposa",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "55 - Oso Hormiguero",
+        "date": "2026-08-24"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "27 - Perro",
         "date": "2026-08-24"
     }
 ]
