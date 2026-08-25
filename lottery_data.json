@@ -84,165 +84,39 @@
         "date": "2026-08-25"
     },
     {
-        "lottery": "Lotto Activo",
-        "time": "08:00 AM",
-        "result": "00 - Ballena",
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "229 A",
         "date": "2026-08-25"
     },
     {
-        "lottery": "Lotto Activo",
-        "time": "09:00 AM",
-        "result": "30 - Caiman",
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "189 C",
         "date": "2026-08-25"
     },
     {
-        "lottery": "Lotto Activo",
+        "lottery": "Condor",
         "time": "10:00 AM",
-        "result": "12 - Caballo",
+        "result": "35 - Jirafa",
         "date": "2026-08-25"
     },
     {
-        "lottery": "Lotto Activo",
-        "time": "11:00 AM",
-        "result": "0 - Delfin",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "08:00 AM",
-        "result": "34 - Venado",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "09:00 AM",
-        "result": "9 - Aguila",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "10:00 AM",
-        "result": "14 - Paloma",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Granjita",
-        "time": "11:00 AM",
-        "result": "33 - Pescado",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Guacharo",
-        "time": "08:00 AM",
-        "result": "22 - Camello",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Guacharo",
-        "time": "09:00 AM",
-        "result": "1 - Carnero",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Guacharo",
-        "time": "10:00 AM",
-        "result": "15 - Zorro",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Guacharo",
+        "lottery": "Condor",
         "time": "11:00 AM",
         "result": "39 - Lechuza",
         "date": "2026-08-25"
     },
     {
-        "lottery": "Guacharo",
+        "lottery": "Condor",
         "time": "12:00 PM",
-        "result": "74 - Turpial",
+        "result": "26 - Vaca",
         "date": "2026-08-25"
     },
     {
-        "lottery": "Guacharito",
-        "time": "08:30 AM",
-        "result": "93 - Gaviota",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "09:30 AM",
-        "result": "48 - Puercoespin",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "10:30 AM",
-        "result": "81 - Cuervo",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Guacharito",
-        "time": "11:30 AM",
-        "result": "58 - Hormiga",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "08:00 AM",
-        "result": "5 - Leon",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Selva Plus",
+        "lottery": "Condor",
         "time": "09:00 AM",
-        "result": "24 - Iguana",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "10:00 AM",
-        "result": "19 - Chivo",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "11:00 AM",
-        "result": "28 - Zamuro",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Selva Plus",
-        "time": "12:00 PM",
-        "result": "27 - Perro",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "08:00 AM",
-        "result": "33 - Pescado",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "09:00 AM",
-        "result": "19 - Chivo",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "10:00 AM",
-        "result": "21 - Gallo",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "11:00 AM",
-        "result": "9 - Aguila",
-        "date": "2026-08-25"
-    },
-    {
-        "lottery": "Lotto Chaima",
-        "time": "12:00 PM",
-        "result": "49 - Pereza",
+        "result": "17 - Pavo",
         "date": "2026-08-25"
     }
 ]
