@@ -186,6 +186,18 @@
         "date": "2026-08-25"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "163 A",
+        "date": "2026-08-25"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "846 C",
+        "date": "2026-08-25"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -219,6 +231,12 @@
         "lottery": "Lotto Activo",
         "time": "01:00 PM",
         "result": "20 - Cochino",
+        "date": "2026-08-25"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "34 - Venado",
         "date": "2026-08-25"
     },
     {
@@ -339,6 +357,12 @@
         "lottery": "Guacharito",
         "time": "01:30 PM",
         "result": "91 - Morrocoy",
+        "date": "2026-08-25"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "13 - Mono",
         "date": "2026-08-25"
     },
     {
