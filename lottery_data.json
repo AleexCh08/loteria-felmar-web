@@ -126,6 +126,24 @@
         "date": "2026-08-25"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "986 A",
+        "date": "2026-08-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "057 B",
+        "date": "2026-08-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "447 C",
+        "date": "2026-08-25"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "571 A",
@@ -264,6 +282,12 @@
         "date": "2026-08-25"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "23 - Cebra",
+        "date": "2026-08-25"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -357,6 +381,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "73 - Hipopotamo",
+        "date": "2026-08-25"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "45 - Garza",
         "date": "2026-08-25"
     },
     {
