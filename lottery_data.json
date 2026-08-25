@@ -180,6 +180,24 @@
         "date": "2026-08-25"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "180 A",
+        "date": "2026-08-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "263 B",
+        "date": "2026-08-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "397 C",
+        "date": "2026-08-25"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "571 A",
@@ -534,6 +552,12 @@
         "date": "2026-08-25"
     },
     {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "66 - Lobo",
+        "date": "2026-08-25"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "93 - Gaviota",
@@ -783,6 +807,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "52 - Pulpo",
+        "date": "2026-08-25"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "44 - Chiguire",
         "date": "2026-08-25"
     },
     {
