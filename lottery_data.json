@@ -1,8 +1,26 @@
 [
     {
+        "lottery": "Lotto Activo",
+        "time": "08:00 AM",
+        "result": "20 - Cochino",
+        "date": "2026-08-26"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "08:00 AM",
+        "result": "31 - Lapa",
+        "date": "2026-08-26"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "73 - Hipopotamo",
+        "date": "2026-08-26"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "08:30 AM",
+        "result": "44 - Chiguire",
         "date": "2026-08-26"
     },
     {
