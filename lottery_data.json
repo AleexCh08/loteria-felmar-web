@@ -108,6 +108,42 @@
         "date": "2026-08-26"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "917 A",
+        "date": "2026-08-26"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "545 B",
+        "date": "2026-08-26"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "882 C",
+        "date": "2026-08-26"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "047 A",
+        "date": "2026-08-26"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "365 B",
+        "date": "2026-08-26"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "856 C",
+        "date": "2026-08-26"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "087 A",
@@ -159,6 +195,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "26 - Vaca",
+        "date": "2026-08-26"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "32 - Ardilla",
         "date": "2026-08-26"
     },
     {
@@ -327,6 +369,18 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "16 - Oso",
+        "date": "2026-08-26"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-08-26"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "25 - Gallina",
         "date": "2026-08-26"
     },
     {
