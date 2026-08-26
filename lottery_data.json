@@ -36,6 +36,18 @@
         "date": "2026-08-26"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "087 A",
+        "date": "2026-08-26"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "887 C",
+        "date": "2026-08-26"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "20 - Cochino",
@@ -102,6 +114,12 @@
         "date": "2026-08-26"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "92 - Cisne",
+        "date": "2026-08-26"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "24 - Iguana",
@@ -114,6 +132,12 @@
         "date": "2026-08-26"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "10:00 AM",
+        "result": "22 - Camello",
+        "date": "2026-08-26"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "52 - Pulpo",
@@ -123,6 +147,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "11 - Gato",
+        "date": "2026-08-26"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "45 - Garza",
         "date": "2026-08-26"
     },
     {
