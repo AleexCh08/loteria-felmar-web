@@ -204,6 +204,12 @@
         "date": "2026-08-27"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "0 - Delfin",
+        "date": "2026-08-27"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -240,6 +246,12 @@
         "date": "2026-08-27"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-08-27"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "64 - Gavilan",
@@ -273,6 +285,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "0 - Delfin",
+        "date": "2026-08-27"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "8 - Raton",
         "date": "2026-08-27"
     },
     {
@@ -348,6 +366,12 @@
         "date": "2026-08-27"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "02:00 PM",
+        "result": "18 - Burro",
+        "date": "2026-08-27"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -405,6 +429,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "45 - Garza",
+        "date": "2026-08-27"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "55 - Osohormi",
         "date": "2026-08-27"
     },
     {
