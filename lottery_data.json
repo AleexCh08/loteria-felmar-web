@@ -108,6 +108,24 @@
         "date": "2026-08-27"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "234 A",
+        "date": "2026-08-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "098 B",
+        "date": "2026-08-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "988 C",
+        "date": "2026-08-27"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "601 A",
@@ -240,6 +258,12 @@
         "date": "2026-08-27"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "7 - Perico",
+        "date": "2026-08-27"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -279,6 +303,12 @@
         "lottery": "Granjita",
         "time": "02:00 PM",
         "result": "17 - Pavo",
+        "date": "2026-08-27"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "6 - Rana",
         "date": "2026-08-27"
     },
     {
@@ -372,6 +402,12 @@
         "date": "2026-08-27"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "36 - Culebra",
+        "date": "2026-08-27"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -459,6 +495,12 @@
         "lottery": "Lotto Chaima",
         "time": "02:00 PM",
         "result": "4 - Alacran",
+        "date": "2026-08-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "52 - Pulpo",
         "date": "2026-08-27"
     },
     {
