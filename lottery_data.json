@@ -258,6 +258,12 @@
         "date": "2026-08-28"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "36 - Culebra",
+        "date": "2026-08-28"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "9 - Aguila",
@@ -393,6 +399,12 @@
         "lottery": "Guacharito",
         "time": "02:30 PM",
         "result": "5 - Leon",
+        "date": "2026-08-28"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "31 - Lapa",
         "date": "2026-08-28"
     },
     {
