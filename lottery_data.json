@@ -234,6 +234,18 @@
         "date": "2026-08-28"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "481 A",
+        "date": "2026-08-28"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "170 C",
+        "date": "2026-08-28"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "20 - Cochino",
@@ -279,6 +291,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "36 - Culebra",
+        "date": "2026-08-28"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "35 - Jirafa",
         "date": "2026-08-28"
     },
     {
@@ -438,6 +456,12 @@
         "date": "2026-08-28"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "65 - Arana",
+        "date": "2026-08-28"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:00 AM",
         "result": "7 - Perico",
@@ -579,6 +603,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "66 - Lobo",
+        "date": "2026-08-28"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "73 - Hipopotamo",
         "date": "2026-08-28"
     },
     {
