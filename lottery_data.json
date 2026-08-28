@@ -126,6 +126,24 @@
         "date": "2026-08-28"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "396 A",
+        "date": "2026-08-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "409 B",
+        "date": "2026-08-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "617 C",
+        "date": "2026-08-28"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "081 A",
@@ -312,6 +330,12 @@
         "date": "2026-08-28"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-08-28"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -357,6 +381,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "1 - Carnero",
+        "date": "2026-08-28"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "7 - Perico",
         "date": "2026-08-28"
     },
     {
@@ -456,6 +486,12 @@
         "date": "2026-08-28"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "26 - Vaca",
+        "date": "2026-08-28"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "8 - Raton",
@@ -501,6 +537,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "9 - Aguila",
+        "date": "2026-08-28"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "17 - Pavo",
         "date": "2026-08-28"
     },
     {
