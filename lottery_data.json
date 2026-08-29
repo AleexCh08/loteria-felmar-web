@@ -54,6 +54,24 @@
         "date": "2026-08-29"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "679 A",
+        "date": "2026-08-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "743 B",
+        "date": "2026-08-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "233 C",
+        "date": "2026-08-29"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "452 A",
@@ -138,6 +156,12 @@
         "date": "2026-08-29"
     },
     {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "1 - Carnero",
+        "date": "2026-08-29"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "51 - Pelicano",
@@ -186,6 +210,12 @@
         "date": "2026-08-29"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "12:00 PM",
+        "result": "19 - Chivo",
+        "date": "2026-08-29"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "47 - Pavo Real",
@@ -210,6 +240,12 @@
         "date": "2026-08-29"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "4 - Alacran",
+        "date": "2026-08-29"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "12 - Caballo",
@@ -219,6 +255,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "07 - Perico",
+        "date": "2026-08-29"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "22 - Camello",
         "date": "2026-08-29"
     },
     {
