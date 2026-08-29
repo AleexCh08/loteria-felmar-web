@@ -84,6 +84,18 @@
         "date": "2026-08-29"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "408 A",
+        "date": "2026-08-29"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "614 C",
+        "date": "2026-08-29"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -108,6 +120,12 @@
         "date": "2026-08-29"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "21 - Gallo",
+        "date": "2026-08-29"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "14 - Paloma",
@@ -129,6 +147,12 @@
         "lottery": "Granjita",
         "time": "11:00 AM",
         "result": "22 - Camello",
+        "date": "2026-08-29"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "3 - Ciempies",
         "date": "2026-08-29"
     },
     {
@@ -183,6 +207,12 @@
         "lottery": "Guacharito",
         "time": "11:30 AM",
         "result": "25 - Gallina",
+        "date": "2026-08-29"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "77 - Pinguino",
         "date": "2026-08-29"
     },
     {
