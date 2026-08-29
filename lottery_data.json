@@ -306,6 +306,12 @@
         "date": "2026-08-29"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-08-29"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -393,6 +399,12 @@
         "lottery": "Guacharito",
         "time": "02:30 PM",
         "result": "62 - Cachicamo",
+        "date": "2026-08-29"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "95 - Escarabajo",
         "date": "2026-08-29"
     },
     {
