@@ -246,6 +246,12 @@
         "date": "2026-08-30"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-08-30"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -345,6 +351,12 @@
         "lottery": "Guacharito",
         "time": "03:30 PM",
         "result": "7 - Perico",
+        "date": "2026-08-30"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "76 - Rinoceronte",
         "date": "2026-08-30"
     },
     {
@@ -489,6 +501,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "32 - Ardilla",
+        "date": "2026-08-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "52 - Pulpo",
         "date": "2026-08-30"
     },
     {
