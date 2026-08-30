@@ -216,6 +216,12 @@
         "date": "2026-08-30"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "20 - Cochino",
+        "date": "2026-08-30"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -303,6 +309,12 @@
         "lottery": "Guacharito",
         "time": "02:30 PM",
         "result": "48 - Puercoespin",
+        "date": "2026-08-30"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "7 - Perico",
         "date": "2026-08-30"
     },
     {
