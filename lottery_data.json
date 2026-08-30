@@ -126,6 +126,24 @@
         "date": "2026-08-30"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "127 A",
+        "date": "2026-08-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "602 B",
+        "date": "2026-08-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "849 C",
+        "date": "2026-08-30"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "16 - Oso",
@@ -171,6 +189,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "4 - Alacran",
+        "date": "2026-08-30"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "22 - Camello",
         "date": "2026-08-30"
     },
     {
@@ -270,6 +294,12 @@
         "date": "2026-08-30"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "23 - Cebra",
+        "date": "2026-08-30"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "0 - Delfin",
@@ -366,6 +396,12 @@
         "date": "2026-08-30"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-08-30"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -411,6 +447,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "42 - Tucan",
+        "date": "2026-08-30"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "5 - Leon",
         "date": "2026-08-30"
     },
     {
