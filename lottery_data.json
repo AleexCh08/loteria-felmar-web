@@ -498,6 +498,12 @@
         "date": "2026-08-31"
     },
     {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "64 - Gavilan",
+        "date": "2026-08-31"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "27 - Perro",
@@ -618,6 +624,12 @@
         "date": "2026-08-31"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "10 - Tigre",
+        "date": "2026-08-31"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "31 - Lapa",
@@ -663,6 +675,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "66 - Lobo",
+        "date": "2026-08-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "14 - Paloma",
         "date": "2026-08-31"
     },
     {
