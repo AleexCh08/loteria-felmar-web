@@ -180,6 +180,24 @@
         "date": "2026-08-31"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "718 A",
+        "date": "2026-08-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "176 B",
+        "date": "2026-08-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "459 C",
+        "date": "2026-08-31"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "105 A",
@@ -468,6 +486,12 @@
         "date": "2026-08-31"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "11 - Gato",
+        "date": "2026-08-31"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "20 - Cochino",
@@ -531,6 +555,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "64 - Gavilan",
+        "date": "2026-08-31"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "61 - Panda",
         "date": "2026-08-31"
     },
     {
@@ -666,6 +696,12 @@
         "date": "2026-08-31"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "8 - Raton",
+        "date": "2026-08-31"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "31 - Lapa",
@@ -717,6 +753,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "14 - Paloma",
+        "date": "2026-08-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "37 - Tortuga",
         "date": "2026-08-31"
     },
     {
