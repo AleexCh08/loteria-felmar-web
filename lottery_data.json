@@ -144,6 +144,24 @@
         "date": "2026-09-01"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "113 A",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "860 B",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "528 C",
+        "date": "2026-09-01"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "107 A",
@@ -408,6 +426,12 @@
         "date": "2026-09-01"
     },
     {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "64 - Gavilan",
+        "date": "2026-09-01"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "95 - Escarabajo",
@@ -516,6 +540,12 @@
         "date": "2026-09-01"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "21 - Gallo",
+        "date": "2026-09-01"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "683 A",
@@ -531,6 +561,24 @@
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "835 C",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "551 A",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "324 B",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "765 C",
         "date": "2026-09-01"
     },
     {
@@ -573,6 +621,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "56 - Tiburon",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "28 - Zamuro",
         "date": "2026-09-01"
     },
     {
