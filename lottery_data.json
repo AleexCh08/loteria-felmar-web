@@ -258,6 +258,12 @@
         "date": "2026-09-01"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "0 - Delfin",
+        "date": "2026-09-01"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -297,6 +303,12 @@
         "lottery": "Granjita",
         "time": "02:00 PM",
         "result": "21 - Gallo",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "8 - Raton",
         "date": "2026-09-01"
     },
     {
@@ -390,6 +402,12 @@
         "date": "2026-09-01"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "76 - Rinoceronte",
+        "date": "2026-09-01"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "40 - Avispa",
@@ -429,6 +447,12 @@
         "lottery": "Lotto Chaima",
         "time": "02:00 PM",
         "result": "5 - Leon",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "55 - Oso Hormiguero",
         "date": "2026-09-01"
     },
     {
