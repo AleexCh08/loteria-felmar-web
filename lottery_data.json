@@ -180,6 +180,24 @@
         "date": "2026-09-01"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "395 A",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "024 B",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "503 C",
+        "date": "2026-09-01"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "706 A",
@@ -198,6 +216,24 @@
         "date": "2026-09-01"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "390 A",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "579 B",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "862 C",
+        "date": "2026-09-01"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "758 A",
@@ -213,6 +249,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "439 C",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "779 A",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "646 B",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "237 C",
         "date": "2026-09-01"
     },
     {
@@ -318,6 +372,12 @@
         "date": "2026-09-01"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "19 - Chivo",
+        "date": "2026-09-01"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -369,6 +429,12 @@
         "lottery": "Granjita",
         "time": "04:00 PM",
         "result": "26 - Vaca",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "25 - Gallina",
         "date": "2026-09-01"
     },
     {
@@ -483,6 +549,12 @@
         "lottery": "Guacharito",
         "time": "04:30 PM",
         "result": "24 - Iguana",
+        "date": "2026-09-01"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "90 - Huron",
         "date": "2026-09-01"
     },
     {
