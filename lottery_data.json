@@ -306,6 +306,12 @@
         "date": "2026-09-02"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "12 - Caballo",
+        "date": "2026-09-02"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "69 - Conejo",
@@ -393,6 +399,12 @@
         "lottery": "Guacharito",
         "time": "02:30 PM",
         "result": "55 - Oso Hormiguero",
+        "date": "2026-09-02"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "21 - Gallo",
         "date": "2026-09-02"
     },
     {
