@@ -234,6 +234,24 @@
         "date": "2026-09-04"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "839 A",
+        "date": "2026-09-04"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "146 B",
+        "date": "2026-09-04"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "079 C",
+        "date": "2026-09-04"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "811 A",
@@ -324,6 +342,24 @@
         "date": "2026-09-04"
     },
     {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "659 A",
+        "date": "2026-09-04"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "805 B",
+        "date": "2026-09-04"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "395 C",
+        "date": "2026-09-04"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "571 A",
@@ -369,6 +405,18 @@
         "lottery": "Triple Zamorano",
         "time": "04:00 PM",
         "result": "763 C",
+        "date": "2026-09-04"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "578 A",
+        "date": "2026-09-04"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "164 C",
         "date": "2026-09-04"
     },
     {
@@ -435,6 +483,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "7 - Perico",
+        "date": "2026-09-04"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "36 - Culebra",
         "date": "2026-09-04"
     },
     {
@@ -648,6 +702,12 @@
         "date": "2026-09-04"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "45 - Garza",
+        "date": "2026-09-04"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "45 - Garza",
@@ -711,6 +771,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "5 - Leon",
+        "date": "2026-09-04"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "25 - Gallina",
         "date": "2026-09-04"
     },
     {
