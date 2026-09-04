@@ -324,6 +324,12 @@
         "date": "2026-09-04"
     },
     {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-09-04"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "13 - Mono",
@@ -435,6 +441,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "14 - Paloma",
+        "date": "2026-09-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "34 - Venado",
         "date": "2026-09-04"
     },
     {
