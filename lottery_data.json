@@ -264,6 +264,12 @@
         "date": "2026-09-05"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "30 - Caiman",
+        "date": "2026-09-05"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "9 - Aguila",
@@ -360,6 +366,12 @@
         "date": "2026-09-05"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-09-05"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "83 - Buho",
@@ -453,6 +465,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "37 - Tortuga",
+        "date": "2026-09-05"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-09-05"
     },
     {
