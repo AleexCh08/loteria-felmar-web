@@ -96,6 +96,12 @@
         "date": "2026-09-06"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "2 - Toro",
+        "date": "2026-09-06"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "28 - Zamuro",
@@ -135,6 +141,12 @@
         "lottery": "Guacharito",
         "time": "10:30 AM",
         "result": "64 - Gavilan",
+        "date": "2026-09-06"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "52 - Pulpo",
         "date": "2026-09-06"
     },
     {
