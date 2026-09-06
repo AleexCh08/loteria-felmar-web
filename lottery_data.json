@@ -306,6 +306,12 @@
         "date": "2026-09-06"
     },
     {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "52 - Pulpo",
+        "date": "2026-09-06"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "68 - Jaguar",
@@ -414,6 +420,12 @@
         "date": "2026-09-06"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "25 - Gallina",
+        "date": "2026-09-06"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "12 - Caballo",
@@ -453,6 +465,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "56 - Tiburon",
+        "date": "2026-09-06"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "28 - Zamuro",
         "date": "2026-09-06"
     },
     {
