@@ -126,6 +126,24 @@
         "date": "2026-09-06"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "040 A",
+        "date": "2026-09-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "569 B",
+        "date": "2026-09-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "756 C",
+        "date": "2026-09-06"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "4 - Alacran",
@@ -267,6 +285,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "16 - Oso",
+        "date": "2026-09-06"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "12 - Caballo",
         "date": "2026-09-06"
     },
     {
