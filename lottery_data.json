@@ -84,6 +84,18 @@
         "date": "2026-09-07"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "879 A",
+        "date": "2026-09-07"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "810 C",
+        "date": "2026-09-07"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "16 - Oso",
@@ -195,6 +207,12 @@
         "lottery": "Guacharito",
         "time": "11:30 AM",
         "result": "38 - Bufalo",
+        "date": "2026-09-07"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "49 - Pereza",
         "date": "2026-09-07"
     },
     {
