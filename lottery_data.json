@@ -126,6 +126,24 @@
         "date": "2026-09-07"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "835 A",
+        "date": "2026-09-07"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "074 B",
+        "date": "2026-09-07"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "616 C",
+        "date": "2026-09-07"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "435 A",
@@ -360,6 +378,12 @@
         "date": "2026-09-07"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-09-07"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "37 - Tortuga",
@@ -456,45 +480,9 @@
         "date": "2026-09-07"
     },
     {
-        "lottery": "Condor",
-        "time": "01:00 PM",
-        "result": "11 - Gato",
-        "date": "2026-09-07"
-    },
-    {
-        "lottery": "Condor",
-        "time": "10:00 AM",
-        "result": "69 - Conejo",
-        "date": "2026-09-07"
-    },
-    {
-        "lottery": "Condor",
-        "time": "11:00 AM",
-        "result": "67 - Avestruz",
-        "date": "2026-09-07"
-    },
-    {
-        "lottery": "Condor",
-        "time": "12:00 PM",
-        "result": "72 - Gorila",
-        "date": "2026-09-07"
-    },
-    {
-        "lottery": "Condor",
-        "time": "02:00 PM",
-        "result": "74 - Turpial",
-        "date": "2026-09-07"
-    },
-    {
-        "lottery": "Condor",
-        "time": "03:00 PM",
-        "result": "71 - Guacamaya",
-        "date": "2026-09-07"
-    },
-    {
-        "lottery": "Condor",
-        "time": "09:00 AM",
-        "result": "31 - Lapa",
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "00 - Ballena",
         "date": "2026-09-07"
     }
 ]
