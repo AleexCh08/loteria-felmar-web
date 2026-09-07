@@ -84,6 +84,12 @@
         "date": "2026-09-07"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "36 - Culebra",
+        "date": "2026-09-07"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -147,6 +153,12 @@
         "lottery": "Guacharito",
         "time": "10:30 AM",
         "result": "85 - Hamster",
+        "date": "2026-09-07"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "38 - Bufalo",
         "date": "2026-09-07"
     },
     {
