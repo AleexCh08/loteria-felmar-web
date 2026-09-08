@@ -36,6 +36,24 @@
         "date": "2026-09-08"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "934 A",
+        "date": "2026-09-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "702 B",
+        "date": "2026-09-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "596 C",
+        "date": "2026-09-08"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "842 A",
@@ -66,6 +84,12 @@
         "date": "2026-09-08"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "8 - Raton",
+        "date": "2026-09-08"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "4 - Alacran",
@@ -84,6 +108,12 @@
         "date": "2026-09-08"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "5 - Leon",
+        "date": "2026-09-08"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "64 - Gavilan",
@@ -99,6 +129,12 @@
         "lottery": "Guacharo",
         "time": "10:00 AM",
         "result": "24 - Iguana",
+        "date": "2026-09-08"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "56 - Tiburon",
         "date": "2026-09-08"
     },
     {
@@ -138,9 +174,21 @@
         "date": "2026-09-08"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "11:00 AM",
+        "result": "48 - Puercoespin",
+        "date": "2026-09-08"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "45 - Garza",
+        "date": "2026-09-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "53 - Caracol",
         "date": "2026-09-08"
     },
     {
