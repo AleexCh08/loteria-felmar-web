@@ -204,6 +204,12 @@
         "date": "2026-09-08"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "21 - Gallo",
+        "date": "2026-09-08"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "4 - Alacran",
@@ -273,6 +279,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "3 - Ciempies",
+        "date": "2026-09-08"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "25 - Gallina",
         "date": "2026-09-08"
     },
     {
@@ -348,6 +360,12 @@
         "date": "2026-09-08"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "4 - Alacran",
+        "date": "2026-09-08"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "039 A",
@@ -387,6 +405,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "73 - Hipopotamo",
+        "date": "2026-09-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "38 - Bufalo",
         "date": "2026-09-08"
     },
     {
