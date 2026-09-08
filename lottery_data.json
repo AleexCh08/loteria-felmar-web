@@ -36,6 +36,18 @@
         "date": "2026-09-08"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "842 A",
+        "date": "2026-09-08"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "961 C",
+        "date": "2026-09-08"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "31 - Lapa",
@@ -66,6 +78,12 @@
         "date": "2026-09-08"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "28 - Zamuro",
+        "date": "2026-09-08"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "64 - Gavilan",
@@ -93,6 +111,12 @@
         "lottery": "Guacharito",
         "time": "09:30 AM",
         "result": "55 - Oso Hormiguero",
+        "date": "2026-09-08"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "57 - Pato",
         "date": "2026-09-08"
     },
     {
