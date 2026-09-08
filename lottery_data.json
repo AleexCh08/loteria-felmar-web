@@ -258,6 +258,12 @@
         "date": "2026-09-08"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-09-08"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "4 - Alacran",
@@ -297,6 +303,12 @@
         "lottery": "Granjita",
         "time": "02:00 PM",
         "result": "2 - Toro",
+        "date": "2026-09-08"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "17 - Pavo",
         "date": "2026-09-08"
     },
     {
@@ -387,6 +399,12 @@
         "lottery": "Guacharito",
         "time": "02:30 PM",
         "result": "41 - Canguro",
+        "date": "2026-09-08"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "97 - Loro",
         "date": "2026-09-08"
     },
     {
