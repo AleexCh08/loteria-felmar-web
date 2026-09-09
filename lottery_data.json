@@ -90,6 +90,24 @@
         "date": "2026-09-09"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "433 A",
+        "date": "2026-09-09"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "351 B",
+        "date": "2026-09-09"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "170 C",
+        "date": "2026-09-09"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "012 A",
@@ -204,6 +222,12 @@
         "date": "2026-09-09"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "12 - Caballo",
+        "date": "2026-09-09"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -240,6 +264,12 @@
         "date": "2026-09-09"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-09-09"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "65 - Arana",
@@ -273,6 +303,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "46 - Puma",
+        "date": "2026-09-09"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-09-09"
     },
     {
@@ -348,6 +384,12 @@
         "date": "2026-09-09"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "18 - Burro",
+        "date": "2026-09-09"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "081 A",
@@ -387,6 +429,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "66 - Lobo",
+        "date": "2026-09-09"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "11 - Gato",
         "date": "2026-09-09"
     },
     {
