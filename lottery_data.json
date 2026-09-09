@@ -186,6 +186,18 @@
         "date": "2026-09-09"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "672 A",
+        "date": "2026-09-09"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "281 C",
+        "date": "2026-09-09"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -345,6 +357,12 @@
         "lottery": "Guacharito",
         "time": "01:30 PM",
         "result": "25 - Gallina",
+        "date": "2026-09-09"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "94 - Paujil",
         "date": "2026-09-09"
     },
     {
