@@ -72,6 +72,24 @@
         "date": "2026-09-10"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "506 A",
+        "date": "2026-09-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "134 B",
+        "date": "2026-09-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "980 C",
+        "date": "2026-09-10"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "253 A",
@@ -111,6 +129,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "35 - Jirafa",
+        "date": "2026-09-10"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "16 - Oso",
         "date": "2026-09-10"
     },
     {
@@ -174,6 +198,12 @@
         "date": "2026-09-10"
     },
     {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "14 - Paloma",
+        "date": "2026-09-10"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "55 - Oso Hormiguero",
@@ -231,6 +261,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "19 - Chivo",
+        "date": "2026-09-10"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "52 - Pulpo",
         "date": "2026-09-10"
     },
     {
