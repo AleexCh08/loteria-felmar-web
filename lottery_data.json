@@ -396,6 +396,12 @@
         "date": "2026-09-10"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "0 - Delfin",
+        "date": "2026-09-10"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "23 - Zebra",
@@ -585,6 +591,12 @@
         "lottery": "Guacharito",
         "time": "05:30 PM",
         "result": "12 - Caballo",
+        "date": "2026-09-10"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "41 - Canguro",
         "date": "2026-09-10"
     },
     {
