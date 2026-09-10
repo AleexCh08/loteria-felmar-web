@@ -168,6 +168,12 @@
         "date": "2026-09-10"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "20 - Cochino",
+        "date": "2026-09-10"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "67 - Avestruz",
@@ -234,6 +240,12 @@
         "date": "2026-09-10"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "65 - Arana",
+        "date": "2026-09-10"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "43 - Mariposa",
@@ -267,6 +279,30 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "52 - Pulpo",
+        "date": "2026-09-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "696 A",
+        "date": "2026-09-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "335 B",
+        "date": "2026-09-10"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "821 C",
+        "date": "2026-09-10"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "38 - Bufalo",
         "date": "2026-09-10"
     },
     {
