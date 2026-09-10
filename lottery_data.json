@@ -162,6 +162,24 @@
         "date": "2026-09-10"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "251 A",
+        "date": "2026-09-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "126 B",
+        "date": "2026-09-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "493 C",
+        "date": "2026-09-10"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "690 A",
@@ -438,6 +456,12 @@
         "date": "2026-09-10"
     },
     {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "23 - Zebra",
+        "date": "2026-09-10"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "67 - Avestruz",
@@ -495,6 +519,12 @@
         "lottery": "Guacharo",
         "time": "05:00 PM",
         "result": "21 - Gallo",
+        "date": "2026-09-10"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "60 - Camaleon",
         "date": "2026-09-10"
     },
     {
@@ -618,6 +648,12 @@
         "date": "2026-09-10"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "34 - Venado",
+        "date": "2026-09-10"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "696 A",
@@ -699,6 +735,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "61 - Panda",
+        "date": "2026-09-10"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "75 - Condor",
         "date": "2026-09-10"
     },
     {
