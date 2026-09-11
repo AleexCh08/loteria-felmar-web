@@ -1,8 +1,26 @@
 [
     {
+        "lottery": "Lotto Activo",
+        "time": "08:00 AM",
+        "result": "4 - Alacran",
+        "date": "2026-09-11"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "08:00 AM",
+        "result": "12 - Caballo",
+        "date": "2026-09-11"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "62 - Cachicamo",
+        "date": "2026-09-11"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "08:30 AM",
+        "result": "43 - Mariposa",
         "date": "2026-09-11"
     },
     {
