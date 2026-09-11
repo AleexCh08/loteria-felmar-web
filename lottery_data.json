@@ -36,6 +36,24 @@
         "date": "2026-09-11"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "077 A",
+        "date": "2026-09-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "740 B",
+        "date": "2026-09-11"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "397 C",
+        "date": "2026-09-11"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "4 - Alacran",
@@ -51,6 +69,12 @@
         "lottery": "Lotto Activo",
         "time": "10:00 AM",
         "result": "1 - Carnero",
+        "date": "2026-09-11"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "28 - Zamuro",
         "date": "2026-09-11"
     },
     {
@@ -87,6 +111,12 @@
         "lottery": "Guacharo",
         "time": "10:00 AM",
         "result": "33 - Pescado",
+        "date": "2026-09-11"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "55 - Oso Hormiguero",
         "date": "2026-09-11"
     },
     {
@@ -129,6 +159,12 @@
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "08 - Raton",
+        "date": "2026-09-11"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "25 - Gallina",
         "date": "2026-09-11"
     },
     {
