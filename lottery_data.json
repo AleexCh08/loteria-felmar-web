@@ -1,5 +1,11 @@
 [
     {
+        "lottery": "Lotto Activo",
+        "time": "08:00 AM",
+        "result": "22 - Camello",
+        "date": "2026-09-12"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -9,6 +15,12 @@
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "24 - Iguana",
+        "date": "2026-09-12"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "08:30 AM",
+        "result": "64 - Gavilan",
         "date": "2026-09-12"
     },
     {
