@@ -354,6 +354,12 @@
         "date": "2026-09-12"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-09-12"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -405,6 +411,12 @@
         "lottery": "Granjita",
         "time": "04:00 PM",
         "result": "10 - Tigre",
+        "date": "2026-09-12"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-09-12"
     },
     {
@@ -522,6 +534,12 @@
         "date": "2026-09-12"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "23 - Cebra",
+        "date": "2026-09-12"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "31 - Lapa",
@@ -573,6 +591,12 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "16 - Oso",
+        "date": "2026-09-12"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "6 - Rana",
         "date": "2026-09-12"
     },
     {
