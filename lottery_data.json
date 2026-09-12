@@ -24,9 +24,21 @@
         "date": "2026-09-12"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "20 - Cochino",
+        "date": "2026-09-12"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "25 - Gallina",
+        "date": "2026-09-12"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "8 - Raton",
         "date": "2026-09-12"
     },
     {
@@ -45,6 +57,12 @@
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "64 - Gavilan",
+        "date": "2026-09-12"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "3 - Ciempies",
         "date": "2026-09-12"
     },
     {
