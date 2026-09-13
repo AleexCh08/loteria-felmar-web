@@ -90,6 +90,24 @@
         "date": "2026-09-13"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "843 A",
+        "date": "2026-09-13"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "126 B",
+        "date": "2026-09-13"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "562 C",
+        "date": "2026-09-13"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -123,6 +141,12 @@
         "lottery": "Lotto Activo",
         "time": "01:00 PM",
         "result": "2 - Toro",
+        "date": "2026-09-13"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "34 - Venado",
         "date": "2026-09-13"
     },
     {
@@ -162,6 +186,12 @@
         "date": "2026-09-13"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-09-13"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "55 - Oso Hormiguero",
@@ -195,6 +225,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "47 - Pavo Real",
+        "date": "2026-09-13"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "6 - Rana",
         "date": "2026-09-13"
     },
     {
@@ -306,6 +342,12 @@
         "date": "2026-09-13"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "45 - Garza",
+        "date": "2026-09-13"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "23 - Cebra",
@@ -327,6 +369,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "72 - Gorila",
+        "date": "2026-09-13"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "0 - Delfin",
         "date": "2026-09-13"
     },
     {
