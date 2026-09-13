@@ -270,6 +270,12 @@
         "date": "2026-09-13"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "21 - Gallo",
+        "date": "2026-09-13"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "50 - Canario",
@@ -303,6 +309,12 @@
         "lottery": "Selva Plus",
         "time": "01:15 PM",
         "result": "54 - Grillo",
+        "date": "2026-09-13"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "02:15 PM",
+        "result": "62 - Cachicamo",
         "date": "2026-09-13"
     },
     {
