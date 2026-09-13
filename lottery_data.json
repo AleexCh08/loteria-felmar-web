@@ -228,6 +228,12 @@
         "date": "2026-09-13"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "80 - Murcielago",
+        "date": "2026-09-13"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "50 - Canario",
@@ -255,6 +261,12 @@
         "lottery": "Selva Plus",
         "time": "12:15 PM",
         "result": "18 - Burro",
+        "date": "2026-09-13"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:15 PM",
+        "result": "54 - Grillo",
         "date": "2026-09-13"
     },
     {
@@ -291,6 +303,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "00 - Ballena",
+        "date": "2026-09-13"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "23 - Cebra",
         "date": "2026-09-13"
     },
     {
