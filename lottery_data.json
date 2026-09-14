@@ -54,6 +54,24 @@
         "date": "2026-09-14"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "479 A",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "996 B",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "523 C",
+        "date": "2026-09-14"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -75,6 +93,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "27 - Perro",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "23 - Cebra",
         "date": "2026-09-14"
     },
     {
@@ -123,6 +147,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "44 - Chiguire",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "45 - Garza",
         "date": "2026-09-14"
     },
     {
@@ -198,6 +228,12 @@
         "date": "2026-09-14"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "2 - Toro",
+        "date": "2026-09-14"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "64 - Gavilan",
@@ -207,6 +243,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "05 - Leon",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "24 - Iguana",
         "date": "2026-09-14"
     },
     {
