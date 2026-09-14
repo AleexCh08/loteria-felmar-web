@@ -144,6 +144,24 @@
         "date": "2026-09-14"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "505 A",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "375 B",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "831 C",
+        "date": "2026-09-14"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "557 A",
@@ -159,6 +177,24 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "235 C",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "120 A",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "324 B",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "941 C",
         "date": "2026-09-14"
     },
     {
@@ -180,6 +216,24 @@
         "date": "2026-09-14"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "751 A",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "368 B",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "424 C",
+        "date": "2026-09-14"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "519 A",
@@ -195,6 +249,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "729 C",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "802 A",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "597 B",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "146 C",
         "date": "2026-09-14"
     },
     {
@@ -306,6 +378,12 @@
         "date": "2026-09-14"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "7 - Perico",
+        "date": "2026-09-14"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "42 - Tucan",
@@ -357,6 +435,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "39 - Lechuza",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-09-14"
     },
     {
@@ -522,6 +606,12 @@
         "date": "2026-09-14"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "43 - Mariposa",
+        "date": "2026-09-14"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "001 A",
@@ -537,6 +627,24 @@
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "801 C",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "832 A",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "847 B",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "249 C",
         "date": "2026-09-14"
     },
     {
@@ -579,6 +687,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "13 - Mono",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "02 - Toro",
         "date": "2026-09-14"
     },
     {
