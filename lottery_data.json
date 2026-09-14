@@ -72,6 +72,24 @@
         "date": "2026-09-14"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "557 A",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "294 B",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "235 C",
+        "date": "2026-09-14"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -99,6 +117,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "23 - Cebra",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "20 - Cochino",
         "date": "2026-09-14"
     },
     {
@@ -159,6 +183,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "45 - Garza",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "29 - Elefante",
         "date": "2026-09-14"
     },
     {
@@ -249,6 +279,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "2 - Toro",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "8 - Raton",
         "date": "2026-09-14"
     },
     {
