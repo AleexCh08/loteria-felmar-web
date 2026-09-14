@@ -144,6 +144,12 @@
         "date": "2026-09-14"
     },
     {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "68 - Jaguar",
+        "date": "2026-09-14"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "78 - Antilope",
@@ -159,6 +165,12 @@
         "lottery": "Selva Plus",
         "time": "10:15 AM",
         "result": "46 - Puma",
+        "date": "2026-09-14"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "11:15 AM",
+        "result": "24 - Iguana",
         "date": "2026-09-14"
     },
     {
