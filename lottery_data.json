@@ -1,5 +1,23 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "835 A",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "657 B",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "269 C",
+        "date": "2026-09-15"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -42,9 +60,21 @@
         "date": "2026-09-15"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "61 - Panda",
+        "date": "2026-09-15"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "86 - Buey",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "09:15 AM",
+        "result": "0 - Delfin",
         "date": "2026-09-15"
     },
     {
