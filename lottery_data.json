@@ -276,6 +276,12 @@
         "date": "2026-09-15"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "25 - Gallina",
+        "date": "2026-09-15"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -321,6 +327,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "40 - Avispa",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "3 - Ciempies",
         "date": "2026-09-15"
     },
     {
@@ -459,6 +471,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "27 - Perro",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "22 - Camello",
         "date": "2026-09-15"
     },
     {
