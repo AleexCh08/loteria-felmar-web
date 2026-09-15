@@ -180,6 +180,24 @@
         "date": "2026-09-15"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "717 A",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "837 B",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "367 C",
+        "date": "2026-09-15"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "813 A",
@@ -420,6 +438,12 @@
         "date": "2026-09-15"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "9 - Aguila",
+        "date": "2026-09-15"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -483,6 +507,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "42 - Tucan",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "44 - Chiguire",
         "date": "2026-09-15"
     },
     {
@@ -678,6 +708,48 @@
         "date": "2026-09-15"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "43 - Mariposa",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "664 A",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "401 B",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "871 C",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "509 A",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "180 B",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "742 C",
+        "date": "2026-09-15"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "13 - Mono",
@@ -729,6 +801,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "42 - Tucan",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-09-15"
     },
     {
