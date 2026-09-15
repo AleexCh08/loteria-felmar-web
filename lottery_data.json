@@ -180,6 +180,12 @@
         "date": "2026-09-15"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "2 - Toro",
+        "date": "2026-09-15"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -249,6 +255,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "38 - Bufalo",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "51 - Pelicano",
         "date": "2026-09-15"
     },
     {
@@ -354,6 +366,12 @@
         "date": "2026-09-15"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "0 - Delfin",
+        "date": "2026-09-15"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "664 A",
@@ -393,6 +411,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "46 - Puma",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "08 - Raton",
         "date": "2026-09-15"
     },
     {
