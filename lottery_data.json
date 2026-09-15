@@ -180,6 +180,24 @@
         "date": "2026-09-15"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "505 A",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "872 B",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "689 C",
+        "date": "2026-09-15"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "908 A",
@@ -195,6 +213,24 @@
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "436 C",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "325 A",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "854 B",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "295 C",
         "date": "2026-09-15"
     },
     {
@@ -288,6 +324,12 @@
         "date": "2026-09-15"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "7 - Perico",
+        "date": "2026-09-15"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -339,6 +381,12 @@
         "lottery": "Granjita",
         "time": "04:00 PM",
         "result": "25 - Gallina",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "29 - Elefante",
         "date": "2026-09-15"
     },
     {
@@ -456,6 +504,12 @@
         "date": "2026-09-15"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "93 - Gaviota",
+        "date": "2026-09-15"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "86 - Buey",
@@ -501,6 +555,12 @@
         "lottery": "Selva Plus",
         "time": "04:15 PM",
         "result": "19 - Chivo",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "05:15 PM",
+        "result": "88 - Erizo De Mar",
         "date": "2026-09-15"
     },
     {
@@ -555,6 +615,12 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "22 - Camello",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "45 - Garza",
         "date": "2026-09-15"
     },
     {
