@@ -144,6 +144,24 @@
         "date": "2026-09-15"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "897 A",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "385 B",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "625 C",
+        "date": "2026-09-15"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "813 A",
@@ -195,6 +213,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "306 C",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "945 A",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "477 B",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "108 C",
         "date": "2026-09-15"
     },
     {
@@ -357,6 +393,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "3 - Ciempies",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "35 - Jirafa",
         "date": "2026-09-15"
     },
     {
@@ -534,6 +576,24 @@
         "date": "2026-09-15"
     },
     {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "509 A",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "180 B",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "742 C",
+        "date": "2026-09-15"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "13 - Mono",
@@ -573,6 +633,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "13 - Mono",
+        "date": "2026-09-15"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "41 - Canguro",
         "date": "2026-09-15"
     },
     {
