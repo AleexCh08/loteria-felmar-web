@@ -72,6 +72,42 @@
         "date": "2026-09-16"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "705 A",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "394 B",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "186 C",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "061 A",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "723 B",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "658 C",
+        "date": "2026-09-16"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -99,6 +135,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "34 - Venado",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "12 - Caballo",
         "date": "2026-09-16"
     },
     {
@@ -132,6 +174,12 @@
         "date": "2026-09-16"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-09-16"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "58 - Hormiga",
@@ -159,6 +207,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "46 - Puma",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "69 - Conejo",
         "date": "2026-09-16"
     },
     {
@@ -249,6 +303,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "23 - Cebra",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "14 - Paloma",
         "date": "2026-09-16"
     },
     {
