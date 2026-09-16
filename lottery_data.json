@@ -60,6 +60,12 @@
         "date": "2026-09-16"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "5 - Leon",
+        "date": "2026-09-16"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "58 - Hormiga",
@@ -69,6 +75,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "10 - Tigre",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "27 - Perro",
         "date": "2026-09-16"
     },
     {
@@ -84,6 +96,12 @@
         "date": "2026-09-16"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "34 - Venado",
+        "date": "2026-09-16"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "79 - Calamar",
@@ -96,6 +114,12 @@
         "date": "2026-09-16"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "10:15 AM",
+        "result": "9 - Aguila",
+        "date": "2026-09-16"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "45 - Garza",
@@ -105,6 +129,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "29 - Elefante",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "20 - Cochino",
         "date": "2026-09-16"
     },
     {
