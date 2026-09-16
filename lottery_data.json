@@ -186,6 +186,12 @@
         "date": "2026-09-16"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "1 - Carnero",
+        "date": "2026-09-16"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "79 - Calamar",
@@ -210,6 +216,12 @@
         "date": "2026-09-16"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "12:15 PM",
+        "result": "55 - Oso Hormiguero",
+        "date": "2026-09-16"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "45 - Garza",
@@ -231,6 +243,12 @@
         "lottery": "Lotto Chaima",
         "time": "11:00 AM",
         "result": "51 - Pelicano",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "23 - Cebra",
         "date": "2026-09-16"
     },
     {
