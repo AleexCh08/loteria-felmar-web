@@ -198,6 +198,24 @@
         "date": "2026-09-16"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "339 A",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "989 B",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "147 C",
+        "date": "2026-09-16"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "953 A",
@@ -213,6 +231,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "846 C",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "047 A",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "901 B",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "064 C",
         "date": "2026-09-16"
     },
     {
@@ -270,6 +306,12 @@
         "date": "2026-09-16"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "31 - Lapa",
+        "date": "2026-09-16"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "36 - Culebra",
@@ -321,6 +363,12 @@
         "lottery": "Granjita",
         "time": "04:00 PM",
         "result": "7 - Perico",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "4 - Alacran",
         "date": "2026-09-16"
     },
     {
@@ -438,6 +486,12 @@
         "date": "2026-09-16"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "95 - Escarabajo",
+        "date": "2026-09-16"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "79 - Calamar",
@@ -489,6 +543,12 @@
         "lottery": "Selva Plus",
         "time": "04:15 PM",
         "result": "43 - Mariposa",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "05:15 PM",
+        "result": "80 - Murcielago",
         "date": "2026-09-16"
     },
     {
