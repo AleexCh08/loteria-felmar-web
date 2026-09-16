@@ -288,6 +288,12 @@
         "date": "2026-09-16"
     },
     {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "68 - Jaguar",
+        "date": "2026-09-16"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "4 - Alacran",
@@ -459,6 +465,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "15 - Zorro",
+        "date": "2026-09-16"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "24 - Iguana",
         "date": "2026-09-16"
     },
     {
