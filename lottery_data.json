@@ -72,6 +72,60 @@
         "date": "2026-09-17"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "530 A",
+        "date": "2026-09-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "058 B",
+        "date": "2026-09-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "743 C",
+        "date": "2026-09-17"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "705 A",
+        "date": "2026-09-17"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "382 B",
+        "date": "2026-09-17"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "052 C",
+        "date": "2026-09-17"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "543 A",
+        "date": "2026-09-17"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "120 B",
+        "date": "2026-09-17"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "841 C",
+        "date": "2026-09-17"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "7 - Perico",
@@ -99,6 +153,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "7 - Perico",
+        "date": "2026-09-17"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "23 - Cebra",
         "date": "2026-09-17"
     },
     {
@@ -159,6 +219,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "13 - Mono",
+        "date": "2026-09-17"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "2 - Toro",
         "date": "2026-09-17"
     },
     {
