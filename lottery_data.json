@@ -180,6 +180,12 @@
         "date": "2026-09-18"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-09-18"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -216,6 +222,12 @@
         "date": "2026-09-18"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "00 - Ballena",
+        "date": "2026-09-18"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "54 - Grillo",
@@ -249,6 +261,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "52 - Pulpo",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "48 - Puercoespin",
         "date": "2026-09-18"
     },
     {
@@ -360,6 +378,12 @@
         "date": "2026-09-18"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "6 - Rana",
+        "date": "2026-09-18"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "515 A",
@@ -399,6 +423,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "44 - Chiguire",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "17 - Pavo",
         "date": "2026-09-18"
     },
     {
