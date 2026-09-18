@@ -54,6 +54,24 @@
         "date": "2026-09-18"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "682 A",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "939 B",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "729 C",
+        "date": "2026-09-18"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -75,6 +93,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "21 - Gallo",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "0 - Delfin",
         "date": "2026-09-18"
     },
     {
@@ -123,6 +147,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "1 - Carnero",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "60 - Camaleon",
         "date": "2026-09-18"
     },
     {
@@ -198,6 +228,12 @@
         "date": "2026-09-18"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "37 - Tortuga",
+        "date": "2026-09-18"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "24 - Iguana",
@@ -207,6 +243,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "01 - Carnero",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "44 - Chiguire",
         "date": "2026-09-18"
     },
     {
