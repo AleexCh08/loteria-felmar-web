@@ -234,6 +234,24 @@
         "date": "2026-09-18"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "168 A",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "283 B",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "227 C",
+        "date": "2026-09-18"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "654 A",
@@ -324,6 +342,24 @@
         "date": "2026-09-18"
     },
     {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "645 A",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "308 B",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "674 C",
+        "date": "2026-09-18"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -390,6 +426,12 @@
         "date": "2026-09-18"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "18 - Burro",
+        "date": "2026-09-18"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -453,6 +495,12 @@
         "lottery": "Granjita",
         "time": "06:00 PM",
         "result": "27 - Perro",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "15 - Zorro",
         "date": "2026-09-18"
     },
     {
@@ -594,6 +642,12 @@
         "date": "2026-09-18"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "12 - Caballo",
+        "date": "2026-09-18"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "60 - Camaleon",
@@ -657,6 +711,12 @@
         "lottery": "Selva Plus",
         "time": "06:15 PM",
         "result": "68 - Jaguar",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "07:15 PM",
+        "result": "80 - Murcielago",
         "date": "2026-09-18"
     },
     {
