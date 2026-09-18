@@ -72,6 +72,24 @@
         "date": "2026-09-18"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "300 A",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "720 B",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "615 C",
+        "date": "2026-09-18"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -159,6 +177,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "60 - Camaleon",
+        "date": "2026-09-18"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "52 - Pulpo",
         "date": "2026-09-18"
     },
     {
