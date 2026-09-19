@@ -324,6 +324,12 @@
         "date": "2026-09-19"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "71 - Guacamaya",
+        "date": "2026-09-19"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "77 - Pinguino",
@@ -357,6 +363,12 @@
         "lottery": "Selva Plus",
         "time": "01:15 PM",
         "result": "92 - Cisne",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "02:15 PM",
+        "result": "45 - Garza",
         "date": "2026-09-19"
     },
     {
