@@ -90,6 +90,78 @@
         "date": "2026-09-19"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "188 A",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "531 B",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "972 C",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "284 A",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "405 B",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "908 C",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "716 A",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "724 B",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "086 C",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "835 A",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "152 B",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "399 C",
+        "date": "2026-09-19"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -123,6 +195,12 @@
         "lottery": "Lotto Activo",
         "time": "01:00 PM",
         "result": "4 - Alacran",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "30 - Caiman",
         "date": "2026-09-19"
     },
     {
@@ -162,6 +240,12 @@
         "date": "2026-09-19"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "00 - Ballena",
+        "date": "2026-09-19"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -195,6 +279,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "0 - Delfin",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "28 - Zamuro",
         "date": "2026-09-19"
     },
     {
@@ -306,6 +396,12 @@
         "date": "2026-09-19"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "30 - Caiman",
+        "date": "2026-09-19"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "593 A",
@@ -345,6 +441,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "66 - Lobo",
+        "date": "2026-09-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "38 - Bufalo",
         "date": "2026-09-19"
     },
     {
