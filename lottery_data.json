@@ -468,6 +468,12 @@
         "date": "2026-09-21"
     },
     {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "2 - Toro",
+        "date": "2026-09-21"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "84 - Camaron",
@@ -666,6 +672,12 @@
         "date": "2026-09-21"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "42 - Tucan",
+        "date": "2026-09-21"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "907 A",
@@ -753,6 +765,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "75 - Condor",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "74 - Turpial",
         "date": "2026-09-21"
     },
     {
