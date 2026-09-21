@@ -282,6 +282,12 @@
         "date": "2026-09-21"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "12 - Caballo",
+        "date": "2026-09-21"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -384,6 +390,12 @@
         "date": "2026-09-21"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "87 - Cabra",
+        "date": "2026-09-21"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "92 - Cisne",
@@ -429,6 +441,12 @@
         "lottery": "Selva Plus",
         "time": "03:15 PM",
         "result": "77 - Pinguino",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "04:15 PM",
+        "result": "21 - Gallo",
         "date": "2026-09-21"
     },
     {
@@ -537,6 +555,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "75 - Condor",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "38 - Bufalo",
         "date": "2026-09-21"
     },
     {
