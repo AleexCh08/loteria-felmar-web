@@ -18,6 +18,12 @@
         "date": "2026-09-21"
     },
     {
+        "lottery": "Guacharo",
+        "time": "09:00 AM",
+        "result": "33 - Pescado",
+        "date": "2026-09-21"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "84 - Camaron",
@@ -33,6 +39,18 @@
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "7 - Perico",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "2 - Toro",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "32 - Ardilla",
         "date": "2026-09-21"
     }
 ]
