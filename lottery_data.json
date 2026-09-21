@@ -84,6 +84,12 @@
         "date": "2026-09-21"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "21 - Gallo",
+        "date": "2026-09-21"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "92 - Cisne",
@@ -93,6 +99,12 @@
         "lottery": "Selva Plus",
         "time": "09:15 AM",
         "result": "74 - Turpial",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:15 AM",
+        "result": "63 - Cangrejo",
         "date": "2026-09-21"
     },
     {
