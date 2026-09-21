@@ -54,6 +54,24 @@
         "date": "2026-09-21"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "023 A",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "862 B",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "111 C",
+        "date": "2026-09-21"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "697 A",
@@ -69,6 +87,24 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "407 C",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "781 A",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "454 B",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "004 C",
         "date": "2026-09-21"
     },
     {
@@ -228,6 +264,12 @@
         "date": "2026-09-21"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "71 - Guacamaya",
+        "date": "2026-09-21"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "92 - Cisne",
@@ -255,6 +297,12 @@
         "lottery": "Selva Plus",
         "time": "12:15 PM",
         "result": "95 - Escarabajo",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:15 PM",
+        "result": "93 - Gaviota",
         "date": "2026-09-21"
     },
     {
@@ -291,6 +339,30 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "907 A",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "786 B",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "219 C",
+        "date": "2026-09-21"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "16 - Oso",
         "date": "2026-09-21"
     },
     {
