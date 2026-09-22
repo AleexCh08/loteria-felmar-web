@@ -234,6 +234,24 @@
         "date": "2026-09-22"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "837 A",
+        "date": "2026-09-22"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "481 B",
+        "date": "2026-09-22"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "672 C",
+        "date": "2026-09-22"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "947 A",
@@ -324,6 +342,24 @@
         "date": "2026-09-22"
     },
     {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "107 A",
+        "date": "2026-09-22"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "143 B",
+        "date": "2026-09-22"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "084 C",
+        "date": "2026-09-22"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -387,6 +423,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "4 - Alacran",
+        "date": "2026-09-22"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "0 - Delfin",
         "date": "2026-09-22"
     },
     {
@@ -600,6 +642,12 @@
         "date": "2026-09-22"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "68 - Jaguar",
+        "date": "2026-09-22"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "35 - Jirafa",
@@ -657,6 +705,12 @@
         "lottery": "Selva Plus",
         "time": "05:15 PM",
         "result": "8 - Raton",
+        "date": "2026-09-22"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "07:15 PM",
+        "result": "55 - Oso Hormiguero",
         "date": "2026-09-22"
     },
     {
