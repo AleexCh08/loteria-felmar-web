@@ -162,6 +162,24 @@
         "date": "2026-09-22"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "647 A",
+        "date": "2026-09-22"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "356 B",
+        "date": "2026-09-22"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "228 C",
+        "date": "2026-09-22"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "867 A",
@@ -327,6 +345,12 @@
         "lottery": "Lotto Activo",
         "time": "05:00 PM",
         "result": "7 - Perico",
+        "date": "2026-09-22"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "4 - Alacran",
         "date": "2026-09-22"
     },
     {
