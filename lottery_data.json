@@ -144,6 +144,24 @@
         "date": "2026-09-23"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "020 A",
+        "date": "2026-09-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "473 B",
+        "date": "2026-09-23"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "957 C",
+        "date": "2026-09-23"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "101 A",
@@ -303,6 +321,12 @@
         "lottery": "Lotto Activo",
         "time": "04:00 PM",
         "result": "17 - Pavo",
+        "date": "2026-09-23"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "5 - Leon",
         "date": "2026-09-23"
     },
     {
@@ -480,6 +504,12 @@
         "date": "2026-09-23"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "87 - Cabra",
+        "date": "2026-09-23"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "89 - Anguila",
@@ -531,6 +561,12 @@
         "lottery": "Selva Plus",
         "time": "04:15 PM",
         "result": "96 - Caballito De Mar",
+        "date": "2026-09-23"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "05:15 PM",
+        "result": "27 - Perro",
         "date": "2026-09-23"
     },
     {
