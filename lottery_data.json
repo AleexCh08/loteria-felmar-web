@@ -48,6 +48,12 @@
         "date": "2026-09-23"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "36 - Culebra",
+        "date": "2026-09-23"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -57,6 +63,12 @@
         "lottery": "Granjita",
         "time": "09:00 AM",
         "result": "36 - Culebra",
+        "date": "2026-09-23"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "24 - Iguana",
         "date": "2026-09-23"
     },
     {
@@ -90,6 +102,12 @@
         "date": "2026-09-23"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "41 - Canguro",
+        "date": "2026-09-23"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "89 - Anguila",
@@ -99,6 +117,12 @@
         "lottery": "Selva Plus",
         "time": "09:15 AM",
         "result": "94 - Paujil",
+        "date": "2026-09-23"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:15 AM",
+        "result": "40 - Avispa",
         "date": "2026-09-23"
     },
     {
