@@ -72,6 +72,42 @@
         "date": "2026-09-24"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "933 A",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "147 B",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "561 C",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "602 A",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "119 B",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "301 C",
+        "date": "2026-09-24"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "28 - Zamuro",
@@ -99,6 +135,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "10 - Tigre",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "12 - Caballo",
         "date": "2026-09-24"
     },
     {
@@ -159,6 +201,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "26 - Vaca",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "70 - Bisonte",
         "date": "2026-09-24"
     },
     {
@@ -249,6 +297,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "38 - Bufalo",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "37 - Tortuga",
         "date": "2026-09-24"
     },
     {
