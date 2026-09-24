@@ -276,6 +276,12 @@
         "date": "2026-09-24"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-09-24"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -321,6 +327,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "54 - Grillo",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "8 - Raton",
         "date": "2026-09-24"
     },
     {
@@ -465,6 +477,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "36 - Culebra",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "17 - Pavo",
         "date": "2026-09-24"
     },
     {
