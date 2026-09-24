@@ -126,6 +126,24 @@
         "date": "2026-09-24"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "101 A",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "837 B",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "529 C",
+        "date": "2026-09-24"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "602 A",
@@ -225,6 +243,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "1 - Carnero",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "20 - Cochino",
         "date": "2026-09-24"
     },
     {
@@ -384,6 +408,12 @@
         "date": "2026-09-24"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "61 - Panda",
+        "date": "2026-09-24"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "56 - Tiburon",
@@ -429,6 +459,12 @@
         "lottery": "Selva Plus",
         "time": "03:15 PM",
         "result": "44 - Chiguire",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "04:15 PM",
+        "result": "53 - Caracol",
         "date": "2026-09-24"
     },
     {
@@ -537,6 +573,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "19 - Chivo",
+        "date": "2026-09-24"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "29 - Elefante",
         "date": "2026-09-24"
     },
     {
