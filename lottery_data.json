@@ -90,6 +90,60 @@
         "date": "2026-09-25"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "705 A",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "581 B",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "801 C",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "293 A",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "202 B",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "128 C",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "248 A",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "973 B",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "313 C",
+        "date": "2026-09-25"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -228,6 +282,12 @@
         "date": "2026-09-25"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "72 - Gorila",
+        "date": "2026-09-25"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "24 - Iguana",
@@ -258,6 +318,12 @@
         "date": "2026-09-25"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "01:15 PM",
+        "result": "42 - Tucan",
+        "date": "2026-09-25"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "54 - Grillo",
@@ -285,6 +351,36 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "21 - Gallo",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "46 - Puma",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "087 A",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "760 B",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "625 C",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-09-25"
     },
     {
