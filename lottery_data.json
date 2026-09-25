@@ -324,6 +324,12 @@
         "date": "2026-09-25"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "25 - Gallina",
+        "date": "2026-09-25"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -375,6 +381,12 @@
         "lottery": "Granjita",
         "time": "04:00 PM",
         "result": "6 - Rana",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-09-25"
     },
     {
@@ -492,6 +504,12 @@
         "date": "2026-09-25"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-09-25"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "24 - Iguana",
@@ -546,6 +564,12 @@
         "date": "2026-09-25"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:15 PM",
+        "result": "75 - Guahcaro",
+        "date": "2026-09-25"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "54 - Grillo",
@@ -597,6 +621,12 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "37 - Tortuga",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-09-25"
     },
     {
