@@ -354,6 +354,12 @@
         "date": "2026-09-25"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "6 - Rana",
+        "date": "2026-09-25"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -483,6 +489,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "31 - Lapa",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "55 - Oso Hormiguero",
         "date": "2026-09-25"
     },
     {
@@ -771,6 +783,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "20 - Cochino",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "51 - Pelicano",
         "date": "2026-09-25"
     },
     {
