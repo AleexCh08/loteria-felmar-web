@@ -144,6 +144,12 @@
         "date": "2026-09-25"
     },
     {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "44 - Chiguire",
+        "date": "2026-09-25"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "24 - Iguana",
@@ -159,6 +165,12 @@
         "lottery": "Selva Plus",
         "time": "10:15 AM",
         "result": "50 - Canario",
+        "date": "2026-09-25"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "11:15 AM",
+        "result": "19 - Chivo",
         "date": "2026-09-25"
     },
     {
