@@ -210,6 +210,42 @@
         "date": "2026-09-26"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "119 A",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "636 C",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "541 A",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "871 C",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "856 A",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "731 C",
+        "date": "2026-09-26"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "7 - Perico",
@@ -309,6 +345,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "28 - Zamuro",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "23 - Zebra",
         "date": "2026-09-26"
     },
     {
@@ -414,6 +456,12 @@
         "date": "2026-09-26"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "4 - Alacran",
+        "date": "2026-09-26"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "51 - Pelicano",
@@ -462,6 +510,12 @@
         "date": "2026-09-26"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:15 PM",
+        "result": "47 - Pavo Real",
+        "date": "2026-09-26"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "12 - Caballo",
@@ -507,6 +561,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "31 - Lapa",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "48 - Puercoespin",
         "date": "2026-09-26"
     },
     {
@@ -561,6 +621,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "08 - Raton",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "39 - Lechuza",
         "date": "2026-09-26"
     },
     {
