@@ -144,6 +144,24 @@
         "date": "2026-09-26"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "956 A",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "611 B",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "148 C",
+        "date": "2026-09-26"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "413 A",
@@ -354,6 +372,12 @@
         "date": "2026-09-26"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-09-26"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "60 - Camaleon",
@@ -405,6 +429,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "56 - Tiburon",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "13 - Mono",
         "date": "2026-09-26"
     },
     {
@@ -570,6 +600,12 @@
         "date": "2026-09-26"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "6 - Rana",
+        "date": "2026-09-26"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "406 A",
@@ -585,6 +621,24 @@
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "730 C",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "435 A",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "565 B",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "957 C",
         "date": "2026-09-26"
     },
     {
@@ -627,6 +681,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "39 - Lechuza",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "46 - Puma",
         "date": "2026-09-26"
     },
     {
