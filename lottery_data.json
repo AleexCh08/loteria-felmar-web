@@ -216,6 +216,24 @@
         "date": "2026-09-26"
     },
     {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "963 A",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "001 B",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "830 C",
+        "date": "2026-09-26"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "420 A",
@@ -315,6 +333,12 @@
         "lottery": "Lotto Activo",
         "time": "04:00 PM",
         "result": "11 - Gato",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "28 - Zamuro",
         "date": "2026-09-26"
     },
     {
@@ -492,6 +516,12 @@
         "date": "2026-09-26"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "93 - Gaviota",
+        "date": "2026-09-26"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "51 - Pelicano",
@@ -543,6 +573,12 @@
         "lottery": "Selva Plus",
         "time": "04:15 PM",
         "result": "47 - Pavo Real",
+        "date": "2026-09-26"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "05:15 PM",
+        "result": "89 - Anguila",
         "date": "2026-09-26"
     },
     {
