@@ -120,6 +120,12 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "11 - Gato",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -147,6 +153,12 @@
         "lottery": "Granjita",
         "time": "12:00 PM",
         "result": "10 - Tigre",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "8 - Raton",
         "date": "2026-09-27"
     },
     {
@@ -216,6 +228,12 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "94 - Paujil",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "2 - Toro",
@@ -243,6 +261,12 @@
         "lottery": "Selva Plus",
         "time": "12:15 PM",
         "result": "42 - Tucan",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:15 PM",
+        "result": "86 - Buey",
         "date": "2026-09-27"
     },
     {
@@ -277,6 +301,12 @@
     },
     {
         "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "23 - Cebra",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Condor",
         "time": "01:00 PM",
         "result": "23 - Cebra",
         "date": "2026-09-27"
