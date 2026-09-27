@@ -54,6 +54,24 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "079 A",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "421 B",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "695 C",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -123,6 +141,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "5 - Leon",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "52 - Pulpo",
         "date": "2026-09-27"
     },
     {
@@ -207,6 +231,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "29 - Elefante",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "20 - Cochino",
         "date": "2026-09-27"
     },
     {
