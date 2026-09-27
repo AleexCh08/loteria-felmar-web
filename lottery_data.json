@@ -1,38 +1,362 @@
 [
     {
-        "lottery": "Condor",
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "681 A",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "918 B",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "755 C",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "315 A",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "227 B",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "568 C",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "899 A",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "961 B",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "286 C",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "079 A",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "421 B",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "695 C",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "261 A",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "100 B",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "792 C",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "714 A",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "333 B",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "063 C",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "08:00 AM",
+        "result": "25 - Gallina",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "29 - Elefante",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "23 - Cebra",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "33 - Pescado",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "12 - Caballo",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "11 - Gato",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "31 - Lapa",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "08:00 AM",
+        "result": "0 - Delfin",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "2 - Toro",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "19 - Chivo",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "7 - Perico",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "10 - Tigre",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "8 - Raton",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "30 - Caiman",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "08:00 AM",
+        "result": "3 - Ciempies",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "09:00 AM",
+        "result": "25 - Gallina",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "1 - Carnero",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "5 - Leon",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "52 - Pulpo",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "23 - Cebra",
         "date": "2026-09-27"
     },
     {
-        "lottery": "Condor",
-        "time": "10:00 AM",
-        "result": "46 - Puma",
-        "date": "2026-09-27"
-    },
-    {
-        "lottery": "Condor",
-        "time": "11:00 AM",
-        "result": "29 - Elefante",
-        "date": "2026-09-27"
-    },
-    {
-        "lottery": "Condor",
-        "time": "12:00 PM",
-        "result": "20 - Cochino",
-        "date": "2026-09-27"
-    },
-    {
-        "lottery": "Condor",
+        "lottery": "Guacharo",
         "time": "02:00 PM",
-        "result": "22 - Camello",
+        "result": "70 - Bisonte",
         "date": "2026-09-27"
     },
     {
-        "lottery": "Condor",
+        "lottery": "Guacharito",
+        "time": "08:30 AM",
+        "result": "7 - Perico",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "63 - Cangrejo",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "40 - Avispa",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "81 - Cuervo",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "24 - Iguana",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "94 - Paujil",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "11 - Gato",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "08:15 AM",
+        "result": "2 - Toro",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "09:15 AM",
+        "result": "75 - Guahcaro",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:15 AM",
+        "result": "84 - Camaron",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "11:15 AM",
+        "result": "26 - Vaca",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "12:15 PM",
+        "result": "42 - Tucan",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:15 PM",
+        "result": "86 - Buey",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "02:15 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "08:00 AM",
+        "result": "26 - Vaca",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
         "time": "09:00 AM",
-        "result": "71 - Guacamaya",
+        "result": "35 - Jirafa",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "17 - Pavo",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "11:00 AM",
+        "result": "15 - Zorro",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "33 - Pescado",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "23 - Cebra",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "8 - Raton",
         "date": "2026-09-27"
     }
 ]
