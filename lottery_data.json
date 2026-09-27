@@ -96,6 +96,12 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "12 - Caballo",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -117,6 +123,12 @@
         "lottery": "Granjita",
         "time": "11:00 AM",
         "result": "7 - Perico",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-09-27"
     },
     {
@@ -174,6 +186,12 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "24 - Iguana",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "2 - Toro",
@@ -198,6 +216,12 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "12:15 PM",
+        "result": "42 - Tucan",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -219,6 +243,12 @@
         "lottery": "Lotto Chaima",
         "time": "11:00 AM",
         "result": "15 - Zorro",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-09-27"
     },
     {
