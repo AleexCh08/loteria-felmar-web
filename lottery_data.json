@@ -198,6 +198,60 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "501 A",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "322 B",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "560 C",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "891 A",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "425 B",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "387 C",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "213 A",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "162 B",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "324 C",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -261,6 +315,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "36 - Culebra",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "22 - Camello",
         "date": "2026-09-27"
     },
     {
@@ -474,6 +534,12 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "48 - Puercoespin",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "2 - Toro",
@@ -540,6 +606,12 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:15 PM",
+        "result": "81 - Cuervo",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -603,6 +675,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "42 - Tucan",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "49 - Pereza",
         "date": "2026-09-27"
     },
     {
