@@ -72,6 +72,12 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "7 - Perico",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -87,6 +93,12 @@
         "lottery": "Guacharo",
         "time": "10:00 AM",
         "result": "1 - Carnero",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "5 - Leon",
         "date": "2026-09-27"
     },
     {
@@ -147,6 +159,12 @@
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "46 - Puma",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "29 - Elefante",
         "date": "2026-09-27"
     },
     {
