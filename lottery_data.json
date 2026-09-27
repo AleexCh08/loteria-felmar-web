@@ -36,6 +36,24 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "899 A",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "961 B",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "286 C",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -51,6 +69,12 @@
         "lottery": "Lotto Activo",
         "time": "10:00 AM",
         "result": "23 - Cebra",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "33 - Pescado",
         "date": "2026-09-27"
     },
     {
@@ -120,6 +144,12 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "81 - Cuervo",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "2 - Toro",
@@ -138,6 +168,12 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "11:15 AM",
+        "result": "26 - Vaca",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -153,6 +189,12 @@
         "lottery": "Lotto Chaima",
         "time": "10:00 AM",
         "result": "17 - Pavo",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "11:00 AM",
+        "result": "15 - Zorro",
         "date": "2026-09-27"
     },
     {
