@@ -168,6 +168,12 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "0 - Delfin",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -306,6 +312,12 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "23 - Cebra",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "2 - Toro",
@@ -345,6 +357,12 @@
         "lottery": "Selva Plus",
         "time": "02:15 PM",
         "result": "3 - Ciempies",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "03:15 PM",
+        "result": "71 - Guacamaya",
         "date": "2026-09-27"
     },
     {
