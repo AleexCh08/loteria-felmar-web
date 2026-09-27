@@ -270,6 +270,12 @@
         "date": "2026-09-27"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "54 - Grillo",
+        "date": "2026-09-27"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "7 - Perico",
@@ -411,6 +417,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "51 - Pelicano",
+        "date": "2026-09-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "40 - Avispa",
         "date": "2026-09-27"
     },
     {
