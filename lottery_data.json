@@ -72,6 +72,42 @@
         "date": "2026-09-28"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "053 A",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "179 B",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "718 C",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "087 A",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "923 B",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "258 C",
+        "date": "2026-09-28"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -99,6 +135,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "19 - Chivo",
         "date": "2026-09-28"
     },
     {
@@ -159,6 +201,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "45 - Garza",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "19 - Chivo",
         "date": "2026-09-28"
     },
     {
@@ -249,6 +297,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "43 - Mariposa",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-09-28"
     },
     {
