@@ -108,6 +108,42 @@
         "date": "2026-09-28"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "517 A",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "882 B",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "536 C",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "784 A",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "130 B",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "863 C",
+        "date": "2026-09-28"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "23 - Cebra",
@@ -171,6 +207,12 @@
         "lottery": "Granjita",
         "time": "12:00 PM",
         "result": "32 - Ardilla",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-09-28"
     },
     {
@@ -240,6 +282,12 @@
         "date": "2026-09-28"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "1 - Carnero",
+        "date": "2026-09-28"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "99 - Halcon",
@@ -267,6 +315,12 @@
         "lottery": "Selva Plus",
         "time": "12:15 PM",
         "result": "53 - Caracol",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:15 PM",
+        "result": "43 - Mariposa",
         "date": "2026-09-28"
     },
     {
@@ -303,6 +357,30 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "10 - Tigre",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "156 A",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "800 B",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "653 C",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "70 - Bisonte",
         "date": "2026-09-28"
     },
     {
