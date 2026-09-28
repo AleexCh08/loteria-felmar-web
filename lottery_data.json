@@ -324,6 +324,12 @@
         "date": "2026-09-28"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "60 - Camaleon",
+        "date": "2026-09-28"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "90 - Huron",
@@ -459,6 +465,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "28 - Zamuro",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "14 - Paloma",
         "date": "2026-09-28"
     },
     {
