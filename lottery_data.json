@@ -54,6 +54,12 @@
         "date": "2026-09-28"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "2 - Toro",
+        "date": "2026-09-28"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "35 - Jirafa",
@@ -72,6 +78,12 @@
         "date": "2026-09-28"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "29 - Elefante",
+        "date": "2026-09-28"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "46 - Puma",
@@ -87,6 +99,12 @@
         "lottery": "Guacharo",
         "time": "10:00 AM",
         "result": "67 - Avestruz",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "8 - Raton",
         "date": "2026-09-28"
     },
     {
@@ -144,9 +162,21 @@
         "date": "2026-09-28"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "11:00 AM",
+        "result": "25 - Gallina",
+        "date": "2026-09-28"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "0 - Delfin",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "00 - Ballena",
         "date": "2026-09-28"
     },
     {
