@@ -1,8 +1,50 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "309 A",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "561 B",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "657 C",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "850 A",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "197 B",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "789 C",
+        "date": "2026-09-28"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "23 - Cebra",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "5 - Leon",
         "date": "2026-09-28"
     },
     {
@@ -12,9 +54,27 @@
         "date": "2026-09-28"
     },
     {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "18 - Burro",
+        "date": "2026-09-28"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "46 - Puma",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "09:00 AM",
+        "result": "52 - Pulpo",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "67 - Avestruz",
         "date": "2026-09-28"
     },
     {
@@ -24,15 +84,51 @@
         "date": "2026-09-28"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "46 - Puma",
+        "date": "2026-09-28"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "99 - Halcon",
         "date": "2026-09-28"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "09:15 AM",
+        "result": "51 - Pelicano",
+        "date": "2026-09-28"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "41 - Canguro",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "5 - Leon",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "22 - Camello",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "0 - Delfin",
+        "date": "2026-09-28"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "50 - Canario",
         "date": "2026-09-28"
     }
 ]
