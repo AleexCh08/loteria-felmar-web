@@ -126,6 +126,24 @@
         "date": "2026-09-29"
     },
     {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "076 A",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "639 B",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "113 C",
+        "date": "2026-09-29"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "7 - Perico",
@@ -264,6 +282,12 @@
         "date": "2026-09-29"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "60 - Camaleon",
+        "date": "2026-09-29"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "52 - Pulpo",
@@ -291,6 +315,12 @@
         "lottery": "Selva Plus",
         "time": "12:15 PM",
         "result": "4 - Alacran",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:15 PM",
+        "result": "66 - Lobo",
         "date": "2026-09-29"
     },
     {
@@ -327,6 +357,30 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "40 - Avispa",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "146 A",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "450 B",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "867 C",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "03 - Ciempies",
         "date": "2026-09-29"
     },
     {
