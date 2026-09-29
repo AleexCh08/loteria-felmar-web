@@ -330,6 +330,12 @@
         "date": "2026-09-29"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "10 - Tigre",
+        "date": "2026-09-29"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -450,6 +456,12 @@
         "date": "2026-09-29"
     },
     {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "25 - Gallina",
+        "date": "2026-09-29"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "30 - Caiman",
@@ -501,6 +513,12 @@
         "lottery": "Guacharito",
         "time": "04:30 PM",
         "result": "3 - Ciempies",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "87 - Cabra",
         "date": "2026-09-29"
     },
     {
@@ -705,6 +723,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "40 - Avispa",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-09-29"
     },
     {
