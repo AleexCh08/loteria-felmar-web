@@ -60,9 +60,21 @@
         "date": "2026-09-29"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "47 - Pavo Real",
+        "date": "2026-09-29"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "52 - Pulpo",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "09:15 AM",
+        "result": "67 - Avestruz",
         "date": "2026-09-29"
     },
     {
