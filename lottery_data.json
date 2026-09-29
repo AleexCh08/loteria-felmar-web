@@ -72,6 +72,60 @@
         "date": "2026-09-29"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "847 A",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "723 B",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "415 C",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "626 A",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "943 B",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "836 C",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "235 A",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "085 B",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "216 C",
+        "date": "2026-09-29"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "7 - Perico",
@@ -99,6 +153,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "36 - Culebra",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "16 - Oso",
         "date": "2026-09-29"
     },
     {
@@ -132,6 +192,12 @@
         "date": "2026-09-29"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "22 - Camello",
+        "date": "2026-09-29"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "16 - Oso",
@@ -159,6 +225,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "6 - Rana",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "34 - Venado",
         "date": "2026-09-29"
     },
     {
@@ -249,6 +321,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "1 - Carnero",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "40 - Avispa",
         "date": "2026-09-29"
     },
     {
