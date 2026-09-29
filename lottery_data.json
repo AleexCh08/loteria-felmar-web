@@ -6,9 +6,27 @@
         "date": "2026-09-29"
     },
     {
+        "lottery": "Granjita",
+        "time": "08:00 AM",
+        "result": "5 - Leon",
+        "date": "2026-09-29"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "16 - Oso",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "08:30 AM",
+        "result": "30 - Caiman",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "08:15 AM",
+        "result": "52 - Pulpo",
         "date": "2026-09-29"
     },
     {
