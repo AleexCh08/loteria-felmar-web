@@ -90,6 +90,24 @@
         "date": "2026-09-29"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "890 A",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "658 B",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "900 C",
+        "date": "2026-09-29"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "626 A",
@@ -180,6 +198,12 @@
         "date": "2026-09-29"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-09-29"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -216,6 +240,12 @@
         "date": "2026-09-29"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "14 - Paloma",
+        "date": "2026-09-29"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "16 - Oso",
@@ -249,6 +279,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "34 - Venado",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "55 - Oso Hormiguero",
         "date": "2026-09-29"
     },
     {
@@ -360,6 +396,12 @@
         "date": "2026-09-29"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "48 - Puercoespin",
+        "date": "2026-09-29"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "146 A",
@@ -399,6 +441,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "43 - Mariposa",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "67 - Avestruz",
         "date": "2026-09-29"
     },
     {
