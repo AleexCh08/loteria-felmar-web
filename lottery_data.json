@@ -144,6 +144,12 @@
         "date": "2026-09-29"
     },
     {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "2 - Toro",
+        "date": "2026-09-29"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "52 - Pulpo",
@@ -159,6 +165,12 @@
         "lottery": "Selva Plus",
         "time": "10:15 AM",
         "result": "18 - Burro",
+        "date": "2026-09-29"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "11:15 AM",
+        "result": "49 - Pereza",
         "date": "2026-09-29"
     },
     {
