@@ -180,6 +180,12 @@
         "date": "2026-09-30"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "00 - Ballena",
+        "date": "2026-09-30"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -249,6 +255,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "44 - Chiguire",
+        "date": "2026-09-30"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "49 - Pereza",
         "date": "2026-09-30"
     },
     {
@@ -399,6 +411,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "72 - Gorila",
+        "date": "2026-09-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "75 - Condor",
         "date": "2026-09-30"
     },
     {
