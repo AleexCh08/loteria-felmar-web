@@ -180,6 +180,24 @@
         "date": "2026-09-30"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "863 A",
+        "date": "2026-09-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "057 B",
+        "date": "2026-09-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "199 C",
+        "date": "2026-09-30"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "982 A",
@@ -354,6 +372,12 @@
         "date": "2026-09-30"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "21 - Gallo",
+        "date": "2026-09-30"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -420,6 +444,12 @@
         "date": "2026-09-30"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-09-30"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -483,6 +513,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "75 - Guacharo",
+        "date": "2026-09-30"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "49 - Pereza",
         "date": "2026-09-30"
     },
     {
@@ -684,6 +720,12 @@
         "date": "2026-09-30"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "4 - Alacran",
+        "date": "2026-09-30"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "404 A",
@@ -771,6 +813,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "25 - Gallina",
+        "date": "2026-09-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "22 - Camello",
         "date": "2026-09-30"
     },
     {
