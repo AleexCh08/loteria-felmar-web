@@ -78,6 +78,12 @@
         "date": "2026-10-01"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "16 - Oso",
+        "date": "2026-10-01"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "19 - Chivo",
@@ -123,6 +129,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "68 - Jaguar",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "70 - Bisonte",
         "date": "2026-10-01"
     },
     {
@@ -198,6 +210,12 @@
         "date": "2026-10-01"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "46 - Puma",
+        "date": "2026-10-01"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "08 - Raton",
@@ -207,6 +225,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "09 - Aguila",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "39 - Lechuza",
         "date": "2026-10-01"
     },
     {
