@@ -36,6 +36,24 @@
         "date": "2026-10-01"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "154 A",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "519 B",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "621 C",
+        "date": "2026-10-01"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "7 - Perico",
@@ -51,6 +69,12 @@
         "lottery": "Lotto Activo",
         "time": "10:00 AM",
         "result": "17 - Pavo",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "8 - Raton",
         "date": "2026-10-01"
     },
     {
@@ -72,6 +96,12 @@
         "date": "2026-10-01"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "9 - Aguila",
+        "date": "2026-10-01"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -87,6 +117,12 @@
         "lottery": "Guacharo",
         "time": "10:00 AM",
         "result": "21 - Gallo",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "68 - Jaguar",
         "date": "2026-10-01"
     },
     {
@@ -141,6 +177,24 @@
         "lottery": "Lotto Chaima",
         "time": "10:00 AM",
         "result": "45 - Garza",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "08 - Raton",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "09 - Aguila",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "70 - Bisonte",
         "date": "2026-10-01"
     }
 ]
