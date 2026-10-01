@@ -162,6 +162,42 @@
         "date": "2026-10-01"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "287 A",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "881 C",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "748 A",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "488 C",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "832 A",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "357 C",
+        "date": "2026-10-01"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "7 - Perico",
@@ -324,6 +360,12 @@
         "date": "2026-10-01"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "45 - Garza",
+        "date": "2026-10-01"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "58 - Hormiga",
@@ -357,6 +399,12 @@
         "lottery": "Selva Plus",
         "time": "01:15 PM",
         "result": "87 - Cabra",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "02:15 PM",
+        "result": "55 - Oso Hormiguero",
         "date": "2026-10-01"
     },
     {
@@ -417,6 +465,42 @@
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "093 C",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "44 - Chiguire",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "08 - Raton",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "09 - Aguila",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "39 - Lechuza",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "62 - Cachicamo",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "70 - Bisonte",
         "date": "2026-10-01"
     }
 ]
