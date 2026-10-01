@@ -126,6 +126,24 @@
         "date": "2026-10-01"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "963 A",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "782 B",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "642 C",
+        "date": "2026-10-01"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "398 A",
@@ -318,6 +336,12 @@
         "date": "2026-10-01"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "29 - Elefante",
+        "date": "2026-10-01"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -420,6 +444,12 @@
         "date": "2026-10-01"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "37 - Tortuga",
+        "date": "2026-10-01"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "58 - Hormiga",
@@ -465,6 +495,12 @@
         "lottery": "Selva Plus",
         "time": "03:15 PM",
         "result": "42 - Tucan",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "04:15 PM",
+        "result": "96 - Caballito De Mar",
         "date": "2026-10-01"
     },
     {
@@ -573,6 +609,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "72 - Gorila",
+        "date": "2026-10-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "18 - Burro",
         "date": "2026-10-01"
     },
     {
