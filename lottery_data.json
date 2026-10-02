@@ -252,6 +252,12 @@
         "date": "2026-10-02"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "31 - Lapa",
+        "date": "2026-10-02"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "46 - Puma",
@@ -330,6 +336,12 @@
         "date": "2026-10-02"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "60 - Camaleon",
+        "date": "2026-10-02"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "1 - Carnero",
@@ -363,6 +375,12 @@
         "lottery": "Selva Plus",
         "time": "01:15 PM",
         "result": "39 - Lechuza",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "02:15 PM",
+        "result": "84 - Camaron",
         "date": "2026-10-02"
     },
     {
