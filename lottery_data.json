@@ -1,59 +1,5 @@
 [
     {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "386 A",
-        "date": "2026-10-02"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "574 B",
-        "date": "2026-10-02"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "919 C",
-        "date": "2026-10-02"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "804 A",
-        "date": "2026-10-02"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "666 B",
-        "date": "2026-10-02"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "431 C",
-        "date": "2026-10-02"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "022 A",
-        "date": "2026-10-02"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "461 B",
-        "date": "2026-10-02"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "593 C",
-        "date": "2026-10-02"
-    },
-    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "24 - Iguana",
@@ -75,6 +21,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "8 - Raton",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "19 - Chivo",
         "date": "2026-10-02"
     },
     {
@@ -123,6 +75,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "0 - Delfin",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "55 - Oso Hormiguero",
         "date": "2026-10-02"
     },
     {
@@ -195,6 +153,36 @@
         "lottery": "Lotto Chaima",
         "time": "11:00 AM",
         "result": "8 - Raton",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "41 - Canguro",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "31 - Lapa",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "27 - Perro",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "61 - Panda",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "01 - Carnero",
         "date": "2026-10-02"
     }
 ]
