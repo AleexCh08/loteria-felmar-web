@@ -1,5 +1,89 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "386 A",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "574 B",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "919 C",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "804 A",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "666 B",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "431 C",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "022 A",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "461 B",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "593 C",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "012 A",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "946 B",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "172 C",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "146 A",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "484 C",
+        "date": "2026-10-02"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "24 - Iguana",
@@ -51,6 +135,12 @@
         "lottery": "Granjita",
         "time": "11:00 AM",
         "result": "14 - Paloma",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "3 - Ciempies",
         "date": "2026-10-02"
     },
     {
@@ -108,6 +198,12 @@
         "date": "2026-10-02"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "22 - Camello",
+        "date": "2026-10-02"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "1 - Carnero",
@@ -129,6 +225,12 @@
         "lottery": "Selva Plus",
         "time": "11:15 AM",
         "result": "95 - Escarabajo",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "12:15 PM",
+        "result": "51 - Pelicano",
         "date": "2026-10-02"
     },
     {
