@@ -180,6 +180,24 @@
         "date": "2026-10-02"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "065 A",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "121 B",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "479 C",
+        "date": "2026-10-02"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "067 A",
@@ -468,6 +486,12 @@
         "date": "2026-10-02"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "19 - Chivo",
+        "date": "2026-10-02"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "46 - Puma",
@@ -531,6 +555,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "38 - Bufalo",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "45 - Garza",
         "date": "2026-10-02"
     },
     {
@@ -732,42 +762,6 @@
         "date": "2026-10-02"
     },
     {
-        "lottery": "Triple Tachira",
-        "time": "01:15 PM",
-        "result": "345 A",
-        "date": "2026-10-02"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "01:15 PM",
-        "result": "108 B",
-        "date": "2026-10-02"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "01:15 PM",
-        "result": "581 C",
-        "date": "2026-10-02"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "04:45 PM",
-        "result": "239 A",
-        "date": "2026-10-02"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "04:45 PM",
-        "result": "116 B",
-        "date": "2026-10-02"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "04:45 PM",
-        "result": "020 C",
-        "date": "2026-10-02"
-    },
-    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "33 - Pescado",
@@ -819,6 +813,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "50 - Canario",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "25 - Gallina",
         "date": "2026-10-02"
     },
     {
