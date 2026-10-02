@@ -258,6 +258,12 @@
         "date": "2026-10-02"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "7 - Perico",
+        "date": "2026-10-02"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "33 - Pescado",
@@ -303,6 +309,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "7 - Perico",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "5 - Leon",
         "date": "2026-10-02"
     },
     {
@@ -408,6 +420,12 @@
         "date": "2026-10-02"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "64 - Gavilan",
+        "date": "2026-10-02"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "1 - Carnero",
@@ -447,6 +465,18 @@
         "lottery": "Selva Plus",
         "time": "02:15 PM",
         "result": "84 - Camaron",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "03:15 PM",
+        "result": "81 - Cuervo",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "04:15 PM",
+        "result": "52 - Pulpo",
         "date": "2026-10-02"
     },
     {
@@ -555,6 +585,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "16 - Oso",
+        "date": "2026-10-02"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "56 - Tiburon",
         "date": "2026-10-02"
     },
     {
