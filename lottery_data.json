@@ -72,6 +72,24 @@
         "date": "2026-10-03"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "263 A",
+        "date": "2026-10-03"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "159 B",
+        "date": "2026-10-03"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "428 C",
+        "date": "2026-10-03"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "269 A",
@@ -183,6 +201,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "50 - Canario",
+        "date": "2026-10-03"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "35 - Jirafa",
         "date": "2026-10-03"
     },
     {
