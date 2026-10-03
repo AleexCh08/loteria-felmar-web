@@ -180,6 +180,24 @@
         "date": "2026-10-03"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "526 A",
+        "date": "2026-10-03"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "902 B",
+        "date": "2026-10-03"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "339 C",
+        "date": "2026-10-03"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "786 A",
@@ -354,6 +372,18 @@
         "date": "2026-10-03"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "201 A",
+        "date": "2026-10-03"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "084 C",
+        "date": "2026-10-03"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "11 - Gato",
@@ -417,6 +447,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "2 - Toro",
+        "date": "2026-10-03"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "19 - Chivo",
         "date": "2026-10-03"
     },
     {
@@ -630,6 +666,12 @@
         "date": "2026-10-03"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "88 - Erizo De Mar",
+        "date": "2026-10-03"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "60 - Camaleon",
@@ -696,6 +738,12 @@
         "date": "2026-10-03"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:15 PM",
+        "result": "92 - Cisne",
+        "date": "2026-10-03"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "37 - Tortuga",
@@ -759,6 +807,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "0 - Delfin",
+        "date": "2026-10-03"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "16 - Oso",
         "date": "2026-10-03"
     },
     {
