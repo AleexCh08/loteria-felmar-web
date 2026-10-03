@@ -282,6 +282,12 @@
         "date": "2026-10-03"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "0 - Delfin",
+        "date": "2026-10-03"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "4 - Alacran",
@@ -327,6 +333,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "1 - Carnero",
+        "date": "2026-10-03"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "7 - Perico",
         "date": "2026-10-03"
     },
     {
@@ -432,6 +444,12 @@
         "date": "2026-10-03"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "55 - Oso Hormiguero",
+        "date": "2026-10-03"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "60 - Camaleon",
@@ -477,6 +495,12 @@
         "lottery": "Selva Plus",
         "time": "03:15 PM",
         "result": "15 - Zorro",
+        "date": "2026-10-03"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "04:15 PM",
+        "result": "94 - Paujil",
         "date": "2026-10-03"
     },
     {
@@ -549,48 +573,6 @@
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "680 C",
-        "date": "2026-10-03"
-    },
-    {
-        "lottery": "Condor",
-        "time": "01:00 PM",
-        "result": "15 - Zorro",
-        "date": "2026-10-03"
-    },
-    {
-        "lottery": "Condor",
-        "time": "10:00 AM",
-        "result": "33 - Pescado",
-        "date": "2026-10-03"
-    },
-    {
-        "lottery": "Condor",
-        "time": "11:00 AM",
-        "result": "46 - Puma",
-        "date": "2026-10-03"
-    },
-    {
-        "lottery": "Condor",
-        "time": "12:00 PM",
-        "result": "43 - Mariposa",
-        "date": "2026-10-03"
-    },
-    {
-        "lottery": "Condor",
-        "time": "02:00 PM",
-        "result": "26 - Vaca",
-        "date": "2026-10-03"
-    },
-    {
-        "lottery": "Condor",
-        "time": "03:00 PM",
-        "result": "70 - Bisonte",
-        "date": "2026-10-03"
-    },
-    {
-        "lottery": "Condor",
-        "time": "09:00 AM",
-        "result": "14 - Paloma",
         "date": "2026-10-03"
     }
 ]
