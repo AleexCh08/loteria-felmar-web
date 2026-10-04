@@ -342,6 +342,12 @@
         "date": "2026-10-04"
     },
     {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-10-04"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "37 - Tortuga",
@@ -522,6 +528,12 @@
         "date": "2026-10-04"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "39 - Lechuza",
+        "date": "2026-10-04"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "18 - Burro",
@@ -567,6 +579,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "05 - Leon",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "29 - Elefante",
         "date": "2026-10-04"
     },
     {
