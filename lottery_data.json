@@ -198,6 +198,72 @@
         "date": "2026-10-04"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "193 A",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "223 B",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "273 C",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "765 A",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "357 B",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "541 C",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "285 A",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "359 B",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "566 C",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "657 A",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "096 C",
+        "date": "2026-10-04"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "31 - Lapa",
@@ -264,6 +330,12 @@
         "date": "2026-10-04"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "6 - Rana",
+        "date": "2026-10-04"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -327,6 +399,12 @@
         "lottery": "Granjita",
         "time": "06:00 PM",
         "result": "21 - Gallo",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-10-04"
     },
     {
@@ -468,6 +546,12 @@
         "date": "2026-10-04"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "61 - Panda",
+        "date": "2026-10-04"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "90 - Huron",
@@ -531,6 +615,12 @@
         "lottery": "Selva Plus",
         "time": "06:15 PM",
         "result": "48 - Puercoespin",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "07:15 PM",
+        "result": "7 - Perico",
         "date": "2026-10-04"
     },
     {
