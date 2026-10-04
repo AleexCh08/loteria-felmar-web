@@ -54,6 +54,12 @@
         "date": "2026-10-04"
     },
     {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "34 - Venado",
+        "date": "2026-10-04"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "37 - Tortuga",
@@ -87,6 +93,18 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "48 - Puercoespin",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "34 - Venado",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "0 - Delfin",
         "date": "2026-10-04"
     },
     {
