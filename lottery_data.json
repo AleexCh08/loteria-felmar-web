@@ -120,6 +120,12 @@
         "date": "2026-10-04"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "14 - Paloma",
+        "date": "2026-10-04"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -222,6 +228,12 @@
         "date": "2026-10-04"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "53 - Caracol",
+        "date": "2026-10-04"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "90 - Huron",
@@ -249,6 +261,12 @@
         "lottery": "Selva Plus",
         "time": "12:15 PM",
         "result": "78 - Antilope",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:15 PM",
+        "result": "86 - Buey",
         "date": "2026-10-04"
     },
     {
@@ -285,6 +303,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "36 - Culebra",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "18 - Burro",
         "date": "2026-10-04"
     },
     {
