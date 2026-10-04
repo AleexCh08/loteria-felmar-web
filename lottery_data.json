@@ -36,6 +36,24 @@
         "date": "2026-10-04"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "982 A",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "491 B",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "267 C",
+        "date": "2026-10-04"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "31 - Lapa",
@@ -87,6 +105,12 @@
         "lottery": "Guacharo",
         "time": "10:00 AM",
         "result": "34 - Venado",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "70 - Bisonte",
         "date": "2026-10-04"
     },
     {
@@ -144,9 +168,21 @@
         "date": "2026-10-04"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "11:00 AM",
+        "result": "46 - Puma",
+        "date": "2026-10-04"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "0 - Delfin",
+        "date": "2026-10-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "47 - Pavoreal",
         "date": "2026-10-04"
     },
     {
