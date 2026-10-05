@@ -1,5 +1,41 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "777 A",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "032 B",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "143 C",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "044 A",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "715 B",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "590 C",
+        "date": "2026-10-05"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "11 - Gato",
@@ -9,6 +45,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "0 - Delfin",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "9 - Aguila",
         "date": "2026-10-05"
     },
     {
@@ -33,6 +75,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "55 - Oso Hormiguero",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "12 - Caballo",
         "date": "2026-10-05"
     },
     {
@@ -69,6 +117,18 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "29 - Elefante",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "55 - Oso Hormiguero",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "02 - Toro",
         "date": "2026-10-05"
     },
     {
