@@ -534,6 +534,12 @@
         "date": "2026-10-05"
     },
     {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "7 - Perico",
+        "date": "2026-10-05"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "26 - Vaca",
@@ -819,6 +825,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "66 - Lobo",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "20 - Cochino",
         "date": "2026-10-05"
     },
     {
