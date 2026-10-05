@@ -108,6 +108,12 @@
         "date": "2026-10-05"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "9 - Aguila",
+        "date": "2026-10-05"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "19 - Chivo",
@@ -150,6 +156,12 @@
         "date": "2026-10-05"
     },
     {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "54 - Grillo",
+        "date": "2026-10-05"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "94 - Paujil",
@@ -165,6 +177,12 @@
         "lottery": "Selva Plus",
         "time": "10:15 AM",
         "result": "38 - Bufalo",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "11:15 AM",
+        "result": "64 - Gavilan",
         "date": "2026-10-05"
     },
     {
