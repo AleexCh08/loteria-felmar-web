@@ -180,6 +180,24 @@
         "date": "2026-10-05"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "160 A",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "896 B",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "221 C",
+        "date": "2026-10-05"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "782 A",
@@ -213,6 +231,24 @@
         "lottery": "Triple Zulia",
         "time": "04:45 PM",
         "result": "567 C",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "271 A",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "506 B",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "250 C",
         "date": "2026-10-05"
     },
     {
@@ -252,6 +288,24 @@
         "date": "2026-10-05"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "970 A",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "095 B",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "069 C",
+        "date": "2026-10-05"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "625 A",
@@ -285,6 +339,24 @@
         "lottery": "Triple Caliente",
         "time": "04:30 PM",
         "result": "723 C",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "308 A",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "006 B",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "066 C",
         "date": "2026-10-05"
     },
     {
@@ -333,6 +405,18 @@
         "lottery": "Triple Zamorano",
         "time": "04:00 PM",
         "result": "613 C",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "860 A",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "074 C",
         "date": "2026-10-05"
     },
     {
@@ -402,6 +486,12 @@
         "date": "2026-10-05"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-10-05"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "11 - Gato",
@@ -465,6 +555,12 @@
         "lottery": "Granjita",
         "time": "06:00 PM",
         "result": "35 - Jirafa",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "1 - Carnero",
         "date": "2026-10-05"
     },
     {
@@ -606,6 +702,12 @@
         "date": "2026-10-05"
     },
     {
+        "lottery": "Guacharito",
+        "time": "07:30 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-10-05"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "94 - Paujil",
@@ -672,6 +774,12 @@
         "date": "2026-10-05"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "07:15 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-10-05"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "43 - Mariposa",
@@ -735,6 +843,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "14 - Paloma",
+        "date": "2026-10-05"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "49 - Pereza",
         "date": "2026-10-05"
     },
     {
