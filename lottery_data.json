@@ -84,6 +84,18 @@
         "date": "2026-10-06"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "016 A",
+        "date": "2026-10-06"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "331 C",
+        "date": "2026-10-06"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "19 - Chivo",
@@ -198,6 +210,12 @@
         "date": "2026-10-06"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "68 - Jaguar",
+        "date": "2026-10-06"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "91 - Morrocoy",
@@ -222,6 +240,12 @@
         "date": "2026-10-06"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "12:15 PM",
+        "result": "94 - Paujil",
+        "date": "2026-10-06"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "53 - Caracol",
@@ -243,6 +267,12 @@
         "lottery": "Lotto Chaima",
         "time": "11:00 AM",
         "result": "48 - Puercoespin",
+        "date": "2026-10-06"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "3 - Ciempies",
         "date": "2026-10-06"
     },
     {
