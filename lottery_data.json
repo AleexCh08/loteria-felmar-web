@@ -180,6 +180,24 @@
         "date": "2026-10-06"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "343 A",
+        "date": "2026-10-06"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "820 B",
+        "date": "2026-10-06"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "230 C",
+        "date": "2026-10-06"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "986 A",
@@ -354,6 +372,12 @@
         "date": "2026-10-06"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "26 - Vaca",
+        "date": "2026-10-06"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -405,6 +429,12 @@
         "lottery": "Granjita",
         "time": "04:00 PM",
         "result": "29 - Elefante",
+        "date": "2026-10-06"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "22 - Camello",
         "date": "2026-10-06"
     },
     {
@@ -522,6 +552,12 @@
         "date": "2026-10-06"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "64 - Gavilan",
+        "date": "2026-10-06"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "91 - Morrocoy",
@@ -576,6 +612,12 @@
         "date": "2026-10-06"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:15 PM",
+        "result": "17 - Pavo",
+        "date": "2026-10-06"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "53 - Caracol",
@@ -627,6 +669,12 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "45 - Garza",
+        "date": "2026-10-06"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "36 - Culebra",
         "date": "2026-10-06"
     },
     {
