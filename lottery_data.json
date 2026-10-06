@@ -396,6 +396,12 @@
         "date": "2026-10-06"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "19 - Chivo",
+        "date": "2026-10-06"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -453,6 +459,12 @@
         "lottery": "Granjita",
         "time": "05:00 PM",
         "result": "22 - Camello",
+        "date": "2026-10-06"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "20 - Cochino",
         "date": "2026-10-06"
     },
     {
@@ -516,6 +528,12 @@
         "date": "2026-10-06"
     },
     {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "48 - Puercoespin",
+        "date": "2026-10-06"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "80 - Murcielago",
@@ -573,6 +591,12 @@
         "lottery": "Guacharito",
         "time": "05:30 PM",
         "result": "64 - Gavilan",
+        "date": "2026-10-06"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "23 - Cebra",
         "date": "2026-10-06"
     },
     {
@@ -636,6 +660,12 @@
         "date": "2026-10-06"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "06:15 PM",
+        "result": "12 - Caballo",
+        "date": "2026-10-06"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "53 - Caracol",
@@ -693,6 +723,12 @@
         "lottery": "Lotto Chaima",
         "time": "05:00 PM",
         "result": "36 - Culebra",
+        "date": "2026-10-06"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "21 - Gallo",
         "date": "2026-10-06"
     },
     {
