@@ -498,6 +498,12 @@
         "date": "2026-10-07"
     },
     {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "44 - Chiguire",
+        "date": "2026-10-07"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "92 - Cisne",
@@ -678,6 +684,12 @@
         "date": "2026-10-07"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-10-07"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "027 A",
@@ -759,6 +771,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "69 - Conejo",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "38 - Bufalo",
         "date": "2026-10-07"
     },
     {
