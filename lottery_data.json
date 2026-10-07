@@ -144,6 +144,24 @@
         "date": "2026-10-07"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "704 A",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "190 B",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "013 C",
+        "date": "2026-10-07"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "179 A",
@@ -195,6 +213,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "236 C",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "251 A",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "162 B",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "305 C",
         "date": "2026-10-07"
     },
     {
@@ -354,6 +390,12 @@
         "date": "2026-10-07"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "34 - Venado",
+        "date": "2026-10-07"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "68 - Jaguar",
@@ -405,6 +447,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "20 - Cochino",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "36 - Culebra",
         "date": "2026-10-07"
     },
     {
@@ -588,6 +636,24 @@
         "date": "2026-10-07"
     },
     {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "915 A",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "661 B",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "249 C",
+        "date": "2026-10-07"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "54 - Grillo",
@@ -627,6 +693,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "45 - Garza",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "69 - Conejo",
         "date": "2026-10-07"
     },
     {
