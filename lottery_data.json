@@ -72,6 +72,24 @@
         "date": "2026-10-07"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "179 A",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "902 B",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "356 C",
+        "date": "2026-10-07"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "587 A",
@@ -123,6 +141,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "26 - Vaca",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "7 - Perico",
         "date": "2026-10-07"
     },
     {
@@ -183,6 +207,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "29 - Elefante",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "12 - Caballo",
         "date": "2026-10-07"
     },
     {
