@@ -138,6 +138,12 @@
         "date": "2026-10-07"
     },
     {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "29 - Elefante",
+        "date": "2026-10-07"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "92 - Cisne",
@@ -210,6 +216,12 @@
         "date": "2026-10-07"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "30 - Caiman",
+        "date": "2026-10-07"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "05 - Leon",
@@ -219,6 +231,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "17 - Pavo",
+        "date": "2026-10-07"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "57 - Pato",
         "date": "2026-10-07"
     },
     {
