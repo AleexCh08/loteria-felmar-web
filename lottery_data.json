@@ -60,9 +60,21 @@
         "date": "2026-10-08"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "9 - Aguila",
+        "date": "2026-10-08"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "95 - Escarabajo",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "09:15 AM",
+        "result": "41 - Canguro",
         "date": "2026-10-08"
     },
     {
