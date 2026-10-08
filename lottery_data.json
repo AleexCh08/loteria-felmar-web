@@ -72,6 +72,24 @@
         "date": "2026-10-08"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "751 A",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "902 B",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "140 C",
+        "date": "2026-10-08"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "098 A",
@@ -87,6 +105,24 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "145 C",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "735 A",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "946 B",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "562 C",
         "date": "2026-10-08"
     },
     {
@@ -252,6 +288,12 @@
         "date": "2026-10-08"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "60 - Camaleon",
+        "date": "2026-10-08"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "95 - Escarabajo",
@@ -279,6 +321,12 @@
         "lottery": "Selva Plus",
         "time": "12:15 PM",
         "result": "96 - Caballito De Mar",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:15 PM",
+        "result": "37 - Tortuga",
         "date": "2026-10-08"
     },
     {
@@ -315,6 +363,30 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "22 - Camello",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "035 A",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "028 B",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "978 C",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "64 - Gavilan",
         "date": "2026-10-08"
     },
     {
