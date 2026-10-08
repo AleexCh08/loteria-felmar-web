@@ -72,6 +72,24 @@
         "date": "2026-10-08"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "098 A",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "652 B",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "145 C",
+        "date": "2026-10-08"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "911 A",
@@ -126,6 +144,12 @@
         "date": "2026-10-08"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-10-08"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -156,6 +180,12 @@
         "date": "2026-10-08"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "8 - Raton",
+        "date": "2026-10-08"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -183,6 +213,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "46 - Puma",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "7 - Perico",
         "date": "2026-10-08"
     },
     {
@@ -273,6 +309,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "12 - Caballo",
+        "date": "2026-10-08"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "22 - Camello",
         "date": "2026-10-08"
     },
     {
