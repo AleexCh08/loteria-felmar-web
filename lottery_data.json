@@ -186,6 +186,18 @@
         "date": "2026-10-09"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "150 A",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "582 C",
+        "date": "2026-10-09"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "31 - Lapa",
@@ -222,6 +234,12 @@
         "date": "2026-10-09"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-10-09"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -255,6 +273,12 @@
         "lottery": "Granjita",
         "time": "01:00 PM",
         "result": "18 - Burro",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "1 - Carnero",
         "date": "2026-10-09"
     },
     {
@@ -336,6 +360,12 @@
         "date": "2026-10-09"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "84 - Camaron",
+        "date": "2026-10-09"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "6 - Rana",
@@ -363,6 +393,12 @@
         "lottery": "Selva Plus",
         "time": "01:15 PM",
         "result": "94 - Paujil",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "02:15 PM",
+        "result": "91 - Morrocoy",
         "date": "2026-10-09"
     },
     {
