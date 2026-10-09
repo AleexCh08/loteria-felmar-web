@@ -60,9 +60,21 @@
         "date": "2026-10-09"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "34 - Venado",
+        "date": "2026-10-09"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "6 - Rana",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "09:15 AM",
+        "result": "79 - Calamar",
         "date": "2026-10-09"
     },
     {
