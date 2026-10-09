@@ -372,6 +372,12 @@
         "date": "2026-10-09"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "29 - Elefante",
+        "date": "2026-10-09"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -423,6 +429,12 @@
         "lottery": "Granjita",
         "time": "04:00 PM",
         "result": "22 - Camello",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "3 - Ciempies",
         "date": "2026-10-09"
     },
     {
@@ -540,6 +552,12 @@
         "date": "2026-10-09"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "7 - Perico",
+        "date": "2026-10-09"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "6 - Rana",
@@ -585,6 +603,12 @@
         "lottery": "Selva Plus",
         "time": "04:15 PM",
         "result": "18 - Burro",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "05:15 PM",
+        "result": "76 - Rinoceronte",
         "date": "2026-10-09"
     },
     {
@@ -639,6 +663,12 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "31 - Lapa",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "43 - Mariposa",
         "date": "2026-10-09"
     },
     {
