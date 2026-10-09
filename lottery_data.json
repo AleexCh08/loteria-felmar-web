@@ -18,6 +18,36 @@
         "date": "2026-10-09"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "358 A",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "792 B",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "428 C",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "875 A",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "905 C",
+        "date": "2026-10-09"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "31 - Lapa",
@@ -30,6 +60,12 @@
         "date": "2026-10-09"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "11 - Gato",
+        "date": "2026-10-09"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -39,6 +75,12 @@
         "lottery": "Granjita",
         "time": "09:00 AM",
         "result": "6 - Rana",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "11 - Gato",
         "date": "2026-10-09"
     },
     {
@@ -72,6 +114,12 @@
         "date": "2026-10-09"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "89 - Anguila",
+        "date": "2026-10-09"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "6 - Rana",
@@ -81,6 +129,12 @@
         "lottery": "Selva Plus",
         "time": "09:15 AM",
         "result": "79 - Calamar",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:15 AM",
+        "result": "25 - Gallina",
         "date": "2026-10-09"
     },
     {
