@@ -54,6 +54,12 @@
         "date": "2026-10-09"
     },
     {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "44 - Chiguire",
+        "date": "2026-10-09"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "42 - Tucan",
@@ -87,6 +93,18 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "11 - Gato",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "52 - Pulpo",
+        "date": "2026-10-09"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "44 - Chiguire",
         "date": "2026-10-09"
     },
     {
