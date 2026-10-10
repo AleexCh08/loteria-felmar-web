@@ -138,6 +138,12 @@
         "date": "2026-10-10"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "30 - Caiman",
+        "date": "2026-10-10"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "7 - Perico",
@@ -192,6 +198,12 @@
         "date": "2026-10-10"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "38 - Bufalo",
+        "date": "2026-10-10"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "3 - Ciempies",
@@ -216,6 +228,12 @@
         "date": "2026-10-10"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "12:15 PM",
+        "result": "97 - Loro",
+        "date": "2026-10-10"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "21 - Gallo",
@@ -237,6 +255,12 @@
         "lottery": "Lotto Chaima",
         "time": "11:00 AM",
         "result": "00 - Ballena",
+        "date": "2026-10-10"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "49 - Pereza",
         "date": "2026-10-10"
     },
     {
