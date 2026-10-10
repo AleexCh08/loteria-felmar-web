@@ -222,6 +222,12 @@
         "date": "2026-10-10"
     },
     {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "23 - Cebra",
+        "date": "2026-10-10"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "25 - Gallina",
@@ -369,6 +375,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "23 - Cebra",
+        "date": "2026-10-10"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "73 - Hipopotamo",
         "date": "2026-10-10"
     },
     {
