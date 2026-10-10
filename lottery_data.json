@@ -126,6 +126,24 @@
         "date": "2026-10-10"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "856 A",
+        "date": "2026-10-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "123 B",
+        "date": "2026-10-10"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "495 C",
+        "date": "2026-10-10"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "782 A",
@@ -264,6 +282,12 @@
         "date": "2026-10-10"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "1 - Carnero",
+        "date": "2026-10-10"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -357,6 +381,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "29 - Elefante",
+        "date": "2026-10-10"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "54 - Grillo",
         "date": "2026-10-10"
     },
     {
@@ -501,6 +531,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "17 - Pavo",
+        "date": "2026-10-10"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "53 - Caracol",
         "date": "2026-10-10"
     },
     {
