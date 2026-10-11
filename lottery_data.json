@@ -192,6 +192,12 @@
         "date": "2026-10-11"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "34 - Venado",
+        "date": "2026-10-11"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "30 - Caiman",
@@ -348,6 +354,12 @@
         "date": "2026-10-11"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "58 - Hormiga",
+        "date": "2026-10-11"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "88 - Erizo De Mar",
@@ -393,6 +405,12 @@
         "lottery": "Selva Plus",
         "time": "03:15 PM",
         "result": "9 - Aguila",
+        "date": "2026-10-11"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "04:15 PM",
+        "result": "93 - Gaviota",
         "date": "2026-10-11"
     },
     {
@@ -483,6 +501,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "29 - Elefante",
+        "date": "2026-10-11"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "48 - Puercoespin",
         "date": "2026-10-11"
     },
     {
