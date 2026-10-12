@@ -90,6 +90,24 @@
         "date": "2026-10-12"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "450 A",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "668 B",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "329 C",
+        "date": "2026-10-12"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "978 A",
@@ -105,6 +123,42 @@
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "762 C",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "167 A",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "006 B",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "776 C",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "352 A",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "685 B",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "889 C",
         "date": "2026-10-12"
     },
     {
@@ -165,6 +219,12 @@
         "lottery": "Lotto Activo",
         "time": "01:00 PM",
         "result": "19 - Chivo",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "27 - Perro",
         "date": "2026-10-12"
     },
     {
@@ -237,6 +297,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "35 - Jirafa",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "49 - Pereza",
         "date": "2026-10-12"
     },
     {
@@ -348,6 +414,12 @@
         "date": "2026-10-12"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "42 - Tucan",
+        "date": "2026-10-12"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "463 A",
@@ -387,6 +459,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "69 - Conejo",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "23 - Cebra",
         "date": "2026-10-12"
     },
     {
