@@ -36,6 +36,18 @@
         "date": "2026-10-12"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "942 A",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "316 C",
+        "date": "2026-10-12"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -63,6 +75,12 @@
         "lottery": "Granjita",
         "time": "09:00 AM",
         "result": "28 - Zamuro",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "9 - Aguila",
         "date": "2026-10-12"
     },
     {
@@ -96,6 +114,12 @@
         "date": "2026-10-12"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "6 - Rana",
+        "date": "2026-10-12"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "97 - Loro",
@@ -105,6 +129,12 @@
         "lottery": "Selva Plus",
         "time": "09:15 AM",
         "result": "85 - Hamster",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:15 AM",
+        "result": "55 - Oso Hormiguero",
         "date": "2026-10-12"
     },
     {
