@@ -72,6 +72,24 @@
         "date": "2026-10-12"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "056 A",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "803 B",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "594 C",
+        "date": "2026-10-12"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "978 A",
@@ -180,6 +198,12 @@
         "date": "2026-10-12"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-10-12"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "40 - Avispa",
@@ -246,6 +270,12 @@
         "date": "2026-10-12"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "81 - Cuervo",
+        "date": "2026-10-12"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "97 - Loro",
@@ -273,6 +303,12 @@
         "lottery": "Selva Plus",
         "time": "12:15 PM",
         "result": "53 - Caracol",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:15 PM",
+        "result": "1 - Carnero",
         "date": "2026-10-12"
     },
     {
@@ -309,6 +345,30 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "23 - Cebra",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "463 A",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "689 B",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "345 C",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "13 - Mono",
         "date": "2026-10-12"
     },
     {
