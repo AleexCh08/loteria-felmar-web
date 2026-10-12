@@ -1,8 +1,32 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "582 A",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "092 B",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "347 C",
+        "date": "2026-10-12"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "25 - Gallina",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "34 - Venado",
         "date": "2026-10-12"
     },
     {
@@ -12,9 +36,21 @@
         "date": "2026-10-12"
     },
     {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "28 - Zamuro",
+        "date": "2026-10-12"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "40 - Avispa",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "09:00 AM",
+        "result": "39 - Lechuza",
         "date": "2026-10-12"
     },
     {
@@ -33,6 +69,18 @@
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "28 - Zamuro",
+        "date": "2026-10-12"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "45 - Garza",
         "date": "2026-10-12"
     }
 ]
