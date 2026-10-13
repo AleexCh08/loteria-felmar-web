@@ -18,6 +18,24 @@
         "date": "2026-10-13"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "378 A",
+        "date": "2026-10-13"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "746 B",
+        "date": "2026-10-13"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "984 C",
+        "date": "2026-10-13"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "28 - Zamuro",
@@ -54,6 +72,12 @@
         "date": "2026-10-13"
     },
     {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "29 - Elefante",
+        "date": "2026-10-13"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "72 - Gorila",
@@ -87,6 +111,18 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "51 - Pelicano",
+        "date": "2026-10-13"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "7 - Perico",
+        "date": "2026-10-13"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "21 - Gallo",
         "date": "2026-10-13"
     },
     {
