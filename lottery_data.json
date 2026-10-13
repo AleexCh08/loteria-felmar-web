@@ -372,6 +372,12 @@
         "date": "2026-10-13"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "11 - Gato",
+        "date": "2026-10-13"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -546,6 +552,12 @@
         "date": "2026-10-13"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "56 - Tiburon",
+        "date": "2026-10-13"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "46 - Puma",
@@ -600,6 +612,12 @@
         "date": "2026-10-13"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:15 PM",
+        "result": "58 - Hormiga",
+        "date": "2026-10-13"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -651,6 +669,12 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "25 - Gallina",
+        "date": "2026-10-13"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "24 - Iguana",
         "date": "2026-10-13"
     },
     {
