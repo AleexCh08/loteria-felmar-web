@@ -186,6 +186,12 @@
         "date": "2026-10-14"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "79 - Calamar",
+        "date": "2026-10-14"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "85 - Hamster",
@@ -207,6 +213,12 @@
         "lottery": "Selva Plus",
         "time": "11:15 AM",
         "result": "80 - Murcielago",
+        "date": "2026-10-14"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "12:15 PM",
+        "result": "86 - Buey",
         "date": "2026-10-14"
     },
     {
