@@ -264,6 +264,12 @@
         "date": "2026-10-14"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "25 - Gallina",
+        "date": "2026-10-14"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "39 - Lechuza",
@@ -309,6 +315,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "67 - Avestruz",
+        "date": "2026-10-14"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "7 - Perico",
         "date": "2026-10-14"
     },
     {
@@ -453,6 +465,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "00 - Ballena",
+        "date": "2026-10-14"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "50 - Canario",
         "date": "2026-10-14"
     },
     {
