@@ -126,6 +126,24 @@
         "date": "2026-10-15"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "921 A",
+        "date": "2026-10-15"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "481 B",
+        "date": "2026-10-15"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "299 C",
+        "date": "2026-10-15"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "649 A",
@@ -216,6 +234,18 @@
         "date": "2026-10-15"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "958 A",
+        "date": "2026-10-15"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "691 C",
+        "date": "2026-10-15"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "31 - Lapa",
@@ -261,6 +291,12 @@
         "lottery": "Lotto Activo",
         "time": "03:00 PM",
         "result": "4 - Alacran",
+        "date": "2026-10-15"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "34 - Venado",
         "date": "2026-10-15"
     },
     {
@@ -420,6 +456,12 @@
         "date": "2026-10-15"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "22 - Camello",
+        "date": "2026-10-15"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "52 - Pulpo",
@@ -468,6 +510,12 @@
         "date": "2026-10-15"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:15 PM",
+        "result": "14 - Paloma",
+        "date": "2026-10-15"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "50 - Canario",
@@ -513,6 +561,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "53 - Caracol",
+        "date": "2026-10-15"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "20 - Cochino",
         "date": "2026-10-15"
     },
     {
@@ -567,6 +621,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "05 - Leon",
+        "date": "2026-10-15"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-10-15"
     },
     {
