@@ -1,8 +1,32 @@
 [
     {
+        "lottery": "Lotto Activo",
+        "time": "08:00 AM",
+        "result": "31 - Lapa",
+        "date": "2026-10-15"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "08:00 AM",
+        "result": "00 - Ballena",
+        "date": "2026-10-15"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "24 - Iguana",
+        "date": "2026-10-15"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "08:30 AM",
+        "result": "38 - Bufalo",
+        "date": "2026-10-15"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "08:15 AM",
+        "result": "52 - Pulpo",
         "date": "2026-10-15"
     },
     {
