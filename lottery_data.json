@@ -312,6 +312,12 @@
         "date": "2026-10-15"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "34 - Venado",
+        "date": "2026-10-15"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "24 - Iguana",
@@ -357,6 +363,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "18 - Burro",
+        "date": "2026-10-15"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "63 - Cangrejo",
         "date": "2026-10-15"
     },
     {
