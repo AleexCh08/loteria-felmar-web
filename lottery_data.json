@@ -60,9 +60,21 @@
         "date": "2026-10-15"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "71 - Guacamaya",
+        "date": "2026-10-15"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "52 - Pulpo",
+        "date": "2026-10-15"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "09:15 AM",
+        "result": "1 - Carnero",
         "date": "2026-10-15"
     },
     {
