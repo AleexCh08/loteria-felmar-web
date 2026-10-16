@@ -180,6 +180,24 @@
         "date": "2026-10-16"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "525 A",
+        "date": "2026-10-16"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "082 B",
+        "date": "2026-10-16"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "235 C",
+        "date": "2026-10-16"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "724 A",
@@ -336,6 +354,18 @@
         "date": "2026-10-16"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "698 A",
+        "date": "2026-10-16"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "237 C",
+        "date": "2026-10-16"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -468,6 +498,12 @@
         "date": "2026-10-16"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "20 - Cochino",
+        "date": "2026-10-16"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "27 - Perro",
@@ -531,6 +567,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "50 - Canario",
+        "date": "2026-10-16"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "29 - Elefante",
         "date": "2026-10-16"
     },
     {
@@ -819,6 +861,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "56 - Tiburon",
+        "date": "2026-10-16"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "07 - Perico",
         "date": "2026-10-16"
     },
     {
