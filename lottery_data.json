@@ -36,6 +36,24 @@
         "date": "2026-10-17"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "435 A",
+        "date": "2026-10-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "172 B",
+        "date": "2026-10-17"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "348 C",
+        "date": "2026-10-17"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "047 A",
@@ -84,6 +102,12 @@
         "date": "2026-10-17"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "11 - Gato",
+        "date": "2026-10-17"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -99,6 +123,12 @@
         "lottery": "Guacharo",
         "time": "10:00 AM",
         "result": "63 - Cangrejo",
+        "date": "2026-10-17"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "31 - Lapa",
         "date": "2026-10-17"
     },
     {
