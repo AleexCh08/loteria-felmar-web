@@ -36,6 +36,18 @@
         "date": "2026-10-17"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "047 A",
+        "date": "2026-10-17"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "182 C",
+        "date": "2026-10-17"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -45,6 +57,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "25 - Gallina",
+        "date": "2026-10-17"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "3 - Ciempies",
         "date": "2026-10-17"
     },
     {
@@ -96,6 +114,12 @@
         "date": "2026-10-17"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "38 - Bufalo",
+        "date": "2026-10-17"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "88 - Erizo De Mar",
@@ -105,6 +129,12 @@
         "lottery": "Selva Plus",
         "time": "09:15 AM",
         "result": "53 - Caracol",
+        "date": "2026-10-17"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:15 AM",
+        "result": "54 - Grillo",
         "date": "2026-10-17"
     },
     {
@@ -121,6 +151,12 @@
     },
     {
         "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "54 - Grillo",
+        "date": "2026-10-17"
+    },
+    {
+        "lottery": "Condor",
         "time": "10:00 AM",
         "result": "54 - Grillo",
         "date": "2026-10-17"
