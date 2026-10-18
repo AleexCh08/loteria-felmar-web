@@ -252,6 +252,12 @@
         "date": "2026-10-18"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "00 - Ballena",
+        "date": "2026-10-18"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "47 - Pavo Real",
@@ -303,6 +309,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "37 - Tortuga",
+        "date": "2026-10-18"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "71 - Guacamaya",
         "date": "2026-10-18"
     },
     {
@@ -507,6 +519,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "04 - Alacran",
+        "date": "2026-10-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "15 - Zorro",
         "date": "2026-10-18"
     },
     {
