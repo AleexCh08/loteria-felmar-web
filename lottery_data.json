@@ -234,6 +234,12 @@
         "date": "2026-10-18"
     },
     {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "21 - Gallo",
+        "date": "2026-10-18"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "89 - Anguila",
@@ -360,6 +366,12 @@
         "date": "2026-10-18"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "49 - Pereza",
+        "date": "2026-10-18"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "0 - Delfin",
@@ -387,6 +399,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "74 - Turpial",
+        "date": "2026-10-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "49 - Pereza",
         "date": "2026-10-18"
     },
     {
