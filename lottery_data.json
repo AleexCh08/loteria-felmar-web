@@ -892,5 +892,23 @@
         "time": "04:45 PM",
         "result": "006 C",
         "date": "2026-10-17"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "10:10 PM",
+        "result": "653 A",
+        "date": "2026-10-17"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "10:10 PM",
+        "result": "972 B",
+        "date": "2026-10-17"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "10:10 PM",
+        "result": "481 C",
+        "date": "2026-10-17"
     }
 ]
