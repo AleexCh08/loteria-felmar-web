@@ -168,6 +168,12 @@
         "date": "2026-10-19"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "8 - Raton",
+        "date": "2026-10-19"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "34 - Venado",
@@ -264,6 +270,12 @@
         "date": "2026-10-19"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "01:15 PM",
+        "result": "12 - Caballo",
+        "date": "2026-10-19"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "4 - Alacran",
@@ -291,6 +303,36 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "26 - Vaca",
+        "date": "2026-10-19"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "42 - Tucan",
+        "date": "2026-10-19"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "123 A",
+        "date": "2026-10-19"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "435 B",
+        "date": "2026-10-19"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "349 C",
+        "date": "2026-10-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "69 - Conejo",
         "date": "2026-10-19"
     },
     {
