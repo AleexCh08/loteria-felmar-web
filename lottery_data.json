@@ -210,6 +210,12 @@
         "date": "2026-10-19"
     },
     {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "58 - Hormiga",
+        "date": "2026-10-19"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "77 - Pinguino",
@@ -237,6 +243,12 @@
         "lottery": "Guacharito",
         "time": "12:30 PM",
         "result": "76 - Rinoceronte",
+        "date": "2026-10-19"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "4 - Alacran",
         "date": "2026-10-19"
     },
     {
@@ -351,6 +363,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "22 - Camello",
+        "date": "2026-10-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "48 - Puercoespin",
         "date": "2026-10-19"
     },
     {
