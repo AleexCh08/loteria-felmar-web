@@ -5,7 +5,7 @@ from core.views import (home, login_view, register_view,
 forgot_password_view, dashboard_view, results_view, 
 custom_logout_view, create_ticket_api, trigger_scraping, 
 request_recharge, check_session_status, trigger_verification, history_api,
-check_winner_notification)
+check_winner_notification, trigger_scraping_cron)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -18,6 +18,7 @@ urlpatterns = [
     path('results/', results_view, name='results'),
     path('api/create-ticket/', create_ticket_api, name='create_ticket_api'),
     path('api/scrape-results/', trigger_scraping, name='trigger_scraping'),
+    path('api/scrape-results-cron/', trigger_scraping_cron, name='trigger_scraping_cron'),
     path('api/recharge/', request_recharge, name='request_recharge'),
     path('api/check-session/', check_session_status, name='check_session'),
     path('api/verify-winners/', trigger_verification, name='verify_winners'),

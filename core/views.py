@@ -348,6 +348,14 @@ def trigger_scraping(request):
     success, message = scrape_lottery_results()
     return JsonResponse({'success': success, 'message': message})
 
+def trigger_scraping_cron(request):
+    token = request.GET.get('token')
+    if token != "Felmar2026Secure":  # Esta es tu clave secreta
+        return JsonResponse({'success': False, 'error': 'No autorizado'}, status=403)
+        
+    success, message = scrape_lottery_results()
+    return JsonResponse({'success': success, 'message': message})
+
 @login_required
 @require_POST
 def request_recharge(request):
