@@ -162,6 +162,24 @@
         "date": "2026-10-20"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "138 A",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "403 B",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "620 C",
+        "date": "2026-10-20"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "967 A",
@@ -378,6 +396,12 @@
         "date": "2026-10-20"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-10-20"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "1 - Carnero",
@@ -435,6 +459,12 @@
         "lottery": "Granjita",
         "time": "05:00 PM",
         "result": "31 - Lapa",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "28 - Zamuro",
         "date": "2026-10-20"
     },
     {
@@ -564,6 +594,12 @@
         "date": "2026-10-20"
     },
     {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "74 - Turpial",
+        "date": "2026-10-20"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "96 - Caballito De Mar",
@@ -684,6 +720,12 @@
         "date": "2026-10-20"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "34 - Venado",
+        "date": "2026-10-20"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "201 A",
@@ -765,6 +807,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "64 - Gavilan",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "45 - Garza",
         "date": "2026-10-20"
     },
     {
