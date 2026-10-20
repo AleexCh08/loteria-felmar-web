@@ -8,7 +8,9 @@ GITHUB_RAW_URL = "https://raw.githubusercontent.com/AleexCh08/loteria-felmar-web
 def scrape_lottery_results():
     log_messages = []
     count = 0
-    today = timezone.localtime(timezone.now()).date()
+    now_local = timezone.localtime(timezone.now())
+    today = now_local.date()
+    current_time = now_local.time()
 
     try:
         timestamp = int(time.time())
@@ -28,27 +30,76 @@ def scrape_lottery_results():
             if not lottery_name or not draw_time or not result_val:
                 continue
 
-            obj, created = Result.objects.get_or_create(
-                lottery=lottery_name,
-                draw_time=draw_time,
-                date=today,
-                result_value=result_val,
-                defaults={
-                    'is_manual': False
-                }
-            )
+            # 1. FILTRO DE TIEMPO: Ignorar sorteos que (según la hora) aún no han ocurrido
+            try:
+                draw_time_obj = datetime.strptime(draw_time, "%I:%M %p").time()
+                if draw_time_obj > current_time:
+                    continue
+            except ValueError:
+                pass
 
-            if created:
-                count += 1
-                log_messages.append(f"[{lottery_name}] {draw_time} -> {result_val}")
+            # 2. GUARDADO ANTI-DUPLICADOS
+            is_triple = "Triple" in lottery_name or lottery_name == "Triple Tachira"
+
+            if is_triple:
+                # Los Triples tienen A, B o C. La letra es el último caracter del string.
+                letter = result_val[-1] 
+                existing = Result.objects.filter(
+                    lottery=lottery_name,
+                    draw_time=draw_time,
+                    date=today,
+                    result_value__endswith=f" {letter}"
+                ).first()
+
+                if existing:
+                    if existing.result_value != result_val:
+                        existing.result_value = result_val
+                        existing.save()
+                        count += 1
+                        log_messages.append(f"[ACTUALIZADO] {lottery_name} {draw_time} -> {result_val}")
+                else:
+                    Result.objects.create(
+                        lottery=lottery_name,
+                        draw_time=draw_time,
+                        date=today,
+                        result_value=result_val,
+                        is_manual=False
+                    )
+                    count += 1
+                    log_messages.append(f"[NUEVO] {lottery_name} {draw_time} -> {result_val}")
+
+            else:
+                # Animalitos y Cóndor: Un solo resultado único por hora
+                existing = Result.objects.filter(
+                    lottery=lottery_name,
+                    draw_time=draw_time,
+                    date=today
+                ).first()
+
+                if existing:
+                    if existing.result_value != result_val:
+                        existing.result_value = result_val
+                        existing.save()
+                        count += 1
+                        log_messages.append(f"[ACTUALIZADO] {lottery_name} {draw_time} -> {result_val}")
+                else:
+                    Result.objects.create(
+                        lottery=lottery_name,
+                        draw_time=draw_time,
+                        date=today,
+                        result_value=result_val,
+                        is_manual=False
+                    )
+                    count += 1
+                    log_messages.append(f"[NUEVO] {lottery_name} {draw_time} -> {result_val}")
             
     except Exception as e:
         return False, f"Error sincronizando con GitHub: {str(e)}"
 
     if count > 0:
-        return True, f"¡Sincronizado! {count} resultados nuevos.\n" + "\n".join(log_messages)
+        return True, f"¡Sincronizado! {count} modificaciones en BD.\n" + "\n".join(log_messages)
     else:
-        return True, "Sincronizado. Sin datos nuevos."
+        return True, "Sincronizado. Sin datos nuevos ni cambios."
 
 def check_ticket_results():
     pending_tickets = Ticket.objects.filter(status='pendiente')
