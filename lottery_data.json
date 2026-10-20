@@ -54,6 +54,24 @@
         "date": "2026-10-20"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "582 A",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "102 B",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "933 C",
+        "date": "2026-10-20"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "236 A",
@@ -87,6 +105,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "3 - Ciempies",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-10-20"
     },
     {
@@ -174,6 +198,12 @@
         "date": "2026-10-20"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "48 - Puercoespin",
+        "date": "2026-10-20"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "96 - Caballito De Mar",
@@ -195,6 +225,12 @@
         "lottery": "Selva Plus",
         "time": "11:15 AM",
         "result": "87 - Cabra",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "12:15 PM",
+        "result": "67 - Avestruz",
         "date": "2026-10-20"
     },
     {
@@ -222,6 +258,12 @@
         "date": "2026-10-20"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "19 - Chivo",
+        "date": "2026-10-20"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "74 - Turpial",
@@ -231,6 +273,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "06 - Rana",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "26 - Vaca",
         "date": "2026-10-20"
     },
     {
