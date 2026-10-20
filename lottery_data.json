@@ -126,6 +126,24 @@
         "date": "2026-10-20"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "418 A",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "604 B",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "790 C",
+        "date": "2026-10-20"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "967 A",
@@ -264,6 +282,12 @@
         "date": "2026-10-20"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-10-20"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "1 - Carnero",
@@ -312,6 +336,12 @@
         "date": "2026-10-20"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "16 - Oso",
+        "date": "2026-10-20"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "70 - Bisonte",
@@ -357,6 +387,12 @@
         "lottery": "Guacharo",
         "time": "03:00 PM",
         "result": "48 - Puercoespin",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "40 - Avispa",
         "date": "2026-10-20"
     },
     {
