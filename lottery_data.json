@@ -90,6 +90,24 @@
         "date": "2026-10-20"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "183 A",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "969 B",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "239 C",
+        "date": "2026-10-20"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "967 A",
@@ -165,6 +183,18 @@
         "lottery": "Triple Zamorano",
         "time": "12:00 PM",
         "result": "349 C",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "583 A",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "610 C",
         "date": "2026-10-20"
     },
     {
@@ -330,6 +360,12 @@
         "date": "2026-10-20"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "79 - Calamar",
+        "date": "2026-10-20"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "96 - Caballito De Mar",
@@ -366,6 +402,12 @@
         "date": "2026-10-20"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "02:15 PM",
+        "result": "41 - Canguro",
+        "date": "2026-10-20"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -399,6 +441,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "53 - Caracol",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "29 - Elefante",
         "date": "2026-10-20"
     },
     {
@@ -441,6 +489,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "26 - Vaca",
+        "date": "2026-10-20"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "09 - Aguila",
         "date": "2026-10-20"
     },
     {
