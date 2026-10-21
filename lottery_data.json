@@ -18,6 +18,36 @@
         "date": "2026-10-21"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "245 A",
+        "date": "2026-10-21"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "834 B",
+        "date": "2026-10-21"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "925 C",
+        "date": "2026-10-21"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "714 A",
+        "date": "2026-10-21"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "716 C",
+        "date": "2026-10-21"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -30,6 +60,12 @@
         "date": "2026-10-21"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "23 - Cebra",
+        "date": "2026-10-21"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "29 - Elefante",
@@ -39,6 +75,12 @@
         "lottery": "Granjita",
         "time": "09:00 AM",
         "result": "18 - Burro",
+        "date": "2026-10-21"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "29 - Elefante",
         "date": "2026-10-21"
     },
     {
@@ -72,6 +114,12 @@
         "date": "2026-10-21"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "84 - Camaron",
+        "date": "2026-10-21"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "3 - Ciempies",
@@ -81,6 +129,12 @@
         "lottery": "Selva Plus",
         "time": "09:15 AM",
         "result": "55 - Oso Hormiguero",
+        "date": "2026-10-21"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:15 AM",
+        "result": "5 - Leon",
         "date": "2026-10-21"
     },
     {
