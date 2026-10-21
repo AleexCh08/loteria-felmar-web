@@ -1,8 +1,32 @@
 [
     {
+        "lottery": "Lotto Activo",
+        "time": "08:00 AM",
+        "result": "26 - Vaca",
+        "date": "2026-10-21"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "08:00 AM",
+        "result": "29 - Elefante",
+        "date": "2026-10-21"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "61 - Panda",
+        "date": "2026-10-21"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "08:30 AM",
+        "result": "62 - Cachicamo",
+        "date": "2026-10-21"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "08:15 AM",
+        "result": "3 - Ciempies",
         "date": "2026-10-21"
     },
     {
