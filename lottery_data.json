@@ -126,6 +126,24 @@
         "date": "2026-10-22"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "364 A",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "751 B",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "576 C",
+        "date": "2026-10-22"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "929 A",
@@ -201,6 +219,18 @@
         "lottery": "Triple Zamorano",
         "time": "12:00 PM",
         "result": "775 C",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "561 A",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "590 C",
         "date": "2026-10-22"
     },
     {
@@ -348,6 +378,12 @@
         "date": "2026-10-22"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "34 - Venado",
+        "date": "2026-10-22"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "85 - Hamster",
@@ -489,6 +525,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "23 - Cebra",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "43 - Mariposa",
         "date": "2026-10-22"
     },
     {
