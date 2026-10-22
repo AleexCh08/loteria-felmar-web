@@ -270,6 +270,12 @@
         "date": "2026-10-22"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "36 - Culebra",
+        "date": "2026-10-22"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "69 - Conejo",
@@ -309,6 +315,12 @@
         "lottery": "Guacharo",
         "time": "02:00 PM",
         "result": "37 - Tortuga",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "1 - Carnero",
         "date": "2026-10-22"
     },
     {
@@ -435,6 +447,12 @@
         "lottery": "Lotto Chaima",
         "time": "02:00 PM",
         "result": "24 - Iguana",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "23 - Cebra",
         "date": "2026-10-22"
     },
     {
