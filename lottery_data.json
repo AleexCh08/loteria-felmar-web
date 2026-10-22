@@ -36,6 +36,36 @@
         "date": "2026-10-22"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "302 A",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "568 B",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "139 C",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "859 A",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "068 C",
+        "date": "2026-10-22"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "14 - Paloma",
@@ -51,6 +81,12 @@
         "lottery": "Lotto Activo",
         "time": "10:00 AM",
         "result": "1 - Carnero",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "17 - Pavo",
         "date": "2026-10-22"
     },
     {
@@ -72,6 +108,12 @@
         "date": "2026-10-22"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "36 - Culebra",
+        "date": "2026-10-22"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "69 - Conejo",
@@ -87,6 +129,12 @@
         "lottery": "Guacharo",
         "time": "10:00 AM",
         "result": "61 - Panda",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "13 - Mono",
         "date": "2026-10-22"
     },
     {
@@ -141,6 +189,12 @@
         "lottery": "Lotto Chaima",
         "time": "10:00 AM",
         "result": "46 - Puma",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "11:00 AM",
+        "result": "26 - Vaca",
         "date": "2026-10-22"
     },
     {
