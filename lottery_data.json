@@ -402,6 +402,12 @@
         "date": "2026-10-22"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "0 - Delfin",
+        "date": "2026-10-22"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -531,6 +537,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "0 - Delfin",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "48 - Puercoespin",
         "date": "2026-10-22"
     },
     {
@@ -819,6 +831,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "54 - Grillo",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "11 - Gato",
         "date": "2026-10-22"
     },
     {
