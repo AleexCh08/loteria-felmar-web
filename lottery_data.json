@@ -72,6 +72,24 @@
         "date": "2026-10-22"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "031 A",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "809 B",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "629 C",
+        "date": "2026-10-22"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "859 A",
@@ -81,6 +99,18 @@
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "068 C",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "121 A",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "775 C",
         "date": "2026-10-22"
     },
     {
@@ -111,6 +141,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "7 - Perico",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "28 - Zamuro",
         "date": "2026-10-22"
     },
     {
@@ -171,6 +207,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "9 - Aguila",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "50 - Canario",
         "date": "2026-10-22"
     },
     {
@@ -261,6 +303,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "8 - Raton",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "49 - Pereza",
         "date": "2026-10-22"
     },
     {
