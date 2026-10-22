@@ -138,6 +138,12 @@
         "date": "2026-10-22"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "27 - Perro",
+        "date": "2026-10-22"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "69 - Conejo",
@@ -192,6 +198,12 @@
         "date": "2026-10-22"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "30 - Caiman",
+        "date": "2026-10-22"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "75 - Guahcaro",
@@ -213,6 +225,12 @@
         "lottery": "Selva Plus",
         "time": "11:15 AM",
         "result": "60 - Camaleon",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "12:15 PM",
+        "result": "52 - Pulpo",
         "date": "2026-10-22"
     },
     {
@@ -240,6 +258,12 @@
         "date": "2026-10-22"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "8 - Raton",
+        "date": "2026-10-22"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "62 - Cachicamo",
@@ -249,6 +273,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "75 - Condor",
+        "date": "2026-10-22"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "56 - Tiburon",
         "date": "2026-10-22"
     },
     {
