@@ -108,6 +108,24 @@
         "date": "2026-10-24"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "860 A",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "407 B",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "635 C",
+        "date": "2026-10-24"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "085 A",
@@ -372,6 +390,12 @@
         "date": "2026-10-24"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "74 - Turpial",
+        "date": "2026-10-24"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "76 - Rinoceronte",
@@ -414,6 +438,12 @@
         "date": "2026-10-24"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "03:15 PM",
+        "result": "22 - Camello",
+        "date": "2026-10-24"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "48 - Puercoespin",
@@ -453,6 +483,12 @@
         "lottery": "Lotto Chaima",
         "time": "02:00 PM",
         "result": "53 - Caracol",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "13 - Mono",
         "date": "2026-10-24"
     },
     {
