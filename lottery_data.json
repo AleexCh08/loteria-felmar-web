@@ -60,15 +60,39 @@
         "date": "2026-10-24"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "29 - Elefante",
+        "date": "2026-10-24"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "76 - Rinoceronte",
         "date": "2026-10-24"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "09:15 AM",
+        "result": "37 - Tortuga",
+        "date": "2026-10-24"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "48 - Puercoespin",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "46 - Puma",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "36 - Culebra",
         "date": "2026-10-24"
     }
 ]
