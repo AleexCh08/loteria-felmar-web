@@ -72,6 +72,24 @@
         "date": "2026-10-24"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "468 A",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "913 B",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "692 C",
+        "date": "2026-10-24"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "346 A",
@@ -123,6 +141,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "13 - Mono",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "8 - Raton",
         "date": "2026-10-24"
     },
     {
@@ -183,6 +207,12 @@
         "lottery": "Guacharo",
         "time": "12:00 PM",
         "result": "37 - Tortuga",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "34 - Venado",
         "date": "2026-10-24"
     },
     {
@@ -273,6 +303,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "16 - Oso",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "47 - Pavo Real",
         "date": "2026-10-24"
     },
     {
