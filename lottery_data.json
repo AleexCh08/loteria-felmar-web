@@ -856,5 +856,107 @@
         "time": "07:00 PM",
         "result": "30 - Caiman",
         "date": "2026-10-23"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "859 A",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "589 B",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "410 C",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "571 A",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "869 B",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "668 C",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "40 - Avispa",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "24 - Iguana",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "62 - Cachicamo",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "68 - Jaguar",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "61 - Panda",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "59 - Pantera",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "66 - Lobo",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "36 - Culebra",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "72 - Gorila",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "70 - Bisonte",
+        "date": "2026-10-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "22 - Camello",
+        "date": "2026-10-23"
     }
 ]
