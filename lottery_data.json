@@ -1,5 +1,11 @@
 [
     {
+        "lottery": "Lotto Activo",
+        "time": "08:00 AM",
+        "result": "28 - Zamuro",
+        "date": "2026-10-24"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -9,6 +15,18 @@
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "2 - Toro",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "08:30 AM",
+        "result": "94 - Paujil",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "08:15 AM",
+        "result": "76 - Rinoceronte",
         "date": "2026-10-24"
     },
     {
