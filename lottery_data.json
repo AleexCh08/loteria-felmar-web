@@ -30,6 +30,12 @@
         "date": "2026-10-24"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "0 - Delfin",
+        "date": "2026-10-24"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -51,6 +57,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "64 - Gavilan",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "1 - Carnero",
         "date": "2026-10-24"
     },
     {
@@ -87,6 +99,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "46 - Puma",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "42 - Tucan",
         "date": "2026-10-24"
     },
     {
