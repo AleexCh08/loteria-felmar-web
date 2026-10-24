@@ -222,6 +222,30 @@
         "date": "2026-10-24"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "577 A",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "543 C",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "759 A",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "932 C",
+        "date": "2026-10-24"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "28 - Zamuro",
@@ -270,6 +294,12 @@
         "date": "2026-10-24"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "19 - Chivo",
+        "date": "2026-10-24"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "6 - Rana",
@@ -315,6 +345,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "32 - Ardilla",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "21 - Gallo",
         "date": "2026-10-24"
     },
     {
@@ -420,6 +456,12 @@
         "date": "2026-10-24"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-10-24"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "76 - Rinoceronte",
@@ -465,6 +507,12 @@
         "lottery": "Selva Plus",
         "time": "03:15 PM",
         "result": "22 - Camello",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "04:15 PM",
+        "result": "84 - Camaron",
         "date": "2026-10-24"
     },
     {
@@ -573,6 +621,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "28 - Zamuro",
+        "date": "2026-10-24"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "70 - Bisonte",
         "date": "2026-10-24"
     },
     {
