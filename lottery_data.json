@@ -180,6 +180,42 @@
         "date": "2026-10-25"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "986 A",
+        "date": "2026-10-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "628 B",
+        "date": "2026-10-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "831 C",
+        "date": "2026-10-25"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "685 A",
+        "date": "2026-10-25"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "413 B",
+        "date": "2026-10-25"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "253 C",
+        "date": "2026-10-25"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -375,6 +411,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "43 - Mariposa",
+        "date": "2026-10-25"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "42 - Tucan",
         "date": "2026-10-25"
     },
     {
@@ -627,6 +669,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "06 - Rana",
+        "date": "2026-10-25"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "18 - Burro",
         "date": "2026-10-25"
     },
     {
