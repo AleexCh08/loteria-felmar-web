@@ -18,6 +18,24 @@
         "date": "2026-10-25"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "183 A",
+        "date": "2026-10-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "520 B",
+        "date": "2026-10-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "879 C",
+        "date": "2026-10-25"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -84,6 +102,12 @@
         "date": "2026-10-25"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "41 - Canguro",
+        "date": "2026-10-25"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "50 - Canario",
@@ -93,6 +117,12 @@
         "lottery": "Selva Plus",
         "time": "09:15 AM",
         "result": "34 - Venado",
+        "date": "2026-10-25"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:15 AM",
+        "result": "89 - Anguila",
         "date": "2026-10-25"
     },
     {
