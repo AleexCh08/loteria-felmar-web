@@ -132,6 +132,12 @@
         "date": "2026-10-25"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "8 - Raton",
+        "date": "2026-10-25"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "35 - Jirafa",
@@ -162,6 +168,12 @@
         "date": "2026-10-25"
     },
     {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "1 - Carnero",
+        "date": "2026-10-25"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "26 - Vaca",
@@ -183,6 +195,12 @@
         "lottery": "Guacharito",
         "time": "11:30 AM",
         "result": "95 - Escarabajo",
+        "date": "2026-10-25"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "22 - Camello",
         "date": "2026-10-25"
     },
     {
@@ -243,6 +261,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "2 - Toro",
+        "date": "2026-10-25"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-10-25"
     },
     {
