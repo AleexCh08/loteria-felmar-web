@@ -342,6 +342,12 @@
         "date": "2026-10-25"
     },
     {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "43 - Mariposa",
+        "date": "2026-10-25"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "26 - Vaca",
@@ -567,6 +573,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "13 - Mono",
+        "date": "2026-10-25"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "06 - Rana",
         "date": "2026-10-25"
     },
     {
