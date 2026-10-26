@@ -48,6 +48,12 @@
         "date": "2026-10-26"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "10 - Tigre",
+        "date": "2026-10-26"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -93,6 +99,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "34 - Venado",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "30 - Caiman",
         "date": "2026-10-26"
     },
     {
@@ -144,6 +156,12 @@
         "date": "2026-10-26"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "12 - Caballo",
+        "date": "2026-10-26"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "39 - Lechuza",
@@ -183,6 +201,12 @@
         "lottery": "Guacharito",
         "time": "02:30 PM",
         "result": "66 - Lobo",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "33 - Pescado",
         "date": "2026-10-26"
     },
     {
