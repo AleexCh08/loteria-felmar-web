@@ -276,6 +276,12 @@
         "date": "2026-10-26"
     },
     {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "59 - Pantera",
+        "date": "2026-10-26"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "39 - Lechuza",
@@ -375,24 +381,6 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "8 - Raton",
-        "date": "2026-10-26"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "01:15 PM",
-        "result": "988 A",
-        "date": "2026-10-26"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "01:15 PM",
-        "result": "095 B",
-        "date": "2026-10-26"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "01:15 PM",
-        "result": "238 C",
         "date": "2026-10-26"
     },
     {
