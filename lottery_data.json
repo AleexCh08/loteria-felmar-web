@@ -114,6 +114,12 @@
         "date": "2026-10-26"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "19 - Chivo",
+        "date": "2026-10-26"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -135,6 +141,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "63 - Cangrejo",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "28 - Zamuro",
         "date": "2026-10-26"
     },
     {
