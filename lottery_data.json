@@ -18,6 +18,24 @@
         "date": "2026-10-26"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "528 A",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "986 B",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "10:00 AM",
+        "result": "856 C",
+        "date": "2026-10-26"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "24 - Iguana",
@@ -30,6 +48,12 @@
         "date": "2026-10-26"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "8 - Raton",
+        "date": "2026-10-26"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -39,6 +63,12 @@
         "lottery": "Granjita",
         "time": "09:00 AM",
         "result": "1 - Carnero",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "15 - Zorro",
         "date": "2026-10-26"
     },
     {
@@ -72,6 +102,12 @@
         "date": "2026-10-26"
     },
     {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "24 - Iguana",
+        "date": "2026-10-26"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "59 - Pantera",
@@ -81,6 +117,12 @@
         "lottery": "Selva Plus",
         "time": "09:15 AM",
         "result": "51 - Pelicano",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "10:15 AM",
+        "result": "7 - Perico",
         "date": "2026-10-26"
     },
     {
@@ -99,6 +141,12 @@
         "lottery": "Lotto Chaima",
         "time": "10:00 AM",
         "result": "53 - Caracol",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "60 - Camaleon",
         "date": "2026-10-26"
     },
     {
