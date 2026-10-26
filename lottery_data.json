@@ -162,6 +162,24 @@
         "date": "2026-10-26"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "270 A",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "818 B",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "06:00 PM",
+        "result": "325 C",
+        "date": "2026-10-26"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "942 A",
@@ -378,6 +396,12 @@
         "date": "2026-10-26"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "26 - Vaca",
+        "date": "2026-10-26"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -435,6 +459,12 @@
         "lottery": "Granjita",
         "time": "05:00 PM",
         "result": "21 - Gallo",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "06:00 PM",
+        "result": "17 - Pavo",
         "date": "2026-10-26"
     },
     {
@@ -561,6 +591,12 @@
         "lottery": "Guacharito",
         "time": "05:30 PM",
         "result": "5 - Leon",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "80 - Murcielago",
         "date": "2026-10-26"
     },
     {
@@ -771,6 +807,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "71 - Guacamaya",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "24 - Iguana",
         "date": "2026-10-26"
     },
     {
