@@ -54,6 +54,24 @@
         "date": "2026-10-26"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "013 A",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "452 B",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "680 C",
+        "date": "2026-10-26"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "562 A",
@@ -63,6 +81,18 @@
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "651 C",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "340 A",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "408 C",
         "date": "2026-10-26"
     },
     {
@@ -87,6 +117,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "17 - Pavo",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "0 - Delfin",
         "date": "2026-10-26"
     },
     {
@@ -174,6 +210,12 @@
         "date": "2026-10-26"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "44 - Chiguire",
+        "date": "2026-10-26"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "59 - Pantera",
@@ -195,6 +237,12 @@
         "lottery": "Selva Plus",
         "time": "11:15 AM",
         "result": "29 - Elefante",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "12:15 PM",
+        "result": "80 - Murcielago",
         "date": "2026-10-26"
     },
     {
@@ -222,6 +270,12 @@
         "date": "2026-10-26"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "3 - Ciempies",
+        "date": "2026-10-26"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "60 - Camaleon",
@@ -231,6 +285,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "34 - Venado",
+        "date": "2026-10-26"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "51 - Pelicano",
         "date": "2026-10-26"
     },
     {
