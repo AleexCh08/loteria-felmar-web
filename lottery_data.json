@@ -72,6 +72,12 @@
         "date": "2026-10-27"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "11:00 AM",
+        "result": "1 - Carnero",
+        "date": "2026-10-27"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "23 - Zebra",
@@ -87,6 +93,12 @@
         "lottery": "Granjita",
         "time": "10:00 AM",
         "result": "5 - Leon",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "36 - Culebra",
         "date": "2026-10-27"
     },
     {
@@ -132,6 +144,12 @@
         "date": "2026-10-27"
     },
     {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "9 - Aguila",
+        "date": "2026-10-27"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "32 - Ardilla",
@@ -147,6 +165,12 @@
         "lottery": "Selva Plus",
         "time": "10:15 AM",
         "result": "40 - Avispa",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "11:15 AM",
+        "result": "20 - Cochino",
         "date": "2026-10-27"
     },
     {
@@ -168,8 +192,20 @@
         "date": "2026-10-27"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "11:00 AM",
+        "result": "17 - Pavo",
+        "date": "2026-10-27"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
+        "result": "07 - Perico",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
         "result": "07 - Perico",
         "date": "2026-10-27"
     },
