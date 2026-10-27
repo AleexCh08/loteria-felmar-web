@@ -396,6 +396,12 @@
         "date": "2026-10-27"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "36 - Culebra",
+        "date": "2026-10-27"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "23 - Zebra",
@@ -588,6 +594,12 @@
         "date": "2026-10-27"
     },
     {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "71 - Guacamaya",
+        "date": "2026-10-27"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "32 - Ardilla",
@@ -648,6 +660,12 @@
         "date": "2026-10-27"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "06:15 PM",
+        "result": "82 - Cucaracha",
+        "date": "2026-10-27"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -705,6 +723,12 @@
         "lottery": "Lotto Chaima",
         "time": "05:00 PM",
         "result": "9 - Aguila",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "41 - Canguro",
         "date": "2026-10-27"
     },
     {
@@ -789,6 +813,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-10-27"
     },
     {
