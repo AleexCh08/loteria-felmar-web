@@ -72,6 +72,30 @@
         "date": "2026-10-27"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "193 A",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "574 C",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "729 A",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "555 C",
+        "date": "2026-10-27"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "21 - Gallo",
@@ -186,6 +210,12 @@
         "date": "2026-10-27"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "10 - Tigre",
+        "date": "2026-10-27"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "32 - Ardilla",
@@ -207,6 +237,12 @@
         "lottery": "Selva Plus",
         "time": "11:15 AM",
         "result": "20 - Cochino",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "12:15 PM",
+        "result": "8 - Raton",
         "date": "2026-10-27"
     },
     {
@@ -249,6 +285,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "07 - Perico",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-10-27"
     },
     {
