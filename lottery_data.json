@@ -54,6 +54,24 @@
         "date": "2026-10-27"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "356 A",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "035 B",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "114 C",
+        "date": "2026-10-27"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "21 - Gallo",
@@ -75,6 +93,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "1 - Carnero",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "4 - Alacran",
         "date": "2026-10-27"
     },
     {
@@ -102,6 +126,12 @@
         "date": "2026-10-27"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "16 - Oso",
+        "date": "2026-10-27"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "53 - Caracol",
@@ -123,6 +153,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "17 - Pavo",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "2 - Toro",
         "date": "2026-10-27"
     },
     {
@@ -195,6 +231,12 @@
         "lottery": "Lotto Chaima",
         "time": "11:00 AM",
         "result": "17 - Pavo",
+        "date": "2026-10-27"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "25 - Gallina",
         "date": "2026-10-27"
     },
     {
