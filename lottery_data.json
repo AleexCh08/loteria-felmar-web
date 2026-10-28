@@ -60,9 +60,21 @@
         "date": "2026-10-28"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "0 - Delfin",
+        "date": "2026-10-28"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "39 - Lechuza",
+        "date": "2026-10-28"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "09:15 AM",
+        "result": "78 - Antilope",
         "date": "2026-10-28"
     },
     {
@@ -75,6 +87,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "40 - Avispa",
+        "date": "2026-10-28"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "17 - Pavo",
         "date": "2026-10-28"
     }
 ]
