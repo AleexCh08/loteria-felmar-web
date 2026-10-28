@@ -246,6 +246,12 @@
         "date": "2026-10-28"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "31 - Lapa",
+        "date": "2026-10-28"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "19 - Chivo",
@@ -285,6 +291,12 @@
         "lottery": "Granjita",
         "time": "02:00 PM",
         "result": "22 - Camello",
+        "date": "2026-10-28"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "6 - Rana",
         "date": "2026-10-28"
     },
     {
@@ -378,6 +390,12 @@
         "date": "2026-10-28"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-10-28"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "39 - Lechuza",
@@ -417,6 +435,12 @@
         "lottery": "Selva Plus",
         "time": "02:15 PM",
         "result": "81 - Cuervo",
+        "date": "2026-10-28"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "03:15 PM",
+        "result": "53 - Caracol",
         "date": "2026-10-28"
     },
     {
@@ -513,6 +537,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "73 - Hipopotamo",
+        "date": "2026-10-28"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "25 - Gallina",
         "date": "2026-10-28"
     },
     {
