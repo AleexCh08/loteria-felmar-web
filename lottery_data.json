@@ -234,6 +234,18 @@
         "date": "2026-10-29"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "621 A",
+        "date": "2026-10-29"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "035 C",
+        "date": "2026-10-29"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "4 - Alacran",
@@ -333,6 +345,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "12 - Caballo",
+        "date": "2026-10-29"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "0 - Delfin",
         "date": "2026-10-29"
     },
     {
@@ -438,6 +456,12 @@
         "date": "2026-10-29"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "98 - Cocodrilo",
+        "date": "2026-10-29"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "25 - Gallina",
@@ -486,6 +510,12 @@
         "date": "2026-10-29"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:15 PM",
+        "result": "74 - Turpial",
+        "date": "2026-10-29"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "28 - Zamuro",
@@ -531,6 +561,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "50 - Canario",
+        "date": "2026-10-29"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "33 - Pescado",
         "date": "2026-10-29"
     },
     {
@@ -585,6 +621,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "35 - Jirafa",
+        "date": "2026-10-29"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "64 - Gavilan",
         "date": "2026-10-29"
     },
     {
