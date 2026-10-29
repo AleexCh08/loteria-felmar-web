@@ -180,6 +180,24 @@
         "date": "2026-10-29"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "560 A",
+        "date": "2026-10-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "674 B",
+        "date": "2026-10-29"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "821 C",
+        "date": "2026-10-29"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "920 A",
@@ -402,6 +420,12 @@
         "date": "2026-10-29"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "24 - Iguana",
+        "date": "2026-10-29"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "11 - Gato",
@@ -531,6 +555,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "53 - Caracol",
+        "date": "2026-10-29"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "61 - Panda",
         "date": "2026-10-29"
     },
     {
