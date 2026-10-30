@@ -126,6 +126,24 @@
         "date": "2026-10-30"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "976 A",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "684 B",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "125 C",
+        "date": "2026-10-30"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "154 A",
@@ -213,6 +231,18 @@
         "lottery": "Triple Zamorano",
         "time": "02:00 PM",
         "result": "805 C",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "710 A",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "528 C",
         "date": "2026-10-30"
     },
     {
@@ -426,6 +456,12 @@
         "date": "2026-10-30"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "24 - Iguana",
+        "date": "2026-10-30"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "80 - Murcielago",
@@ -474,6 +510,12 @@
         "date": "2026-10-30"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "04:15 PM",
+        "result": "61 - Panda",
+        "date": "2026-10-30"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -519,6 +561,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "31 - Lapa",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "16 - Oso",
         "date": "2026-10-30"
     },
     {
@@ -573,6 +621,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "15 - Zorro",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "48 - Puercoespin",
         "date": "2026-10-30"
     },
     {
