@@ -60,9 +60,21 @@
         "date": "2026-10-30"
     },
     {
+        "lottery": "Guacharito",
+        "time": "09:30 AM",
+        "result": "00 - Ballena",
+        "date": "2026-10-30"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "80 - Murcielago",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "09:15 AM",
+        "result": "91 - Morrocoy",
         "date": "2026-10-30"
     },
     {
