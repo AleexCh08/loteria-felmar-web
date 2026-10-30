@@ -72,6 +72,24 @@
         "date": "2026-10-30"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "690 A",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "052 B",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "872 C",
+        "date": "2026-10-30"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "749 A",
@@ -111,6 +129,12 @@
         "lottery": "Lotto Activo",
         "time": "12:00 PM",
         "result": "35 - Jirafa",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "01:00 PM",
+        "result": "27 - Perro",
         "date": "2026-10-30"
     },
     {
@@ -180,6 +204,12 @@
         "date": "2026-10-30"
     },
     {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "70 - Bisonte",
+        "date": "2026-10-30"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "27 - Perro",
@@ -207,6 +237,12 @@
         "lottery": "Guacharito",
         "time": "12:30 PM",
         "result": "12 - Caballo",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "85 - Hamster",
         "date": "2026-10-30"
     },
     {
@@ -240,6 +276,12 @@
         "date": "2026-10-30"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "01:15 PM",
+        "result": "16 - Oso",
+        "date": "2026-10-30"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "10 - Tigre",
@@ -267,6 +309,36 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "17 - Pavo",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "53 - Caracol",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "587 A",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "662 B",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "383 C",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "44 - Chiguire",
         "date": "2026-10-30"
     },
     {
