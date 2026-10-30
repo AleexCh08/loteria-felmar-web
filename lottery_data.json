@@ -162,6 +162,24 @@
         "date": "2026-10-30"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "158 A",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "022 B",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "04:45 PM",
+        "result": "587 C",
+        "date": "2026-10-30"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "027 A",
@@ -180,6 +198,24 @@
         "date": "2026-10-30"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "146 A",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "202 B",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "04:30 PM",
+        "result": "986 C",
+        "date": "2026-10-30"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "807 A",
@@ -195,6 +231,24 @@
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "071 C",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "656 A",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "789 B",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "04:30 PM",
+        "result": "261 C",
         "date": "2026-10-30"
     },
     {
@@ -354,6 +408,12 @@
         "date": "2026-10-30"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-10-30"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -405,6 +465,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "18 - Burro",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "62 - Cachicamo",
         "date": "2026-10-30"
     },
     {
@@ -588,6 +654,24 @@
         "date": "2026-10-30"
     },
     {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "358 A",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "388 B",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "373 C",
+        "date": "2026-10-30"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "44 - Chiguire",
@@ -627,6 +711,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "48 - Puercoespin",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "50 - Canario",
         "date": "2026-10-30"
     },
     {
