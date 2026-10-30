@@ -138,6 +138,12 @@
         "date": "2026-10-30"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "2 - Toro",
+        "date": "2026-10-30"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -207,6 +213,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "70 - Bisonte",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "60 - Camaleon",
         "date": "2026-10-30"
     },
     {
@@ -318,6 +330,12 @@
         "date": "2026-10-30"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "21 - Gallo",
+        "date": "2026-10-30"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "587 A",
@@ -357,6 +375,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "06 - Rana",
+        "date": "2026-10-30"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "04 - Alacran",
         "date": "2026-10-30"
     },
     {
