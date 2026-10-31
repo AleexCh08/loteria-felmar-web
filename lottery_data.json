@@ -126,6 +126,24 @@
         "date": "2026-10-31"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "620 A",
+        "date": "2026-10-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "741 B",
+        "date": "2026-10-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "069 C",
+        "date": "2026-10-31"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "495 A",
@@ -201,6 +219,18 @@
         "lottery": "Triple Zamorano",
         "time": "12:00 PM",
         "result": "622 C",
+        "date": "2026-10-31"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "576 A",
+        "date": "2026-10-31"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "381 C",
         "date": "2026-10-31"
     },
     {
@@ -300,6 +330,12 @@
         "date": "2026-10-31"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "8 - Raton",
+        "date": "2026-10-31"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "33 - Pescado",
@@ -348,6 +384,12 @@
         "date": "2026-10-31"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "11 - Gato",
+        "date": "2026-10-31"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "58 - Hormiga",
@@ -387,6 +429,12 @@
         "lottery": "Guacharito",
         "time": "02:30 PM",
         "result": "37 - Tortuga",
+        "date": "2026-10-31"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "40 - Avispa",
         "date": "2026-10-31"
     },
     {
