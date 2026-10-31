@@ -432,6 +432,12 @@
         "date": "2026-10-31"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "03:15 PM",
+        "result": "0 - Delfin",
+        "date": "2026-10-31"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "54 - Grillo",
@@ -525,6 +531,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "31 - Lapa",
+        "date": "2026-10-31"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "54 - Grillo",
         "date": "2026-10-31"
     },
     {
