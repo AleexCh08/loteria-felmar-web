@@ -144,6 +144,24 @@
         "date": "2026-10-31"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "350 A",
+        "date": "2026-10-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "900 B",
+        "date": "2026-10-31"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "05:00 PM",
+        "result": "435 C",
+        "date": "2026-10-31"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "495 A",
@@ -300,6 +318,12 @@
         "date": "2026-10-31"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "18 - Burro",
+        "date": "2026-10-31"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -405,6 +429,12 @@
         "lottery": "Guacharo",
         "time": "04:00 PM",
         "result": "11 - Gato",
+        "date": "2026-10-31"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "3 - Ciempies",
         "date": "2026-10-31"
     },
     {
@@ -585,6 +615,24 @@
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "048 C",
+        "date": "2026-10-31"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "328 A",
+        "date": "2026-10-31"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "322 B",
+        "date": "2026-10-31"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "04:45 PM",
+        "result": "879 C",
         "date": "2026-10-31"
     },
     {
