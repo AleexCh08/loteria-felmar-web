@@ -180,6 +180,54 @@
         "date": "2026-11-01"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "163 A",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "740 B",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "084 C",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "246 A",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "593 B",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "326 C",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "586 A",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "252 C",
+        "date": "2026-11-01"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "8 - Raton",
@@ -312,6 +360,12 @@
         "date": "2026-11-01"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "12 - Caballo",
+        "date": "2026-11-01"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "42 - Tucan",
@@ -375,6 +429,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "60 - Camaleon",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "44 - Chiguire",
         "date": "2026-11-01"
     },
     {
@@ -627,6 +687,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "75 - Condor",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "16 - Oso",
         "date": "2026-11-01"
     },
     {
