@@ -126,6 +126,24 @@
         "date": "2026-11-01"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "827 A",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "241 B",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "04:00 PM",
+        "result": "378 C",
+        "date": "2026-11-01"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "8 - Raton",
@@ -222,6 +240,12 @@
         "date": "2026-11-01"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "20 - Cochino",
+        "date": "2026-11-01"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "42 - Tucan",
@@ -270,6 +294,12 @@
         "date": "2026-11-01"
     },
     {
+        "lottery": "Guacharo",
+        "time": "04:00 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-11-01"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "43 - Mariposa",
@@ -309,6 +339,12 @@
         "lottery": "Guacharito",
         "time": "02:30 PM",
         "result": "25 - Gallina",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "60 - Camaleon",
         "date": "2026-11-01"
     },
     {
@@ -405,6 +441,12 @@
         "lottery": "Lotto Chaima",
         "time": "03:00 PM",
         "result": "46 - Puma",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "04:00 PM",
+        "result": "48 - Puercoespin",
         "date": "2026-11-01"
     },
     {
