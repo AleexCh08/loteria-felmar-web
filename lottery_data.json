@@ -144,6 +144,12 @@
         "date": "2026-11-01"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "33 - Pescado",
+        "date": "2026-11-01"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "12 - Caballo",
@@ -177,6 +183,12 @@
         "lottery": "Granjita",
         "time": "01:00 PM",
         "result": "33 - Pescado",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "23 - Zebra",
         "date": "2026-11-01"
     },
     {
@@ -258,6 +270,12 @@
         "date": "2026-11-01"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "25 - Gallina",
+        "date": "2026-11-01"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "12 - Caballo",
@@ -294,6 +312,12 @@
         "date": "2026-11-01"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "02:15 PM",
+        "result": "78 - Antilope",
+        "date": "2026-11-01"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -327,6 +351,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "43 - Mariposa",
+        "date": "2026-11-01"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "13 - Mono",
         "date": "2026-11-01"
     },
     {
