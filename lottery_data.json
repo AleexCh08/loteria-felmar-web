@@ -468,6 +468,12 @@
         "date": "2026-11-03"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "6 - Rana",
+        "date": "2026-11-03"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "39 - Lechuza",
@@ -531,6 +537,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "27 - Perro",
+        "date": "2026-11-03"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "22 - Camello",
         "date": "2026-11-03"
     },
     {
