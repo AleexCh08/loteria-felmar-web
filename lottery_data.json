@@ -468,6 +468,12 @@
         "date": "2026-11-04"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "9 - Aguila",
+        "date": "2026-11-04"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -531,6 +537,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "27 - Perro",
+        "date": "2026-11-04"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "52 - Pulpo",
         "date": "2026-11-04"
     },
     {
@@ -726,6 +738,12 @@
         "date": "2026-11-04"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "41 - Canguro",
+        "date": "2026-11-04"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "573 A",
@@ -813,6 +831,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "57 - Pato",
+        "date": "2026-11-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "23 - Cebra",
         "date": "2026-11-04"
     },
     {
