@@ -36,6 +36,24 @@
         "date": "2026-11-04"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "698 A",
+        "date": "2026-11-04"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "803 B",
+        "date": "2026-11-04"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "11:00 AM",
+        "result": "741 C",
+        "date": "2026-11-04"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "796 A",
@@ -84,6 +102,12 @@
         "date": "2026-11-04"
     },
     {
+        "lottery": "Granjita",
+        "time": "11:00 AM",
+        "result": "21 - Gallo",
+        "date": "2026-11-04"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -99,6 +123,12 @@
         "lottery": "Guacharo",
         "time": "10:00 AM",
         "result": "12 - Caballo",
+        "date": "2026-11-04"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "11:00 AM",
+        "result": "51 - Pelicano",
         "date": "2026-11-04"
     },
     {
@@ -156,9 +186,21 @@
         "date": "2026-11-04"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "11:00 AM",
+        "result": "1 - Carnero",
+        "date": "2026-11-04"
+    },
+    {
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "18 - Burro",
+        "date": "2026-11-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "15 - Zorro",
         "date": "2026-11-04"
     },
     {
