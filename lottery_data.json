@@ -126,6 +126,42 @@
         "date": "2026-11-04"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "742 A",
+        "date": "2026-11-04"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "676 B",
+        "date": "2026-11-04"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "444 C",
+        "date": "2026-11-04"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "368 A",
+        "date": "2026-11-04"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "685 B",
+        "date": "2026-11-04"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "998 C",
+        "date": "2026-11-04"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "796 A",
@@ -228,6 +264,12 @@
         "date": "2026-11-04"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "16 - Oso",
+        "date": "2026-11-04"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -306,6 +348,12 @@
         "date": "2026-11-04"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "43 - Mariposa",
+        "date": "2026-11-04"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "3 - Ciempies",
@@ -339,6 +387,12 @@
         "lottery": "Selva Plus",
         "time": "01:15 PM",
         "result": "8 - Raton",
+        "date": "2026-11-04"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "02:15 PM",
+        "result": "18 - Burro",
         "date": "2026-11-04"
     },
     {
