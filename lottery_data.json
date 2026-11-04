@@ -282,6 +282,12 @@
         "date": "2026-11-04"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "31 - Lapa",
+        "date": "2026-11-04"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "21 - Gallo",
@@ -438,6 +444,12 @@
         "date": "2026-11-04"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "94 - Paujil",
+        "date": "2026-11-04"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "3 - Ciempies",
@@ -591,6 +603,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "74 - Turpial",
+        "date": "2026-11-04"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "44 - Chiguire",
         "date": "2026-11-04"
     },
     {
