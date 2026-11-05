@@ -234,6 +234,18 @@
         "date": "2026-11-05"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "159 A",
+        "date": "2026-11-05"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "412 C",
+        "date": "2026-11-05"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -282,6 +294,12 @@
         "date": "2026-11-05"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "04:00 PM",
+        "result": "16 - Oso",
+        "date": "2026-11-05"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -327,6 +345,12 @@
         "lottery": "Granjita",
         "time": "03:00 PM",
         "result": "30 - Caiman",
+        "date": "2026-11-05"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "4 - Alacran",
         "date": "2026-11-05"
     },
     {
@@ -432,6 +456,12 @@
         "date": "2026-11-05"
     },
     {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "15 - Zorro",
+        "date": "2026-11-05"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "96 - Caballito De Mar",
@@ -477,6 +507,12 @@
         "lottery": "Selva Plus",
         "time": "03:15 PM",
         "result": "43 - Mariposa",
+        "date": "2026-11-05"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "04:15 PM",
+        "result": "0 - Delfin",
         "date": "2026-11-05"
     },
     {
@@ -585,6 +621,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "73 - Hipopotamo",
+        "date": "2026-11-05"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "03 - Ciempies",
         "date": "2026-11-05"
     },
     {
