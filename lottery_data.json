@@ -96,6 +96,12 @@
         "date": "2026-11-05"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "10 - Tigre",
+        "date": "2026-11-05"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "13 - Mono",
@@ -180,6 +186,12 @@
         "date": "2026-11-05"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "72 - Gorila",
+        "date": "2026-11-05"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "96 - Caballito De Mar",
@@ -201,6 +213,12 @@
         "lottery": "Selva Plus",
         "time": "11:15 AM",
         "result": "89 - Anguila",
+        "date": "2026-11-05"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "12:15 PM",
+        "result": "41 - Canguro",
         "date": "2026-11-05"
     },
     {
@@ -243,6 +261,12 @@
         "lottery": "Condor",
         "time": "11:00 AM",
         "result": "55 - Osohormi",
+        "date": "2026-11-05"
+    },
+    {
+        "lottery": "Condor",
+        "time": "12:00 PM",
+        "result": "60 - Camaleon",
         "date": "2026-11-05"
     },
     {
