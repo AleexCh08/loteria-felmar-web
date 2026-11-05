@@ -144,6 +144,12 @@
         "date": "2026-11-05"
     },
     {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "3 - Ciempies",
+        "date": "2026-11-05"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "96 - Caballito De Mar",
@@ -159,6 +165,12 @@
         "lottery": "Selva Plus",
         "time": "10:15 AM",
         "result": "51 - Pelicano",
+        "date": "2026-11-05"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "11:15 AM",
+        "result": "89 - Anguila",
         "date": "2026-11-05"
     },
     {
@@ -189,6 +201,12 @@
         "lottery": "Condor",
         "time": "10:00 AM",
         "result": "03 - Ciempies",
+        "date": "2026-11-05"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "55 - Osohormi",
         "date": "2026-11-05"
     },
     {
