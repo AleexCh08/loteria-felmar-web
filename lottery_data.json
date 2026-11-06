@@ -1,23 +1,5 @@
 [
     {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "907 A",
-        "date": "2026-11-06"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "325 B",
-        "date": "2026-11-06"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "870 C",
-        "date": "2026-11-06"
-    },
-    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "9 - Aguila",
@@ -27,6 +9,12 @@
         "lottery": "Lotto Activo",
         "time": "09:00 AM",
         "result": "30 - Caiman",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "27 - Perro",
         "date": "2026-11-06"
     },
     {
@@ -42,6 +30,12 @@
         "date": "2026-11-06"
     },
     {
+        "lottery": "Granjita",
+        "time": "10:00 AM",
+        "result": "33 - Pescado",
+        "date": "2026-11-06"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "66 - Lobo",
@@ -51,6 +45,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "37 - Tortuga",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "22 - Camello",
         "date": "2026-11-06"
     },
     {
