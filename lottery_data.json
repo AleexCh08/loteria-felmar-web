@@ -144,6 +144,12 @@
         "date": "2026-11-06"
     },
     {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "0 - Delfin",
+        "date": "2026-11-06"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "39 - Lechuza",
@@ -162,6 +168,12 @@
         "date": "2026-11-06"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "11:15 AM",
+        "result": "94 - Paujil",
+        "date": "2026-11-06"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "20 - Cochino",
@@ -177,6 +189,30 @@
         "lottery": "Lotto Chaima",
         "time": "10:00 AM",
         "result": "26 - Vaca",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "11:00 AM",
+        "result": "41 - Canguro",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "37 - Tortuga",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Condor",
+        "time": "11:00 AM",
+        "result": "09 - Aguila",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "59 - Pantera",
         "date": "2026-11-06"
     }
 ]
