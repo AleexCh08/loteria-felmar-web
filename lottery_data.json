@@ -204,6 +204,12 @@
         "date": "2026-11-06"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "12 - Caballo",
+        "date": "2026-11-06"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "1 - Carnero",
@@ -276,6 +282,12 @@
         "date": "2026-11-06"
     },
     {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "52 - Pulpo",
+        "date": "2026-11-06"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "93 - Gaviota",
@@ -303,6 +315,12 @@
         "lottery": "Guacharito",
         "time": "12:30 PM",
         "result": "14 - Paloma",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "43 - Mariposa",
         "date": "2026-11-06"
     },
     {
