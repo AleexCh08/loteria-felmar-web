@@ -54,6 +54,24 @@
         "date": "2026-11-06"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "036 A",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "194 B",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "12:00 PM",
+        "result": "510 C",
+        "date": "2026-11-06"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "9 - Aguila",
@@ -75,6 +93,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "2 - Toro",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "29 - Elefante",
         "date": "2026-11-06"
     },
     {
@@ -102,6 +126,12 @@
         "date": "2026-11-06"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "7 - Perico",
+        "date": "2026-11-06"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "66 - Lobo",
@@ -123,6 +153,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "10 - Tigre",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "70 - Bisonte",
         "date": "2026-11-06"
     },
     {
