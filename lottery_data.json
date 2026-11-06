@@ -444,6 +444,12 @@
         "date": "2026-11-06"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "03:15 PM",
+        "result": "62 - Cachicamo",
+        "date": "2026-11-06"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "20 - Cochino",
@@ -483,6 +489,12 @@
         "lottery": "Lotto Chaima",
         "time": "02:00 PM",
         "result": "00 - Ballena",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "29 - Elefante",
         "date": "2026-11-06"
     },
     {
@@ -531,6 +543,12 @@
         "lottery": "Condor",
         "time": "02:00 PM",
         "result": "37 - Tortuga",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Condor",
+        "time": "03:00 PM",
+        "result": "36 - Culebra",
         "date": "2026-11-06"
     },
     {
