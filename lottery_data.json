@@ -234,6 +234,24 @@
         "date": "2026-11-06"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "916 A",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "829 B",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "07:05 PM",
+        "result": "101 C",
+        "date": "2026-11-06"
+    },
+    {
         "lottery": "Triple Caracas",
         "time": "01:00 PM",
         "result": "010 A",
@@ -270,6 +288,24 @@
         "date": "2026-11-06"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "704 A",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "479 B",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "473 C",
+        "date": "2026-11-06"
+    },
+    {
         "lottery": "Triple Caliente",
         "time": "01:00 PM",
         "result": "896 A",
@@ -303,6 +339,24 @@
         "lottery": "Triple Caliente",
         "time": "04:30 PM",
         "result": "468 C",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "718 A",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "364 B",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "07:10 PM",
+        "result": "370 C",
         "date": "2026-11-06"
     },
     {
@@ -501,6 +555,12 @@
         "lottery": "Granjita",
         "time": "06:00 PM",
         "result": "24 - Iguana",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "31 - Lapa",
         "date": "2026-11-06"
     },
     {
@@ -867,6 +927,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "04 - Alacran",
+        "date": "2026-11-06"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "37 - Tortuga",
         "date": "2026-11-06"
     },
     {
