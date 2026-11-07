@@ -540,6 +540,12 @@
         "date": "2026-11-07"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:15 PM",
+        "result": "7 - Perico",
+        "date": "2026-11-07"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "41 - Canguro",
@@ -675,6 +681,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "10 - Tigre",
+        "date": "2026-11-07"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "34 - Venado",
         "date": "2026-11-07"
     },
     {
