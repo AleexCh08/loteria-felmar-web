@@ -240,6 +240,12 @@
         "date": "2026-11-07"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-11-07"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -282,6 +288,12 @@
         "date": "2026-11-07"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-11-07"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
@@ -321,6 +333,12 @@
         "lottery": "Guacharo",
         "time": "02:00 PM",
         "result": "47 - Pavo Real",
+        "date": "2026-11-07"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "41 - Canguro",
         "date": "2026-11-07"
     },
     {
@@ -447,6 +465,12 @@
         "lottery": "Lotto Chaima",
         "time": "02:00 PM",
         "result": "18 - Burro",
+        "date": "2026-11-07"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "0 - Delfin",
         "date": "2026-11-07"
     },
     {
