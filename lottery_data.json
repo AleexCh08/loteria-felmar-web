@@ -36,6 +36,18 @@
         "date": "2026-11-07"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "287 A",
+        "date": "2026-11-07"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "10:00 AM",
+        "result": "295 C",
+        "date": "2026-11-07"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "18 - Burro",
@@ -114,6 +126,12 @@
         "date": "2026-11-07"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "10:15 AM",
+        "result": "15 - Zorro",
+        "date": "2026-11-07"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "41 - Canguro",
@@ -129,6 +147,12 @@
         "lottery": "Lotto Chaima",
         "time": "10:00 AM",
         "result": "32 - Ardilla",
+        "date": "2026-11-07"
+    },
+    {
+        "lottery": "Condor",
+        "time": "10:00 AM",
+        "result": "07 - Perico",
         "date": "2026-11-07"
     },
     {
