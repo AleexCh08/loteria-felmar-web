@@ -180,6 +180,24 @@
         "date": "2026-11-08"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "589 A",
+        "date": "2026-11-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "234 B",
+        "date": "2026-11-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "862 C",
+        "date": "2026-11-08"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -243,6 +261,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "25 - Gallina",
+        "date": "2026-11-08"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "14 - Paloma",
         "date": "2026-11-08"
     },
     {
@@ -312,6 +336,12 @@
         "date": "2026-11-08"
     },
     {
+        "lottery": "Granjita",
+        "time": "07:00 PM",
+        "result": "32 - Ardilla",
+        "date": "2026-11-08"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "22 - Camello",
@@ -375,6 +405,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "10 - Tigre",
+        "date": "2026-11-08"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "65 - Arana",
         "date": "2026-11-08"
     },
     {
@@ -576,6 +612,12 @@
         "date": "2026-11-08"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "54 - Grillo",
+        "date": "2026-11-08"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "71 - Guacamaya",
@@ -627,6 +669,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "37 - Tortuga",
+        "date": "2026-11-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "29 - Elefante",
         "date": "2026-11-08"
     },
     {
