@@ -90,6 +90,24 @@
         "date": "2026-11-08"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "368 A",
+        "date": "2026-11-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "151 B",
+        "date": "2026-11-08"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "418 C",
+        "date": "2026-11-08"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "17 - Pavo",
@@ -198,6 +216,12 @@
         "date": "2026-11-08"
     },
     {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "59 - Pantera",
+        "date": "2026-11-08"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "83 - Buho",
@@ -225,6 +249,12 @@
         "lottery": "Guacharito",
         "time": "12:30 PM",
         "result": "68 - Jaguar",
+        "date": "2026-11-08"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "73 - Hipopotamo",
         "date": "2026-11-08"
     },
     {
@@ -300,6 +330,12 @@
         "date": "2026-11-08"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "8 - Raton",
+        "date": "2026-11-08"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "71 - Guacamaya",
@@ -321,6 +357,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "71 - Guacamaya",
+        "date": "2026-11-08"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "60 - Camaleon",
         "date": "2026-11-08"
     },
     {
