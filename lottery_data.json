@@ -114,6 +114,12 @@
         "date": "2026-11-09"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "9 - Aguila",
+        "date": "2026-11-09"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "35 - Jirafa",
@@ -135,6 +141,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "34 - Venado",
+        "date": "2026-11-09"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "3 - Ciempies",
         "date": "2026-11-09"
     },
     {
@@ -207,6 +219,12 @@
         "lottery": "Lotto Chaima",
         "time": "11:00 AM",
         "result": "44 - Chiguire",
+        "date": "2026-11-09"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "52 - Pulpo",
         "date": "2026-11-09"
     },
     {
