@@ -54,6 +54,12 @@
         "date": "2026-11-10"
     },
     {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "60 - Camaleon",
+        "date": "2026-11-10"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "33 - Pescado",
@@ -87,6 +93,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "39 - Lechuza",
+        "date": "2026-11-10"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "23 - Cebra",
         "date": "2026-11-10"
     },
     {
