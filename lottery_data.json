@@ -72,6 +72,42 @@
         "date": "2026-11-12"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "987 A",
+        "date": "2026-11-12"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "610 B",
+        "date": "2026-11-12"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "01:00 PM",
+        "result": "326 C",
+        "date": "2026-11-12"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "830 A",
+        "date": "2026-11-12"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "546 B",
+        "date": "2026-11-12"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "852 C",
+        "date": "2026-11-12"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "611 A",
@@ -186,6 +222,12 @@
         "date": "2026-11-12"
     },
     {
+        "lottery": "Guacharo",
+        "time": "01:00 PM",
+        "result": "73 - Hipopotamo",
+        "date": "2026-11-12"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "95 - Escarabajo",
@@ -273,6 +315,12 @@
         "lottery": "Lotto Chaima",
         "time": "12:00 PM",
         "result": "40 - Avispa",
+        "date": "2026-11-12"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "01:00 PM",
+        "result": "16 - Oso",
         "date": "2026-11-12"
     },
     {
