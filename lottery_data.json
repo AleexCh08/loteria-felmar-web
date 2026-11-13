@@ -372,6 +372,12 @@
         "date": "2026-11-13"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "05:00 PM",
+        "result": "4 - Alacran",
+        "date": "2026-11-13"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -600,6 +606,12 @@
         "date": "2026-11-13"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:15 PM",
+        "result": "1 - Carnero",
+        "date": "2026-11-13"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -735,6 +747,12 @@
         "lottery": "Condor",
         "time": "04:00 PM",
         "result": "25 - Gallina",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Condor",
+        "time": "05:00 PM",
+        "result": "02 - Toro",
         "date": "2026-11-13"
     },
     {
