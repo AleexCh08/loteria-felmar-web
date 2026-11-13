@@ -186,6 +186,18 @@
         "date": "2026-11-13"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "741 A",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "084 C",
+        "date": "2026-11-13"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "5 - Leon",
@@ -222,6 +234,12 @@
         "date": "2026-11-13"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "26 - Vaca",
+        "date": "2026-11-13"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "25 - Gallina",
@@ -255,6 +273,12 @@
         "lottery": "Granjita",
         "time": "01:00 PM",
         "result": "3 - Ciempies",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "0 - Delfin",
         "date": "2026-11-13"
     },
     {
@@ -372,6 +396,12 @@
         "date": "2026-11-13"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "02:15 PM",
+        "result": "66 - Lobo",
+        "date": "2026-11-13"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "00 - Ballena",
@@ -453,6 +483,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "21 - Gallo",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "38 - Bufalo",
         "date": "2026-11-13"
     },
     {
