@@ -16,5 +16,77 @@
         "time": "09:00 AM",
         "result": "879 C",
         "date": "2026-11-13"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "08:00 AM",
+        "result": "5 - Leon",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "16 - Oso",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "08:00 AM",
+        "result": "25 - Gallina",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "31 - Lapa",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "08:00 AM",
+        "result": "70 - Bisonte",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "09:00 AM",
+        "result": "28 - Zamuro",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "08:30 AM",
+        "result": "39 - Lechuza",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "08:15 AM",
+        "result": "48 - Puercoespin",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "09:15 AM",
+        "result": "70 - Bisonte",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "08:00 AM",
+        "result": "00 - Ballena",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "55 - Oso Hormiguero",
+        "date": "2026-11-13"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "64 - Gavilan",
+        "date": "2026-11-13"
     }
 ]
