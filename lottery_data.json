@@ -108,6 +108,24 @@
         "date": "2026-11-14"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "295 A",
+        "date": "2026-11-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "041 B",
+        "date": "2026-11-14"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "777 C",
+        "date": "2026-11-14"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "316 A",
@@ -240,6 +258,12 @@
         "date": "2026-11-14"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "5 - Leon",
+        "date": "2026-11-14"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -279,6 +303,12 @@
         "lottery": "Granjita",
         "time": "02:00 PM",
         "result": "5 - Leon",
+        "date": "2026-11-14"
+    },
+    {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "18 - Burro",
         "date": "2026-11-14"
     },
     {
@@ -372,6 +402,12 @@
         "date": "2026-11-14"
     },
     {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "93 - Gaviota",
+        "date": "2026-11-14"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "62 - Cachicamo",
@@ -411,6 +447,12 @@
         "lottery": "Selva Plus",
         "time": "02:15 PM",
         "result": "85 - Hamster",
+        "date": "2026-11-14"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "03:15 PM",
+        "result": "79 - Calamar",
         "date": "2026-11-14"
     },
     {
