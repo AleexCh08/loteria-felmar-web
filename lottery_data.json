@@ -426,6 +426,12 @@
         "date": "2026-11-14"
     },
     {
+        "lottery": "Guacharo",
+        "time": "05:00 PM",
+        "result": "17 - Pavo",
+        "date": "2026-11-14"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "56 - Tiburon",
@@ -534,6 +540,12 @@
         "date": "2026-11-14"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "05:15 PM",
+        "result": "78 - Antilope",
+        "date": "2026-11-14"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "47 - Pavo Real",
@@ -585,6 +597,12 @@
         "lottery": "Lotto Chaima",
         "time": "04:00 PM",
         "result": "20 - Cochino",
+        "date": "2026-11-14"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "05:00 PM",
+        "result": "37 - Tortuga",
         "date": "2026-11-14"
     },
     {
