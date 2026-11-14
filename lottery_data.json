@@ -30,6 +30,12 @@
         "date": "2026-11-14"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "10:00 AM",
+        "result": "2 - Toro",
+        "date": "2026-11-14"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -51,6 +57,12 @@
         "lottery": "Guacharo",
         "time": "09:00 AM",
         "result": "10 - Tigre",
+        "date": "2026-11-14"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "37 - Tortuga",
         "date": "2026-11-14"
     },
     {
@@ -87,6 +99,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "51 - Pelicano",
+        "date": "2026-11-14"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "12 - Caballo",
         "date": "2026-11-14"
     },
     {
