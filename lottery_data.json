@@ -186,6 +186,12 @@
         "date": "2026-11-15"
     },
     {
+        "lottery": "Guacharito",
+        "time": "12:30 PM",
+        "result": "26 - Vaca",
+        "date": "2026-11-15"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "19 - Chivo",
@@ -207,6 +213,12 @@
         "lottery": "Selva Plus",
         "time": "11:15 AM",
         "result": "74 - Turpial",
+        "date": "2026-11-15"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "12:15 PM",
+        "result": "41 - Canguro",
         "date": "2026-11-15"
     },
     {
