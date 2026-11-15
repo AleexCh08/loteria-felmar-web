@@ -276,6 +276,12 @@
         "date": "2026-11-15"
     },
     {
+        "lottery": "Granjita",
+        "time": "05:00 PM",
+        "result": "28 - Zamuro",
+        "date": "2026-11-15"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "67 - Avestruz",
@@ -390,6 +396,12 @@
         "date": "2026-11-15"
     },
     {
+        "lottery": "Guacharito",
+        "time": "05:30 PM",
+        "result": "55 - Oso Hormiguero",
+        "date": "2026-11-15"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "19 - Chivo",
@@ -441,6 +453,12 @@
         "lottery": "Selva Plus",
         "time": "04:15 PM",
         "result": "58 - Hormiga",
+        "date": "2026-11-15"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "05:15 PM",
+        "result": "10 - Tigre",
         "date": "2026-11-15"
     },
     {
