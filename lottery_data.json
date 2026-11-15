@@ -90,6 +90,24 @@
         "date": "2026-11-15"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "469 A",
+        "date": "2026-11-15"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "742 B",
+        "date": "2026-11-15"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "253 C",
+        "date": "2026-11-15"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "35 - Jirafa",
@@ -195,6 +213,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "43 - Mariposa",
+        "date": "2026-11-15"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "62 - Cachicamo",
         "date": "2026-11-15"
     },
     {
@@ -306,6 +330,12 @@
         "date": "2026-11-15"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "9 - Aguila",
+        "date": "2026-11-15"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "70 - Bisonte",
@@ -327,6 +357,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "44 - Chiguire",
+        "date": "2026-11-15"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "27 - Perro",
         "date": "2026-11-15"
     },
     {
