@@ -90,6 +90,60 @@
         "date": "2026-11-16"
     },
     {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "780 A",
+        "date": "2026-11-16"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "184 B",
+        "date": "2026-11-16"
+    },
+    {
+        "lottery": "Triple Zulia",
+        "time": "12:45 PM",
+        "result": "438 C",
+        "date": "2026-11-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "467 A",
+        "date": "2026-11-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "776 B",
+        "date": "2026-11-16"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "01:00 PM",
+        "result": "856 C",
+        "date": "2026-11-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "683 A",
+        "date": "2026-11-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "835 B",
+        "date": "2026-11-16"
+    },
+    {
+        "lottery": "Triple Caliente",
+        "time": "01:00 PM",
+        "result": "464 C",
+        "date": "2026-11-16"
+    },
+    {
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "515 A",
@@ -99,6 +153,18 @@
         "lottery": "Triple Zamorano",
         "time": "10:00 AM",
         "result": "638 C",
+        "date": "2026-11-16"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "725 A",
+        "date": "2026-11-16"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "12:00 PM",
+        "result": "744 C",
         "date": "2026-11-16"
     },
     {
@@ -210,6 +276,12 @@
         "date": "2026-11-16"
     },
     {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "4 - Alacran",
+        "date": "2026-11-16"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "8 - Raton",
@@ -318,6 +390,12 @@
         "date": "2026-11-16"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "20 - Cochino",
+        "date": "2026-11-16"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "412 A",
@@ -357,6 +435,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "73 - Hipopotamo",
+        "date": "2026-11-16"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "46 - Puma",
         "date": "2026-11-16"
     },
     {
