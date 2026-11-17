@@ -18,6 +18,12 @@
         "date": "2026-11-17"
     },
     {
+        "lottery": "Guacharo",
+        "time": "09:00 AM",
+        "result": "72 - Gorila",
+        "date": "2026-11-17"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "21 - Gallo",
@@ -33,6 +39,12 @@
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "20 - Cochino",
+        "date": "2026-11-17"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "47 - Pavo Real",
         "date": "2026-11-17"
     }
 ]
