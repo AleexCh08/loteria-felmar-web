@@ -498,6 +498,12 @@
         "date": "2026-11-18"
     },
     {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "61 - Panda",
+        "date": "2026-11-18"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "35 - Jirafa",
@@ -678,6 +684,12 @@
         "date": "2026-11-18"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "20 - Cochino",
+        "date": "2026-11-18"
+    },
+    {
         "lottery": "Triple Tachira",
         "time": "01:15 PM",
         "result": "866 A",
@@ -759,6 +771,12 @@
         "lottery": "Condor",
         "time": "05:00 PM",
         "result": "53 - Caracol",
+        "date": "2026-11-18"
+    },
+    {
+        "lottery": "Condor",
+        "time": "06:00 PM",
+        "result": "37 - Tortuga",
         "date": "2026-11-18"
     },
     {
