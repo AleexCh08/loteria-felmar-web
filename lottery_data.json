@@ -204,6 +204,12 @@
         "date": "2026-11-19"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "02:00 PM",
+        "result": "29 - Elefante",
+        "date": "2026-11-19"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "36 - Culebra",
@@ -276,6 +282,12 @@
         "date": "2026-11-19"
     },
     {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "48 - Puercoespin",
+        "date": "2026-11-19"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "6 - Rana",
@@ -303,6 +315,12 @@
         "lottery": "Guacharito",
         "time": "12:30 PM",
         "result": "90 - Huron",
+        "date": "2026-11-19"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "87 - Cabra",
         "date": "2026-11-19"
     },
     {
@@ -375,6 +393,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "17 - Pavo",
+        "date": "2026-11-19"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "44 - Chiguire",
         "date": "2026-11-19"
     },
     {
