@@ -90,6 +90,24 @@
         "date": "2026-11-19"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "391 A",
+        "date": "2026-11-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "949 B",
+        "date": "2026-11-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "831 C",
+        "date": "2026-11-19"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "625 A",
@@ -165,6 +183,18 @@
         "lottery": "Triple Zamorano",
         "time": "12:00 PM",
         "result": "906 C",
+        "date": "2026-11-19"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "561 A",
+        "date": "2026-11-19"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "02:00 PM",
+        "result": "390 C",
         "date": "2026-11-19"
     },
     {
@@ -246,6 +276,12 @@
         "date": "2026-11-19"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "33 - Pescado",
+        "date": "2026-11-19"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "37 - Tortuga",
@@ -324,6 +360,12 @@
         "date": "2026-11-19"
     },
     {
+        "lottery": "Guacharito",
+        "time": "02:30 PM",
+        "result": "26 - Vaca",
+        "date": "2026-11-19"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "20 - Cochino",
@@ -357,6 +399,12 @@
         "lottery": "Selva Plus",
         "time": "01:15 PM",
         "result": "69 - Conejo",
+        "date": "2026-11-19"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "02:15 PM",
+        "result": "15 - Zorro",
         "date": "2026-11-19"
     },
     {
@@ -441,6 +489,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "33 - Pescado",
+        "date": "2026-11-19"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "04 - Alacran",
         "date": "2026-11-19"
     },
     {
