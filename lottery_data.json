@@ -180,6 +180,24 @@
         "date": "2026-11-19"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "584 A",
+        "date": "2026-11-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "159 B",
+        "date": "2026-11-19"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "863 C",
+        "date": "2026-11-19"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "625 A",
@@ -336,6 +354,18 @@
         "date": "2026-11-19"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "765 A",
+        "date": "2026-11-19"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "07:00 PM",
+        "result": "762 C",
+        "date": "2026-11-19"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "32 - Ardilla",
@@ -399,6 +429,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "36 - Culebra",
+        "date": "2026-11-19"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "14 - Paloma",
         "date": "2026-11-19"
     },
     {
@@ -534,6 +570,12 @@
         "date": "2026-11-19"
     },
     {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "41 - Canguro",
+        "date": "2026-11-19"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "6 - Rana",
@@ -591,6 +633,12 @@
         "lottery": "Guacharito",
         "time": "05:30 PM",
         "result": "44 - Chiguire",
+        "date": "2026-11-19"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "71 - Guacamaya",
         "date": "2026-11-19"
     },
     {
@@ -723,6 +771,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "3 - Ciempies",
+        "date": "2026-11-19"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "35 - Jirafa",
         "date": "2026-11-19"
     },
     {
