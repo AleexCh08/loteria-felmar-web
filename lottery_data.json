@@ -84,6 +84,12 @@
         "date": "2026-11-21"
     },
     {
+        "lottery": "Guacharo",
+        "time": "10:00 AM",
+        "result": "17 - Pavo",
+        "date": "2026-11-21"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "65 - Arana",
@@ -93,6 +99,12 @@
         "lottery": "Guacharito",
         "time": "09:30 AM",
         "result": "80 - Murcielago",
+        "date": "2026-11-21"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "10:30 AM",
+        "result": "63 - Cangrejo",
         "date": "2026-11-21"
     },
     {
@@ -108,6 +120,12 @@
         "date": "2026-11-21"
     },
     {
+        "lottery": "Selva Plus",
+        "time": "10:15 AM",
+        "result": "87 - Cabra",
+        "date": "2026-11-21"
+    },
+    {
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "26 - Vaca",
@@ -117,6 +135,12 @@
         "lottery": "Lotto Chaima",
         "time": "09:00 AM",
         "result": "15 - Zorro",
+        "date": "2026-11-21"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "10:00 AM",
+        "result": "42 - Tucan",
         "date": "2026-11-21"
     },
     {
