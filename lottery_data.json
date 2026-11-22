@@ -108,6 +108,24 @@
         "date": "2026-11-22"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "812 A",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "132 B",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "03:00 PM",
+        "result": "686 C",
+        "date": "2026-11-22"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "20 - Cochino",
@@ -147,6 +165,12 @@
         "lottery": "Lotto Activo",
         "time": "02:00 PM",
         "result": "29 - Elefante",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "03:00 PM",
+        "result": "13 - Mono",
         "date": "2026-11-22"
     },
     {
@@ -231,6 +255,12 @@
         "lottery": "Guacharo",
         "time": "02:00 PM",
         "result": "12 - Caballo",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "03:00 PM",
+        "result": "43 - Mariposa",
         "date": "2026-11-22"
     },
     {
@@ -360,39 +390,9 @@
         "date": "2026-11-22"
     },
     {
-        "lottery": "Condor",
-        "time": "01:00 PM",
-        "result": "48 - Puercoespin",
-        "date": "2026-11-22"
-    },
-    {
-        "lottery": "Condor",
-        "time": "10:00 AM",
-        "result": "22 - Camello",
-        "date": "2026-11-22"
-    },
-    {
-        "lottery": "Condor",
-        "time": "11:00 AM",
-        "result": "70 - Bisonte",
-        "date": "2026-11-22"
-    },
-    {
-        "lottery": "Condor",
-        "time": "12:00 PM",
-        "result": "15 - Zorro",
-        "date": "2026-11-22"
-    },
-    {
-        "lottery": "Condor",
-        "time": "02:00 PM",
-        "result": "70 - Bisonte",
-        "date": "2026-11-22"
-    },
-    {
-        "lottery": "Condor",
-        "time": "09:00 AM",
-        "result": "65 - Arana",
+        "lottery": "Lotto Chaima",
+        "time": "03:00 PM",
+        "result": "27 - Perro",
         "date": "2026-11-22"
     }
 ]
