@@ -90,6 +90,24 @@
         "date": "2026-11-22"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "970 A",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "098 B",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "02:00 PM",
+        "result": "845 C",
+        "date": "2026-11-22"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "20 - Cochino",
@@ -162,6 +180,12 @@
         "date": "2026-11-22"
     },
     {
+        "lottery": "Granjita",
+        "time": "02:00 PM",
+        "result": "13 - Mono",
+        "date": "2026-11-22"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -195,6 +219,12 @@
         "lottery": "Guacharo",
         "time": "01:00 PM",
         "result": "16 - Oso",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "02:00 PM",
+        "result": "12 - Caballo",
         "date": "2026-11-22"
     },
     {
@@ -306,6 +336,12 @@
         "date": "2026-11-22"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "02:00 PM",
+        "result": "9 - Aguila",
+        "date": "2026-11-22"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "48 - Puercoespin",
@@ -327,6 +363,12 @@
         "lottery": "Condor",
         "time": "12:00 PM",
         "result": "15 - Zorro",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Condor",
+        "time": "02:00 PM",
+        "result": "70 - Bisonte",
         "date": "2026-11-22"
     },
     {
