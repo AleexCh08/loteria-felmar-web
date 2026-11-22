@@ -180,6 +180,24 @@
         "date": "2026-11-22"
     },
     {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "847 A",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "834 B",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Triple Caracas",
+        "time": "07:00 PM",
+        "result": "457 C",
+        "date": "2026-11-22"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "20 - Cochino",
@@ -243,6 +261,12 @@
         "lottery": "Lotto Activo",
         "time": "06:00 PM",
         "result": "6 - Rana",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "3 - Ciempies",
         "date": "2026-11-22"
     },
     {
@@ -375,6 +399,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "36 - Culebra",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "59 - Pantera",
         "date": "2026-11-22"
     },
     {
@@ -576,6 +606,12 @@
         "date": "2026-11-22"
     },
     {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "34 - Venado",
+        "date": "2026-11-22"
+    },
+    {
         "lottery": "Condor",
         "time": "01:00 PM",
         "result": "48 - Puercoespin",
@@ -627,6 +663,12 @@
         "lottery": "Condor",
         "time": "06:00 PM",
         "result": "33 - Pescado",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Condor",
+        "time": "07:00 PM",
+        "result": "05 - Leon",
         "date": "2026-11-22"
     },
     {
