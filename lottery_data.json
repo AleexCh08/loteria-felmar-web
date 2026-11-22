@@ -228,6 +228,12 @@
         "date": "2026-11-22"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "56 - Tiburon",
+        "date": "2026-11-22"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "26 - Vaca",
@@ -255,6 +261,12 @@
         "lottery": "Selva Plus",
         "time": "12:15 PM",
         "result": "72 - Gorila",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:15 PM",
+        "result": "66 - Lobo",
         "date": "2026-11-22"
     },
     {
@@ -291,6 +303,12 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "14 - Paloma",
+        "date": "2026-11-22"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "48 - Puercoespin",
         "date": "2026-11-22"
     },
     {
