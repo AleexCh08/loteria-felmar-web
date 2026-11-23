@@ -498,6 +498,12 @@
         "date": "2026-11-23"
     },
     {
+        "lottery": "Guacharo",
+        "time": "06:00 PM",
+        "result": "62 - Cachicamo",
+        "date": "2026-11-23"
+    },
+    {
         "lottery": "Guacharito",
         "time": "08:30 AM",
         "result": "60 - Camaleon",
@@ -675,6 +681,12 @@
         "lottery": "Lotto Chaima",
         "time": "05:00 PM",
         "result": "17 - Pavo",
+        "date": "2026-11-23"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "06:00 PM",
+        "result": "55 - Oso Hormiguero",
         "date": "2026-11-23"
     },
     {
