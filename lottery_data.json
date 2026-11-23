@@ -234,6 +234,18 @@
         "date": "2026-11-23"
     },
     {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "915 A",
+        "date": "2026-11-23"
+    },
+    {
+        "lottery": "Triple Zamorano",
+        "time": "04:00 PM",
+        "result": "351 C",
+        "date": "2026-11-23"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -336,6 +348,12 @@
         "date": "2026-11-23"
     },
     {
+        "lottery": "Granjita",
+        "time": "04:00 PM",
+        "result": "29 - Elefante",
+        "date": "2026-11-23"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "2 - Toro",
@@ -435,6 +453,12 @@
         "lottery": "Guacharito",
         "time": "03:30 PM",
         "result": "41 - Canguro",
+        "date": "2026-11-23"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "04:30 PM",
+        "result": "52 - Pulpo",
         "date": "2026-11-23"
     },
     {
@@ -591,6 +615,12 @@
         "lottery": "Condor",
         "time": "03:00 PM",
         "result": "48 - Puercoespin",
+        "date": "2026-11-23"
+    },
+    {
+        "lottery": "Condor",
+        "time": "04:00 PM",
+        "result": "63 - Cangrejo",
         "date": "2026-11-23"
     },
     {
