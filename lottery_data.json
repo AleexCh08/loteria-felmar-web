@@ -1,71 +1,5 @@
 [
     {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "520 A",
-        "date": "2026-11-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "495 B",
-        "date": "2026-11-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "917 C",
-        "date": "2026-11-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "385 A",
-        "date": "2026-11-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "541 B",
-        "date": "2026-11-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "198 C",
-        "date": "2026-11-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "166 A",
-        "date": "2026-11-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "426 B",
-        "date": "2026-11-24"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "853 C",
-        "date": "2026-11-24"
-    },
-    {
-        "lottery": "Triple Zamorano",
-        "time": "10:00 AM",
-        "result": "620 A",
-        "date": "2026-11-24"
-    },
-    {
-        "lottery": "Triple Zamorano",
-        "time": "10:00 AM",
-        "result": "376 C",
-        "date": "2026-11-24"
-    },
-    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "0 - Delfin",
@@ -156,6 +90,12 @@
         "date": "2026-11-24"
     },
     {
+        "lottery": "Guacharito",
+        "time": "11:30 AM",
+        "result": "54 - Grillo",
+        "date": "2026-11-24"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "57 - Pato",
@@ -171,6 +111,12 @@
         "lottery": "Selva Plus",
         "time": "10:15 AM",
         "result": "10 - Tigre",
+        "date": "2026-11-24"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "11:15 AM",
+        "result": "52 - Pulpo",
         "date": "2026-11-24"
     },
     {
