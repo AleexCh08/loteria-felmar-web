@@ -396,6 +396,12 @@
         "date": "2026-11-24"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "06:00 PM",
+        "result": "33 - Pescado",
+        "date": "2026-11-24"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "14 - Paloma",
@@ -588,6 +594,12 @@
         "date": "2026-11-24"
     },
     {
+        "lottery": "Guacharito",
+        "time": "06:30 PM",
+        "result": "57 - Pato",
+        "date": "2026-11-24"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "57 - Pato",
@@ -645,6 +657,12 @@
         "lottery": "Selva Plus",
         "time": "05:15 PM",
         "result": "39 - Lechuza",
+        "date": "2026-11-24"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "06:15 PM",
+        "result": "24 - Iguana",
         "date": "2026-11-24"
     },
     {
