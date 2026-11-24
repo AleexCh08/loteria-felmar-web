@@ -1,8 +1,32 @@
 [
     {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "520 A",
+        "date": "2026-11-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "495 B",
+        "date": "2026-11-24"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "09:00 AM",
+        "result": "917 C",
+        "date": "2026-11-24"
+    },
+    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "0 - Delfin",
+        "date": "2026-11-24"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "09:00 AM",
+        "result": "32 - Ardilla",
         "date": "2026-11-24"
     },
     {
@@ -12,9 +36,21 @@
         "date": "2026-11-24"
     },
     {
+        "lottery": "Granjita",
+        "time": "09:00 AM",
+        "result": "5 - Leon",
+        "date": "2026-11-24"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "43 - Mariposa",
+        "date": "2026-11-24"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "09:00 AM",
+        "result": "19 - Chivo",
         "date": "2026-11-24"
     },
     {
@@ -33,6 +69,18 @@
         "lottery": "Lotto Chaima",
         "time": "08:00 AM",
         "result": "3 - Ciempies",
+        "date": "2026-11-24"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "09:00 AM",
+        "result": "46 - Puma",
+        "date": "2026-11-24"
+    },
+    {
+        "lottery": "Condor",
+        "time": "09:00 AM",
+        "result": "57 - Pato",
         "date": "2026-11-24"
     }
 ]
