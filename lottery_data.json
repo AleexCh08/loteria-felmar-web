@@ -306,6 +306,12 @@
         "date": "2026-11-24"
     },
     {
+        "lottery": "Granjita",
+        "time": "03:00 PM",
+        "result": "4 - Alacran",
+        "date": "2026-11-24"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "43 - Mariposa",
@@ -393,6 +399,12 @@
         "lottery": "Guacharito",
         "time": "02:30 PM",
         "result": "72 - Gorila",
+        "date": "2026-11-24"
+    },
+    {
+        "lottery": "Guacharito",
+        "time": "03:30 PM",
+        "result": "19 - Chivo",
         "date": "2026-11-24"
     },
     {
