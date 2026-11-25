@@ -168,6 +168,12 @@
         "date": "2026-11-25"
     },
     {
+        "lottery": "Granjita",
+        "time": "01:00 PM",
+        "result": "12 - Caballo",
+        "date": "2026-11-25"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "46 - Puma",
@@ -234,6 +240,12 @@
         "date": "2026-11-25"
     },
     {
+        "lottery": "Guacharito",
+        "time": "01:30 PM",
+        "result": "67 - Avestruz",
+        "date": "2026-11-25"
+    },
+    {
         "lottery": "Selva Plus",
         "time": "08:15 AM",
         "result": "36 - Culebra",
@@ -261,6 +273,12 @@
         "lottery": "Selva Plus",
         "time": "12:15 PM",
         "result": "38 - Bufalo",
+        "date": "2026-11-25"
+    },
+    {
+        "lottery": "Selva Plus",
+        "time": "01:15 PM",
+        "result": "63 - Cangrejo",
         "date": "2026-11-25"
     },
     {
@@ -297,6 +315,30 @@
         "lottery": "Lotto Chaima",
         "time": "01:00 PM",
         "result": "43 - Mariposa",
+        "date": "2026-11-25"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "240 A",
+        "date": "2026-11-25"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "601 B",
+        "date": "2026-11-25"
+    },
+    {
+        "lottery": "Triple Tachira",
+        "time": "01:15 PM",
+        "result": "813 C",
+        "date": "2026-11-25"
+    },
+    {
+        "lottery": "Condor",
+        "time": "01:00 PM",
+        "result": "05 - Leon",
         "date": "2026-11-25"
     },
     {
