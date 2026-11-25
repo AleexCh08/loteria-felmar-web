@@ -180,6 +180,24 @@
         "date": "2026-11-25"
     },
     {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "845 A",
+        "date": "2026-11-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "695 B",
+        "date": "2026-11-25"
+    },
+    {
+        "lottery": "Triple Chance",
+        "time": "07:00 PM",
+        "result": "084 C",
+        "date": "2026-11-25"
+    },
+    {
         "lottery": "Triple Zulia",
         "time": "12:45 PM",
         "result": "908 A",
@@ -402,6 +420,12 @@
         "date": "2026-11-25"
     },
     {
+        "lottery": "Lotto Activo",
+        "time": "07:00 PM",
+        "result": "35 - Jirafa",
+        "date": "2026-11-25"
+    },
+    {
         "lottery": "Granjita",
         "time": "08:00 AM",
         "result": "20 - Cochino",
@@ -531,6 +555,12 @@
         "lottery": "Guacharo",
         "time": "06:00 PM",
         "result": "68 - Jaguar",
+        "date": "2026-11-25"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "07:00 PM",
+        "result": "29 - Elefante",
         "date": "2026-11-25"
     },
     {
@@ -729,6 +759,12 @@
         "lottery": "Lotto Chaima",
         "time": "06:00 PM",
         "result": "49 - Pereza",
+        "date": "2026-11-25"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "07:00 PM",
+        "result": "10 - Tigre",
         "date": "2026-11-25"
     },
     {
