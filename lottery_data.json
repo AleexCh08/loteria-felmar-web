@@ -1,59 +1,5 @@
 [
     {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "620 A",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "483 B",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "09:00 AM",
-        "result": "919 C",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "693 A",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "353 B",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "10:00 AM",
-        "result": "031 C",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "156 A",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "973 B",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Triple Chance",
-        "time": "11:00 AM",
-        "result": "286 C",
-        "date": "2026-11-25"
-    },
-    {
         "lottery": "Lotto Activo",
         "time": "08:00 AM",
         "result": "15 - Zorro",
@@ -75,6 +21,12 @@
         "lottery": "Lotto Activo",
         "time": "11:00 AM",
         "result": "27 - Perro",
+        "date": "2026-11-25"
+    },
+    {
+        "lottery": "Lotto Activo",
+        "time": "12:00 PM",
+        "result": "17 - Pavo",
         "date": "2026-11-25"
     },
     {
@@ -102,6 +54,12 @@
         "date": "2026-11-25"
     },
     {
+        "lottery": "Granjita",
+        "time": "12:00 PM",
+        "result": "8 - Raton",
+        "date": "2026-11-25"
+    },
+    {
         "lottery": "Guacharo",
         "time": "08:00 AM",
         "result": "46 - Puma",
@@ -123,6 +81,12 @@
         "lottery": "Guacharo",
         "time": "11:00 AM",
         "result": "10 - Tigre",
+        "date": "2026-11-25"
+    },
+    {
+        "lottery": "Guacharo",
+        "time": "12:00 PM",
+        "result": "2 - Toro",
         "date": "2026-11-25"
     },
     {
@@ -195,6 +159,12 @@
         "lottery": "Lotto Chaima",
         "time": "11:00 AM",
         "result": "42 - Tucan",
+        "date": "2026-11-25"
+    },
+    {
+        "lottery": "Lotto Chaima",
+        "time": "12:00 PM",
+        "result": "13 - Mono",
         "date": "2026-11-25"
     },
     {
