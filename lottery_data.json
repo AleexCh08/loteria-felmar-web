@@ -1,122 +1,20 @@
 [
     {
-        "lottery": "Triple Tachira",
-        "time": "01:15 PM",
-        "result": "240 A",
-        "date": "2026-11-25"
+        "lottery": "Lotto Activo",
+        "time": "08:00 AM",
+        "result": "12 - Caballo",
+        "date": "2026-11-26"
     },
     {
-        "lottery": "Triple Tachira",
-        "time": "01:15 PM",
-        "result": "601 B",
-        "date": "2026-11-25"
+        "lottery": "Guacharo",
+        "time": "08:00 AM",
+        "result": "20 - Cochino",
+        "date": "2026-11-26"
     },
     {
-        "lottery": "Triple Tachira",
-        "time": "01:15 PM",
-        "result": "813 C",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "04:45 PM",
-        "result": "531 A",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "04:45 PM",
-        "result": "739 B",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "04:45 PM",
-        "result": "730 C",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "10:10 PM",
-        "result": "497 A",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "10:10 PM",
-        "result": "763 B",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Triple Tachira",
-        "time": "10:10 PM",
-        "result": "166 C",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Condor",
-        "time": "01:00 PM",
-        "result": "05 - Leon",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Condor",
-        "time": "10:00 AM",
-        "result": "0 - Delfin",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Condor",
-        "time": "11:00 AM",
-        "result": "49 - Pereza",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Condor",
-        "time": "12:00 PM",
-        "result": "64 - Gavilan",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Condor",
-        "time": "02:00 PM",
-        "result": "22 - Camello",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Condor",
-        "time": "03:00 PM",
-        "result": "64 - Gavilan",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Condor",
-        "time": "04:00 PM",
-        "result": "36 - Culebra",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Condor",
-        "time": "05:00 PM",
-        "result": "36 - Culebra",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Condor",
-        "time": "06:00 PM",
-        "result": "37 - Tortuga",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Condor",
-        "time": "07:00 PM",
-        "result": "57 - Pato",
-        "date": "2026-11-25"
-    },
-    {
-        "lottery": "Condor",
-        "time": "09:00 AM",
-        "result": "45 - Garza",
-        "date": "2026-11-25"
+        "lottery": "Lotto Chaima",
+        "time": "08:00 AM",
+        "result": "52 - Pulpo",
+        "date": "2026-11-26"
     }
 ]
